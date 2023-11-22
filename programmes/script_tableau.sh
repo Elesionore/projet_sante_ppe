@@ -3,7 +3,7 @@
 #lignes permettant la vérifications des arguments : 
 if [ $# -ne 2 ]
 then
-	echo "deux argument attendu exactement"
+	echo "deux arguments attendus exactement"
 	exit
 else
 

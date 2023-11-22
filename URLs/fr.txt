@@ -1,6 +1,4 @@
-https://www.sante.fr/la-sante-mentale-des-jeunes
 https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/mobilisation-pour-la-sante-une-marche-a-paris-pour-reclamer-plus-de-moyens-pour-les-hopitaux-2860694.html
-https://www.sante.fr/preserver-sa-sante-en-tant-quaidant
 https://hellocare.com/blog/application-sante-mesures-sante/
 https://www.livi.fr/en-bonne-sante/fatigue-grossesse/
 https://www.la-vie-naturelle.com/blog/post/piqure-insectes
@@ -38,7 +36,6 @@ https://www.lepoint.fr/sante/#11
 https://www.santemagazine.fr/actualites/actualites-sante
 https://www.inserm.fr/
 https://www.topsante.com/
-https://ansm.sante.fr/qui-sommes-nous/
 https://www.essentiel-sante-magazine.fr/
 https://www.medecinesciences.org/en/articles/medsci/full_html/2023/02/msc230033/msc230033.html
 https://www.france-assos-sante.org/

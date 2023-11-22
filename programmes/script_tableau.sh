@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 
 #lignes permettant la vérifications des arguments : 
-if [ $# -ne 1 ]
+if [ $# -ne 2 ]
 then
-	echo "un argument attendu exactement"
+	echo "deux argument attendu exactement"
 	exit
 else
 
-if [ ! -f ../urls/$1 ]
+if [ ! -f ../URLs/$1 ]
 	then
 		echo "le fichier n'existe pas"
 		exit
@@ -17,6 +17,7 @@ fi
 #construction des variables utile dans la construction de notre tableau, le premier argument est le fichier texte d'urls:
 URLS=$1
 lineno=1
+langue=$2
 
 #construction du début du fichier html avec les métadonnées : 
 echo "<html>
@@ -24,12 +25,12 @@ echo "<html>
 		<meta charset=\"UTF-8\"/>
 		<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css\">
 	</head>
-	<body class=\"has-background-grey-lighter\">"
+	<body class=\"has-background-grey-lighter\">" > ../tableaux/$langue.html
 
 
 echo "		<div class=\"hero-body\">
 			<table class=\"table is-striped is-fullwidth\">
-				<tr class=\"title is-5\"><th>ligne</th><th>URL</th><th>code HTTP</th><th>encodage</th></tr> "
+				<tr class=\"title is-5\"><th>ligne</th><th>URL</th><th>code HTTP</th><th>encodage</th><th>aspiration</th><th>dump</th></tr> " >> ../tableaux/$langue.html
 
 #remplissage du tableau html : 
 while read -r URL
@@ -41,13 +42,15 @@ do
 						<td>$URL</td>
 						<td>$reponse</td>
 						<td>$encodage</td>
-					</tr>"
+						<td><a href="../aspirations/$langue-$lineno.html">$langue-$lineno</a></td>
+						<td><a href="../dumps-text/$langue-$lineno.txt">$langue-$lineno</a></td>
+					</tr>" >> ../tableaux/$langue.html
 	lineno=$(expr $lineno + 1)
-done < ../urls/$URLS
+done < ../URLs/$URLS
 
 #fermetures du tableau avec les balises fermantes html : 
 echo " 			</table>
 		</div>
 	</body>
-</html>"
+</html>" >> ../tableaux/$langue.html
 

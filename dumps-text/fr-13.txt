@@ -1,0 +1,626 @@
+   (BUTTON) Menu
+   (BUTTON) Rechercher une actualité, une publication, un
+   document...Rechercher
+   (BUTTON) Index
+   (BUTTON)
+   L'info accessible à tous
+     * Maladies et traumatismes
+     * Déterminants de santé
+     * La santé à tout âge
+     * Coronavirus (COVID-19)
+
+     * Publications
+     * Espace Presse
+     * Études et enquêtes
+     * A propos
+
+   L'info accessible à tous
+   Maladies et traumatismes
+     * Cancers
+     * Diabète
+     * Hépatites virales
+     * Infections associées aux soins et résistance aux antibiotiques
+     * Infections sexuellement transmissibles
+     * Maladies à prévention vaccinale
+     * Maladies à transmission vectorielle
+     * Maladies cardiovasculaires et accident vasculaire cérébral
+     * Maladies d'origine tropicale
+     * Maladies de la mère et de l'enfant
+     * Maladies et infections respiratoires
+     * Maladies hivernales
+     * Maladies infectieuses d'origine alimentaire
+     * Maladies liées au travail
+     * Maladies neurodégénératives
+     * Maladies transmissibles de l'animal à l'homme
+     * Santé mentale
+     * Stress post-traumatique
+     * Traumatismes
+
+   Déterminants de santé
+     * Alcool
+     * Climat
+     * Drogues illicites
+     * Exposition à des agents physiques
+     * Exposition à des substances chimiques
+     * Nutrition et activité physique
+     * Pollution et santé
+     * Santé sexuelle
+     * Tabac
+     * Vaccination
+     * Virus hivernaux
+     * Voyage
+
+   La santé à tout âge
+     * La santé à tout âge
+
+   (BUTTON)
+   Cancers
+
+   Les cancers représentent en France la première cause de décès chez
+   l’homme et la deuxième chez la femme. Santé Publique France copilote la
+   surveillance épidémiologique et participe à leur prévention.
+   Tout savoir sur Cancers
+     * Cancer du col de l'utérus
+     * Cancer du colon rectum
+     * Cancer du sein
+     * Cancers de la peau
+     * Mésothéliomes
+
+GÉODES
+
+   Suivez l'évolution du cancer en France et dans votre région
+   Accédez à GÉODES
+   Hépatites virales
+   Tout savoir sur Hépatites virales
+     * Hépatite A
+     * Hépatite C
+     * Hépatite E
+     * Hépatites aiguës pédiatriques d’origine inconnue
+     * Hépatites B et D
+
+GÉODES
+
+   Accédez à près de 300 indicateurs de santé sur tout le territoire
+   français.
+   Les indicateurs dans votre région
+   Infections associées aux soins et résistance aux antibiotiques
+   Tout savoir sur Infections associées aux soins et résistance aux
+   antibiotiques
+     * Infections associées aux soins
+     * Résistance aux antibiotiques
+
+GÉODES
+
+   Suivez l’évolution de la résistance aux antibiotiques en France et dans
+   votre région
+   Accédez à GÉODES
+   Infections sexuellement transmissibles
+
+   Les infections sexuellement transmissibles (IST) se transmettent
+   principalement lors des rapports sexuels. Il existe de nombreux virus
+   ou bactéries transmissibles de cette manière.
+   Tout savoir sur Infections sexuellement transmissibles
+     * Chlamydiae
+     * Gonococcie
+     * Hépatites B et D
+     * Infections à papillomavirus
+     * Syphilis
+     * VIH/sida
+
+   Maladies à prévention vaccinale
+     * Coqueluche
+     * Diphtérie
+     * Encéphalite à tiques
+     * Fièvre jaune
+     * Fièvres typhoïde et paratyphoïde
+     * Grippe
+     * Hépatite A
+     * Hépatites B et D
+     * Infections à papillomavirus
+     * Infections à pneumocoque
+     * Infections invasives à méningocoque
+     * Leptospirose
+     * Maladie à virus ebola
+     * Méningites à haemophilus influenzae de type B
+     * Oreillons
+     * Poliomyélite
+     * Rage
+     * Rougeole
+     * Rubéole
+     * Tétanos
+     * Tuberculose
+     * Varicelle
+
+GÉODES
+
+   Accédez à près de 800 indicateurs de santé sur tout le territoire
+   français.
+   Les indicateurs dans votre région
+   Maladies à transmission vectorielle
+   Tout savoir sur Maladies à transmission vectorielle
+     * Bilharziose urogénitale
+     * Borréliose de lyme
+     * Chikungunya
+     * Dengue
+     * Encéphalite à tiques
+     * Fièvre jaune
+     * Paludisme
+     * West nile virus
+     * Zika
+
+   Maladies cardiovasculaires et accident vasculaire cérébral
+
+   Les maladies cardiovasculaires regroupent un ensemble de troubles
+   affectant le cœur et les vaisseaux.
+   Tout savoir sur Maladies cardiovasculaires et accident vasculaire
+   cérébral
+     * Accident vasculaire cérébral
+     * Anévrisme de l'aorte abdominale
+     * Hypercholestérolémie
+     * Hypertension artérielle
+     * Infarctus du myocarde
+     * Insuffisance cardiaque
+     * Maladie thromboembolique veineuse
+     * Maladies vasculaires de la grossesse
+     * Valvulopathies
+
+GÉODES
+
+   Suivez l’évolution des accidents vasculaires cérébraux en France et
+   dans votre région
+   Accédez à GÉODES
+   Maladies d'origine tropicale
+     * Chikungunya
+     * Dengue
+     * Fièvre jaune
+     * Fièvres typhoïde et paratyphoïde
+     * Maladie à virus ebola
+     * Paludisme
+     * Peste
+     * Zika
+
+   Maladies de la mère et de l'enfant
+     * Anomalies et malformations congénitales
+     * Bronchiolite
+     * Coqueluche
+     * Grippe
+     * Maladies vasculaires de la grossesse
+     * Mort inattendue du nourrisson
+     * Saturnisme de l'enfant
+     * Surdité permanente néonatale
+
+GÉODES
+
+   Accédez à près de 800 indicateurs de santé sur tout le territoire
+   français.
+   Les indicateurs dans votre région
+   Maladies et infections respiratoires
+     * Asthme
+     * BPCO et insuffisance respiratoire chronique
+     * Bronchiolite
+     * Coqueluche
+     * Grippe
+     * Infection à coronavirus
+     * Infections à pneumocoque
+     * Légionellose
+     * Mésothéliomes
+     * Tuberculose
+
+GÉODES
+
+   Accédez à près de 800 indicateurs de santé sur tout le territoire
+   français.
+   Les indicateurs dans votre région
+   Maladies hivernales
+     * Bronchiolite
+     * Gastro-entérites aiguës
+     * Grippe
+
+GÉODES
+
+   Accédez à près de 800 indicateurs de santé sur tout le territoire
+   français.
+   Les indicateurs dans votre région
+   Maladies infectieuses d'origine alimentaire
+     * Botulisme
+     * Brucellose
+     * Campylobacter
+     * Choléra
+     * Fièvres typhoïde et paratyphoïde
+     * Gastro-entérites aiguës
+     * Hépatite A
+     * Hépatite E
+     * Listériose
+     * Maladie de Creutzfeldt-Jakob
+     * Poliomyélite
+     * Salmonellose
+     * Syndrome hémolytique et urémique pédiatrique
+     * Toxi-infections alimentaires collectives
+
+GÉODES
+
+   Accédez à près de 800 indicateurs de santé sur tout le territoire
+   français.
+   Les indicateurs dans votre région
+   Maladies liées au travail
+
+   Dues à des expositions professionnelles, les principales maladies en
+   lien avec le travail sont surveillées par Santé publique France dans
+   l’objectif d’élaborer, avec les partenaires, les politiques publiques
+   de prévention.
+   Maladies liées au travail
+     * Asthme
+     * Maladie de Parkinson
+     * Maladie du motoneurone
+     * Maladies à caractère professionnel
+     * Mésothéliomes
+     * Souffrance psychique et épuisement professionnel
+     * Troubles musculo-squelettiques
+
+   Maladies neurodégénératives
+
+   Les maladies neurodégénératives sont des maladies chroniques
+   progressives qui touchent le système nerveux central. Santé publique
+   France en assure la surveillance épidémiologique.
+   Tout savoir sur les maladies Neurodégénératives
+     * Maladie d'Alzheimer et autres démences
+     * Maladie de Parkinson
+     * Maladie du motoneurone
+
+GÉODES
+
+   Accédez à près de 800 indicateurs de santé sur tout le territoire
+   français.
+   Les indicateurs dans votre région
+   Maladies transmissibles de l'animal à l'homme
+     * Borréliose de lyme
+     * Brucellose
+     * Campylobacter
+     * Charbon
+     * Diphtérie
+     * Encéphalite à tiques
+     * Fièvre Q
+     * Grippe aviaire
+     * Grippe porcine
+     * Hantavirus
+     * Hépatite E
+     * Leptospirose
+     * Listériose
+     * Maladie à virus ebola
+     * Monkeypox
+     * Peste
+     * Rage
+     * Salmonellose
+     * Tularémie
+     * West nile virus
+
+GÉODES
+
+   Accédez à près de 800 indicateurs de santé sur tout le territoire
+   français.
+   Les indicateurs dans votre région
+   Santé mentale
+
+   Selon l’Organisation mondiale de la santé, la santé est un état de
+   complet bien-être physique, mental et social, et ne consiste pas
+   seulement en une absence de maladie ou d’infirmité.
+   Tout savoir sur Santé mentale
+     * Autisme
+     * Dépression et anxiété
+     * Schizophrénie et autres troubles psychotiques
+     * Souffrance psychique et épuisement professionnel
+     * Suicides et tentatives de suicide
+
+   15 mars 2022
+
+Santé mentale et COVID-19
+
+   Depuis la mise en place des mesures gouvernementales liées à l’épidémie
+   de COVID-19 et la nécessité de confiner les Français, la peur de la
+   maladie...
+   en savoir plus
+   Traumatismes
+
+   Les traumatismes non intentionnels entraînent chaque année environ 40
+   000 décès, dont 21 000 décès suite à un accident de la vie courante et
+   plusieurs millions de recours aux urgences.
+   Tout savoir sur les traumatismes et accidents de la vie courante
+     * Brûlures
+     * Chute
+     * Noyade
+
+GÉODES
+
+   Suivez l'évolution des traumatismes en France et dans votre région
+   Accédez à GÉODES
+   Climat
+   Tout savoir sur Climat
+     * Changement climatique
+     * Fortes chaleurs, canicule
+     * Grand froid
+     * UV
+
+GÉODES
+
+   Suivez l'évolution des canicules au cours des années en France et dans
+   votre région
+   Accédez à GÉODES
+   Exposition à des agents physiques
+   Tout savoir sur Exposition à des agents physiques
+     * Amiante
+     * Nanomatériaux
+     * UV
+
+   Exposition à des substances chimiques
+
+   L’exposition à des substances chimiques présentes dans l’environnement
+   ou en milieu de travail peut avoir des conséquences néfastes sur la
+   santé. Santé publique France met en œuvre des dispositifs de
+   surveillance pour caractériser et évaluer leurs impacts sur la santé.
+   Tout savoir sur Exposition à des substances chimiques
+     * Monoxyde de carbone
+     * Perturbateurs endocriniens
+     * Pesticides
+
+GÉODES
+
+   Accédez à près de 800 indicateurs de santé sur tout le territoire
+   français.
+   Les indicateurs dans votre région
+   Pollution et santé
+   Tout savoir sur Pollution et santé
+     * Air
+     * Eau
+     * Sols
+
+GÉODES
+
+   Suivez l’évolution de l'impact de la pollution de l’air sur la santé en
+   France et dans votre région
+   Accédez à GÉODES
+   La santé à tout âge
+
+   A chaque âge correspondent des conditions de vie et des préoccupations
+   différentes. Il est donc cohérent de s’adresser différemment aux
+   personnes selon les différents âges de la vie.
+   EN SAVOIR PLUS
+     * Bien vieillir
+     * Enfants et jeunes
+     * Adultes et avancée en âge
+     * Les 1000 premiers jours
+
+Restez informé
+
+   Pour suivre notre actualité, abonnez-vous à nos newletters en
+   remplissant le formulaire ci-dessous
+   En savoir plus
+
+Intervention de prévention précoce à domicile (IPPAD) soutenant la relation
+parents-enfants : quels sont les repères pour favoriser leur implantation en
+France ?
+
+   Dans le cadre de la politique des 1000 premiers jours de l’enfant,
+   Santé publique France publie un guide proposant des repères pour
+   l’implantation et le déploiement...
+   En savoir plus
+
+Également dans l'actualité
+
+   Retrouvez ici les dernières actualités et travaux de Santé publique
+   France
+   Toutes nos actualités
+   Chikungunya, dengue et zika - Données de la surveillance renforcée en
+   France métropolitaine en 2023
+   Données - 17 novembre 2023
+
+Chikungunya, dengue et zika - Données de surveillance en France en 2023
+
+   En savoir plus
+   bulletin national 15 novembre 2023
+
+Infections respiratoires aiguës (grippe, bronchiolite, COVID-19). Bulletin du
+15 novembre...
+
+   En savoir plus
+   bulletin national 15 novembre 2023
+
+Bilan de la surveillance des infections à Campylobacter en France en 2022.
+
+   En savoir plus
+   presse 14 novembre 2023
+
+Journée mondiale du diabète le 14 novembre 2023 : l’occasion de partager les
+données actualisées...
+
+   En savoir plus
+   presse 13 novembre 2023
+
+La reprise de la consommation d’antibiotiques en secteur de ville se confirme
+en 2022
+
+   En savoir plus
+   Comment évolue l’adhésion des Français aux mesures de prévention contre
+   les virus de l’hiver ?
+   actualité 8 novembre 2023
+
+Comment évolue l’adhésion des Français aux mesures de prévention contre...
+
+   en savoir plus
+   Voir le document
+   Article du mois - Septembre 2023
+
+L’adhésion vaccinale dans la population française et les déterminants
+associés
+
+   En savoir plus
+
+Restez informé
+
+   Pour suivre notre actualité, abonnez-vous à nos newletters en
+   remplissant le formulaire ci-dessous
+   En savoir plus
+
+Publications et revues périodiques
+
+   Retrouvez ici les dernières publications ainsi que les numéros du BEH
+   et de la Santé en action
+   Toutes les publications
+   magazines/revues Mis à jour le 20 novembre 2023
+
+Bulletin épidémiologique hebdomadaire, 21 novembre 2023, n°22-23
+Antibiorésistance en 2023 : de la surveillance en santé humaine vers une
+approche « une seule santé »
+
+     * Télécharger
+     * S'abonner
+     * Tous les numéros
+
+   magazines/revues Mis à jour le 29 août 2023
+
+La Santé en action, Juin 2023, n°464 Consentement, éthique, soins et santé
+
+     * Télécharger
+     * S'abonner
+     * Tous les numéros
+
+   rapport/synthèse Mis à jour le 21 novembre 2023
+
+Prévention de la résistance aux antibiotiques : une démarche "une seule
+santé" - Novembre 2023
+
+     * Télécharger
+
+Nos documents de prévention
+
+   Grand public ou professionnels de santé et de l’éducation, accédez à
+   tous les documents de prévention disponibles à la commande ou au
+   téléchargement (affiche, dépliant/flyer, brochure…)
+
+   Accéder au catalogue
+   Nos documents de prévention
+
+Réserve sanitaire
+
+   En cas de situations sanitaires exceptionnelles
+   En cas d'urgence
+
+Etre réserviste et mobilisé dans le cadre de la réserve
+
+   Animée par Santé publique France, la Réserve sanitaire est une
+   communauté de professionnels de santé volontaires et mobilisables par
+   l’État. Capable d’intervenir dans un délai très court, la Réserve
+   sanitaire tient à disposition un éventail de compétences pour venir en
+   renfort lors de situations sanitaires exceptionnelles.
+   S'engagerEn savoir plus
+
+L'info en région
+
+   Retrouvez les actualités, les actions menées et les dernières
+   publications
+   ____________________
+   Veuillez renseigner un code postal ou une ville
+   Rechercher
+
+Zoom sur ...
+
+Vaccination
+
+   Les maladies contagieuses touchent le plus souvent les enfants très tôt
+   dans la vie. Ces derniers, particulièrement fragiles, sont donc une
+   cible prioritaire des programmes...
+   Plus d'informations
+
+Bronchiolite
+
+   La bronchiolite aiguë est une maladie respiratoire d’origine virale qui
+   touche principalement les enfants de moins de 2 ans lors d’épidémies
+   saisonnières hivernales.
+   Plus d'informations
+
+Grippe
+
+   La grippe est une infection virale respiratoire contagieuse à l’origine
+   d’épidémies saisonnières, chaque hiver. Le vaccin contre la grippe
+   constitue le moyen de...
+   Plus d'informations
+   Vaccins COVID-19
+
+   Bienvenue sur le service de Santé publique France dédié à la commande
+   de vaccins COVID-19 à destination de la médecine de ville.
+   En savoir plus
+
+Nous écrire par email
+
+   Vous avez une question, une demande (changement de coordonnées, presse,
+   reproduction de documents, demande de stages, données à caractère
+   personnel…), écrivez-nous par mail
+   Civilité
+   (*) Madame
+   ( ) Monsieur
+   Veuillez renseigner votre civilité
+   Votre prénom ____________________
+   Votre nom ____________________
+   Veuillez renseigner votre prénom
+   Veuillez renseigner votre nom
+   Votre courriel ____________________
+   Veuillez renseigner votre email
+   Votre email n'est pas valide
+   Objet de votre demande[Objet de la demande__________________]
+   Veuillez renseigner l'objet de votre demande
+   Votre message
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Veuillez renseigner votre message
+   Veuillez cocher le recaptcha a
+   (BUTTON) Envoyer mon message
+   Réinitialiser
+   Une erreur s'est produite, veuillez réessayer ultérieurement
+
+Votre demande a bien été envoyée
+
+   Nos services
+   Vaccination info service Logo du site de prévention Les 1000 premiers
+   jours Manger bouger Alcool info service Drogues info service Joueurs
+   info service Logo du site de prévention Question sexualité Sexosafe
+   Pour bien vieillir Tabac info service
+   Suivez-nous
+     *
+     *
+     *
+     *
+     *
+
+   © Santé Publique France - Tous droits réservés
+     * Mentions légales
+     * Cookies
+     * Accessibilité
+     * Offres d'emploi
+     * Plan du site
+     * Nous contacter
+     * Presse
+     * S'abonner aux newsletters
+
+   ____________________ (BUTTON) Rechercher ...
+   Dans vos recherches
+     * Cancer du sein (BUTTON)
+
+   Recherches les plus populaires
+     * Alcool
+     * Coronavirus
+     * Dengue
+     * Grippe
+     * Maladies à déclaration obligatoire
+     * Nutri-Score
+     * Vaccination
+
+   Vous voulez dire
+     * Maladie de Creutzfeld-Jacob
+
+   Suggestions
+
+   Un instant...
+
+   Nous cherchons les réponses les plus pertinentes pour votre recherche.
+   (BUTTON)

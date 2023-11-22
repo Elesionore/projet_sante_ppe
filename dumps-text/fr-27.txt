@@ -1,0 +1,259 @@
+     * Aller au contenu
+     * Aller à la navigation
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P5D2M93
+
+   (BUTTON) E-santé
+     * E-santé(page courante)
+     * Profession libérale
+     * Établissement de santé
+     * Structure Médico-Sociale
+     * Industriel
+     * Patient
+
+     * Stratégie nationale
+     * L'Agence
+     * Europe
+
+   Ministère de la Santé et de la Prévention
+   ANS, Agence du Numérique en Santé
+   (BUTTON) Menu
+   (BUTTON) Fermer le menu
+     * Bienvenue
+     * Temps forts
+     * (BUTTON) Comprendre la e-santé
+          + Petite histoire de la e-santé(page courante)
+          + Ce que la e-santé fait pour vous
+          + Abécédaire de la e-santé
+     * (BUTTON) Acteurs de la e-santé
+          + Acteurs de terrain
+          + Acteurs institutionnels
+     * Recherche
+
+     * (BUTTON) Accessibilité
+
+Options d'accessibilité
+
+       Contrastes :
+
+       (*) Contrastes Standards
+       ( ) Contrastes Renforcés
+
+   (BUTTON) Recherche
+   Rechercher _______________
+   (Rechercher) Rechercher
+
+   Besoin d'être guidé ?
+
+   Trouvez l'information ou la démarche correspondant à votre situation
+    1. Accueil
+    2. La petite histoire de la e-santé
+
+La petite histoire de la e-santé
+
+   Allier santé et numérique : en route pour la santé 3.0 !
+
+   Le secteur de la e-santé, produit de la digitalisation active de notre
+   société, se présente comme la rencontre des secteurs de la santé et du
+   numérique. Porté par l’usage des nouvelles technologies de
+   l’information et de la communication, il se destine à la fondation
+   d’une « santé augmentée ». Concrètement, il apporte de la valeur
+   ajoutée aux métiers et aux acteurs de la santé, implémente des
+   solutions qui améliorent nos quotidiens et fait ainsi progresser notre
+   système de santé comme notre qualité de vie à tous.
+   Partager sur Facebook Partager sur Twitter Partager sur Linkedin
+
+La petite histoire de la e-santé
+
+   Malgré sa démocratisation récente, la e-santé relève d’une émergence
+   ancienne : bouleversement de la médecine traditionnelle avec le début
+   de la « révolution numérique » dans les années 70, apparition du marché
+   industriel de la santé numérique dans les années 90, accessibilité de
+   l’information de santé avec l’essor d’internet dans les années 2000,
+   constitution d’une politique publique ambitieuse dans les années 2010,
+   alors portée par une série de grands plans d’investissement,
+   démocratisation accélérée de la e-santé face aux enjeux de la crise
+   sanitaire dans les années 2020…
+   Découvrez en détail l'histoire de la e-santé
+
+La e-santé répond à des enjeux sociétaux
+
+   Inégalités d’accès aux soins
+
+   Vieillissement de la population
+
+   Désertification médicale
+
+   Evolution de la démographie médicale
+
+   Hausse des pathologies chroniques
+
+   Prise en charge de la dépendance
+
+   Soutenabilité économique du secteur de la santé
+
+   Défis sanitaires et sociaux contemporains
+
+Cadre juridique de la e-santé
+
+   L’émergence de la e-santé ne va pas sans celle d'un cadre légal,
+   légitimé par différentes problématiques juridiques  :
+     * Protection des données de santé ultrasensibles
+     * Sécurité des systèmes d’information et confidentialité des données
+     * Certification des hébergeurs de données et des dispositifs médicaux
+     * Déontologie médicale et responsabilité médicale
+     * Droits et obligations des patients et des professionnels de santé
+
+   Découvrez l'action juridique de l'ANS
+
+Dates clés de la e-santé
+
+   Années 60
+
+   Apparition des premiers systèmes d’information hospitaliers européens
+
+   6 janvier 1978
+
+   Promulgation de la loi « informatique et libertés »
+
+   12 mars 1984
+
+   Première opération du robot chirurgien « Arthrobot »
+
+   Avril 1998
+
+   Circulation des premières CPS et des premières cartes vitales
+
+   Décembre 2007
+
+   Ouverture par l'Assurance Maladie de son service en ligne Ameli.fr
+
+   Décembre 2008
+
+   Déploiement du Dossier Pharmaceutique
+
+   Décembre 2010
+
+   Déploiement du Dossier Médical Partagé
+
+   23 décembre 2014
+
+   Arrivée de la Messagerie Sécurisée de Santé dans les établissements de
+   santé
+
+   Octobre 2017
+
+   Obligation de déclarer les incidents de cybersécurité des structures de
+   santé
+
+   26 février 2018
+
+   Décret sur la certification des hébergeurs de données de santé
+
+   15 septembre 2018
+
+   Entrée des téléconsultations dans le droit commun
+
+   Avril 2019
+
+   Lancement de la Feuille de route du numérique en santé
+
+   6 septembre 2019
+
+   Lancement de la e-CPS
+
+   30 novembre 2019
+
+   Création du Health Data Hub
+
+   13 mai 2020
+
+   Début de l’enregistrement des tests de dépistage COVID dans la base
+   SIDEP
+
+   3 juin 2021
+
+   Autorisation du télésoin pour les pharmaciens et les auxiliaires
+   médicaux
+
+   Juillet 2021
+
+   Lancement du Ségur du numérique en santé
+
+   1er janvier 2022
+
+   La France à la Présidence du Conseil de l’Union Européenne (PFUE)
+
+   Janvier 2022
+
+   Lancement de Mon espace santé
+
+   2028
+
+   Installation de PariSanté Campus à l’hôpital du Val-de-Grâce
+
+La e-santé au cœur de la lutte contre la COVID-19
+
+   La crise sanitaire a marqué un tournant dans l’histoire de la e-santé,
+   celui de son développement à grande vitesse pour répondre aux enjeux
+   soulevés par la pandémie : recours massif à la télésanté et notamment à
+   la téléconsultation, coordination face à l’engorgement hospitalier,
+   recensement des ressources médicales et gestion des flux de patients,
+   continuité des soins, gestion du dépistage, démocratisation de
+   l’auto-diagnostic et des outils de tracing (TousAntiCovid),
+   connaissance en temps réel de l’évolution de la pandémie… La e-santé
+   s’est présentée comme la solution privilégiée pour gérer au mieux la
+   crise, et comme un indicateur à travers le monde, de la maturité
+   technologique de chaque nation. En France, cela a pu mettre en exergue
+   les failles préexistantes du système de santé et ainsi susciter une
+   évolution déterminante vers un système plus équitable, accessible,
+   qualitatif et efficient, exigé par la crise mais aussi, plus
+   généralement, par les nouveaux défis sociétaux.
+
+La e-santé portée par une stratégie nationale forte
+
+   Le secteur de la e-santé s’édifie grâce un portage politique fort,
+   articulé autour d’une stratégie nationale qui embarque tous les acteurs
+   de l'écosystème à toutes les échelles du territoire.
+   Découvrez la stratégie nationale
+
+La e-santé en quelques chiffres
+
+   + 19 millions de téléconsultations prises en charge par l'Assurance
+   Maladie en 2020
+
+   + 370000 boîtes aux lettres de messagerie sécurisée en 2021
+
+   + 350000 applications de santé en 2021
+   Ministère de la Santé et de la Prévention
+   Agence du numérique en santé
+
+   Agence du Numérique en Santé
+   2-10 Rue d'Oradour-sur-Glane
+   75015 Paris
+     * linkedin
+     * twitter
+     * youtube
+     * rss
+
+     * Carrières
+     * Espace presse
+     * Marchés publics
+     * Inscrivez-vous à la newsletter
+
+     * Webinaires
+     * Contactez-nous
+
+     * Ministère de la Santé et de la Prévention
+     * Legifrance.gouv.fr
+     * Service-public.fr
+     * Mentions légales
+     * Accessibilité : partiellement conforme
+     * Politique de protection des données personnelles
+     * Politique de gestion de cookies
+     * Gestion des cookies
+     * Plan de site
+
+Vidéo
+
+   (BUTTON) Fermer : Video

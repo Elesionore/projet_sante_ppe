@@ -1,0 +1,807 @@
+   #alternate alternate alternate
+
+     * Accès direct au contenu
+     * Accès direct au menu principal
+
+   Logo Marianne République française
+   Retour à l'accueil (logo République française)
+   Logo Inserm Header
+   Retour à l'accueil (logo Inserm)
+
+     * English
+
+   (BUTTON) Recherche
+   Rechercher ____________________ (BUTTON) Recherche
+
+   (BUTTON) Menu Fermer
+     * Connaître
+       l’Inserm
+       Connaître l’Inserm
+          + L’Institut
+               o L’Inserm en un coup d’œil
+               o Missions
+               o Organigramme
+               o Infrastructures de recherche
+               o Documents stratégiques
+               o Budget
+               o Prix Inserm
+          + Notre écosystème
+               o Partenariats de recherche
+               o L’Inserm et les associations
+               o Coopération en Europe et à l’international
+               o Programme Investissements d’Avenir (PIA)
+               o France Relance
+          + Nos programmes
+               o Programmes de recherche
+               o Programme Atip–Avenir
+               o École de l’Inserm Liliane Bettencourt
+     * La recherche
+       à l’Inserm
+       La recherche à l’Inserm
+          + Du laboratoire jusqu’au patient
+               o Le continuum de la recherche
+               o La recherche fondamentale
+               o La recherche clinique
+               o La recherche en santé publique
+               o La recherche technologique
+               o Valorisation et transfert des découvertes
+               o La recherche participative
+          + Une recherche responsable
+               o Nos bonnes pratiques
+               o La science ouverte
+               o L’éthique à l’Inserm
+               o Les modèles animaux
+          + Portraits et reportages
+               o Portraits de chercheuses et de chercheurs
+               o Reportages en labo
+     * Information
+       en santé
+       Information en santé
+          + Pour tout public
+               o Dossiers thématiques
+               o C’est quoi ? Les mots de la science
+               o Magazine de l’Inserm
+               o Ouvrages coédités par l’Inserm
+               o Expositions et ressources pédagogiques
+          + Pour public avancé
+               o Expertises collectives
+               o Rapports thématiques
+               o Revue médecine/sciences
+     * Actualités & évènements
+       Actualités & évènements
+          + Nos actualités
+               o Actu science
+               o Actu institutionnelle
+               o Actu pro
+               o Toutes les actualités
+          + Nos évènements
+               o Évènéments
+     * Faire un don
+     *
+          + English
+     *
+
+    1. Accueil
+
+     Dossiers
+
+     Intelligence artificielle et santé
+
+Intelligence artificielle et santé
+
+   Des algorithmes au service de la médecine
+
+     Modifié le : 11/01/2022
+
+     Publié le : 06/07/2018
+
+     Temps de lecture : 17 min
+
+   L’intelligence artificielle (IA) est un domaine de recherche en pleine
+   expansion et promis à un grand avenir. Ses applications, qui concernent
+   toutes les activités humaines, permettent notamment d’améliorer la
+   qualité des soins. L’IA est en effet au cœur de la médecine du futur
+   avec les opérations assistées, le suivi des patients à distance, les
+   prothèses intelligentes, ou encore les traitements personnalisés grâce
+   au recoupement de données (big data)… Dans ce cadre, les chercheurs
+   développent des approches et techniques multiples, du traitement des
+   langues et de la construction d’ontologies, à la fouille de données et
+   à l’apprentissage automatique. Il est toutefois indispensable que le
+   grand public comprenne comment fonctionnent ces systèmes pour savoir ce
+   qu’ils font et surtout ce qu’ils ne font pas. Le robot omniscient, qui
+   pour beaucoup symbolise l’IA, n’est pas pour demain !
+
+   Dossier réalisé en collaboration avec Jean Charlet (AP-HP et
+   Laboratoire d’informatique médicale et ingénierie des connaissances
+   pour la e‑santé – LIMICS, unité 1142 Inserm/Sorbonne
+   Université/Université Sorbonne Paris nord) et Xavier Tannier (LIMICS)
+   1960 Naissance des premiers « systèmes experts » 2 approches actuelles
+   : « symbolique », fondée sur la logique et « numérique », fondée sur
+   les données Les enjeux de la recherche : des données mieux structurées
+   et protégées ; des systèmes plus performants et plus « transparents »
+   (BUTTON) Table des matières
+
+    1. Comprendre l’IA
+         1. Certains systèmes d’IA utilisent la logique…
+              1. Aider à la prise en charge des cancers du sein
+         2. …D’autres exploitent l’expérience passée
+              1. La robotique en pleine expansion
+    2. Les enjeux de la recherche
+         1. Un goulet d’étranglement : la qualité de l’échantillon de
+            données
+         2. Protéger les données personnelles
+         3. Fournir l’information au bon moment et au bon niveau
+         4. Croiser les multiples données textuelles relatives aux
+            patients
+         5. Prévenir plutôt que guérir
+         6. Apporter une réelle aide à la pratique médicale
+         7. Donner les moyens de comprendre la décision
+         8. Aider le médecin et non le remplacer
+         9. Sciences cognitives : source d’inspiration et domaine
+            d’application
+        10. L’enjeu du futur est de combiner les approches
+    3. Nos contenus sur le même sujet
+         1. Actualités
+         2. Communiqués de presse
+         3. À découvrir aussi
+    4. Pour aller plus loin
+
+Comprendre l’IA
+
+   L’intelligence artificielle est née dans les années 1950 avec
+   l’objectif de faire produire des tâches humaines par des machines
+   mimant l’activité du cerveau. Face aux déboires des premières heures,
+   deux courants se sont constitués.
+
+   Les tenants de l’intelligence artificielle dite forte visent à
+   concevoir une machine capable de raisonner comme l’humain, avec le
+   risque supposé de générer une machine supérieure à l’Homme et dotée
+   d’une conscience propre. Cette voie de recherche est toujours explorée
+   aujourd’hui, même si de nombreux chercheurs en IA estiment qu’atteindre
+   un tel objectif est impossible.
+
+   D’un autre côté, les tenants de l’intelligence artificielle dite faible
+   mettent en œuvre toutes les technologies disponibles pour concevoir des
+   machines capables d’aider les humains dans leurs tâches. Ce champ de
+   recherche mobilise de nombreuses disciplines, de l’informatique aux
+   sciences cognitives en passant par les mathématiques, sans oublier les
+   connaissances spécialisées des domaines auxquels on souhaite
+   l’appliquer. Cette approche – dont il sera question tout au long de ce
+   dossier – génère tous les systèmes spécialisés et performants qui
+   peuplent aujourd’hui notre environnement : créer des profils
+   d’amis possibles sur les réseaux sociaux, identifier des dates dans les
+   textes pour classer des dépêches d’agence, aider le médecin à prendre
+   des décisions... Ces systèmes, de complexité très variable, ont en
+   commun d’être limités dans leurs capacités d’adaptation : ils doivent
+   être manuellement adaptés pour accomplir d’autres tâches que celles
+   pour lesquelles ils ont été initialement conçus. On parle de
+   « recontextualiser » le système.
+   Médecine prédictive prédiction d’une maladie et/ou de son évolution
+   Médecine de précision recommandation de traitement personnalisé Aide à
+   la décision diagnostique et thérapeutique Robots compagnons notamment
+   pour les personnes âgées ou fragiles Chirurgie assistée par ordinateur
+   Prévention en population générale : anticipation d’une épidémie ;
+   pharmacovigilance Les domaines d’application de l’IA en médecine
+
+Certains systèmes d’IA utilisent la logique…
+
+   L’approche la plus ancienne s’appuie sur l’idée que nous raisonnons en
+   appliquant des règles logiques (déduction, classification,
+   hiérarchisation…). Les systèmes conçus sur ce principe appliquent
+   différentes méthodes, fondées sur l’élaboration de modèles
+   d’interaction entre automates ou logiciels autonomes (systèmes
+   multi-agents), de modèles syntaxiques et linguistiques (traitement
+   automatique des langues) ou d’élaboration d’ontologies (représentation
+   des connaissances). Ces modèles sont ensuite utilisés par des systèmes
+   de raisonnement logique pour produire des faits nouveaux.
+
+   Dans les années 1980, cette approche, dite symbolique, a permis le
+   développement d’outils capables de reproduire les mécanismes cognitifs
+   d’un expert. C’est pourquoi on les a baptisés « systèmes experts ». Les
+   plus célèbres, Mycin (identification d’infections bactériennes) ou
+   Sphinx (détection d’ictères), s’appuient sur l’ensemble des
+   connaissances médicales dans un domaine donné et une formalisation des
+   raisonnements des spécialistes qui lient ces connaissances entre elles
+   pour aboutir à un diagnostic. Les systèmes actuels, qualifiés d’aide à
+   la décision, de gestion des connaissances ou d’e‑santé, sont plus
+   sophistiqués. Ils bénéficient de meilleurs modèles de raisonnement
+   ainsi que de meilleures techniques de description des connaissances
+   médicales, des patients et des actes médicaux. La mécanique
+   algorithmique est globalement la même, mais les langages de description
+   sont plus efficaces et les machines plus puissantes. Ils ne cherchent
+   plus à remplacer le médecin, mais à l’épauler dans un raisonnement
+   fondé sur les connaissances médicales de sa spécialité.
+     __________________________________________________________________
+
+Aider à la prise en charge des cancers du sein
+
+   Des équipes du Laboratoire d’informatique médicale et d’ingénierie des
+   connaissances en e‑santé (LIMICS, unité Inserm 1142) et de l’Assistance
+   Publique – Hôpitaux de Paris, ont participé à un projet européen,
+   Desiree, qui s’appuie sur l’approche symbolique pour aider les
+   cliniciens dans le traitement et le suivi des patientes atteintes de
+   cancers du sein. Ces maladies très complexes nécessitent en effet
+   souvent des adaptations de protocoles classiques.
+
+   La plateforme Desiree intègre les recommandations de bonne pratique par
+   la mise en œuvre d’un raisonnement fondé sur une ontologie. Le système
+   peut également apprendre à partir des cas déjà résolus (reproduction
+   des décisions prises pour des cas similaires au cas clinique à
+   résoudre), ou d’un raisonnement par expérience (réutilisation de
+   décisions qui étaient non conformes aux recommandations, sur la base de
+   critères explicités dans la justification du non-suivi des
+   recommandations). L’enrichissement continu de la base de cas permet de
+   faire évoluer les propositions du système pour l’aide à la prise en
+   charge thérapeutique des patientes.
+     __________________________________________________________________
+
+   La principale difficulté de l’approche symbolique est la modélisation
+   des connaissances (description du domaine et du raisonnement) qui
+   s’appuie sur un travail approfondi avec des spécialistes du domaine
+   concerné.
+
+…D’autres exploitent l’expérience passée
+
+   Contrairement à l’approche symbolique, l’approche dite numérique
+   raisonne sur les données. Le système cherche des régularités dans les
+   données disponibles pour extraire des connaissances, sans modèle
+   préétabli. Cette méthode, née avec le connexionnisme et les réseaux de
+   neurones artificiels dans les années 1980, se développe aujourd’hui
+   grâce à l’augmentation de puissance des ordinateurs et à l’accumulation
+   des gigantesques quantités de données, le fameux big data.
+
+   La plupart des systèmes actuels procèdent par apprentissage
+   automatique, une méthode fondée sur la représentation mathématique et
+   informatique de neurones biologiques, selon des modalités plus ou moins
+   complexes. Les algorithmes d’apprentissage profond (deep learning) par
+   exemple, dont l’usage explose depuis une dizaine d’années, font une
+   analogie lointaine avec le fonctionnement cérébral en simulant un
+   réseau de neurones organisés en différentes couches, échangeant les uns
+   avec les autres. La force de cette approche est que l’algorithme
+   apprend la tâche qui lui a été assignée par « essais et erreurs »,
+   avant de se débrouiller tout seul.
+   Fond d’œil Fond d’œil. Ce fond d’œil montre la répartition des points
+   de coagulation proposée par un logiciel de pilotage du laser pour
+   traiter une rétinopathie diabétique. L’IA permet de dépister
+   automatiquement les patients qui devraient pouvoir subir une telle
+   intervention. © National Eye Institute, NIH.
+
+   Des applications de deep learning existent en traitement d’images, par
+   exemple pour repérer de possibles mélanomes sur les photos de peau, ou
+   bien pour dépister des rétinopathies diabétiques sur des images de
+   rétines. Leur mise au point nécessite de grands échantillons
+   d’apprentissage : 50 000 images dans le cas des mélanomes, et 128 000
+   dans celui des rétinopathies, ont été nécessaires pour entraîner
+   l’algorithme à identifier les signes de pathologies. Pour chacune de
+   ces images on lui indique si elle présente ou non des signes
+   pathologiques. A la fin de l’apprentissage, l’algorithme arrive à
+   reconnaître avec une excellente performance de nouvelles images
+   présentant une anomalie.
+     __________________________________________________________________
+
+La robotique en pleine expansion
+
+   La robotique est un sous-domaine spécifique de l’IA. Elle vise à
+   augmenter l’autonomie des machines en les dotant de capacités
+   perceptuelles, décisionnelles et d’action.
+
+   La chirurgie assistée par ordinateur en est sans doute un des versants
+   le plus connu. Elle permet aujourd’hui d’améliorer la précision des
+   gestes ou d’opérer à distance.
+
+   Les prothèses intelligentes visent quant à elles à réparer, voire
+   augmenter le corps humain : membres ou organes artificiels (bras,
+   cochlée, cœur, sphincter…), simulateur cardiaque...
+
+   Les robots d’assistance aux personnes, âgées ou fragiles par exemple,
+   représentent un troisième secteur très médiatisé et en fort
+   développement. Cette robotique de service vise à imiter le vivant et à
+   interagir avec les humains. Elle soulève de nombreux problèmes
+   éthiques, portant notamment sur la protection de la vie privée et des
+   données personnelles, mais aussi sur les conséquences d’un brouillage
+   de la frontière humain-robot. Une frontière qui peut être vite franchie
+   par l’utilisateur.
+     __________________________________________________________________
+
+   Les médecins de demain remplacés par des robots... Vraiment ? –
+   animation et interview – 3 min 27 – vidéo extraite de la série Canal
+   Détox (2018)
+
+Les enjeux de la recherche
+
+   L’IA est en plein essor et de nombreuses voies de recherche sont
+   explorées pour améliorer les performances techniques de ces systèmes,
+   mais aussi leur adéquation aux pratiques médicales visées. Leur coût −
+   financier mais également environnemental − doit également être justifié
+   par une réelle plus-value pour le médecin ou le patient.
+
+   Les voies de recherche portent en particulier sur le traitement des
+   données, très hétérogènes, leur structuration et leur anonymisation,
+   mais aussi sur la conception de systèmes transparents pour
+   l’utilisateur et bien adaptés au contexte d’utilisation.
+
+Un goulet d’étranglement : la qualité de l’échantillon de données
+
+   L’approche numérique peut se prévaloir de bonnes performances en
+   médecine, mais elle nécessite des données parfaitement propres et bien
+   annotées, comme celles utilisées pour la reconnaissance de mélanomes.
+   Or la plupart des données médicales n’ont pas été recueillies dans
+   l’objectif que se fixe le concepteur de logiciel. Elles posent donc de
+   nombreux problèmes pour leur exploitation.
+
+   La France dispose en particulier d’une des plus grandes bases en santé
+   du monde : son système national de données médico-administratives, le
+   SNIIRAM (pour Système national d’information inter-régimes de
+   l’Assurance Maladie). Cette base, qui fait maintenant partie du SNDS,
+   stocke toutes les prescriptions de médicaments, la description des
+   maladies et les actes hospitaliers. Elle est toutefois délicate à
+   exploiter, car elle a été créée pour l’analyse économique des
+   prestations de santé et non pour une analyse médicale. Ainsi, les
+   données relatives à une personne hospitalisée pour un problème
+   respiratoire ne feront pas nécessairement mention du cancer qui
+   l’affecte par ailleurs. Dans certains cas, on relève jusqu’à 30 %
+   d’erreurs dans la description des pathologies associées aux malades.
+   Corriger ces erreurs passe par le croisement des données avec d’autres
+   sources, comme celles correspondant aux médicaments administrés.
+     __________________________________________________________________
+
+Protéger les données personnelles
+
+   Une plateforme nationale de santé regroupant toutes les données santé
+   de la population est une ressource inestimable pour les praticiens,
+   mais aussi pour la recherche médicale et pharmaceutique. Néanmoins, on
+   doit s’assurer que ces données sont utilisées à bon escient et dans le
+   respect des lois, en particulier du règlement général sur les données
+   personnelles (RGPD) entrée en vigueur en mai 2018 et de la loi pour une
+   république numérique de 2016.
+
+   Dans ce cadre, les données personnelles ne sont pas la propriété du
+   patient, ni celle de l’organisme qui les collecte. Les Français sont
+   usufruitiers de leurs données : ils peuvent en disposer mais non les
+   vendre. D’autre part, le traitement de ces données est conditionné au
+   consentement éclairé de la personne concernée. En France, les données
+   de santé sont anonymisées ou pseudonymisées pour être accessibles par
+   les chercheurs, uniquement sur des projets autorisés par des comités
+   d’éthique.
+     __________________________________________________________________
+
+Fournir l’information au bon moment et au bon niveau
+
+   Un système d’aide à la décision en analyse d’échographies pour les
+   grossesses extra-utérines (GEU) développé par le LIMICS et l’hôpital
+   Trousseau, OPPIO, a servi de preuve de concept au système SUOG (Smart
+   Ultrasound in Obstetrics & Gynecology)qui devrait entrer en phase de
+   test en 2022. SUOG est un logiciel qui vise à améliorer la qualité des
+   examens échographiques durant la grossesse face à leur complexité
+   croissante et aux ressources limitées des experts. Il fournit à
+   l’échographiste des informations pertinentes lorsqu’il est confronté à
+   des caractéristiques inhabituelles, en temps réel et pendant l’examen.
+   Il apporte des conseils intelligents itératifs (ce qu’il est pertinent
+   de rechercher sur la base des résultats normaux et anormaux précédents,
+   et d’après l’hypothèse de diagnostic) et affiche des images
+   échographiques pertinentes validées par des experts pour appliquer les
+   conseils fournis.
+
+   SUOG intègre une ontologie qui fournit un modèle centré sur les signes
+   du domaine, avec les relations entre les signes des différents types de
+   grossesses pathologiques, les structures anatomiques et les éléments
+   techniques. Dès le premier examen, des opérateurs non experts
+   recueillent des séries d’images de haute qualité, proches de ce que
+   feraient des opérateurs experts. Ils peuvent demander un deuxième avis
+   d’expert à partir de ces images et, si nécessaire, orienter les femmes
+   vers des centres experts adéquats.
+   photographie du dispositif SUOG SUOG : un outil d’aide à la décision en
+   imagerie médicale développé en collaboration avec l’Inserm. L’interface
+   permet d’analyser et de raisonner sur des images échographiques de
+   grossesse et propose un protocole personnalisé d’aide au diagnostic. On
+   voit en bas à droite l’échographe et sur l’écran supérieur l’image
+   acquise par le praticien. L’écran de gauche est divisé en 2 parties :
+   la partie de gauche reprend l’image acquise par le médecin avec
+   l’échographe ; la partie de droite montre des images similaires à
+   l’image acquise en fonction de critères sémantiques et numériques. Le
+   système propose ainsi au médecin des diagnostics spécifiques de la
+   patiente qu’il ne faut pas négliger en fonction du contexte de la
+   capture de l’image. © F Dhombres, unité Inserm 1142/AP-HP, Hôpital
+   Trousseau, service de médecine fœtale/Médecine Sorbonne
+   Université/SATT-Lutech
+
+Croiser les multiples données textuelles relatives aux patients
+
+   Un problème important soulevé par l’exploitation des données médicales
+   est relatif à la nature des données disponibles : on estime qu’environ
+   80 % des informations sur les patients sont exprimées sous forme de
+   texte libre (comptes rendus d’hospitalisation ou rapports d’imagerie
+   par exemple). Ces données non structurées sont notamment caractérisées
+   par une forte variabilité linguistique qui en complique la
+   manipulation. Il s’agit alors de mettre en œuvre des outils de
+   traitement automatique des langues pour analyser ces textes et en
+   extraire des informations sur le patient. De nombreux projets sont en
+   cours au sein des hôpitaux, en particulier ceux hébergeant un entrepôt
+   de données de santé, pour faciliter l’accès à ces informations à des
+   visées de recherche ou de soin. A titre d’exemple, le système
+   Epifractal, en cours de mise en œuvre à l’AP-HP, permet de détecter à
+   partir des comptes rendus médicaux, les patients à risque élevé de
+   fracture liée à l’ostéoporose, dans le but de les inclure dans une
+   filière de soin spécifique.
+
+   Ce type de logiciels peuvent mobiliser une approche symbolique ou des
+   approches fondées sur l’apprentissage statistique supervisé. Ces
+   algorithmes peuvent être très performants mais nécessitent encore
+   beaucoup de recherches avant de pouvoir être utilisés de façon fiable
+   et généralisée.
+
+   Les algorithmes d’apprentissage non supervisé (sans apprentissage
+   préalable sur des échantillons) suscitent également des espoirs dans ce
+   domaine : ils permettent en effet de recouper rapidement un très grand
+   nombre de données afin d’établir des structures cachées et de
+   déterminer des catégories d’intérêt pour la tâche visée. On espère de
+   cette façon pouvoir mieux identifier des facteurs de risques,
+   personnaliser les traitements et en vérifier l’efficacité, prédire les
+   épidémies ou améliorer la pharmacovigilance.
+
+Prévenir plutôt que guérir
+
+   La prévention est un nouveau terrain d’intervention de l’IA. En
+   psychiatrie, la schizophrénie et la psychose chronique sont parmi les
+   troubles les plus invalidants qui frappent les adolescents et les
+   jeunes adultes. Des études récentes montrent que leur prise en charge
+   est d’autant plus efficace qu’elle intervient à un stade précoce.
+   Ainsi, le projet PsyCARE vise à améliorer la détection et
+   l’intervention précoce en cas de psychose.
+
+   Pour remplir cet objectif général, le projet se propose d’identifier
+   des biomarqueurs pour améliorer le diagnostic, la détection du stade de
+   la maladie et la prédiction du devenir fonctionnel. PsyCARE vise aussi
+   à l’identification de cibles thérapeutiques. Dans ce cadre, un certain
+   nombre d’outils doivent être développés, comme de nouveaux outils
+   portables qui faciliteraient l’évaluation motrice, l’analyse
+   automatique du texte et de la parole, ainsi qu’une application pour
+   l’entraînement cognitif personnalisé et une autre centrée sur le
+   patient facilitant la gestion des cas et l’engagement du patient.
+   Finalement, un système d’aide à la décision guidera la stratégie
+   thérapeutique personnalisée.
+   extrait de l’ontologie de Psycare Une plateforme informatique est au
+   cœur du projet PsyCARE. Elle utilise l’ontologie comme modèle
+   d’intégration de toutes les données nécessaires. L’extrait affiché ici
+   présente une partie du modèle des données manipulées par le projet et
+   une partie des troubles psychiatriques pris en compte. Dans le contexte
+   de l’IA symbolique, les connaissances sur un domaine médical sont
+   organisées dans une ontologie, c’est-à-dire un ensemble structuré de
+   concepts et de leurs relations qui décrit un domaine en respectant les
+   principes des langages formels. L’ontologie permet de gérer la
+   complexité et la cohérence du modèle du domaine en question. Des
+   algorithmes d’apprentissage sont ensuite appliqués sur l’ensemble des
+   données pour proposer une aide à la décision aux praticiens.
+
+Apporter une réelle aide à la pratique médicale
+
+   Pour qu’une application soit utilisée par le médecin dans sa pratique
+   quotidienne, il ne suffit pas qu’elle rende le service qu’on lui
+   demande, il faut également que le système soit utilisable sans
+   surcharge cognitive ! Par exemple un système conçu pour alerter sur de
+   possibles contre-indications médicamenteuses ne doit pas saturer le
+   praticien d’alertes « justes », mais non adaptées au contexte clinique
+   du patient. Ainsi, au lieu de donner une alerte chaque fois qu’une
+   contre-indication se présente, les nouvelles interfaces posent en amont
+   des questions sur le patient, afin de réduire le nombre d’alertes et,
+   ainsi, la tendance du médecin à débrancher une machine « importune ».
+
+Donner les moyens de comprendre la décision
+
+   Pour être acceptables ou légitimes, voire pour être écartées car jugées
+   non pertinentes, les décisions de l’algorithme doivent pouvoir être
+   comprises, donc expliquées. Un avantage majeur des approches
+   symboliques est de permettre de tracer le cheminement du raisonnement.
+   Mais même dans ce cas, le nombre de micro-raisonnements effectués par
+   la machine est tel qu’il n’est pas pensable de tous les afficher. C’est
+   pourquoi des chercheurs travaillent actuellement sur la manière de
+   décrire ces raisonnements « en classes explicites », afin de mettre en
+   avant les décisions les plus importantes. Seule une bonne compréhension
+   des solutions proposées par l’application peut en effet permettre au
+   médecin de discuter avec son patient et de lui exposer les alternatives
+   possibles.
+
+   Les approches numériques s’apparentent en revanche à une boîte noire,
+   incapable de justifier ses décisions : nul ne sait ce que fait
+   l’algorithme. Comment, dès lors, endosser la responsabilité de la
+   décision médicale ? Les données d’apprentissage sont en particulier
+   biaisées par les préjugés de l’époque et ceux des concepteurs.
+   L’algorithme tend donc à reproduire, voire renforcer, ces mêmes
+   préjugés. Dans le domaine médical, les biais principaux sont dus à la
+   surreprésentation d’une catégorie de personnes, comme les personnes
+   âgées ou des patients d’origine géographique particulière.
+     __________________________________________________________________
+
+Aider le médecin et non le remplacer
+
+   Certains voient dans les applications médicales de l’IA la possibilité
+   de remplacer le médecin, que ce soit pour pallier les déserts médicaux
+   ou bien pour filtrer les patients et les orienter. Mais l’utilisation
+   par le public de ces logiciels sans supervision médicale soulève des
+   questions éthiques importantes. Le système réduit la relation au
+   médecin à un acte technique. Il laisse le patient à ses interrogations
+   et ses angoisses.
+
+   Par ailleurs, le risque que le médecin abdique devant la machine « qui
+   sait mieux que lui » est réel. Il peut être amené à endosser une
+   décision qui n’est pas la sienne et découvrir après coup que la machine
+   s’est trompée. Pour éviter cet écueil, le médecin, seul habilité à
+   porter un diagnostic, doit pouvoir garder son autonomie face à la
+   machine. Il doit être en mesure de comprendre le pourquoi et le comment
+   des décisions affichées, et de les contourner si besoin.
+
+   Dans cet objectif la commission de réflexion sur l’éthique de la
+   recherche en sciences et technologie du numérique d’Allistene (Cerna) a
+   souligné la nécessité de concevoir des systèmes dont le fonctionnement
+   est transparent, explicité et traçable, et qui effectuent les tâches
+   spécifiées en respectant des contraintes explicites. Cette initiative
+   est englobée maintenant au niveau international par l’UNESCO. Pour des
+   systèmes d’aide à la décision fondés sur des algorithmes
+   d’apprentissage, le respect de ces conformités n’est pas évident.
+     __________________________________________________________________
+
+Sciences cognitives : source d’inspiration et domaine d’application
+
+   Malgré les énormes capacités de calcul offertes par les ordinateurs
+   actuels, aucune application existante ne peut s’afficher comme
+   réellement intelligente : elle devrait pour cela être multitâches et
+   capable de réagir correctement dans des situations non prévisibles et
+   non préprogrammées. On est encore très loin du compte.
+
+   Pour progresser dans cette voie les chercheurs essaient de comprendre
+   le comportement des neurones et de leurs connexions, afin d’être en
+   mesure de mimer le cerveau. Cette démarche permettra peut-être un jour
+   de créer des robots imitant l’intelligence humaine. En attendant elle
+   contribuera à mieux comprendre le fonctionnement de cet organe et à
+   mieux appréhender les causes de certaines maladies d’origine cérébrale
+   comme Alzheimer, Parkinson ou la maladie de Charcot. C’est l’objectif
+   qui motive la participation de l’Union européenne, dans le cadre de son
+   initiative phare Technologies futures et émergentes, au Human brain
+   project. Ce projet vise à construire une infrastructure informatique de
+   classe mondiale, qui pourra être utilisée par la communauté
+   scientifique pour simuler le fonctionnement cérébral dans des
+   conditions expérimentales particulières.
+
+L’enjeu du futur est de combiner les approches
+
+   Des projets tentent de combiner les approches symbolique et
+   d’apprentissage, afin de bénéficier à la fois du raisonnement de l’un
+   et des performances de l’autre. Ainsi, dans le projet PsyCARE cité plus
+   haut, la construction d’ontologies (IA symbolique) utilise l’expertise
+   médicale et des algorithmes numériques de fouille de texte.
+
+   Autre exemple, l’interprétation d’images médicales est d’une importance
+   majeure pour le diagnostic, le suivi des patients ou encore la
+   préparation d’une intervention chirurgicale. Il s’agit de détecter,
+   segmenter et reconnaître des structures anatomiques normales et
+   pathologiques, et d’en proposer des visualisations 3D. Pour répondre à
+   la difficulté de ces tâches, il est important de combiner les
+   informations numériques extraites des images, donc spécifiques au
+   patient, à des modèles génériques, représentant les connaissances
+   anatomiques sous la forme de bases de connaissances, d’ontologies, de
+   graphiques… C’est en particulier crucial avec les images pédiatriques
+   qui doivent être acquises sur des durées aussi brèves que possible et
+   qui montrent des structures souvent de petite taille et de grande
+   variabilité d’un patient à l’autre.
+
+   Cette double approche est aussi particulièrement pertinente pour
+   exploiter les données « variées » des patients (génomiques, cliniques,
+   d’imagerie et d’analyses biologiques) qui seront regroupées sur une
+   même plateforme dans le cadre du Plan France médecine génomique 2025.
+   L’IA permettra de gérer ce nombre considérable de données en
+   fournissant des classifications ou des ontologies de description des
+   éléments cliniques des patients. L’apprentissage automatique permettra
+   d’identifier des profils de patients tenant compte de toutes ces
+   données. Il sera alors possible de personnaliser les soins et
+   d’améliorer leur taux de réussite, notamment, dans un premier temps,
+   pour les cancers, les maladies rares et le diabète.
+
+   Enfin, le nœud du problème se situe au niveau du transfert de
+   connaissances entre l’humain et la machine, transfert qui nécessite
+   d’une part des progrès méthodologiques mais également une collaboration
+   approfondie entre experts de disciplines différentes.
+
+   De la même façon que les biostatisticiens et les bio-informaticiens ont
+   intégré les laboratoires de recherche médicale il y a quelques
+   décennies, une discipline et un métier nouveaux doivent être créés, qui
+   permettent de dépasser les collaborations interdisciplinaires actuelles
+   et d’intégrer réellement la science des données et des connaissances
+   dans les activités de recherche et de soin.
+
+Nos contenus sur le même sujet
+
+Actualités
+
+     * 13/07/23 Intelligence artificielle : va-t-elle remplacer le
+       diagnostic médical ?
+     * 10/09/19 L’intelligence artificielle au bénéfice de l’analyse des
+       grandes cohortes
+     * 11/07/18 Intelligence artificielle : faut-il en avoir peur ?
+     * 11/02/16 Un algorithme informatique au service des ophtalmologues
+
+Communiqués de presse
+
+     * 05/09/23 Résultats d’une étude internationale sur la prédiction de
+       perte de poids après chirurgie bariatrique
+     * 14/06/23 Une intelligence artificielle pour prédire le
+       vieillissement
+     * 05/05/23 Un assistant informatique automatisé spécialisé dans le
+       diagnostic du rejet de greffe
+     * 04/05/23 IA : Un nouvel algorithme français s’inspirant de GPT
+       améliore la surveillance des traumatismes
+     * 09/01/23 Prédire l’apparition de troubles anxieux dès l’adolescence
+       grâce à l’intelligence artificielle
+     * 15/06/21 Prédire les comportements suicidaires chez les étudiants
+       grâce à l’intelligence artificielle
+     * 17/09/19 Elaboration et validation de l’iBox, le premier outil
+       universel de prédiction du risque de perte de rein greffé basé sur
+       l’intelligence artificielle
+     * 17/04/19 L’intelligence artificielle facilite l’évaluation de la
+       toxicité des substances chimiques : le cas du bisphénol S
+     * 30/08/18 Une intelligence artificielle permet de prédire la réponse
+       thérapeutique des patients atteints d’un cancer du rectum avancé
+       traités par radiochimiothérapie préopératoire
+     * 27/08/18 Prédire la réponse à l’immunothérapie grâce à
+       l’intelligence artificielle
+     * 11/06/18 Un programme informatique capable de détecter et
+       d’identifier automatiquement des lésions cérébrales
+     * 04/04/18 L’Intelligence Artificielle au service de la recherche
+       médicale : l’Inserm et Owkin s’associent
+     * 29/03/16 Dassault Systèmes et l’Inserm annoncent la signature d’un
+       accord pour analyser la complexité des maladies et accélérer la
+       recherche clinique
+     * 13/02/13 Un cerveau « simplifié » permet au robot iCub d’apprendre
+       le langage
+
+À découvrir aussi
+
+     * Big data en santé – dossier d’information
+     * Chirurgie assistée par ordinateur – dossier d’information
+
+Pour aller plus loin
+
+     * Donner un sens à l’intelligence artificielle (IA) – Rapport de
+       Cédric Villani (2018)
+     * Médecins et patients dans le monde des data, des algorithmes et de
+       l’intelligence artificielle
+     * Ethique de la recherche en apprentissage machine
+     * Des machines enfin intelligentes ?
+     * Demain, un ordinateur inspiré de notre cerveau ?
+     * Qui est le propriétaire des données de ma santé ?
+
+Recevoir notre lettre d’information
+
+   Vous recevrez chaque mois les derniers articles publiés sur ce site.
+   Nous n’utiliserons pas votre e‑mail pour autre chose, et vous pourrez
+   vous désabonner à tout moment. En savoir plus sur vos données et vos
+   droits.
+
+Formulaire d’inscription
+
+   loader
+
+   Adresse e-mail (au format pbheevry@rkrzcyr.se) : ____________________
+   M'inscrire
+
+Nos délégations régionales
+
+     * Auvergne Rhône-Alpes
+     * Est
+     * Grand Ouest
+     * Île-de-France Centre Est
+     * Île-de-France Centre Nord
+     * Île-de-France Sud
+     * Nord-Ouest
+     * Nouvelle-Aquitaine
+     * Occitanie Méditerranée
+     * Occitanie Pyrénées
+     * PACA et en Corse
+
+Autres sites Inserm
+
+     * Professionnels de la recherche
+     * Ressources Humaines
+     * Marchés publics
+     * Évaluation
+     * Orphanet
+
+Accès direct
+
+     * Volontaire pour des tests
+
+Associés à l’Inserm
+
+     * ANRS | MIE
+     * Inserm Transfert
+
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+     * Questions fréquentes
+     * Nous contacter
+     * Mentions légales
+     * Accessibilité (partiellement conforme)
+     * Données personnelles
+     * Gérer mes cookies
+     * © Inserm 2023
+
+   (BUTTON) Retour en haut de page
+
+   Ce site utilise des cookies. Vous pouvez changer d'avis à tout moment
+   en cliquant le menu "Gérer mes cookies" en bas de page.
+   AccepterRefuser
+   Paramétrer
+   Cookies
+   (BUTTON) Fermer
+
+Paramétrer les cookies
+
+   Liste des types de cookies utilisés sur ce site et de leurs finalités.
+   Certains cookies sont déposés quelle que soit la page que vous visitez,
+   d'autres uniquement si vous visitez une page qui en a besoin.
+   Nécessaire
+   [X] Nécessaire
+   Toujours activé
+   Ces cookies sont indispensables aux fonctionnalités de base du site et
+   à sa sécurité. Vous ne pouvez pas les refuser, car ils ne collectent
+   pas de données personnelles.
+   Cookie Durée Description
+   cerber_bjZJE-PQKeqAy 1 jour Déposé par l'extension de sécurité du site.
+   cerber_iEuaryZDFx 1 jour Déposé par l'extension de sécurité du site.
+   cerber_rmpcGFhB 1 jour Déposé par l'extension de sécurité du site.
+   cookielawinfo-checkbox-advertisement 1 an Déposé par l'extension de
+   gestion des cookies pour stocker le consentement du visiteur.
+   cookielawinfo-checkbox-analytics 1 an Déposé par l'extension de gestion
+   des cookies pour stocker le consentement du visiteur.
+   cookielawinfo-checkbox-embedded 1 an Déposé par l'extension de gestion
+   des cookies pour stocker le consentement du visiteur.
+   cookielawinfo-checkbox-necessary 11 mois Déposé par l'extension de
+   gestion des cookies pour stocker le consentement du visiteur.
+   cookielawinfo-checkbox-non-necessary 11 mois Déposé par l'extension de
+   gestion des cookies pour stocker le consentement du visiteur.
+   viewed_cookie_policy 11 mois Déposé par l'extension de gestion des
+   cookies pour stocker le statut du consentement du visiteur concernant
+   les cookies.
+   Contenu embarqué
+   [ ] embedded
+   Ces cookies sont liés à des contenus tiers embarqués sur le site
+   (vidéos, etc.). Ils ne sont déposés que sur certaines pages.
+   Cookie Durée Description
+   CONSENT 16 ans 5 mois 11 jours 11 heures Déposé via les vidéos YouTube
+   embarquées. Enregistre des statistiques anonymes, par exemple sur le
+   nombre d'affichages d'une vidéo. Aucune information sensible n'est
+   collectée, à moins que vous soyez connecté à un compte Google (dans ce
+   cas, vos actions sont liées à votre compte).
+   dmvk session Déposé par Dailymotion, pour collecter statistiques à
+   propos du comportement des visiteurs du site. Utilisé pour des
+   statistiques internes.
+   pll_language 1 an Déposé par l'extension de traduction. Stocke le code
+   langue de la dernière page consultée.
+   ts 1 an et 1 mois Déposé par Dailymotion.
+   usprivacy 1 an 1 mois Déposé par Dailymotion.
+   v1st 1 an 1 mois Déposé par Dailymotion.
+   VISITOR_INFO1_LIVE 5 mois 27 jours Déposé par YouTube pour collecter
+   des informations à propos des vidéos embarquées.
+   YSC session Déposé par YouTube pour comptabiliser le nombre de vues des
+   vidéos embarquées.
+   Publicité
+   [ ] advertisement
+   Le site n'affiche pas de publicité, mais certains contenus embarqués
+   peuvent déclencher le dépôt de cookies publicitaires. Ces cookies sont
+   utilisés pour fournir des publicités et des campagnes marketing
+   personnalisées. Ils pistent les visiteurs entre les sites et collectent
+   des données personnelles.
+   Cookie Durée Description
+   IDE 1 an 24 jours Déposé par Google DoubleClick pour stocker des
+   informations sur la façon dont les visiteurs utilisent les vidéos
+   YouTube et la publicité vue avant les vidéos. Il sert à afficher des
+   publicités pertinentes à l'utilisateur selon son profil.
+   test_cookie 15 minutes Déposé par Google DoubleClick pour déterminer si
+   le navigateur du visiteur supporte les cookies.
+   Enregistrer et accepter
+   Powered by CookieYes Logo

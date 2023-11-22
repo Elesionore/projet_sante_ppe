@@ -1,0 +1,327 @@
+   #MSD Connect » Feed alternate alternate alternate
+
+   IFRAME:
+   https://www.googletagmanager.com/ns.html?id=GTM-KNFZW3X&user%5Brole%5D=
+   visitor&user%5BisLoggedIn%5D=0&page%5Bpage_wpid%5D=73401&page%5Bpage_la
+   nguage%5D=fr_fr&page%5Bpage_lineofbusiness%5D=human%20health&page%5Bpag
+   e_marketcode%5D=fr&page%5Bpage_marketname%5D=france&page%5Bpage_accessi
+   bility%5D=publish&page%5Bpage_title%5D=comment%20l%E2%80%99intelligence
+   %20artificielle%20peut-elle%20aider%20les%20professionnels%20de%20sant%
+   C3%A9%20
+
+     * Nous connaître
+     * Contact
+     * Mon administratif
+     * Comuniti Groups
+
+     * Connexion
+     * S’inscrire
+
+   MSD Connect
+   Rechercher (BUTTON) Menu Fermer
+     * Innovation Santé
+          + Innovations thérapeutiques
+          + E-santé
+          + Organisation système de santé
+          + Médecin 2.0
+     * Expertises médicales
+          + Anesthésie et RAAC
+          + Diabète type 2
+          + Gastro-entérologie
+          + Rhumatologie
+          + Hypertension pulmonaire
+          + Oncologie
+          + Pharmacie hospitalière
+          + Toux chronique
+          + Vaccins
+     * Médicaments et Vaccins
+          + Adempas
+          + Bridion
+          + Delstrigo
+          + Gardasil 9
+          + Janumet
+          + Keytruda
+          + Pifeltro
+          + Pneumovax
+          + Prevymis
+          + Remicade
+          + Rotateq
+          + Simponi
+          + Vaxelis
+     * Information médicale
+          + Rupture de la chaîne du froid
+          + Disponibilité des produits
+          + Demande de déblocage
+          + Informations sur le Papillomavirus (HPV)
+          + Foire Aux Questions (FAQ)
+          + Déclaration de cas de Pharmacovigilance
+          + Moteur de recherche d’essais cliniques
+          + Accès précoce et CPC
+          + Commander un document ou un objet
+          + Quoi de neuf ?
+     * Lives et Replays
+
+   Home Comment l’intelligence artificielle peut-elle aider les
+   professionnels de santé ? Partager
+
+Comment l’intelligence artificielle peut-elle aider les professionnels de santé
+                                       ?
+
+   5 min de lecture
+     __________________________________________________________________
+
+   L’intelligence artificielle n’appartient pas qu’au futur, elle imprègne
+   déjà le monde de la santé. Sous différentes formes, allant du simple
+   algorithme au robot chirurgical, l’IA peut aider au quotidien les
+   professionnels de santé dans la prévention d’effets indésirables,
+   l’accélération du diagnostic ou encore le perfectionnement d’une
+   médecine de précision.
+
+   Alors qu’elle devient indispensable au secteur de la santé,
+   l’intelligence artificielle reste encore un concept flou, pouvant
+   susciter fantasmes et inquiétudes de la part des patients comme des
+   professionnels de santé. Même si les premiers algorithmes existent
+   depuis 1960, c’est seulement depuis quelques années que ses
+   applications se multiplient dans tous les domaines des secteurs
+   médicaux. Des maladies rares à l’ophtalmologie, en passant par la
+   prévention des épidémies, l’intelligence artificielle a pour mission
+   d’automatiser certaines tâches et de compiler puis analyser de grandes
+   quantités d’informations. Accroître la vision humaine  dans la
+   détection  d’une pathologie grâce à des téraoctets de données, ou
+   encore assister les praticiens dans leurs actes opératoires complexes
+   grâce à des robots médicaux : l’IA revêt bien des visages. Tour
+   d’horizon de ses applications médicales possibles.
+
+Accélérer le diagnostic des maladies rares
+
+   Grâce au machine learning ou au deep learning, l’intelligence
+   artificielle peut accélérer et amplifier les connaissances des
+   professionnels de santé sur de nombreuses maladies. Un outil
+   technologique particulièrement utile pour détecter les maladies rares,
+   qui, selon le gouvernement, touchent plus de 3 millions de personnes,
+   soit 4,5% de la population française. Plus de 6 000 maladies rares sont
+   recensées aujourd’hui et pour la plupart d’entre elles, plus le
+   diagnostic est précoce, plus le traitement sera efficace. Il s’agit
+   donc non seulement de lutter contre l’errance diagnostique des maladies
+   rares en fournissant des bases de données intelligentes aux médecins,
+   mais aussi d’accélérer leur prise en charge pour que les patients
+   rentrent plus vite dans un parcours de soins adapté à leurs besoins.
+
+   Le troisième Plan National Maladies Rares espèce ainsi accélérer les
+   diagnostics et accroître leur précision grâce à l’intelligence
+   artificielle. Voici l’objectif visé par l’État dès 2018 pour l’année
+   2022 : « Obtenir pour les malades un diagnostic dans l’année et au
+   maximum un an après la première consultation médicale spécialisée. Les
+   seuls malades sans diagnostic précis au plus tard un an après la
+   première consultation d’un spécialiste se limitent à ceux pour lesquels
+   l’état de l’art scientifique et technique ne permet pas d’aboutir à un
+   diagnostic précis (impasse diagnostique) ».
+
+    L’intelligence artificiellerépond à plusieurs enjeux, grâce au
+   traitement et au croisement d’une grande quantité de données, elle
+   permet de cibler toutes les typologies de maladies rares, qu’elles
+   soient neuromusculaires comme la maladie de Duchenne,
+   neurodégénératives comme la maladie de Huntington, ou respiratoires
+   comme la fibrose pulmonaire idiopathique.
+
+Favoriser la médecine de précision avec des traitements personnalisés
+
+   La médecine de précision (ou médecine personnalisée) a pour objectif de
+   fournir un traitement sur-mesure au patient, qui répondra le plus
+   précisément possible à ses symptômes. En analysant les données de santé
+   du patient, l’intelligence artificielle permet donc de déceler les
+   variations d’une pathologie d’un sujet à un autre. Dans les maladies
+   les plus complexes à traiter, l’analyse de ces variations peut s’avérer
+   décisive pour prescrire le meilleur traitement. Que ce soit en
+   microbiologie clinique ou en oncologie, la médecine de précision,
+   épaulée par l’intelligence artificielle, aide déjà les professionnels
+   de santé à affiner leurs diagnostics. Là encore, le machine learning
+   permet d’étudier toutes les données du patient et des maladies
+   elles-mêmes (l’état de l’art sur une pathologie), pour renforcer la
+   pertinence du diagnostic final. Dans ce domaine, les praticiens gagnent
+   ainsi en temps et en précision grâce à l’intelligence artificielle.
+
+Aider les praticiens à prendre les meilleures décisions
+
+   Si les algorithmes aident les praticiens à faire les bons choix, ils ne
+   se substituent pas à l’humain. L’IA est un outil que l’expert peut
+   décider d’utiliser, dans le cadre prévu par la loi française (Article
+   L4001-3) : “Le professionnel de santé qui décide d’utiliser, pour un
+   acte de prévention, de diagnostic ou de soin, un dispositif médical
+   comportant un traitement de données algorithmique dont l’apprentissage
+   a été réalisé à partir de données massives s’assure que la personne
+   concernée en a été informée et qu’elle est, le cas échéant, avertie de
+   l’interprétation qui en résulte.” La loi prévoit ainsi que le
+   concepteur de l’algorithme est obligé d’expliquer le fonctionnement de
+   ce dernier au professionnel de santé. L’objectif est de garantir une
+   transparence totale de l’outil, autant pour les praticiens que pour les
+   patients qui verront leurs données de santé collectées et étudiées. De
+   cette manière,  les acteurs de la santé s’approprient pleinement leurs
+   actes médicaux, sans se reposer exclusivement sur la machine. Ils ne
+   sont plus dépossédés de leur expertise, puisque c’est toujours eux qui
+   rendent le verdict final. L’IA leur permet seulement d’explorer
+   rapidement de nombreuses possibilités pour faciliter leur prise de
+   décision.
+
+Des robots intelligents pour assister les médecins
+
+   L’intelligence artificielle peut aussi s’incarner dans un robot et
+   devenir plus qu’un simple algorithme. Si cette technologie semble
+   encore futuriste, elle transforme déjà la médecine. Celle qu’on appelle
+   la “technologie d’automatisation intelligente” revêt de nombreuses
+   formes. Elle permet notamment d’assister les actes chirurgicaux
+   complexes, de rationaliser la livraison de fournitures médicales et de
+   prendre en charge la désinfection du matériel dans un bloc opératoire
+   par exemple. Dans les laboratoires de recherche, les machines peuvent
+   également automatiser des tâches manuelles à faible valeur ajoutée pour
+   les scientifiques, qui peuvent alors se concentrer sur les tâches plus
+   stratégiques. Un bras mécanique intelligent peut, par exemple, déplacer
+   très précisément certains objets, sans l’aide d’un humain. Dans un
+   hôpital, un robot peut aussi nettoyer et préparer la chambre d’un
+   patient en toute autonomie. Il peut aussi identifier et distribuer les
+   médicaments aux patients.
+
+Développer la chirurgie assistée par ordinateur
+
+   Les interventions assistées par une machine sont un ensemble d’outils
+   basés sur l’IA qui sont destinés à aider le chirurgien dans la
+   planification, la préparation, la modélisation, la réalisation et le
+   perfectionnement d’une opération. L’IA peut ainsi intervenir à tous les
+   stades d’une opération chirurgicale, si le praticien le souhaite. Le
+   domaine de la chirurgie assistée par une machine est donc vaste, il va
+   du logiciel de simulation et de planification de l’intervention aux
+   systèmes pour localiser la position des instruments dans le corps du
+   malade. Il passe par le traitement numérique d’images, de signaux et de
+   données médicales aux dispositifs de réalité augmentée, ou encore aux
+   robots chirurgicaux… L’objectif est de proposer aux patients une
+   intervention adaptée à ses besoins, qui soit aussi efficace et la moins
+   invasive possible. Ces données doivent permettre d’augmenter la
+   perception opératoire des médecins, de leur fournir une aide à la
+   décision, tout en assistant leurs gestes chirurgicaux pour plus de
+   précision. Depuis 2013, le CHU de Rennes dispose par exemple d’un
+   environnement conçu, développé et mis en place avec le Laboratoire du
+   traitement du signal et de l’image (LTSI). Cette innovation dans
+   laquelle sont opérés de vrais patients est baptisée TherA-image.
+
+Accélérer la prévention des épidémies et effets secondaires des médicaments
+
+   Déjà plébiscitée par le Conseil de l’Europe lors de la pandémie de
+   coronavirus, l’intelligence artificielle a notamment été utilisée dans
+   la recherche d’un vaccin. L’IA a ainsi été employée pour accélérer le
+   séquençage du génome, effectuer des diagnostics plus rapides, réaliser
+   des analyses par scanner ou plus ponctuellement recourir à des robots
+   de maintenance et de livraison. Mais c’est aussi sur l’évolution en
+   temps réel de l’épidémie que le système a fait ses preuves. Ainsi, de
+   nombreux logiciels comme Corona Virus Media Watch placé sous l’égide de
+   l’UNESCO et de l’OCDE, ont permis aux décideurs politiques, aux médias
+   et au public d’observer les tendances émergentes liées à la Covid-19
+   dans leur pays et dans le monde. Mais l’IA joue aussi logiciels un rôle
+   en pharmacovigilance, c’est-à-dire en évaluant les possibles effets
+   secondaires d’un médicament ou d’un traitement sur l’organisme.
+   L’Agence nationale de sécurité du médicament et des produits de santé
+   (ANSM) a par exemple lancé une application nationale de
+   pharmacovigilance intégrant l’intelligence artificielle pour simplifier
+   le traitement des effets indésirables des médicaments et des vaccins,
+   notamment contre la Covid-19.
+
+Faire de l’intelligence artificielle un outil positif au service de l’humain
+
+   Selon l’OMS (Organisation Mondiale de la Santé), l’intelligence
+   artificielle représente autant de défis que d’opportunités pour les
+   gouvernements, les prestataires et les communautés de soin. Elle
+   déclare ainsi : “l’intelligence artificielle (IA) constitue un grand
+   espoir pour améliorer la prestation des soins et la médecine dans le
+   monde entier, mais à condition de placer l’éthique et les droits
+   humains au cœur de sa conception, de son déploiement et de son
+   utilisation.” L’IA doit donc permettre de protéger l’autonomie des
+   êtres humains, en respectant tout particulièrement la confidentialité
+   de leurs données personnelles. Les évolutions actuelles et à venir
+   devraient ainsi permettre d’utiliser des outils clairs et transparents
+   au service des professionnels de santé comme des patients.
+
+   À lire aussi : L’intelligence artificielle dans le milieu médical : un
+   atout pour les patients et les praticiens
+
+   (BUTTON) Références
+
+   ^(1) Ministère de la Santé et de la Prévention. Les maladies rares.
+   Disponible sur :
+   https://solidarites-sante.gouv.fr/soins-et-maladies/prises-en-charge-sp
+   ecialisees/maladies-rares/article/les-maladies-rares. Consulté le
+   21/12/2022.
+
+   ^(2) Ministère des Solidarités et de la Santé. Plan national maladies
+   rares 2018-2022. Disponible sur :
+   https://solidarites-sante.gouv.fr/IMG/pdf/pnmr_3_v25-09pdf.pdf.
+   Consulté le 21/12/2022.
+
+   ^(3) Code de la Santé Publique. Article L4001-3. Disponible sur :
+   https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043890272/20
+   22-05-02/. Consulté le 21/12/2022.
+
+   ^(4) Université de Rennes. Laboratoire Traitement du Signal et de
+   l’Image. Disponible sur : https://www.ltsi.univ-rennes1.fr/LTSI_home.
+   Consulté le 21/12/2022.
+
+   ^(5) CHU de Rennes. TherA-Image. Disponible sur :
+   https://www.chu-rennes.fr/cardiologie-et-maladies-vasculaires/thera-ima
+   ge-plateforme-de-therapie-assistee-par-les-technologies-de-limage-480.h
+   tml. Consulté le 21/12/2022.
+
+   ^(6) Conseil de l’Europe. IA et lutte contre le coronavirus Covid-19.
+   Disponible sur :
+   https://www.coe.int/fr/web/artificial-intelligence/ai-and-control-of-co
+   vid-19-coronavirus#:~:text=L%27intelligence%20artificielle%20(IA),pour%
+   20affronter%20le%20coronavirus%20. Consulté le 21/12/2022.
+
+   ^(7) UNESCO. Coronavirus Media Watch launched by UNESCO’s International
+   Research Centre on Artificial Intelligence in Slovenia. Disponible sur
+   :
+   https://www.unesco.org/en/articles/corona-virus-media-watch-launched-un
+   escos-international-research-centre-artificial-intelligence. Consulté
+   le 21/12/2022.
+
+   ^(8) ANSM. Lancement de la nouvelle application nationale de
+   pharmacovigilance. Disponible sur :
+   https://ansm.sante.fr/actualites/lancement-de-la-nouvelle-application-n
+   ationale-de-pharmacovigilance. Consulté le 21/12/2022.
+
+   ^(9) OMS. Rapport mondial sur l’intelligence artificielle (IA)
+   appliquée à la santé et six principes directeurs relatifs à sa
+   conception et à son utilisation. Disponible sur :
+   https://www.who.int/fr/news/item/28-06-2021-who-issues-first-global-rep
+   ort-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use.
+   Consulté le 21/12/2022.
+
+   (BUTTON) Fermer
+
+Connexion
+
+   Chargement...
+
+   Vous inscrire ? S’inscrire
+
+   MSD Connect
+   (BUTTON) Fermer
+
+Rechercher
+
+   Rechercher ____________________ (BUTTON) Soumettre la recherche
+
+Exemples de sujets de recherche
+
+     * Disponibilité de produit
+     * Evènement MSD Live
+     * Etude clinique
+
+     * Déclarer un cas de pharmacovigilance
+     * Nous contacter
+
+   MSD connect logo
+     * WCAG - Accessibility - Msdconnect France
+
+   © 2023 Merck & Co., Inc., Rahway, NJ, USA. Tous droits réservés.
+
+     * Politique de confidentialité
+     * Conditions d’utilisation
+     * (BUTTON) Cookie Consent

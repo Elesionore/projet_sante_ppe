@@ -1,0 +1,292 @@
+
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NXPS2G
+
+   fr | en
+     * FRM ⌄
+          + Nos missions
+          + Notre histoire
+          + Notre fonctionnement
+          + Nos axes prioritaires
+          + Nos publications
+          + En région
+          + Fondations abritées
+          + Nos parrains
+          + Espace presse
+     * Recherches financées ⌄
+          + Cancers
+          + Maladies cardiovasculaires
+          + Maladies infectieuses
+          + Maladies neurologiques et psychiatriques
+          + Maladies rares
+          + Autres maladies
+     * Nous soutenir ⌄
+          + Faire un don
+          + Transmettre
+          + Bâtir un projet philanthropique
+          + Devenir entreprise partenaire
+          + Créer une cagnotte
+          + Autres moyens de nous soutenir
+     * Accès chercheurs ⌄
+          + Appels à projets FRM
+          + Appels à projets en partenariat
+          + Prix scientifiques
+     * Mon espace donateur
+     *
+          + Mon espace donateur
+
+   JE FAIS UN DON
+    1. Accueil
+    2. Recherches financées
+    3. Intelligence artificielle (IA)
+    4. L’intelligence artificielle au service de la santé
+
+L’intelligence artificielle au service de la santé
+
+     * Qu’est-ce que l’intelligence artificielle ?
+     * Exemples d’applications de l’intelligence artificielle en santé
+     * L’intelligence artificielle : un outil qui reste à maîtriser
+     * Les questions éthiques soulevée par l’intelligence artificielle
+
+   #definition
+   #definition_________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+Qu’est-ce que l’intelligence artificielle ?
+
+   La recherche médicale vit une révolution numérique liée à l'abondance
+   de données et à notre aptitude à les collecter, à les stocker et
+   surtout à les traiter. Ces possibilités sont liées aux capacités des
+   ordinateurs qui sont aujourd’hui quasi illimitées : ils peuvent
+   analyser des milliards d’informations à une vitesse considérable et
+   comparer une multitude de paramètres, alors que le cerveau humain ne
+   gère guère plus de 6 ou 7 variables en même temps. Associé à
+   l’expertise des médecins, le développement de l’intelligence
+   artificielle (IA) est donc très prometteur en santé.
+
+   Mais qu’est-ce que l’IA ? Ce domaine s’appuie sur deux éléments
+   importants : les algorithmes et les données massives.
+
+Les algorithmes
+
+   Les algorithmes sont une suite d’opérations et/ou de règles formelles
+   effectuées par un programme informatique pour résoudre un type de
+   problème donné. Plus concrètement, ces programmes informatiques imitent
+   des modes de raisonnement faisant appel à l’intelligence.
+
+   Il y a les programmes d’IA où les tâches à effectuer ont été
+   prédéfinies par l‘humain. Il s’agit par exemple d’un programme sachant
+   jouer aux échecs car on lui a fourni les règles du jeu et la puissance
+   de calcul nécessaire pour anticiper les conséquences de ses choix.
+
+   Il existe aussi des programmes d’IA avec apprentissage, où le système
+   apprend par lui-même, pour peu qu’on lui fournisse les bons exercices
+   et surtout les bons corrigés. Par exemple, si on fournit au programme
+   une multitude de photos d’objets et leurs identifications associées, il
+   pourra par la suite distinguer une voiture d’un avion sur n’importe
+   quelle nouvelle photo. Certains programmes, si on leur fournit
+   suffisamment de données, sont même capables de découvrir des
+   rapprochements par eux-mêmes, sans aucune indication préalable. On
+   parle alors d’apprentissage profond ou deep learning.
+
+Les données massives, ou big data
+
+   Autre élément indispensable à l’IA : les données massives, ou big data.
+   Dans le domaine de la santé, les données numériques se multiplient :
+   dossiers de l’Assurance maladie, fichiers des causes de décès ou du
+   système national des données de santé, dossiers médicaux de patients
+   (résultats d’examens et d’imagerie, comptes rendus chirurgicaux,
+   protocoles thérapeutiques...), etc. À quoi s’ajoutent encore les
+   données issues de programmes de recherche.
+
+   Il existe donc beaucoup d’enjeux autour de toutes ces informations pour
+   permettre leur utilisation optimale par l’IA. Il s’agit notamment de
+   s’assurer de leur précision, de leur représentativité de la vie réelle,
+   mais aussi de la qualité de leur organisation et de leur partage (ce
+   qui nécessite un juste équilibre entre confidentialité des données et
+   accès à ces données).
+   #applications
+   #applications_______________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+Exemples d’applications de l’intelligence artificielle en santé
+
+En cancérologie
+
+   Structurer les données issues des patients
+
+   Le projet ConSoRe (pour Continuum Soins – Recherches), mis en place par
+   Unicancer, le réseau des centres de lutte contre le cancer, a pour
+   objectif d’organiser les données massives recueillies dans le domaine
+   de la cancérologie. Il s’agit d’un système qui vise à collecter,
+   analyser et structurer ces données. Associé à un moteur de recherche,
+   il permet à des médecins d’identifier des patients répondant à des
+   critères de recherche précis, de visualiser l’évolution de leur maladie
+   et de leurs traitements, de localiser des dossiers de cancers rares, ou
+   encore de savoir si des cas similaires ont déjà été traités ailleurs.
+   Ces données pourront ensuite être traitées par différents algorithmes.
+
+   Faciliter le diagnostic
+
+   C’est probablement dans le domaine du diagnostic que l’IA va d’abord
+   bouleverser la cancérologie. Plusieurs équipes de recherche dans le
+   monde ont déjà prouvé que des programmes sont capables de détecter un
+   mélanome, une forme sévère de cancer de la peau, ou un cancer de sein
+   avec plus d’acuité qu’un médecin, même lorsqu’il s’agit d’une tumeur
+   atypique.
+
+   Autre exemple : dans le cadre du Plan France Médecine Génomique 2025,
+   des projets de recherche en bioinformatique (informatique appliquée à
+   la biologie) essaient de trouver des corrélations entre les données
+   issues de l’analyse du génome et les expressions cliniques des cancers.
+   Ils espèrent ainsi pouvoir faire des diagnostics génétiques de certains
+   cancers, ce qui pourrait permettre de personnaliser le traitement et
+   également d’ouvrir de nouvelles pistes thérapeutiques.
+
+   Guider la prise en charge thérapeutique
+
+   Une équipe du Centre de recherche des Cordeliers à Paris a développé un
+   algorithme qui détermine à l’avance les patients atteints d’un cancer
+   du rectum qui répondront complètement à la radiochimiothérapie, ce qui
+   permet de leur éviter une opération inutile.
+
+   Dans le cadre du projet européen Desiree (Decision Support and
+   Information Management System for Breast Cancer), auquel ont participé
+   l’AP-HP et le laboratoire LIMICS, un programme d’aide à la décision
+   thérapeutique pour la prise en charge de femmes atteintes d’un cancer
+   du sein a été mis au point, sur la base des recommandations de bonnes
+   pratiques mais aussi de l’expérience de toutes les décisions prises
+   lors de réunions de concertation pluridisciplinaires.
+
+Aide à la prédiction dans le domaine cardiovasculaire et de la
+transplantation
+
+   Autre domaine dans lequel l’IA prend son essor : la santé
+   cardiovasculaire. Une équipe de l’University College of London
+   développe par exemple un algorithme pour prédire le risque de décès
+   après un infarctus du myocarde ou un accident vasculaire cérébral à
+   partir de l’analyse des données d’imagerie par résonnance magnétique du
+   cœur. En France, le Samu travaille à l’adaptation francophone d’un
+   programme danois d’IA capable d’aider les opérateurs du 15 à détecter
+   un arrêt cardiaque grâce à l’analyse, en temps réel, de signaux verbaux
+   (mots-clés) et non verbaux (intonation de la voix, rythme de la
+   respiration, etc.).
+
+   Dans le domaine de la transplantation, une étude internationale
+   coordonnée par une équipe française a validé un algorithme universel de
+   prédiction du risque de perte de rein greffé chez un patient
+   transplanté. Une avancée pour améliorer le suivi des patients et
+   optimiser le développement de nouveaux traitements immunosuppresseurs.
+
+Appui au diagnostic en gynécologie-obstétrique
+
+   L’analyse des données d’imagerie médicale fait partie des champs les
+   plus explorés par l’IA. Le projet européen SUOG (Smart Ultrasound in
+   Obstetrics and Gynecology), porté notamment en France par des équipes
+   de Sorbonne-Université, l’Inserm et l’AP-HP, vise à utiliser l’IA pour
+   améliorer le suivi de grossesse : intégré à l’appareil d’échographie,
+   ce programme pourra suggérer en temps réel au praticien les images
+   qu’il doit réaliser pour poser un diagnostic en cas de pathologie
+   suspectée, afin d’optimiser une éventuelle prise en charge.
+
+La prévention en santé mentale
+
+   Il existe aussi des programmes de recherche en santé mentale, et
+   notamment dans le champ de la prévention. Le projet PsyCARE
+   (Intervention précoce dans la psychose : vers une psychiatrie
+   préventive et personnalisée) porté par Marie-Odile Krebs, clinicienne
+   et chercheuse à l’Université de Paris, vise notamment au développement
+   d’une IA permettant de détecter précocement une schizophrénie ou une
+   psychose chronique afin de mettre en place une prise en charge
+   psychiatrique préventive et personnalisée. Pour identifier les
+   personnes à risque, l’IA interviendra notamment via la modélisation des
+   connaissances autour de la schizophrénie et l’identification d’un
+   ensemble de biomarqueurs utilisés via un algorithme d’apprentissage.
+   #outil
+   #outil______________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+L’intelligence artificielle : un outil qui reste à maîtriser
+
+   On l’aura compris, l’objectif des chercheurs qui travaillent sur des
+   projets d’IA n’est pas de remplacer les médecins, mais de les aider à
+   mieux diagnostiquer, mieux soigner et mieux anticiper les risques.
+
+   Comme l’explique Jean Charlet, chercheur au Laboratoire d'informatique
+   médicale et ingénierie des connaissances pour la e-santé à Paris, « Il
+   existe aujourd’hui de nombreuses preuves de concept que l’IA peut être
+   utile en santé. Mais comme tout nouvel outil, elle va modifier la façon
+   dont le travail est organisé. Or plus un outil est sophistiqué, plus il
+   modifie en profondeur l’organisation préalable. »
+
+   Nul doute donc que l’IA va s’implanter très progressivement dans le
+   domaine de la santé, avec des conséquences sur la relation
+   patient/médecin et l’émergence de nouveaux enjeux éthiques.
+   #ethique
+   #ethique____________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+Les questions éthiques soulevée par l’intelligence artificielle
+
+   Si l’on délègue à des machines des décisions habituellement prises par
+   des médecins, ces derniers ne vont-ils pas perdre leurs compétences ? À
+   cette question, le Comité consultatif national d’éthique (CCNE) a
+   répondu en novembre 2018 : « Une place trop grande accordée à ces
+   systèmes risquerait de déshumaniser la médecine. La relation entre
+   personnel soignant et patient reste primordiale. L’homme “doit garder
+   la main“, le contrôle, la décision finale. » Un avis partagé par le
+   Conseil de l’Europe et l’Académie de médecine américaine dans des
+   rapports publiés en 2020.
+
+   Autres questionnements éthiques soulevés par le CCNE : « Comment
+   s’assurer, en face de systèmes aussi complexes, que le patient donne un
+   consentement éclairé à leur usage ? Qui est responsable en cas d’erreur
+   ou de dérèglement de la machine ? La gestion des données massivement
+   collectées par ces systèmes inquiète : que deviennent-elles et que
+   reste-t-il du secret médical ? » Face à ces questions, sur lesquelles
+   travaillent déjà de nombreux experts, les sages du CCNE insistent
+   surtout sur le fait que « le risque principal serait de ne pas avoir
+   suffisamment recours à l’IA, explique David Gruson, co-directeur du
+   groupe de travail du CCNE. Nous avons beaucoup de données de santé en
+   France, il ne faudrait pas les sous-exploiter. »
+
+   Enfin, la formation des médecins et soignants à ces outils ainsi que
+   l’information des patients restent des sujets capitaux au cœur du
+   développement de l’IA médicale.
+     * Ajouter une boite
+
+   (BUTTON) Annuler
+   Nous soutenir
+   Faire un don Transmettre Bâtir un projet philanthropique Devenir
+   entreprise partenaire
+   Fondation
+   pour la Recherche
+   Médicale
+   54 rue de Varenne - 75007 Paris
+   Tél : 01 44 39 75 75
+   SIREN : 784 314 064
+   Contact Mentions Légales Gérer mes cookies Postes à pourvoir
+   Rapport annuel Espace presse Accès chercheurs Espace Donateur
+   ____________________ Rechercher
+   Nous suivre :
+   Facebook Twitter Youtube Linked'In Instagram
+   Don en confiance
+   La Fondation pour la Recherche Médicale est labellisée par le Don en
+   confiance, organisme de labellisation et de contrôle des associations
+   et fondations faisant appel à la générosité du public. Elle est
+   reconnue d'Utilité Publique, et habilitée à recevoir des dons, legs,
+   donations et assurances-vie.
+   Les cookies permettent d’améliorer la diffusion de nos informations, de
+   mieux gérer vos centres d’intérêt, d’établir des statistiques et
+   d’évaluer les performances du site. En poursuivant votre navigation,
+   vous en acceptez l’utilisation. Pour plus d’informations ou vous
+   opposer à cette utilisation, rendez-vous sur cliquez ici.
+   Accepter

@@ -1,0 +1,986 @@
+   #RSS
+
+   Cleiss
+   Le Cleiss Particuliers Employeurs Indépendants Documentation Actu
+   Recherche : ____________________ OK
+
+   Accueil > Particuliers > Soins de santé en France > Le système de santé
+   en France
+
+Le système de santé en France
+
+   2021
+   fr en
+
+   Le système de santé français s'appuie sur des structures multiples :
+   ambulatoires pour les soins dits « de ville », sanitaires pour la prise
+   en charge hospitalière et médico-sociales et sociales pour des publics
+   dits « fragiles », âgés ou handicapés. Il repose sur la liberté de
+   choix du patient et du résident : chaque patient est libre de choisir
+   son médecin traitant, un spécialiste en accès direct, son établissement
+   de santé, sa structure d'hébergement, ceci dans le secteur public comme
+   dans le secteur privé.
+
+   L'Assurance maladie couvre la prise en charge des prestations suivantes
+   si elles sont inscrites à la nomenclature des prestations
+   remboursables :
+     * les soins et traitements hospitaliers dans les établissements
+       publics ou privés de santé, de réadaptation ou de rééducation ;
+     * les soins ambulatoires dispensés par les médecins généralistes, les
+       spécialistes, les dentistes et les sages-femmes ;
+     * les examens diagnostiques et les soins prescrits par les médecins
+       et effectués par les laboratoires d'analyses et les professionnels
+       paramédicaux (infirmières, physiothérapeutes, orthophonistes,
+       etc.) ;
+     * les médicaments, les appareils médicaux et les prothèses prescrits
+       par ordonnance et figurant sur les listes de produits
+       remboursables ;
+     * les transports sanitaires prescrits par ordonnance.
+
+   D'autres informations relatives au régime de sécurité sociale et à son
+   financement ainsi qu'aux conditions de prise en charge des soins
+   figurent sur le site du CLEISS.
+    I. Les acteurs et le pilotage du système de santé
+         a. Au niveau national : les ministères
+         b. Au niveau régional : les ARS
+         c. Les agences ou établissements de l'État
+         d. Les régimes d'assurance maladie
+         e. Les ordres et syndicats de professionels de santé
+         f. Les bénéficiaires du système de santé, via les associations de
+            patients
+   II. L'organisation des soins
+         a. La santé publique
+         b. Les soins ambulatoires
+         c. Les soins hospitaliers
+         d. Les soins d'urgence
+         e. Les soins de longue durée
+         f. Les pharmacies
+   III. Les coordonnées des différents prestataires de santé
+   IV. Le financement du système de soins
+         a. Les régimes d'assurance maladie obligatoire de base
+         b. Les régimes complémentaires (mutuelles, sociétés d'assurances,
+            institutions de prévoyance)
+         c. Les financeurs publics (État)
+         d. Les ménages
+    V. La surveillance des professionnels de santé
+         a. Les Agences régionales de santé (ARS)
+         b. La Haute Autorité de santé (HAS)
+         c. L'Agence nationale de sécurité du médicament et des produits
+            de santé (ANSM)
+         d. L'Agence nationale de sécurité sanitaire de l'alimentation, de
+            l'environnement et du travail (ANSES)
+         e. L'Institut de radioprotection et de sûreté nucléaire (IRSN)
+
+I. Les acteurs et le pilotage du système de santé
+
+a) Au niveau national : les ministères
+
+   L'État intervient directement dans le financement et l'organisation de
+   l'offre sanitaire et médico-sociale. À ce titre, les ministères chargés
+   de la santé, de l'action et des comptes publics assument un large
+   éventail de responsabilités, parmi lesquelles :
+     * le pilotage et la mise en œuvre des politiques de santé publique,
+       de veille et de sécurité sanitaire afin de préserver et d'améliorer
+       l'état de santé de la population par la prévention des maladies
+       chroniques, la lutte contre les risques infectieux ou
+       environnementaux, et de la protéger des menaces sanitaires. Pour y
+       parvenir, les ministères s'appuient sur les agences sanitaires
+       (Santé publique France, Agence nationale d'appui à la performance
+       des établissements de santé et médico-sociaux), opérateurs publics
+       dont ils assurent la tutelle, ainsi que sur des partenaires
+       indépendants tels que la Haute Autorité de Santé (HAS).
+     * la supervision de l'ensemble des établissements de soins et
+       d'accompagnement, la formation des professionnels de santé. L'État
+       veille à une bonne répartition des structures sanitaires,
+       médico-sociales et ambulatoires sur le territoire national. Il
+       veille également à la complémentarité efficace des professionnels
+       de ces structures, afin d'offrir une réponse adaptée et de
+       proximité aux besoins de santé de la population dans chaque
+       territoire.
+     * le soutien financier aux établissements sanitaires et
+       médico-sociaux, la fixation des tarifs de prestation et la maîtrise
+       des coûts en santé, la tutelle des organismes d'assurance maladie.
+       Chaque année, le parlement vote la loi de financement de la
+       sécurité sociale : elle définit l'objectif national de dépenses
+       d'assurance maladie qui intègre les soins de ville, hospitaliers et
+       médico-sociaux. À partir de ces montants budgétaires et en fonction
+       des orientations du gouvernement, les ministères élaborent leurs
+       politiques en vue de leur mise en œuvre : santé publique, offre de
+       soins.
+
+   Les principales actions du Ministère de la santé consistent à :
+     * répartir les budgets entre les différents secteurs : hôpitaux,
+       soins ambulatoires, santé mentale, secteur sanitaire et social pour
+       les personnes atteintes d'un handicap et les personnes âgées et, en
+       ce qui concerne les hôpitaux, entre les différentes régions ;
+     * décider du nombre de lits d'hôpitaux et de la quantité
+       d'équipements médicaux lourds, y compris les technologies médicales
+       coûteuses ;
+     * fixer les tarifs forfaitaires des hôpitaux publics et privés ;
+     * approuver les accords signés entre l'Assurance maladie et les
+       syndicats représentant les professionnels de santé libéraux ;
+     * fixer les prix des médicaments et des dispositifs médicaux sur la
+       base des propositions de la Haute Autorité de Santé (HAS) ;
+     * établir des normes de sécurité pour les hôpitaux ;
+     * définir les domaines prioritaires des programmes de santé
+       nationaux.
+
+   Par ailleurs, des corps de contrôle tels que la Cour des Comptes ou
+   l'Inspection générale des Affaires Sociales (IGAS) vérifient
+   l'exécution de la loi de financement de la sécurité sociale.
+
+b) Au niveau régional : les ARS
+
+   Les agences régionales de santé assurent la coordination de la
+   prévention, des soins et de l'accompagnement. Elles veillent à une
+   gestion cohérente des ressources pour permettre un accès égal de tous à
+   une prise en charge continue, de qualité et sécurisée.
+     * En matière de prévention : elles mettent en œuvre au niveau
+       régional la politique de santé en liaison avec les autorités
+       compétentes dans les domaines de la santé au travail, de la santé
+       scolaire et universitaire, et de la protection maternelle et
+       infantile. À ce titre :
+          + elles organisent l'observation de la santé dans la région, et
+            la veille sanitaire, en particulier le recueil, la
+            transmission et le traitement des signalements d'événements
+            sanitaires ;
+          + elles contribuent à l'organisation de la réponse aux urgences
+            sanitaires et à la gestion des situations de crise sanitaire ;
+          + elles établissent un programme annuel de contrôle du respect
+            des règles d'hygiène (prélèvements, analyses et vérifications)
+            et procèdent aux inspections nécessaires ;
+          + elles définissent et financent des actions visant à promouvoir
+            la santé, à informer et à éduquer la population à la santé et
+            à prévenir les maladies, les handicaps et la perte
+            d'autonomie, et elles veillent à leur évaluation.
+     * En matière de soins et d'accompagnement : elles régulent, orientent
+       et organisent l'offre de services de santé, de manière à répondre
+       aux besoins en matière de prévention, de promotion de la santé, de
+       soins et de services médico-sociaux, et à garantir l'efficacité du
+       système de santé. À ce titre :
+          + elles contribuent à évaluer et à promouvoir les formations des
+            professionnels de santé, des acteurs de la prévention de la
+            santé, des personnels qui apportent au domicile des personnes
+            âgées dépendantes et des personnes atteintes d'un handicap ou
+            dans les établissements une assistance dans les actes
+            quotidiens de la vie, ainsi que les formations des aidants et
+            des accueillants familiaux ;
+          + elles autorisent la création et les activités des
+            établissements de santé, et des établissements et services
+            médico-sociaux ; elles contrôlent leur fonctionnement et leur
+            allouent les ressources qui relèvent de leur compétence ;
+          + elles veillent à ce que la répartition territoriale de l'offre
+            de prévention, de promotion de la santé, de soins et
+            médico-sociale permette de satisfaire les besoins de santé de
+            la population, elles contribuent à la constitution de
+            communautés professionnelles territoriales de santé et
+            assurent la mise en place du projet territorial de santé
+            mentale ;
+          + elles contribuent à mettre en œuvre un service unique d'aide à
+            l'installation des professionnels de santé ;
+          + elles veillent à la qualité des interventions en matière de
+            prévention, de promotion de la santé, à la qualité et à la
+            sécurité des actes médicaux, de la dispensation et de
+            l'utilisation des produits de santé ainsi que des prises en
+            charge et accompagnements médico-sociaux et elles procèdent à
+            des contrôles à cette fin ; elles contribuent à la lutte
+            contre la maltraitance et au développement de la bientraitance
+            dans les établissements et services de santé et
+            médico-sociaux ;
+          + elles veillent à assurer l'accès à la prévention, à la
+            promotion de la santé, aux soins de santé et aux services
+            psycho-sociaux des personnes en situation de précarité ou
+            d'exclusion ;
+          + elles définissent et mettent en œuvre les actions régionales
+            déclinant le plan national de gestion du risque et
+            d'efficience du système de soins ou le complétant. Ces actions
+            portent sur le contrôle et l'amélioration des modalités de
+            recours aux soins et des pratiques des professionnels de santé
+            en médecine ambulatoire et dans les établissements et services
+            de santé et médico-sociaux ;
+          + elles encouragent et favorisent, au sein des établissements,
+            l'élaboration et la mise en œuvre d'un volet culturel ;
+          + elles évaluent et identifient les besoins sanitaires des
+            personnes en détention. Elles définissent et régulent l'offre
+            de soins en milieu pénitentiaire ;
+          + elles sont chargées d'organiser les fonctions d'appui aux
+            professionnels pour la coordination des parcours de santé
+            complexes ;
+          + elles favorisent des actions tendant à rendre les publics
+            cibles acteurs de leur propre santé. Elles visent, dans une
+            démarche de responsabilisation, à permettre l'appropriation
+            des outils de prévention et d'éducation à la santé ;
+          + elles participent, en lien avec les universités et les
+            collectivités territoriales concernées, à l'analyse des
+            besoins et de l'offre en matière de formation pour les
+            professionnels des secteurs sanitaire et médico-social ;
+          + elles s'associent avec l'ensemble des acteurs de santé, les
+            universités, les établissements publics à caractère
+            scientifique et technologique ou tout autre organisme de
+            recherche pour participer à l'organisation territoriale de la
+            recherche en santé ;
+          + dans le respect des engagements internationaux de la France et
+            en accord avec les autorités compétentes de l'État, elles sont
+            autorisées à développer des actions de coopération
+            internationale en vue de promouvoir les échanges de bonnes
+            pratiques avec leurs partenaires étrangers.
+
+   Ainsi, les ARS déclinent les politiques nationales et les adaptent à
+   leurs caractéristiques régionales (démographiques, épidémiologiques,
+   géographiques) en établissant des programmes régionaux de santé (PRS),
+   composés de :
+     * schémas régionaux de prévention,
+     * schémas d'organisation des soins de ville et hospitaliers,
+     * schémas régionaux d'organisation médico-sociale pour les personnes
+       âgées ou dépendantes, atteintes d'un handicap, en situation de
+       précarité.
+
+   Lutter contre les inégalités, améliorer la répartition locale de
+   l'offre de soins et médico-sociale, et mieux adapter les réponses aux
+   spécificités et aux besoins locaux constituent les objectifs des
+   services régionaux.
+
+c) Les agences ou établissements de l'État
+
+   L'Agence de biomédecine est une agence publique nationale de l'État
+   créée par la loi de bioéthique. L'Agence exerce ses missions dans les
+   domaines du prélèvement et de la greffe d'organes, de tissus et de
+   cellules, ainsi que dans les domaines de la procréation, de
+   l'embryologie et de la génétique humaines. Elle est l'autorité de
+   référence sur les aspects médicaux, scientifiques et éthiques relatifs
+   à ces questions.
+
+   Ses missions consistent à :
+     * suivre, évaluer et contrôler les activités thérapeutiques et
+       biologiques relevant de ses compétences, veiller à leur
+       transparence et participer à l'élaboration de la réglementation des
+       activités relevant de ses prérogatives ;
+     * délivrer les autorisations pour les recherches in vitro sur
+       l'embryon et les cellules embryonnaires et pour la conservation de
+       cellules souches embryonnaires à des fins de recherches ;
+     * autoriser les échanges de cellules reproductives et de cellules
+       souches embryonnaires avec des pays tiers destinés à la recherche ;
+     * délivrer des autorisations aux centres pluridisciplinaires de
+       diagnostic prénatal et aux centres de diagnostic préimplantatoire ;
+     * agréer les praticiens réalisant de l'assistance médicale à la
+       procréation, du diagnostic prénatal et du diagnostic
+       préimplantatoire, des examens des caractéristiques génétiques ;
+     * gérer l'ensemble des activités en matière de prélèvement et de
+       greffe ;
+     * gérer le registre national des volontaires au don de moelle
+       osseuse ;
+     * gérer, avec toutes les garanties requises, les fichiers nécessaires
+       à la gestion et au suivi des activités thérapeutiques relevant de
+       sa compétence ;
+     * promouvoir le don d'organes, de tissus et de cellules, ainsi que le
+       don de gamètes.
+
+   L'Établissement français du sang (EFS) est un opérateur civil unique de
+   la transfusion sanguine. Il a pour mission principale l'autosuffisance
+   nationale en produits sanguins. Il s'investit également dans de
+   nombreuses activités, comme les analyses de biologie médicale (en
+   réalisant différents types d'analyses biologiques, hématologiques et
+   immunologiques, examens indispensables dans le cadre d'une transfusion
+   mais également d'une greffe d'organe, de tissus ou de cellules), mais
+   également la thérapie cellulaire et tissulaire ou la recherche (dans
+   les domaines de pointe comme l'ingénierie cellulaire et tissulaire,
+   l'interface immunologique entre donneur et receveur, ou le
+   développement de nouvelles technologies de dépistage et de prévention
+   des risques microbiologiques).
+
+d) Les régimes d'assurance maladie
+
+   Voir point IV.
+
+e) Les ordres et syndicats de professionnels de santé
+
+   Sept catégories de  professionnels de santé sont regroupés au sein
+   d'un ordre professionnel : médecins, pharmaciens, sages-femmes,
+   chirurgiens-dentistes, infirmiers, masseurs-kinésithérapeutes et
+   pédicures-podologues. Ces ordres sont des organismes à caractère
+   corporatif institués par la loi. Ils remplissent une fonction de
+   représentation de la profession mais également une mission de service
+   public en participant à la réglementation de l'activité et en jouant le
+   rôle de juridiction disciplinaire pour ses membres. L'appartenance à
+   l'ordre de sa profession est obligatoire pour pouvoir exercer.
+
+   Les ordres professionnels sont donc des personnes morales de droit
+   privé chargées d'une mission de service public. Ils exercent un double
+   rôle :
+     * vis-à-vis de l'État, l'ordre représente la profession. Il peut à ce
+       titre être saisi par les autorités étatiques de tout projet de
+       réforme de l'organisation ou du fonctionnement de la profession ;
+     * vis-à-vis de la profession, l'ordre a pour tâche essentielle de
+       faire respecter une certaine discipline intérieure.
+
+   Pour mener à bien cette mission de service public, ils disposent de
+   prérogatives de puissance publique, leur permettant d'exercer 2
+   compétences :
+     * administrative/réglementaire : ils édictent certaines règles
+       d'exercice de la profession. Ils peuvent par exemple édicter des
+       codes de conduite ou de déontologie énonçant les devoirs des
+       professionnels. Ce sont les conseils supérieurs de chaque ordre qui
+       sont chargés de cette fonction. Par ailleurs, ils contrôlent
+       l'inscription au tableau de l'ordre, c'est-à-dire l'entrée et
+       l'avancement dans la profession. Ils peuvent également autoriser
+       divers aspects de la vie de la profession, tels que les
+       remplacements de confrères, l'ouverture ou le maintien de cabinets
+       médicaux secondaires, etc.
+     * compétence disciplinaire/répressive : ils peuvent condamner les
+       membres de la profession coupables de fautes personnelles. Ils
+       agissent alors en tant que juridictions ordinales.
+
+   Les syndicats sont chargés des négociations entre les professionnels de
+   santé et l'Assurance maladie concernant les honoraires et toutes
+   questions relatives à la pratique médicale.
+
+f) Les bénéficiaires du système de santé, via les associations de patients
+
+   Les associations de patients font partie des personnalités qualifiées
+   participant au conseil de surveillance des établissements de santé. Le
+   rôle de cette structure est centré sur les orientations stratégiques et
+   le contrôle permanent de la gestion des établissements. Les
+   associations, régulièrement déclarées, ayant une activité dans le
+   domaine de la qualité de la santé et de la prise en charge des malades
+   peuvent faire l'objet d'un agrément, subordonné à l'activité effective
+   et publique de l'association en vue de la défense des droits des
+   personnes malades et des usagers du système de santé ainsi qu'aux
+   actions de formation et d'information qu'elle conduit.
+
+II. L'organisation des soins
+
+a) La santé publique
+
+   Au niveau national, Santé publique France est un centre de référence en
+   santé publique, agence d'expertise scientifique, sous tutelle de
+   l'État. Elle a pour mission d'améliorer et de protéger la santé des
+   populations. Cette mission s'articule autour de 3 axes majeurs :
+     * assurer la mise en œuvre d'un système national de veille et de
+       surveillance afin de détecter et d'anticiper les risques sanitaires
+       et d'apporter les éléments de décision à la puissance publique ;
+     * améliorer la connaissance sur l'état de santé de la population, les
+       comportements, les risques pour la santé et concevoir les
+       stratégies d'intervention en prévention et promotion de la santé ;
+     * promouvoir la santé, agir sur les environnements, expérimenter et
+       mettre en œuvre les programmes de prévention, répondre aux crises
+       sanitaires.
+
+   En tant qu'agence scientifique et d'expertise du champ sanitaire, Santé
+   publique France a en charge :
+     * l'observation épidémiologique et la surveillance de l'état de santé
+       des populations ;
+     * la veille sur les risques sanitaires menaçant les populations ;
+     * le lancement de l'alerte sanitaire ;
+     * la promotion de la santé et la réduction des risques pour la
+       santé ;
+     * le développement de la prévention et de l'éducation pour la santé ;
+     * la préparation et la réponse aux menaces, alertes et crises
+       sanitaires.
+
+   Au niveau municipal, des structures de prévention mettent en œuvre les
+   directives nationales en matière de santé publique notamment :
+     * les services de santé au travail,
+     * les service de médecine scolaire,
+     * les services de vaccination,
+     * les services de protection maternelle et infantile (PMI) assurant
+       des soins prénataux ou postnataux,
+     * les structures de dépistage des maladies non transmissibles
+       (cancer) ou transmissibles (Sida, hépatites).
+
+   Les municipalités sont légalement responsables de la surveillance et de
+   la purification de l'approvisionnement en eau, du contrôle de la
+   pollution atmosphérique et sonore, de l'élimination des déchets, de la
+   protection contre les radiations, de l'hygiène dans les zones
+   résidentielles, de l'hygiène alimentaire et de l'hygiène industrielle.
+
+b) Les soins ambulatoires primaires et spécialisés
+
+   Les soins ambulatoires (ou soins de ville) sont les soins effectués en
+   cabinets de ville, dispensaires, centres de soins, lors de
+   consultations externes d'hôpitaux publics ou privés, en cures thermales
+   et les actes d'analyse en laboratoire. Ils sont dispensés par les
+   médecins, dentistes et auxiliaires médicaux (infirmiers,
+   kinésithérapeutes, orthophonistes, orthoptistes)  dans le cadre de leur
+   activité libérale.
+
+   Les offreurs de soins et les producteurs de biens et services en santé
+   regroupent :
+     * des professions médicales et pharmaceutiques (médecins,
+       pharmaciens, chirurgiens-dentistes, sages-femmes), des auxiliaires
+       médicaux (infirmières, masseurs-kinésithérapeutes, orthophonistes,
+       etc.) aux statuts et aux modes d'exercices divers : libéraux,
+       salariés ou mixtes ;
+     * des réseaux de santé pluridisciplinaires (maisons de santé
+       pluridisciplinaires ou MSP, communautés professionnelles
+       territoriales de santé ou CPTS) intégrant médecins, infirmières et
+       d'autres professionnels (travailleurs sociaux, personnel
+       administratif, etc.) constitués pour favoriser l'accès aux soins,
+       la coordination, la continuité ou l'interdisciplinarité des prises
+       en charge et exerçant dans des maisons ou centres de santé.
+
+   Les professionnels de santé travaillant au sein de ces structures sont
+   essentiellement chargés de soins de premier recours et de la
+   prévention. Ils doivent élaborer un projet de santé attestant de leur
+   exercice coordonné. Les maisons de santé sont appelées à conclure avec
+   l'agence régionale de santé un contrat pluriannuel d'objectifs et de
+   moyens préalablement à tout versement d'une aide financière par
+   l'agence.
+
+   Les communautés professionnelles territoriales de santé (CPTS) sont
+   constituées de l'ensemble des acteurs de santé (professionnels de santé
+   de ville, qu'ils exercent à titre libéral ou salarié, des
+   établissements de santé, des acteurs de la prévention ou promotion de
+   la santé, des établissements et services médico-sociaux, sociaux…) qui
+   souhaitent se coordonner sur un territoire, pour répondre à une ou
+   plusieurs problématiques en matière de santé qu'ils ont identifiées. Le
+   projet de santé est un pré-requis à la contractualisation entre les
+   professionnels et l'ARS.
+
+   La mise en place le parcours de soins coordonnés a imposé à chaque
+   assuré social de plus de 16 ans de désigner un médecin traitant à sa
+   caisse d'assurance maladie. Le médecin traitant intervient en tant que
+   contrôleur de l'accès aux soins. Il est le premier interlocuteur du
+   patient et, le cas échéant, oriente ce dernier vers d'autres
+   professionnels de santé (médecin spécialiste, médecin hospitalier,
+   etc.). Il coordonne l'ensemble des soins et centralise toutes les
+   informations sur les soins prodigués au patient et son état de santé
+   (gestion du dossier médical).
+
+   Le choix du médecin traitant est libre. Il peut s'agir d'un médecin
+   généraliste ou d'un médecin spécialiste, choisi sans restriction
+   géographique. L'assuré peut changer de médecin traitant à tout moment.
+   Si le patient ne respecte pas le parcours de soins coordonnés et s'il
+   consulte un médecin spécialiste sans consultation préalable de son
+   médecin traitant, il sera moins bien remboursé par
+   l'Assurance maladie.
+
+   Les soins spécialisés sont également dispensés dans les établissements
+   hospitaliers, sous forme de consultations externes (ambulatoires), sans
+   hospitalisation et assurées par des praticiens spécialistes. Ces
+   consultations sont délivrées sur le même mode qu'une consultation de
+   ville et sont intégrées au parcours de soins, donc prescrites par les
+   médecins traitants.
+
+c) Les soins hospitaliers
+
+   Les établissements de santé couvrent des champs d'intervention
+   différents, (hospitalier ou médico-social), avec des statuts qui
+   peuvent être publics ou privés :
+     * des établissements hospitaliers répartis en plusieurs catégories :
+       établissements publics, établissements privés d'intérêt collectif
+       conventionnés (comme par exemple les hôpitaux privés, les centres
+       de lutte contre le cancer ou de dialyse) et établissements privés à
+       but lucratif. Ils délivrent des soins généraux (médecine,
+       chirurgie, obstétrique) et/ou plus spécialisés (psychiatrie et
+       santé mentale) en assurant le diagnostic, la surveillance et le
+       traitement des malades, des blessés et des femmes enceintes ;
+          + ils concourent à la médecine d'urgence avec, répartis sur tout
+            le territoire, des services d'urgence, des services d'aide
+            médicale urgente (SAMU) pour la régulation, et des services
+            mobiles d'urgence et de réanimation (SMUR) pour les
+            interventions ;
+          + ils mènent des actions de prévention et d'éducation à la
+            santé ;
+          + ils délivrent les soins, le cas échéant palliatifs, avec ou
+            sans hébergement, sous forme ambulatoire ou à domicile ;
+          + ils participent à la coordination des soins en relation avec
+            les membres des professions de santé exerçant en pratique de
+            ville et les établissements et services médico-sociaux ;
+          + ils participent à la mise en œuvre de la politique de santé et
+            des dispositifs de vigilance destinés à garantir la sécurité
+            sanitaire ;
+          + ils mènent, en leur sein, une réflexion sur l'éthique liée à
+            l'accueil et la prise en charge médicale ;
+          + ils peuvent développer des alternatives à l'hospitalisation
+            qui ont pour objet d'éviter une hospitalisation à temps
+            complet ou d'en diminuer la durée. Parmi ces alternatives : la
+            chirurgie ambulatoire, la télémédecine (téléconsultation,
+            téléexpertise ou télésurveillance, par exemple),
+            l'hospitalisation à domicile, les services de soins infirmiers
+            à domicile, l'accueil temporaire en établissement
+            d'hébergement pour personnes âgées dépendantes ;
+          + ils mettent en œuvre une politique d'amélioration continue de
+            la qualité et de la sécurité des soins et une gestion des
+            risques visant à prévenir et à traiter les événements
+            indésirables liés à leurs activités ;
+          + ils prennent en charge l'enseignement et la formation
+            professionnelle ainsi que la recherche scientifique et
+            médicale (hôpitaux publics).
+
+     * Les groupements hospitaliers de territoires (GHT) sont un
+       dispositif conventionnel, obligatoire depuis juillet 2016, entre
+       établissements publics de santé d'un même territoire, par lequel
+       ils s'engagent à se coordonner autour d'une stratégie de prise en
+       charge commune et graduée du patient, formalisée dans un projet
+       médical partagé.
+       Le principe est d'inciter les établissements de santé à mutualiser
+       leurs équipes médicales et à répartir les activités de façon à ce
+       que chaque structure trouve son positionnement dans la région. Les
+       GHT organisent la complémentarité des établissements de santé, en
+       prenant en compte la spécificité de chacun dans la construction de
+       l'offre de soins. Ils permettent de mieux organiser les prises en
+       charge, territoire par territoire, et de présenter un projet
+       médical répondant aux besoins de la population.
+       Il s'agit, à travers l'élaboration d'un projet médical partagé, de
+       favoriser l'émergence de filières de soins territorialisées et
+       d'organiser la gradation de l'offre de soins, afin de garantir une
+       égalité d'accès à des soins sécurisés et de qualité.
+       L'objectif est de garantir à tous les patients un meilleur accès
+       aux soins en renforçant la coopération entre hôpitaux publics
+       autour d'un projet médical.
+
+d) Les soins d'urgence
+
+   Les services d'aide médicale urgente (SAMU) situés dans les hôpitaux et
+   la permanence des soins assurent les soins préhospitaliers d'urgence.
+   Le SAMU est accessible gratuitement sur tout le territoire national à
+   partir de n'importe quel téléphone en composant le 15. Les centres
+   partagent les informations avec les centres d'appel d'urgence de la
+   police (17) et des pompiers (18), afin que les urgences médicales
+   soient traitées de manière appropriée. De même, les centres d'appels
+   médicaux ou de pompiers répondent au numéro d'urgence européen 112.
+
+   Les appels d'urgence qui parviennent au centre d'appel médical sont
+   traités par des réceptionnistes spécialisés qui sont supervisés et
+   soutenus par des médecins. Les mesures prises dépendent du niveau
+   d'urgence. Si les premiers secours sont nécessaires sur place, les
+   centres d'appel d'urgence médicale peuvent envoyer une unité mobile de
+   soins intensifs (services mobiles d'urgence et de réanimation ou SMUR),
+   une équipe de premiers secours des pompiers ou un médecin généraliste
+   de garde. Sinon, il est conseillé au patient de se rendre en ambulance
+   à l'hôpital d'urgence le plus proche si nécessaire. Le système de
+   continuité des soins est conçu pour apporter une réponse rapide et
+   appropriée aux besoins des patients la nuit et les week-ends ou jours
+   fériés lorsque les cabinets de médecine ambulatoire sont fermés.
+
+   À leur arrivée à l'hôpital, les patients en situation d'urgence sont
+   pris en charge dans un service dédié, appelé communément « service
+   d'urgences », chargé d'accueillir 24 heures sur 24 toute personne en
+   situation d'urgence réelle ou ressentie, sans sélection, ce service
+   hospitalier faisant partie des structures d'orientation et de tri des
+   patients.
+
+   L'arrivée aux urgences peut se faire de deux manières :
+     * soit le patient y est acheminé par un SMUR, les sapeurs-pompiers ou
+       un ambulancier privé ;
+     * soit le patient s'y rend par ses propres moyens – en étant
+       éventuellement envoyé par un médecin de ville.
+
+   Les services d'urgence assurent l'accueil, l'orientation et, dans
+   certains cas, le traitement du patient sans distinguer pathologie
+   médicale, chirurgicale ou psychiatrique. Toute personne se présentant
+   aux urgences doit faire l'objet d'une consultation.
+
+   Pour remplir leur mission, les services d'urgence disposent :
+     * d'une zone d'accueil et d'orientation où s'effectue le tri des
+       patients ;
+     * d'une salle d'accueil des urgences vitales où sont soignées les
+       personnes présentant une urgence vitale ;
+     * d'une zone de consultation ;
+     * d'une salle d'observation, où les patients attendent les résultats
+       de leurs examens qui détermineront leur orientation future au sein
+       du parcours de soins ;
+     * d'une unité d'hospitalisation de courte durée, dans laquelle le
+       patient ne peut rester plus de 24 heures. Le patient doit ainsi
+       être transféré au plus vite vers le service spécialisé requis. La
+       coordination avec les autres services de l'établissement des lits
+       disponibles en aval est donc indispensable.
+
+e) Les soins de longue durée
+
+   Les établissements médico-sociaux regroupent, entre autres, les
+   établissements d'hébergement pour personnes âgées dépendantes (EHPAD)
+   et les structures pour personnes atteintes d'un handicap.
+
+   Ils ont pour mission d'apporter un accompagnement et une prise en
+   charge aux publics dits « fragiles », en situation de précarité,
+   d'exclusion, de handicap ou de dépendance. Leurs missions d'intérêt
+   général et d'utilité sociale sont les suivantes :
+     * évaluation et prévention des risques sociaux et médico-sociaux :
+       (information, investigation, conseil, orientation, formation,
+       médiation et réparation) ;
+     * protection administrative ou judiciaire de l'enfance et de la
+       famille, de la jeunesse, des personnes atteintes d'un handicap, des
+       personnes âgées ou en difficulté ;
+     * actions éducatives, médico-éducatives, médicales, thérapeutiques,
+       pédagogiques et de formation adaptées aux besoins de la personne, à
+       son niveau de développement, à ses potentialités, à l'évolution de
+       son état ainsi qu'à son âge ;
+     * actions d'intégration scolaire, d'adaptation, de réadaptation,
+       d'insertion, de réinsertion sociales et professionnelles, d'aide à
+       la vie active, d'information et de conseil sur les aides techniques
+       ainsi que d'aide au travail ;
+     * actions d'assistance dans les divers actes de la vie, de soutien,
+       de soins et d'accompagnement, y compris à titre palliatif ;
+     * actions contribuant au développement social et culturel, et à
+       l'insertion par l'activité économique.
+
+   Les soins résidentiels ou temporaires pour les personnes âgées sont
+   fournis par de nombreuses institutions offrant différents niveaux de
+   service. Il s'agit notamment des foyers logements collectifs (foyers
+   logements) qui offrent une gamme d'installations non médicales (telles
+   que la restauration et la blanchisserie) mais presque aucun soin
+   médical ; des maisons de retraite (établissements d'hébergement pour
+   personnes agées dépendantes ou EHPAD) qui accueillent les personnes
+   âgées mais offrent également des soins médicaux ; des unités de soins
+   de longue durée qui accueillent des personnes dont les soins
+   nécessitent un suivi médical constant pour les personnes très malades
+   et dépendantes ; des services intermédiaires qui accueillent pendant de
+   courtes périodes des personnes âgées fragiles ne vivant pas dans des
+   services résidentiels. Les soins sont dispensés sur une base
+   quotidienne (accueil de jour) ou temporaire (accueil temporaire).
+
+   Le financement des institutions résidentielles pour personnes âgées
+   fragiles est actuellement partagé entre l'Assurance maladie qui couvre
+   le coût des soins médicaux, les conseils généraux, qui couvrent le coût
+   des frais personnels liés à la perte d'autonomie et les usagers, qui
+   couvrent principalement le coût du logement et de l'alimentation.
+
+   Les soins à domicile : des services de soins intermédiaires fournissent
+   des soins temporaires aux patients dépendants et des services de répit
+   à leurs aidants. Ils favorisent une meilleure intégration et une plus
+   grande autonomie des personnes dépendantes. Les soins à domicile sont
+   principalement fournis par des médecins et des infirmières indépendants
+   et, dans une moindre mesure, par les services de soins infirmiers à
+   domicile (SSIAD), qui prennent en charge des soins de nursing
+   (toilette) ou des actes infirmiers (pansements, distribution des
+   médicaments, injections), soins financés par l'Assurance maladie ou par
+   les services d'aide et d'accompagnement à domicile (SAAD) qui prennent
+   en charge, dans le cadre de l'aide sociale, les services ménagers et
+   des prestations d'aide à la personne pour les activités ordinaires et
+   les actes essentiels de la vie quotidienne (entretien du logement,
+   entretien du linge, préparation des repas, courses, aide à la toilette,
+   aide à l'habillage et au déshabillage).
+
+   Les Services polyvalents d'aide et de soins à domicile (SPASAD)
+   apportent à la fois un accompagnement dans les actes de la vie
+   quotidienne et des soins infirmiers. Ils regroupent des services qui
+   assurent les missions d'un service de soins infirmiers à domicile
+   (SSIAD) et les missions d'un service d'aide et d'accompagnement à
+   domicile (SAAD). Ils favorisent la coordination des interventions tant
+   autour de la personne accompagnée, qu'auprès des différents acteurs du
+   secteur.
+
+   L'évaluation des besoins de la personne donne lieu à l'élaboration d'un
+   projet individualisé d'aide, d'accompagnement et de soins, construit et
+   mis en œuvre dans une démarche conjointe par les personnels de l'aide
+   et du soin à domicile, pour une prise en charge globale plus cohérente.
+
+f) Les pharmacies
+
+   Le marché pharmaceutique français comporte 3 composantes distinctes :
+   les médicaments soumis à prescription médicale obligatoire et les
+   médicaments soumis à prescription médicale facultative, qui sont tous
+   deux délivrés principalement par des pharmacies de détail, et les
+   médicaments réservés aux hôpitaux.
+
+   La distribution des médicaments est étroitement réglementée, tant pour
+   les grossistes que pour les pharmacies. Les grossistes-répartiteurs ont
+   une mission de service public et sont soumis au contrôle réglementaire
+   de l'Agence nationale de sécurité du médicament (ANSM) en ce qui
+   concerne la gamme de médicaments fournis, le niveau des stocks, les
+   délais de livraison sur des territoires définis ainsi que leurs marges
+   bénéficiaires. Les pharmacies ont un monopole sur la distribution des
+   médicaments délivrés sur ordonnance médicale. En général, les
+   pharmacies de détail doivent être la propriété d'un pharmacien qualifié
+   ou d'un groupe de pharmaciens associés au sein d'une société ; ces
+   pharmaciens ou sociétés ne peuvent pas être propriétaires de plus d'une
+   pharmacie. Le nombre de pharmacies est réglementé par un numerus
+   clausus qui tient compte à la fois de l'importance de la population à
+   desservir et de la distance à parcourir jusqu'à la pharmacie la plus
+   proche. Les pharmaciens bénéficient d'incitations financières pour la
+   livraison de médicaments génériques.
+
+   La publicité directe aux consommateurs pour les médicaments est soumise
+   à une autorisation préalable. Elle est limitée aux spécialités qui
+   répondent à 3 critères : elles peuvent être délivrées sans ordonnance
+   du médecin, elles ne sont pas couvertes par l'Assurance maladie et
+   aucune restriction sur la publicité n'a été incluse dans l'autorisation
+   de mise sur le marché du produit. Les vaccins sont la seule exception à
+   cette règle.
+
+   La vente libre de médicaments sur Internet est autorisée mais seuls les
+   pharmaciens peuvent exercer cette activité, qui doit être directement
+   liée à une pharmacie physique et autorisée par les agences régionales
+   de santé.
+
+   Tous les évènements indésirables liés à la prise de médicaments doivent
+   être signalés par les médecins, les dentistes, les sages-femmes et les
+   pharmaciens aux centres régionaux de pharmacovigilance, chargés de
+   procéder aux enquêtes nécessaires et d'informer le fabricant. Les
+   patients et les associations de patients peuvent déclarer directement
+   les effets indésirables. Les déclarations d'effets indésirables
+   validées doivent être communiquées à l'Agence européenne des
+   médicaments dans un délai de 15 jours.
+
+III. Les coordonnées des différents prestataires de santé
+
+     * Le site Annuaire santé est un service de l'Assurance maladie
+       française. Il permet de rechercher selon plusieurs critères (nom,
+       spécialité, localisation, type d'acte) un professionnel de santé
+       (médecin, infirmier, pharmacien...) ou un établissement de soins
+       (hôpital, clinique...) autorisé à exercer en France.
+     * Le fichier national des établissements sanitaires et sociaux
+       (FINESS) par thème ou lieu géographique.
+     * Les différents types d'établissements médico-sociaux peuvent être
+       consultés sur le site de la Caisse nationale de Solidarité pour
+       l'autonomie (CNSA).
+     * Le site élaboré par le Conseil National des Établissements Thermaux
+       (CNETh) www.medecinethermale.fr contient un annuaire des
+       établissements thermaux en France.
+
+IV. Le financement du système de soins
+
+   En France, le financement du système de remboursement des frais
+   médicaux est organisé en deux étages principaux : les régimes
+   obligatoires et les régimes complémentaires.
+
+a) Les régimes d'assurance maladie obligatoire de base
+
+   Ils sont caractérisés par l'obligation d'adhésion et de cotisation et
+   ils reposent donc sur une solidarité large, basée sur des contributions
+   assises sur les revenus, et un accès aux soins défini selon les
+   besoins.
+
+   Les principaux régimes de sécurité sociale (régime général et régime
+   agricole) sont regroupés au sein de l'Union nationale des caisses
+   d'assurance maladie (Uncam) dont le rôle est de :
+     * conduire la politique conventionnelle qui détermine les liens entre
+       l'Assurance maladie et les professionnels de santé libéraux,
+     * définir le champ des prestations admises au remboursement,
+     * fixer le taux de prise en charge des soins.
+
+   Les régimes obligatoires d'assurance maladie concentrent leur
+   intervention en faveur du « gros risque », c'est-à-dire des risques
+   santé qui ont le plus de conséquences sur les revenus des assurés, soit
+   parce que leurs pathologies nécessitent des soins de longue durée et/ou
+   coûteux, soit parce qu'elles mobilisent un plateau technique conséquent
+   tant en termes de matériels, de techniques que de personnels, comme les
+   dépenses réalisées dans les hôpitaux.
+
+b) Les régimes complémentaires (mutuelles, sociétés d'assurances,
+institutions de prévoyance)
+
+   Les régimes complémentaires s'appuient sur une solidarité restreinte au
+   champ des adhérents et offrent des prises en charge variables, définies
+   par le type de contrat souscrit. Ils permettent de couvrir la part des
+   dépenses de soins de santé qui n'est pas prise en charge par le régime
+   de base obligatoire (tickets modérateurs, franchises, forfaits
+   hospitaliers, prises en charge en matière d'optique, d'orthèse ou de
+   matériels…).
+
+   Si les assurés ne bénéficient pas d'une couverture complémentaire
+   collective au titre de leur activité, ils peuvent contracter une
+   assurance complémentaire auprès d'une mutuelle, d'une institution de
+   prévoyance ou d'une compagnie d'assurance.
+
+c) Les financeurs publics (État)
+
+   Le troisième étage concerne surtout les dépenses de prévention, de
+   recherche médicale et pharmaceutique, de formation des professionnels
+   de santé (médecins, dentistes, pharmaciens, et auxiliaires médicaux),
+   de complémentaire santé solidaire (CSS), de dotations pour les hôpitaux
+   militaires, de soins d'urgence, ainsi que de prestations versées aux
+   bénéficiaires de l'aide médicale de l'État (AME).
+
+d) Les ménages
+
+   Enfin, une part des dépenses peut demeurer à la charge des
+   bénéficiaires de soins.
+
+V. La surveillance des professionnels de santé
+
+a) Les Agences régionales de santé (ARS)
+
+   Afin de prévenir les risques, les agences régionales de santé (ARS)
+   assurent d'importantes missions d'inspection-contrôle dans 3 domaines :
+   sécurité sanitaire, fonctionnement des établissements et services,
+   actes médicaux et pratiques des professionnels.
+
+   Les inspections-contrôles portent sur les secteurs :
+     * sécurité sanitaire, prévention des risques et protection de la
+       population (eaux de consommation et de loisirs, habitat,
+       établissements recevant du public, environnement extérieur),
+     * prévention et promotion de la santé,
+     * soins ambulatoires,
+     * soins hospitaliers,
+     * professions de santé,
+     * secteur médico-social.
+
+   L'objectif est d'articuler les missions d'inspections-contrôles avec
+   les politiques nationales de santé.
+
+La sécurité sanitaire
+
+   Il s'agit de tous les risques liés aux activités de soins, aux produits
+   consommés (produits alimentaires et produits de santé) et aux milieux
+   de vie (eau, air, sol).
+   Les inspections-contrôles menés par les agences concernent :
+     * les établissements de santé et médico-sociaux (déchets de soins à
+       risque infectieux, légionelles...),
+     * les cabinets médicaux, les tatoueurs, les établissements recevant
+       du public (amiante, eaux de loisirs, niveaux sonores…),
+     * les particuliers (habitat, monoxyde de carbone),
+     * les installations techniques publiques ou privées (captages,
+       réservoirs).
+
+Le fonctionnement des établissements sanitaires et médico-sociaux
+
+   Les agences régionales de santé veillent au bon fonctionnement des
+   établissements et services de santé ainsi que des établissements et
+   services médico-sociaux, en termes d'effectifs, de permanence médicale,
+   de qualification du personnel, etc.
+     * Dans les établissements de santé, les missions
+       d'inspections-contrôles concernent les conditions d'installation et
+       de fonctionnement des activités de soins (inspection de la
+       réanimation, de la maternité, des urgences, du bloc opératoire,
+       etc.).
+     * Dans les établissements médico-sociaux, il s'agit de repérer et de
+       prévenir les risques de maltraitance.
+
+Les actes médicaux et les pratiques des professionnels
+
+   En partenariat avec l'Assurance maladie, et/ou les Ordres
+   professionnels, les agences régionales mènent des actions de contrôle
+   et de sensibilisation des professionnels de santé autour des
+   thématiques suivantes, liées à la sécurité, la qualité et la pertinence
+   des soins :
+     * les prescriptions médicamenteuses,
+     * les prescriptions de transports sanitaires,
+     * la justification médicale des prestations,
+     * la conformité des pratiques médicales au regard des recommandations
+       de bonnes pratiques diffusées par les agences sanitaires.
+
+b) La Haute Autorité de santé (HAS)
+
+   Au titre de sa mission d'accréditation des médecins exerçant en
+   établissements de santé, la Haute Autorité de santé est chargée :
+     * de recueillir auprès des médecins ou des équipes médicales qui
+       demandent à être accrédités les déclarations des événements
+       considérés comme porteurs de risques médicaux et de procéder à leur
+       analyse ;
+     * d'élaborer avec les professionnels et les organismes concernés,
+       selon des méthodes scientifiquement reconnues, ou de valider des
+       référentiels de qualité des soins et des pratiques professionnelles
+       fondés sur des critères multiples ;
+     * de diffuser ces référentiels et de favoriser leur utilisation par
+       tous moyens appropriés ;
+     * d'organiser la procédure d'accréditation des médecins ou des
+       équipes médicales au regard des référentiels de qualité des soins
+       et des pratiques professionnelles ;
+     * de veiller, par tout moyen approprié, à la validation des méthodes
+       et à la cohérence des initiatives relatives à l'amélioration de la
+       qualité dans le domaine de la prise en charge des patients.
+
+   Afin d'assurer l'amélioration continue de la qualité et de la sécurité
+   des soins, tous les établissements de santé publics et privés doivent
+   faire l'objet d'une procédure externe d'évaluation dénommée
+   certification.
+
+   Cette procédure, conduite par la Haute Autorité de santé, vise à porter
+   une appréciation indépendante sur la qualité d'un établissement ou, le
+   cas échéant, d'un ou plusieurs pôles, structures internes ou activités
+   d'un établissement, à l'aide d'indicateurs, de critères et de
+   référentiels portant sur les procédures, les bonnes pratiques cliniques
+   et les résultats des différents services et activités de
+   l'établissement.
+
+c) L'Agence nationale de sécurité du médicament et des produits de santé
+(ANSM)
+
+   L'ANSM est l'autorité compétente pour toutes les décisions de sécurité
+   prises concernant les produits de santé, de leur fabrication à leur
+   commercialisation. Elle remplit 4 missions essentielles :
+     * évaluation scientifique,
+     * surveillance des laboratoires et réglementation de la publicité,
+     * inspection des sites industriels,
+     * information des professionnels de la santé.
+
+   Sa compétence s'applique aux médicaments (tous les médicaments [avant
+   et après autorisation de mise sur le marché] et matières premières,
+   médicaments dérivés du sang, stupéfiants et psychotropes, vaccins,
+   produits homéopathiques, à base de plantes et de préparations,
+   préparations magistrales et hospitalières), aux produits biologiques
+   (organes, tissus, cellules utilisés à des fins thérapeutiques, produits
+   de thérapie cellulaire et génique, produits sanguins labiles et
+   produits thérapeutiques annexes), aux dispositifs médicaux
+   (thérapeutiques, de diagnostic, diagnostic in vitro, des plateaux
+   techniques et logiciels médicaux), aux produits cosmétiques et de
+   tatouage et aux autres produits de santé (biocides).
+
+   L'ANSM développe plusieurs activités en France et pour le compte de
+   l'Union européenne :
+     * l'évaluation scientifique et technique de la qualité, de
+       l'efficacité et la sécurité d'emploi des médicaments et produits
+       biologiques ;
+     * la surveillance continue des effets indésirables prévisibles ou
+       inattendus des produits de santé ;
+     * l'inspection des établissements exerçant des activités de
+       fabrication ; d'importation, de distribution, de pharmacovigilance
+       et qui mènent des essais cliniques ;
+     * le contrôle des laboratoires pour libérer des lots de vaccins et de
+       médicaments dérivés du sang, le contrôle de produits présents sur
+       le marché, prélevés lors d'inspections, saisis par les autorités
+       judiciaires ou les douanes.
+
+   Ces actions débouchent sur la prise de décisions de police sanitaire
+   pour le compte de l'État français :
+     * autorisation de mise sur le marché (AMM), retrait ou suspension
+       d'AMM
+     * autorisation d'essais cliniques
+     * autorisation temporaire d'utilisation (ATU) nominative d'un
+       médicament et ATU de cohorte
+     * recommandations temporaires d'utilisation de spécialités
+       pharmaceutiques
+     * libération de lots de vaccins et de produits dérivés du sang
+     * retrait de produits ou de lots
+     * interdiction de dispositifs médicaux sur le marché français
+     * autorisation d'importation
+     * autorisation préalable ou interdiction de publicité...
+
+   L'ANSM développe également l'information des patients, des
+   professionnels de santé, des relais professionnels et sociétés
+   savantes, de la presse.
+
+d) L'Agence nationale de sécurité sanitaire de l'alimentation, de
+l'environnement et du travail (ANSES)
+
+   L'ANSES évalue les risques dans l'alimentation, l'environnement et les
+   lieux de travail par la surveillance, l'alerte, la recherche et
+   l'investigation. Ses missions de veille, de vigilance et de
+   surveillance permettent de nourrir l'évaluation des risques. L'Agence
+   évalue ainsi l'ensemble des risques (chimiques, biologiques,
+   physiques...) auxquels un individu peut être exposé, volontairement ou
+   non, à tous les âges et moments de sa vie, qu'il s'agisse d'expositions
+   au travail, pendant ses transports, ses loisirs, ou via son
+   alimentation. L'ANSES assure, par ailleurs, l'évaluation de
+   l'efficacité et des risques des médicaments vétérinaires, des produits
+   phytopharmaceutiques, matières fertilisantes, supports de culture et de
+   leurs adjuvants, ainsi que des biocides, afin de délivrer les
+   autorisations de mise sur le marché. Elle réalise également
+   l'évaluation des produits chimiques.
+
+   Au niveau national, l'ANSES est responsable de la surveillance de la
+   sécurité au travail et d'assurer la prévention et la protection de la
+   santé des travailleurs.
+
+e) L'Institut de radioprotection et de sûreté nucléaire (IRSN)
+
+   Le domaine d'expertise de l'IRSN couvre l'ensemble des risques liés aux
+   rayonnements ionisants utilisés dans l'industrie et la médecine, ainsi
+   qu'aux rayonnements naturels. L'Institut contribue à la formation en
+   radioprotection des professionnels de santé et des personnes
+   professionnellement exposées. Il participe à la veille permanente en
+   matière de radioprotection, notamment en concourant à la surveillance
+   radiologique de l'environnement et en assurant la gestion et
+   l'exploitation des données dosimétriques concernant les travailleurs
+   exposés aux rayonnements ionisants. Il tient l'inventaire des sources
+   de rayonnements ionisants.
+     __________________________________________________________________
+
+   Centre des Liaisons Européennes et Internationales de Sécurité Sociale
+   11 rue de la tour des Dames - 75436 Paris cedex 09
+   Tél. : +33(0)1 45 26 33 41
+
+   Qui sommes-nous ? Contact Informations légales Accessibilité Donnez
+   votre avis sur ce site Twitter Abonnements

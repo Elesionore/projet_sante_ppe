@@ -1,887 +1,292 @@
-   #alternate
 
-   Aller au contenu principal
 
-   Logo du Ministère de l‘Economie, des Finances et de la Souveraineté
-   industrielle et numérique
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NXPS2G
 
-entreprises.gouv.fr
-
-   Le portail de la Direction générale des Entreprises
-   (BUTTON) Afficher les réseaux sociaux
-     * FR
-     * EN
-
-     * La page Facebook de la DGE
-     * Le compte Twitter de la DGE
-     * Le compte Instagram de la DGE
-     * Les vidéos de la DGE sur Dailymotion
-     * Les vidéos de la DGE sur Youtube
-     * La page LinkedIn de la DGE
-     * Flux RSS : dernières actualités
-
-   Lancer la recherche
-   Lien vers la page de recherche
-
-   (menu) Menu
-     *
-          + Accueil
-          + Secteurs d'activité
-          + Enjeux
-          + Entreprises
-          + En pratique
-          + La DGE
-     *
-     * (BUTTON) Retour au niveau précédent
-       (BUTTON) Fermer le menu X
-       Secteurs d'activité
-       Les politiques sectorielles portées par la DGE
-          + Commerce et artisanat
-          + Industrie
-          + Numérique
-          + Services
-          + Tourisme
-          + Professions libérales
-          + (BUTTON) Retour au niveau précédent
-            (BUTTON) Fermer le menu X
-            Commerce et artisanat
-            L’ensemble du commerce regroupe, en 2015, 873 000 entreprises
-            réalisant un chiffre d’affaires de 1 417 Mds €
-               o La filière restauration
-               o Les acteurs
-               o Ventes réglementées
-               o Les dispositifs et labels
-               o (BUTTON) Retour au niveau précédent
-                 (BUTTON) Fermer le menu X
-                 Acteurs
-                    # Chambres de commerce et d'industrie (CCI)
-                    # Les Établissements d'enseignement supérieur
-                      consulaires
-                    # CNAC - Urbanisme commercial
-               o (BUTTON) Retour au niveau précédent
-                 (BUTTON) Fermer le menu X
-                 Ventes réglementées
-                    # Soldes
-               o (BUTTON) Retour au niveau précédent
-                 (BUTTON) Fermer le menu X
-                 Les dispositifs et labels
-                    # Entreprise du patrimoine vivant (EPV)
-                    # Le fait maison
-                    # Maître restaurateur
-                    # Métiers d'art
-                    # Valorisation des métiers
-          + (BUTTON) Retour au niveau précédent
-            (BUTTON) Fermer le menu X
-            Industrie
-            L'industrie
-            L'industrie rassemble les activités économiques dédiées à la
-            conception, la fabrication et la vente de biens matériels.
-            Accéder à la page Industrie
-               o Nouvelle réunion du COSPACE : défis et perspectives
-               o Filières
-               o Politique industrielle
-               o Le Conseil national de l'industrie (CNI)
-               o Chambres de commerce et d'industrie
-               o Centres techniques industriels
-               o Les pôles de compétitivité
-               o Instruments de mesure : la métrologie
-               o Mission nationale de contrôle des précurseurs chimiques
-               o La semaine de l'industrie
-               o (BUTTON) Retour au niveau précédent
-                 (BUTTON) Fermer le menu X
-                 Filières industrielles
-                    # Aéronautique
-                    # Agroalimentaire
-                    # Automobile
-                    # Bois
-                    # Chimie et matériaux
-                    # Construction
-                    # Eau
-                    # Mines et métallurgie
-                    # Mode et luxe
-                    # Naval
-                    # Nouveaux systèmes énergétiques
-                    # Nucléaire
-                    # Santé
-                    # Robotique
-                    # Transformation et valorisation des déchets
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Chimie et matériaux
-                      Accéder à la page L’industrie chimique en France
-                         @ Le comité stratégique de filière
-                         @ Bonnes pratiques de laboratoires
-                         @ Précurseurs chimiques de drogues
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Mines et métallurgie
-                         @ Le comité stratégique de la filière Mines et
-                           métallurgie
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Mode et Luxe
-                         @ Le Comité Stratégique de la filière Mode et
-                           Luxe
-               o (BUTTON) Retour au niveau précédent
-                 (BUTTON) Fermer le menu X
-                 Politique industrielle
-                    # La propriété industrielle
-                    # Le made in France
-                    # Le rôle du CNI
-                    # Réindustrialisation et attractivité
-                    # Stratégie de la nation pour les entreprises de
-                      taille intermédiaire (ETI)
-                    # Territoires d'industrie
-                    # Les actions en faveur du design
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Réindustrialisation et attractivité
-                         @ Le French Fab investment desk
-                         @ Les Commissaires aux Restructurations et à la
-                           Prévention des difficultés des entreprises
-                         @ Prévention des difficultés des entreprises
-                         @ Les RUI
-          + (BUTTON) Retour au niveau précédent
-            (BUTTON) Fermer le menu X
-            Numérique
-            Le secteur du numérique désigne le secteur d’activité
-            économique relatif à la production et à la vente des produits.
-               o Les enjeux
-               o Politique numérique
-               o Ressources
-               o (BUTTON) Retour au niveau précédent
-                 (BUTTON) Fermer le menu X
-                 Les enjeux du numérique
-                    # La stratégie nationale pour l'IA
-                    # Les secteurs prioritaires
-                    # Transition écologique du numérique
-                    # Le soutien à la nanoélectronique
-                    # France Num
-                    # La 5G
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      La stratégie nationale pour l'IA
-                         @ L'IA en France : un écosystème d'excellence
-                         @ Les acteurs de la gouvernance
-                         @ Les dispositifs de financement
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Les secteurs prioritaires
-                         @ Santé
-                         @ Cybersécurité
-                         @ Environnement
-                         @ Mobilité
-                         @ Sécurité - Défense
-               o (BUTTON) Retour au niveau précédent
-                 (BUTTON) Fermer le menu X
-                 Politique numérique
-                 Electronique
-                    # Communications électroniques
-                    # Jeu vidéo et esport
-                    # Join The Game
-                    # Technologies
-                    # FranceNum
-                    # Pôle d’Expertise de la Régulation Numérique (PEReN)
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Communications électroniques
-                         @ Communications d’urgence
-                         @ Outils pour le déploiement des réseaux mobiles
-                         @ Le cadre réglementaire des communications
-                           électroniques
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Jeu vidéo et esport
-                         @ Le jeu vidéo
-                         @ La Stratégie esport 2025
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Join the Game
-                         @ L'action Join the Game
-                         @ Pourquoi la France ?
-                         @ S'installer en France
-                         @ Ecosystème
-                         @ Les productions françaises
-                         @ Vos partenaires
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Technologies
-                         @ Technologies quantiques
-                         @ La nanoélectronique
-                         @ Les technologies immersives
-               o (BUTTON) Retour au niveau précédent
-                 (BUTTON) Fermer le menu X
-                 Ressources numériques
-                 secteur Numérique
-                    # Cadre réglementaire
-                    # Outils de financement
-                    # Consultations publiques
-                    # Appels à projets, appels à manifestation d'intérêt
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Cadre réglementaire
-                      Cadre réglementaire secteur numérique
-                         @ Le cadre réglementaire des communications
-                           électroniques
-                         @ Gestion des fréquences
-                         @ Couverture THD Fixe
-                         @ Couverture mobile
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Outils de financement
-                      Outils de financement numérique
-                         @ Programmes nationaux
-                         @ Programmes communautaires
-                         @ (BUTTON) Retour au niveau précédent
-                           (BUTTON) Fermer le menu X
-                           Programmes communautaires
-                              - Eureka
-                              - Horizon 2020
-          + (BUTTON) Retour au niveau précédent
-            (BUTTON) Fermer le menu X
-            Services
-            Le secteur de service désigne le secteur d’activité économique
-            relatif à la vente de service
-               o Les activités postales
-               o Les services à la personne
-               o L’Union Postale Universelle
-               o Mission du transport et de la distribution de la presse
-               o Mission d’accessibilité bancaire
-               o Missions de service public
-               o Services aux entreprises et transition environnementale
-               o (BUTTON) Retour au niveau précédent
-                 (BUTTON) Fermer le menu X
-                 Services aux entreprises
-                    # Ingénierie
-                    # Nettoyage
-                    # Numérique
-                    # Sondages et études de marché
-          + (BUTTON) Retour au niveau précédent
-            (BUTTON) Fermer le menu X
-            Tourisme
-            Rôle de la DGE sur le secteur du tourisme
-            Accéder à la page Tourisme
-               o Développement et compétitivité du secteur
-               o Conseils & stratégie
-               o Tourisme pour tous et accessibilité
-               o Plan Destination France
-               o (BUTTON) Retour au niveau précédent
-                 (BUTTON) Fermer le menu X
-                 Développement et compétitivité du secteur
-                    # Filières
-                    # Les territoires
-                    # Qualité Tourisme
-                    # Les acteurs du tourisme
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Filières
-                         @ Tourisme de montagne
-                         @ Tourisme fluvial
-                         @ Tourisme de savoir-faire
-                         @ Tourisme littoral
-                         @ Le slow tourisme
-                         @ Tourisme de bien-être
-                         @ Tourisme à vélo
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Les territoires
-                         @ Distinction palace
-                         @ Stations classées et communes touristiques
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Les acteurs du tourisme
-                         @ France Tourisme Lab
-                         @ La médaille du tourisme
-                         @ L’Organisation Mondiale du Tourisme
-                         @ Les offices du tourisme
-               o (BUTTON) Retour au niveau précédent
-                 (BUTTON) Fermer le menu X
-                 Conseils & stratégie
-                    # Gouvernance
-                    # L'innovation dans le tourisme
-                    # Les hébergements touristiques marchands
-                    # Hébergements
-                    # Métiers et formations du tourisme
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Hébergements touristiques
-                      Les différentes catégories d'hébergement
-                      touristiques
-                      Accéder à la page Les hébergements touristiques
-                      marchands
-                         @ Principes communs au classement
-                         @ Hôtellerie
-                         @ Chambres d'hôtes
-                         @ Aires naturelles
-                         @ Meublés de tourisme
-                         @ Résidences de tourisme
-                         @ Camping aménagés, aires naturelles et parcs
-                           résidentiels de loisir
-                         @ Terrains de camping déclarés
-                         @ Villages de vacances
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Métiers et formations du tourisme
-                         @ Guide-conférencier
-                         @ L'emploi dans la filière
-               o (BUTTON) Retour au niveau précédent
-                 (BUTTON) Fermer le menu X
-                 Tourisme pour tous et accessibilité
-                    # Chèque-vacances
-                    # Destination pour tous
-                    # Tourisme social et familial
-                    # Tourisme et Handicap
-               o (BUTTON) Retour au niveau précédent
-                 (BUTTON) Fermer le menu X
-                 Plan Destination France
-                    # Présentation du Plan Destination France
-                    # France Tourisme Tech
-          + (BUTTON) Retour au niveau précédent
-            (BUTTON) Fermer le menu X
-            Profession libérale
-            Les professions libérales sont définies relativement à la
-            simplification du droit et à l'allégement administratif
-               o Présentation des professions libérales
-               o Contrat de collaboration libérale
-     * (BUTTON) Retour au niveau précédent
-       (BUTTON) Fermer le menu X
-       Enjeux
-       Les grands enjeux pour le développement des entreprises
-          + Crise de l'énergie
-          + Industrie verte et décarbonation
-          + Politiques européennes
-          + France 2030
-          + Les stratégies d'accélération
-          + Innovation
-          + Sécurité économique
-          + (BUTTON) Retour au niveau précédent
-            (BUTTON) Fermer le menu X
-            Innovation
-               o Concours d'innovation : les trois volets i-Lab, i-PhD et
-                 i-Nov
-               o Pôles de compétitivité
-               o La French Tech
-               o Propriété intellectuelle
-               o (BUTTON) Retour au niveau précédent
-                 (BUTTON) Fermer le menu X
-                 Pôles de compétitivité
-                    # Présentation des pôles de compétitivité
-                    # La politique des pôles de compétitivité
-                    # La politique européenne en faveur des clusters
-                    # Le financement des projets
-                    # L'écosystème d'innovation
-                    # Annuaire des pôles de compétitivité
-          + (BUTTON) Retour au niveau précédent
-            (BUTTON) Fermer le menu X
-            Sécurité économique
-               o Le Service de l’information stratégique et de la sécurité
-                 économiques
-               o Le Sisse en région
-               o La sécurité économique au quotidien : 28 fiches pratiques
-               o Auto-évaluer le niveau de sécurité économique de son
-                 organisation
-               o La loi « de blocage »
-     * (BUTTON) Retour au niveau précédent
-       (BUTTON) Fermer le menu X
-       Entreprises
-       Formalités et démarches
-          + Démarches
-          + Aides et financement
-          + Echanges commerciaux et réglementation
-          + Mixité et égalité professionnelle dans les entreprises
-          + Normalisation et accréditation
-          + (BUTTON) Retour au niveau précédent
-            (BUTTON) Fermer le menu X
-            Démarches
-               o S’informer, déclarer, payer
-               o Formulaires et téléprocédures
-               o Statut
-               o (BUTTON) Retour au niveau précédent
-                 (BUTTON) Fermer le menu X
-                 Statut
-                    # L’entrepreneur individuel, un statut simple et
-                      protecteur
-                    # Le micro-entrepreneur, un régime unique et simplifié
-          + (BUTTON) Retour au niveau précédent
-            (BUTTON) Fermer le menu X
-            Aides et financement
-               o Les CRP
-               o Se faire accompagner
-               o Crédits et réductions d'impôts
-               o Compensation des coûts indirects 2023
-               o Les programmes européens
-               o (BUTTON) Retour au niveau précédent
-                 (BUTTON) Fermer le menu X
-                 Se faire accompagner
-                    # ETIncelles : accompagner les PME dans leur
-                      croissance
-                    # Place des entreprises
-               o (BUTTON) Retour au niveau précédent
-                 (BUTTON) Fermer le menu X
-                 Crédits et réductions d'impôts
-                    # Le crédit d'impôt recherche
-                    # Le crédit impôt innovation
-                    # Le crédit d'impôt jeux vidéo
-                    # Le crédit d'impôt métiers d’art
-                    # Défiscalisation de l’accès à un réseau d’affaires
-          + (BUTTON) Retour au niveau précédent
-            (BUTTON) Fermer le menu X
-            Echanges commerciaux
-               o Libre circulation des produits
-               o Métrologie
-               o Précurseurs chimiques de drogues
-               o Service des biens à double usage
-               o (BUTTON) Retour au niveau précédent
-                 (BUTTON) Fermer le menu X
-                 Libre circulation des produits
-                    # Le cadre du marché unique
-                    # La libre circulation des marchandises en Europe
-                    # Sécurité des produits
-                    # Questions - Réponses
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Règles de circulation des produits
-                         @ La surveillance du marché
-                         @ La transparence des règles techniques
-                           nationales
-                         @ Le marquage « CE »
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Sécurité des produits
-                         @ Principes communs
-                         @ Jouets
-                         @ Matériels électriques et électroniques
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Questions - Réponses
-                         @ Foire aux questions
-                         @ Le Point de Contact Produits (PCP)
-                         @ Le marquage d'origine des produits
-               o (BUTTON) Retour au niveau précédent
-                 (BUTTON) Fermer le menu X
-                 Précurseurs chimiques de drogues
-                    # La MNCPC : missions et organisation
-                    # Les substances contrôlées
-                    # Les substances contrôlées
-                    # Précurseurs chimiques
-                    # Publications de la MNCPC
-                    # Procédures
-                    # Je démarre mon activité liée aux précurseurs
-                      chimiques
-                    # Je démarre mon activité liée aux précurseurs
-                      chimiques
-                    # Contacter la mission nationale de contrôle des
-                      précurseurs chimiques
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Procédures
-                         @ Agrément
-                         @ Déclaration annuelle
-                         @ Formalités dans les outre-mer
-                         @ La déclaration du client
-                         @ MODAM : un calculateur pour connaitre
-                           rapidement les formalités d'exportation
-                         @ Importation (Catégorie 1)
-                         @ Importation (catégorie 1)
-                         @ Exportation (catégories 1, 2A, 2B, 3)
-                         @ Demande d'autorisation d'exportation de
-                           substances de catégorie 4
-                         @ Exportation (catégorie 4)
-                         @ Enregistrement (catégorie 2)
-                         @ Enregistrement de catégorie 2
-                         @ Enregistrement (catégorie 3)
-                         @ Enregistrement de catégorie 3
-                         @ Déclaration annuelle
-                         @ Déclaration du client
-                         @ Formalités dans les outremers
-                         @ Règlementation sur les mélanges
-                         @ MODAM
-               o (BUTTON) Retour au niveau précédent
-                 (BUTTON) Fermer le menu X
-                 SBDU
-                    # Présentation du SBDU
-                    # Réglementation des biens à double usage
-                    # Sanctions pays
-                    # Autres réglementations
-                    # Vos démarches
-                    # Contacter le SBDU
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Le Service des biens à double usage
-                         @ Le SBDU
-                         @ Notre mission de contrôle export
-                         @ Notre mission de contrôle export
-                         @ Notre mission d'information
-                         @ Nos partenaires
-                         @ Nos partenaires
-                         @ Service des biens à double usage
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Réglementation des biens à double usage
-                         @ Les régimes de contrôle internationaux
-                         @ Le règlement européen
-                         @ Les régimes de contrôle internationaux
-                         @ Les textes de droit français
-                         @ Le règlement européen
-                         @ Mon bien est est-il à double usage ?
-                         @ Guides externes
-                         @ Guides externes
-                         @ La clause « attrape-tout » (catch-all)
-                         @ La clause « attrape-tout » (catch-all)
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Sanctions Pays
-                         @ Mesures restrictives Russie / Biélorussie
-                         @ Crise en Ukraine : nous contacter
-                         @ Généralités sur les sanctions
-                         @ Mesures restrictives Russie Biélorussie
-                         @ Crise en Ukraine : nous contacter
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Autres réglementations
-                         @ Anti torture
-                         @ Anti torture
-                    # (BUTTON) Retour au niveau précédent
-                      (BUTTON) Fermer le menu X
-                      Vos démarches
-                         @ Quelle autorisation solliciter ?
-                         @ Recours et modification d’une licence
-                         @ Ouvrir un compte Egide
-                         @ Portail EGIDE pour les exportateurs réguliers
-                         @ Quelle autorisation solliciter ?
-                         @ Obtenir une autorisation
-                         @ Documents à fournir et modalités par type
-                           d'autorisation
-                         @ Accès à Egide
-                         @ Recours et modification d’une licence
-                         @ (BUTTON) Retour au niveau précédent
-                           (BUTTON) Fermer le menu X
-                           Egide
-                              - Portail EGIDE pour les exportateurs
-                                occasionnels
-                              - Portail EGIDE pour exportateurs réguliers
-                              - Exportateurs réguliers : se créer un
-                                compte sur Egide
-     * (BUTTON) Retour au niveau précédent
-       (BUTTON) Fermer le menu X
-       En pratique
-       Au service des entreprises
-          + Intéressement et participation
-          + Études et statistiques
-          + Événements
-          + Appels à projets, appels à manifestation d'intérêt
-          + Consultations publiques
-          + Marques et labels
-          + (BUTTON) Retour au niveau précédent
-            (BUTTON) Fermer le menu X
-            Études et statistiques
-            Accéder à la page Etudes et statistiques
-               o Les thémas de la DGE
-               o Les dossiers de la DGE
-               o Chiffres clés de l'économie française
-               o Les 4 pages
-               o Autres études
-               o Les notes de tendances
-          + (BUTTON) Retour au niveau précédent
-            (BUTTON) Fermer le menu X
-            Marques et labels
-            La DGE soutient des marques et labels, gages de qualité et
-            d'excellence
-               o Entreprises du Patrimoine vivant
-               o Maître restaurateur
-               o Qualité Tourisme™
-               o Tourisme et handicap
-               o Destination pour tous
-     * (BUTTON) Retour au niveau précédent
-       (BUTTON) Fermer le menu X
-       La DGE
-       La DGE conçoit et met en œuvre les politiques publiques en faveur
-       de la compétitivité des entreprises
-          + Qui sommes-nous ?
-          + La DGE recrute
+   fr | en
+     * FRM ⌄
+          + Nos missions
+          + Notre histoire
+          + Notre fonctionnement
+          + Nos axes prioritaires
+          + Nos publications
+          + En région
+          + Fondations abritées
+          + Nos parrains
           + Espace presse
-          + Découvrez les projets et métiers de la DGE en vidéos
-          + Rapports d'activité
-          + Les autres sites de la DGE
-          + L'égalité professionnelle à la DGE
-          + Le podcast de la DGE
-          + Nos politiques publiques en vidéo
-          + (BUTTON) Retour au niveau précédent
-            (BUTTON) Fermer le menu X
-            Les autres sites de la DGE
-               o Aménagement commercial (CNAC)
-               o Biens à double usage
-               o Conseil national de l’industrie
-               o France Num
-               o Information stratégique et sécurité économiques
-               o Métrologie
-               o PEReN
-               o Précurseurs chimiques de drogues
-               o Qualité Tourisme
-               o Semaine de l'industrie
-               o Services à la personne (SAP)
-               o Statégie Nationale pour l'intelligence artificielle
-               o Tourisme et Handicap
+     * Recherches financées ⌄
+          + Cancers
+          + Maladies cardiovasculaires
+          + Maladies infectieuses
+          + Maladies neurologiques et psychiatriques
+          + Maladies rares
+          + Autres maladies
+     * Nous soutenir ⌄
+          + Faire un don
+          + Transmettre
+          + Bâtir un projet philanthropique
+          + Devenir entreprise partenaire
+          + Créer une cagnotte
+          + Autres moyens de nous soutenir
+     * Accès chercheurs ⌄
+          + Appels à projets FRM
+          + Appels à projets en partenariat
+          + Prix scientifiques
+     * Mon espace donateur
+     *
+          + Mon espace donateur
 
+   JE FAIS UN DON
     1. Accueil
-    2. Secteurs d'activité
-    3. Numérique
-    4. Les enjeux
-    5. Les secteurs prioritaires
-    6. L'intelligence artificielle au service de la santé
+    2. Recherches financées
+    3. Intelligence artificielle (IA)
+    4. L’intelligence artificielle au service de la santé
 
-     * (BUTTON) Agrandissement de la taille de la policeA+
-     * (BUTTON) Réduction de la taille de la policeA-
-     * (BUTTON) Imprimer
+L’intelligence artificielle au service de la santé
 
-L'intelligence artificielle au service de la santé
+     * Qu’est-ce que l’intelligence artificielle ?
+     * Exemples d’applications de l’intelligence artificielle en santé
+     * L’intelligence artificielle : un outil qui reste à maîtriser
+     * Les questions éthiques soulevée par l’intelligence artificielle
 
-   © Thinkhubstudio - Getty Images
+   #definition
+   #definition_________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
 
-   L’intelligence artificielle est appelée à jouer un rôle central dans la
-   révolution médicale en cours. Issues du secteur médical et des
-   patients, avec l’avènement des objets connectés de santé, les données
-   de santé permettent d’améliorer considérablement les diagnostics de
-   nombreuses pathologies.
+Qu’est-ce que l’intelligence artificielle ?
 
-   La France dispose, dans le domaine de l’IA au profit de la santé, d’un
-   écosystème extrêmement dynamique composé à la fois d’équipes de
-   recherche académique d’excellence et d’un réseau médical de renommée
-   mondiale, de grandes entreprises pharmaceutiques et technologiques très
-   actives et de startups innovantes, notamment sur les technologies de
-   rupture.
+   La recherche médicale vit une révolution numérique liée à l'abondance
+   de données et à notre aptitude à les collecter, à les stocker et
+   surtout à les traiter. Ces possibilités sont liées aux capacités des
+   ordinateurs qui sont aujourd’hui quasi illimitées : ils peuvent
+   analyser des milliards d’informations à une vitesse considérable et
+   comparer une multitude de paramètres, alors que le cerveau humain ne
+   gère guère plus de 6 ou 7 variables en même temps. Associé à
+   l’expertise des médecins, le développement de l’intelligence
+   artificielle (IA) est donc très prometteur en santé.
 
-Objectifs poursuivis
+   Mais qu’est-ce que l’IA ? Ce domaine s’appuie sur deux éléments
+   importants : les algorithmes et les données massives.
 
-   Avec pour ambition d’améliorer la santé des patients et leur expérience
-   du système de santé sur le long terme, la SNIA vise principalement à
-   soutenir la mutualisation des données de santé. En effet, l’accès et le
-   partage des données de santé sont indispensables au développement de
-   solutions numériques efficaces.
+Les algorithmes
 
-   Un tel objectif ne peut toutefois être poursuivi sans l’implication
-   pleine et entière des citoyens. La transparence sur les projets
-   réutilisant leurs données, le partage des principaux résultats, sont
-   des prérequis à leur soutien dans des démarches de partage de données
-   de santé à large échelle.
+   Les algorithmes sont une suite d’opérations et/ou de règles formelles
+   effectuées par un programme informatique pour résoudre un type de
+   problème donné. Plus concrètement, ces programmes informatiques imitent
+   des modes de raisonnement faisant appel à l’intelligence.
 
-   Enfin, si la France a toutes les cartes en main pour devenir un leader
-   mondial dans la santé numérique, cela ne sera possible qu’en
-   multipliant les formations sur l’IA en santé et en soutenant les
-   innovations, leur entrée sur le marché français et leur export à
-   l’international.
+   Il y a les programmes d’IA où les tâches à effectuer ont été
+   prédéfinies par l‘humain. Il s’agit par exemple d’un programme sachant
+   jouer aux échecs car on lui a fourni les règles du jeu et la puissance
+   de calcul nécessaire pour anticiper les conséquences de ses choix.
 
-Un renouveau des approches préventives, diagnostiques et thérapeutiques
+   Il existe aussi des programmes d’IA avec apprentissage, où le système
+   apprend par lui-même, pour peu qu’on lui fournisse les bons exercices
+   et surtout les bons corrigés. Par exemple, si on fournit au programme
+   une multitude de photos d’objets et leurs identifications associées, il
+   pourra par la suite distinguer une voiture d’un avion sur n’importe
+   quelle nouvelle photo. Certains programmes, si on leur fournit
+   suffisamment de données, sont même capables de découvrir des
+   rapprochements par eux-mêmes, sans aucune indication préalable. On
+   parle alors d’apprentissage profond ou deep learning.
 
-   Avec l’allongement de la durée de vie et les progrès de la médecine,
-   les contextes cliniques des patients se complexifient. Par exemple, les
-   personnes âgées souffrent de plus en plus d’une pluralité de
-   pathologies et sont amenées à être suivies par différents
-   professionnels de santé et structures médicales. Le praticien doit
-   alors arbitrer pour offrir le meilleur traitement tout en prenant garde
-   à la qualité de vie du patient, notamment lorsque les traitements sont
-   lourds et admettent d’importants effets secondaires.
+Les données massives, ou big data
 
-   Analyser des jeux de données en mobilisant les approches dites d’«
-   intelligence artificielle » peut alors éclairer sur la stratégie
-   thérapeutique à adopter, patient par patient. On constate également
-   d’importants progrès dans la prise en charge du cancer. De nombreuses
-   molécules innovantes dont l’indication dépend des anomalies
-   moléculaires détectées dans les tumeurs sont actuellement à l’étude et
-   arrivent sur le marché. Les patients connaissent ainsi plusieurs phases
-   de traitement qu’il faut orchestrer. Si le choix d’une première
-   stratégie thérapeutique est souvent aisé, cibler et évaluer les lignes
-   de traitement suivantes devient déterminant pour la recherche et
-   conditionne l’accès des patients à ces thérapies innovantes et
-   coûteuses.
+   Autre élément indispensable à l’IA : les données massives, ou big data.
+   Dans le domaine de la santé, les données numériques se multiplient :
+   dossiers de l’Assurance maladie, fichiers des causes de décès ou du
+   système national des données de santé, dossiers médicaux de patients
+   (résultats d’examens et d’imagerie, comptes rendus chirurgicaux,
+   protocoles thérapeutiques...), etc. À quoi s’ajoutent encore les
+   données issues de programmes de recherche.
 
-Un système de santé plus efficient
+   Il existe donc beaucoup d’enjeux autour de toutes ces informations pour
+   permettre leur utilisation optimale par l’IA. Il s’agit notamment de
+   s’assurer de leur précision, de leur représentativité de la vie réelle,
+   mais aussi de la qualité de leur organisation et de leur partage (ce
+   qui nécessite un juste équilibre entre confidentialité des données et
+   accès à ces données).
+   #applications
+   #applications_______________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
 
-   L’analyse des données de santé permet également de mieux piloter le
-   système dans son ensemble. Les analyses de données de « vie réelle »
-   (par opposition aux données collectées dans le cadre d’essais
-   cliniques) permettent ainsi de mesurer l’efficacité thérapeutique
-   avérée des traitements, dans le contexte de vie des patients et pour
-   une population plus large que celle sélectionnée dans le cadre de
-   l’essai clinique.
+Exemples d’applications de l’intelligence artificielle en santé
 
-   Ces analyses permettent également de détecter des effets indésirables
-   et doivent être mobilisées au maximum dans l’exercice des missions des
-   agences sanitaires, en particulier pour garantir la sécurité sanitaire
-   et éviter des crises.
+En cancérologie
 
-   Enfin, elles constituent un matériau indispensable à la formulation de
-   recommandations en matière de politiques publiques en santé et à
-   l’évaluation de leur implémentation. On l’a vu, les cas d’usage sont
-   nombreux et dans ce secteur sans doute plus que dans d’autres, l’enjeu
-   de souveraineté nationale est prégnant. L’Etat a un devoir de garantir
-   au citoyen une médecine de pointe tout en s’assurant de l’éthique de
-   l’usage des données et de la fiabilité des innovations dont il
-   bénéficiera.
+   Structurer les données issues des patients
 
-Récolter et analyser des données médicales
+   Le projet ConSoRe (pour Continuum Soins – Recherches), mis en place par
+   Unicancer, le réseau des centres de lutte contre le cancer, a pour
+   objectif d’organiser les données massives recueillies dans le domaine
+   de la cancérologie. Il s’agit d’un système qui vise à collecter,
+   analyser et structurer ces données. Associé à un moteur de recherche,
+   il permet à des médecins d’identifier des patients répondant à des
+   critères de recherche précis, de visualiser l’évolution de leur maladie
+   et de leurs traitements, de localiser des dossiers de cancers rares, ou
+   encore de savoir si des cas similaires ont déjà été traités ailleurs.
+   Ces données pourront ensuite être traitées par différents algorithmes.
 
-   Pour garantir les meilleures chances de succès, il faut mobiliser une
-   expertise médicale beaucoup plus large, prendre en compte la réaction
-   du patient aux premiers traitements reçus et ses spécificités
-   individuelles. A cette fin, il devient indispensable de constituer de
-   grands jeux de données mobilisant des dossiers patients de plusieurs
-   centres hospitaliers pour avoir une base d’informations suffisante
-   permettant de dresser des conclusions performantes et précises.
+   Faciliter le diagnostic
 
-   De plus, dans un contexte de médecine ambulatoire, la recherche ne peut
-   plus reposer uniquement sur les données des dossiers médicaux
-   hospitaliers, elle doit également mobiliser ceux de la médecine de
-   ville, ainsi que les données produites par les patients eux-mêmes. Par
-   conséquent, elle sera de plus en plus difficile à réaliser sans
-   recourir à une part d’automatisation pour extraire de l’information
-   pertinente dans de grands jeux de données hétérogènes.
+   C’est probablement dans le domaine du diagnostic que l’IA va d’abord
+   bouleverser la cancérologie. Plusieurs équipes de recherche dans le
+   monde ont déjà prouvé que des programmes sont capables de détecter un
+   mélanome, une forme sévère de cancer de la peau, ou un cancer de sein
+   avec plus d’acuité qu’un médecin, même lorsqu’il s’agit d’une tumeur
+   atypique.
 
-   Les techniques d’intelligence artificielle visent également à prédire
-   des événements au sein d’une séquence. La capacité à anticiper est un
-   enjeu essentiel pour la prise en charge tout au long du parcours de
-   soin, par exemple pour prévenir, voire éviter un recours aux urgences
-   dans le cas d’un patient insuffisant cardiaque. Dans la prise en charge
-   de l’obésité, on pourra, par exemple, être en mesure de prédire, pour
-   un patient donné, si l’opération n’est pas trop risquée. Dans le même
-   ordre d’idée, on peut prévenir un rejet de greffon, une récidive de
-   tentative de suicide ou une ré-hospitalisation, etc.
+   Autre exemple : dans le cadre du Plan France Médecine Génomique 2025,
+   des projets de recherche en bioinformatique (informatique appliquée à
+   la biologie) essaient de trouver des corrélations entre les données
+   issues de l’analyse du génome et les expressions cliniques des cancers.
+   Ils espèrent ainsi pouvoir faire des diagnostics génétiques de certains
+   cancers, ce qui pourrait permettre de personnaliser le traitement et
+   également d’ouvrir de nouvelles pistes thérapeutiques.
 
-   Passer d’une médecine curative de masse à une médecine personnalisée,
-   et ce pour toutes les spécialités, nécessite d’être capable de
-   rassembler des grands jeux de données issus de plusieurs sources
-   (remboursements de l’assurance maladie, données cliniques hospitalières
-   ou de ville, données de population issues notamment des cohortes,
-   objets connectés…) et des expertises pour les exploiter (cliniciens,
-   spécialistes en informatique médicale, épidémiologie, biologie
-   humaine…).
+   Guider la prise en charge thérapeutique
 
-Des outils d’aide au diagnostic, à la décision et à l’interprétation de plus
-en plus performants
+   Une équipe du Centre de recherche des Cordeliers à Paris a développé un
+   algorithme qui détermine à l’avance les patients atteints d’un cancer
+   du rectum qui répondront complètement à la radiochimiothérapie, ce qui
+   permet de leur éviter une opération inutile.
 
-   Dans la pratique, la mobilisation de ces approches sur des données
-   médicales se concrétise par la publication d’articles scientifiques
-   mais aussi par le développement de nouveaux outils qui mobilisent cette
-   connaissance pour la restituer de façon opérationnelle au professionnel
-   en fonction du contexte clinique. On parle alors d’outils d’aide à la
-   décision diagnostique ou thérapeutique. Les options de prise en charge
-   suggérées par ces outils pourront contribuer à enrichir les
-   raisonnements des professionnels. Plus les données seront disponibles
-   et de qualité, moins les outils développés à partir de celles-ci seront
-   biaisés et plus ils seront efficaces.
+   Dans le cadre du projet européen Desiree (Decision Support and
+   Information Management System for Breast Cancer), auquel ont participé
+   l’AP-HP et le laboratoire LIMICS, un programme d’aide à la décision
+   thérapeutique pour la prise en charge de femmes atteintes d’un cancer
+   du sein a été mis au point, sur la base des recommandations de bonnes
+   pratiques mais aussi de l’expérience de toutes les décisions prises
+   lors de réunions de concertation pluridisciplinaires.
 
-   Cela signifie qu’ils prendront davantage en compte le contexte et
-   produiront des recommandations plus pertinentes. A titre d’exemple, des
-   startups travaillent au développement d’outils permettant de détecter
-   une anomalie sur un électrocardiogramme et de gagner des heures
-   précieuses pour venir en aide à un patient dans une situation d’urgence
-   et en absence de cardiologue.
+Aide à la prédiction dans le domaine cardiovasculaire et de la
+transplantation
 
-   En analyse d’image, les algorithmes témoignent également d’une
-   efficacité très intéressante pour le secteur de la santé. La FDA (Food
-   and Drug Administration) a ainsi autorisé le premier dispositif médical
-   utilisant de l’intelligence artificielle pour dépister la rétinopathie
-   diabétique à partir de photos de la rétine en 2018 et une trentaine
-   d’autres dispositifs médicaux depuis. En automatisant certaines
-   analyses routinières, on permet ainsi aux experts de passer davantage
-   de temps sur des cas plus complexes où ils devront interpréter des
-   signes non présents dans les données.
+   Autre domaine dans lequel l’IA prend son essor : la santé
+   cardiovasculaire. Une équipe de l’University College of London
+   développe par exemple un algorithme pour prédire le risque de décès
+   après un infarctus du myocarde ou un accident vasculaire cérébral à
+   partir de l’analyse des données d’imagerie par résonnance magnétique du
+   cœur. En France, le Samu travaille à l’adaptation francophone d’un
+   programme danois d’IA capable d’aider les opérateurs du 15 à détecter
+   un arrêt cardiaque grâce à l’analyse, en temps réel, de signaux verbaux
+   (mots-clés) et non verbaux (intonation de la voix, rythme de la
+   respiration, etc.).
 
-   Aujourd’hui, l’élaboration de ces algorithmes requiert une annotation
-   manuelle des signaux ou images par des spécialistes, mais on peut
-   imaginer que le chaînage avec d’autres sources de données pourrait
-   faciliter la qualification des données et dynamiser l’innovation en la
-   matière. D’autres tâches peuvent être facilitées par des algorithmes ;
-   plusieurs expériences visent à mobiliser les comptes-rendus médicaux
-   pour automatiser le codage des actes et diagnostics à l’hôpital dans le
-   cadre de leur remboursement par l’Assurance maladie.
+   Dans le domaine de la transplantation, une étude internationale
+   coordonnée par une équipe française a validé un algorithme universel de
+   prédiction du risque de perte de rein greffé chez un patient
+   transplanté. Une avancée pour améliorer le suivi des patients et
+   optimiser le développement de nouveaux traitements immunosuppresseurs.
 
-Actions clés
+Appui au diagnostic en gynécologie-obstétrique
 
-     * De nouveaux programmes d’enseignement croisant IA et santé :
+   L’analyse des données d’imagerie médicale fait partie des champs les
+   plus explorés par l’IA. Le projet européen SUOG (Smart Ultrasound in
+   Obstetrics and Gynecology), porté notamment en France par des équipes
+   de Sorbonne-Université, l’Inserm et l’AP-HP, vise à utiliser l’IA pour
+   améliorer le suivi de grossesse : intégré à l’appareil d’échographie,
+   ce programme pourra suggérer en temps réel au praticien les images
+   qu’il doit réaliser pour poser un diagnostic en cas de pathologie
+   suspectée, afin d’optimiser une éventuelle prise en charge.
 
-   - Lancement d’une Chaire intelligence artificielle en santé, comprenant
-   notamment le D.U. IA appliquée à la santé de la faculté de médecine de
-   l’Université de Paris en janvier 2020.
+La prévention en santé mentale
 
-   - Un master en IA et Santé lancé en 2019 par l’EMLyon : Master in
-   Health and Data Intelligence.
-     * Création du Health Data Hub avec pour objectif de promouvoir
-       l’accès aisé et unifié, transparent et sécurisé aux données de
-       santé, dans le respect des droits des citoyens, pour l’amélioration
-       de la qualité des soins et l’accompagnement du patient.
-     * Trois instituts 3IA (Instituts Interdisciplinaires d’Intelligence
-       Artificielle) Nice, Paris et Grenoble ont mis l’accent sur les
-       applications en santé.
-     * Le Grand défi « Amélioration des diagnostics médicaux par
-       l’intelligence artificielle » a pour objectif de soutenir l’usage
-       de l’IA en santé depuis la production des données jusqu’aux
-       applications industrielles.
-     * L’appel à projets « L’IA pour une expérience améliorée du système
-       de santé » en 2020, co-piloté par le Health Data Hub et le Grand
-       Défi, a sélectionné et soutenu 10 projets innovants associant
-       startups et équipes médicales ou de recherche académique.
-     * Mise en place d’un cycle inédit d’écoles d’IA en santé AI4Health,
-       co-organisé par le Health Data Hub et les Instituts 3IA (Prairie,
-       MIAI Grenoble, 3IA Côte d’Azur), réunissant les plus grands experts
-       mondiaux.
-     * PariSanté Campus, lancé le 4 décembre 2020 par la Président de la
-       République, est un projet ambitieux de campus en santé numérique
-       associant acteurs publics et privés pour construire la médecine du
-       futur.
+   Il existe aussi des programmes de recherche en santé mentale, et
+   notamment dans le champ de la prévention. Le projet PsyCARE
+   (Intervention précoce dans la psychose : vers une psychiatrie
+   préventive et personnalisée) porté par Marie-Odile Krebs, clinicienne
+   et chercheuse à l’Université de Paris, vise notamment au développement
+   d’une IA permettant de détecter précocement une schizophrénie ou une
+   psychose chronique afin de mettre en place une prise en charge
+   psychiatrique préventive et personnalisée. Pour identifier les
+   personnes à risque, l’IA interviendra notamment via la modélisation des
+   connaissances autour de la schizophrénie et l’identification d’un
+   ensemble de biomarqueurs utilisés via un algorithme d’apprentissage.
+   #outil
+   #outil______________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
 
-Liens et téléchargements
+L’intelligence artificielle : un outil qui reste à maîtriser
 
-     En savoir plus sur la stratégie d'accélération « Santé numérique »
+   On l’aura compris, l’objectif des chercheurs qui travaillent sur des
+   projets d’IA n’est pas de remplacer les médecins, mais de les aider à
+   mieux diagnostiquer, mieux soigner et mieux anticiper les risques.
 
-   Mots clés
-     * Intelligence artificielle (IA)
-     * Industrie de santé
+   Comme l’explique Jean Charlet, chercheur au Laboratoire d'informatique
+   médicale et ingénierie des connaissances pour la e-santé à Paris, « Il
+   existe aujourd’hui de nombreuses preuves de concept que l’IA peut être
+   utile en santé. Mais comme tout nouvel outil, elle va modifier la façon
+   dont le travail est organisé. Or plus un outil est sophistiqué, plus il
+   modifie en profondeur l’organisation préalable. »
 
-   Mis à jour le 01/03/2023
+   Nul doute donc que l’IA va s’implanter très progressivement dans le
+   domaine de la santé, avec des conséquences sur la relation
+   patient/médecin et l’émergence de nouveaux enjeux éthiques.
+   #ethique
+   #ethique____________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
 
-Partager
+Les questions éthiques soulevée par l’intelligence artificielle
 
-   Ministère de l'économie, des finances et de la souveraineté
-   industrielle et numérique
-     * Direction Générale des Entreprises
-     * Mentions légales
-     * Accessibilité : partiellement conforme
-     * Données personnelles et cookies
-     * Plan du site
-     * Contact
+   Si l’on délègue à des machines des décisions habituellement prises par
+   des médecins, ces derniers ne vont-ils pas perdre leurs compétences ? À
+   cette question, le Comité consultatif national d’éthique (CCNE) a
+   répondu en novembre 2018 : « Une place trop grande accordée à ces
+   systèmes risquerait de déshumaniser la médecine. La relation entre
+   personnel soignant et patient reste primordiale. L’homme “doit garder
+   la main“, le contrôle, la décision finale. » Un avis partagé par le
+   Conseil de l’Europe et l’Académie de médecine américaine dans des
+   rapports publiés en 2020.
 
-     * data.gouv.fr
-     * France.fr
-     * gouvernement.fr
-     * legifrance.gouv.fr
-     * service-public.fr
-     * economie.gouv.fr
-     * oups.gouv.fr
-     * Accès directs
+   Autres questionnements éthiques soulevés par le CCNE : « Comment
+   s’assurer, en face de systèmes aussi complexes, que le patient donne un
+   consentement éclairé à leur usage ? Qui est responsable en cas d’erreur
+   ou de dérèglement de la machine ? La gestion des données massivement
+   collectées par ces systèmes inquiète : que deviennent-elles et que
+   reste-t-il du secret médical ? » Face à ces questions, sur lesquelles
+   travaillent déjà de nombreux experts, les sages du CCNE insistent
+   surtout sur le fait que « le risque principal serait de ne pas avoir
+   suffisamment recours à l’IA, explique David Gruson, co-directeur du
+   groupe de travail du CCNE. Nous avons beaucoup de données de santé en
+   France, il ne faudrait pas les sous-exploiter. »
 
-   (menu)
-     * APP. A PROJETS
-     * PRESSE
-     * FAQ
-     * Contact
-     * ETUDES
-     * EVENEMENTS
-     * Autres sites DGE
+   Enfin, la formation des médecins et soignants à ces outils ainsi que
+   l’information des patients restent des sujets capitaux au cœur du
+   développement de l’IA médicale.
+     * Ajouter une boite
 
-   retour en haut de page
-
-   (BUTTON) X
-
-   Recherche
-   Rechercher ____________________
-   Rechercher
-
-   Appuyer sur "Entrée" pour lancer la recherche ou sur "Echap" pour
-   quitter
-     * Aide entreprises
-     * Prix de l'énergie
-     * Industrie verte
-     * France 2030
-
-   FAQ : consulter les questions les plus fréquentes
+   (BUTTON) Annuler
+   Nous soutenir
+   Faire un don Transmettre Bâtir un projet philanthropique Devenir
+   entreprise partenaire
+   Fondation
+   pour la Recherche
+   Médicale
+   54 rue de Varenne - 75007 Paris
+   Tél : 01 44 39 75 75
+   SIREN : 784 314 064
+   Contact Mentions Légales Gérer mes cookies Postes à pourvoir
+   Rapport annuel Espace presse Accès chercheurs Espace Donateur
+   ____________________ Rechercher
+   Nous suivre :
+   Facebook Twitter Youtube Linked'In Instagram
+   Don en confiance
+   La Fondation pour la Recherche Médicale est labellisée par le Don en
+   confiance, organisme de labellisation et de contrôle des associations
+   et fondations faisant appel à la générosité du public. Elle est
+   reconnue d'Utilité Publique, et habilitée à recevoir des dons, legs,
+   donations et assurances-vie.
+   Les cookies permettent d’améliorer la diffusion de nos informations, de
+   mieux gérer vos centres d’intérêt, d’établir des statistiques et
+   d’évaluer les performances du site. En poursuivant votre navigation,
+   vous en acceptez l’utilisation. Pour plus d’informations ou vous
+   opposer à cette utilisation, rendez-vous sur cliquez ici.
+   Accepter

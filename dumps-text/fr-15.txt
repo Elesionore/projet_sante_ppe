@@ -1,6 +1,7 @@
    (BUTTON) Menu
-   Mis à jour le 18 août 2023
-   La santé en action
+   actualité Publié le 16 octobre 2023
+   Conditions de télétravail : quel impact sur la santé physique et
+   psychique...
    (BUTTON) Rechercher une actualité, une publication, un
    document...Rechercher
    (BUTTON) Index
@@ -396,14 +397,16 @@ Restez informé
    Pour suivre notre actualité, abonnez-vous à nos newletters en
    remplissant le formulaire ci-dessous
    En savoir plus
-   AccueilRevuesSanté en action
+   AccueilLes actualités2023
 
-La santé en action
+Conditions de télétravail : quel impact sur la santé physique et psychique
+des travailleurs ?
 
-   La Santé en action est une revue éditée par Santé publique France
-   consacrée à la prévention, l’éducation et la promotion de la santé.
-   Elle est destinée aux professionnels : éducation, santé, social.
-   Mis à jour le 18 août 2023
+   Santé publique France publie les résultats d'une étude sur le lien
+   entre conditions de télétravail et survenue de lombalgie, en tenant
+   compte de la symptomatologie dépressive, et identifie des pistes pour
+   réduire le risque.
+   Publié le 16 octobre 2023
    (BUTTON) Imprimer
    (BUTTON) Partager
      *
@@ -412,205 +415,119 @@ La santé en action
      * Linkedin
      * Mail
 
-Abonnez-vous à la revue
+   Troubles musculo-squelettiques
+   dossier thématique 26 septembre 2022
 
-   Pour recevoir par courriel la lettre d’information annonçant chaque
-   nouvelle parution et permettant d’accéder gratuitement au numéro
-   EN SAVOIR PLUS
+Troubles musculo-squelettiques
 
-N°464 - Juin 2023 - Consentement, éthique, soins et santé
+   Les troubles musculo-squelettiques se traduisent principalement par des
+   douleurs et une gêne fonctionnelle plus ou moins importantes, souvent
+   quotidiennes et provoquées ou aggravées par le travail
+   en savoir plus
 
-   La notion de consentement peut être définie comme un " acte par lequel
-   quelqu'un donne à une décision, dont un autre a eu l'initiative,
-   l'adhésion personnelle nécessaire pour passer à l'exécution ". A tout
-   moment de sa vie l'individu est amené à donner son consentement, et
-   ainsi de décider de ce qu'il souhaite. Ceci vaut bien entendu pour la
-   vie affective et sexuelle pour laquelle la notion de consentement est
-   incontournable. Mais aussi pour la contraception, l'interruption
-   volontaire de grossesse, les consultations médicales, les actes
-   médicaux, l'ensemble des soins, la fin de vie, etc. Ce dossier analyse
-   les conditions que les professionnels de tous champs – santé mais aussi
-   éducation social – doivent réunir, toutes les questions qu'ils doivent
-   se poser pour recueillir le consentement des personnes avant tout geste
-   et tout acte.
-   A TÉLÉCHARGER
+   L’organisation du travail est connue pour avoir un rôle direct et
+   indirect sur la santé au travail en général et sur la santé
+   musculo-squelettique. La lombalgie, en milieu de travail, représente la
+   première cause de morbidité ostéo-articulaire. Elle se définit par une
+   douleur localisée entre la charnière thoraco-lombaire et le pli fessier
+   inférieur. D’après les études existantes, le télétravail peut être à
+   l’origine d’une sédentarité accrue, d’adoption de postures du tronc
+   prolongées et inconfortables ou encore d’une augmentation des risques
+   psychosociaux, comme l’isolement social, qui influencent la survenue et
+   l’évolution de la lombalgie.
 
-   VOIR LE NUMERO
+   Suite aux trois confinements mis en place pour lutter contre l’épidémie
+   de Covid-19, l’activité professionnelle des français et son
+   organisation s’en sont trouvées profondément modifiées, avec notamment
+   un recours accru au télétravail.
 
-   Accédez à tous les numéros de la Santé en action
+   Alors que le télétravail régulier s’inscrit dans la durée, notamment
+   avec le développement du travail hybride, il a semblé nécessaire de
+   mieux comprendre les liens complexes entre les conditions de
+   télétravail, la symptomatologie dépressive et la survenue de lombalgie.
+   Dans ce cadre, et sur la base d’un panel de l’enquête CoviPrev^1, Santé
+   publique France a mené une étude qui vise à identifier les leviers
+   d’action efficaces pour réduire les conséquences du télétravail ou du
+   travail hybride sur la santé.
 
-Sommaire
+9% des télétravailleurs à temps plein ont signalé une lombalgie
 
-     * Introduction au dossier
+   L’étude a porté sur près de 1500 travailleurs indemnes de lombalgie au
+   début du 3e confinement. Pour mesurer les conséquences du télétravail
+   sur la santé, plusieurs variables ont été prises en compte telles que
+   le nombre de jours télétravaillés, le niveau de satisfaction vis-à-vis
+   des conditions de télétravail, le genre, l’âge et la corpulence.
 
-   Une question philosophique, pour les femmes un libre-choix non
-   questionné par les modalités d'IVG, un consentement non pris en compte
-   pour le suivi gynécologique des personnes handicapées
-     * Comment la philosophie se saisit-elle de la notion de consentement
-       ?
-     * Consentement et IVG : les modalités doivent être librement choisies
-       par les femmes
-     * « Pour s’assurer du consentement d’une personne handicapée, il faut
-       connaître le handicap »
+   Les résultats montrent que :
+     * La quotité hebdomadaire de télétravail semble avoir un impact sur
+       la survenue de lombalgie :  la prévalence de la survenue de
+       lombalgie passe de 9 % pour le télétravail à temps plein à 5 % pour
+       le travail hybride (télétravail à temps partiel).
+     * Les conditions matérielles de télétravail et la quotité de
+       télétravail influencent le niveau de satisfaction vis-à-vis des
+       conditions de travail en télétravail.
+     * La satisfaction vis-à-vis des conditions de travail en télétravail
+       diminue le risque de symptomatologie dépressive et de survenue de
+       la lombalgie. Par ailleurs, la présence d’une symptomatologie
+       dépressive augmente le risque de survenue de la lombalgie.
 
-   Etablissements psychiatriques, usagers de drogues, prisons, quand une
-   obligation se substitue au consentement pour les soins en milieu fermé
-     * La psychiatrie : domaine d’exception au principe de consentement
-       des personnes ?
-     * Usagers de drogues soumis à une obligation de soins : « Nouer une
-       alliance thérapeutique avec le patient »
-     * Les soins dans un établissement fléché pour les auteurs de
-       violences sexuelles : quelle place pour le consentement ?
+   Prévalence de la survenue de lombalgie en fonction de la quotité de
+   télétravail effectuée parmi les travailleurs indemnes de lombalgie au
+   début du 3e confinement
+   Télétravail à temps plein : 9,2%, travail hybride : 5,3%, pas de
+   télétravail : 4,8%
 
-   Toucher vaginal, toucher rectal : un consentement non questionné, une
-   absence de règles éthiques qui empêche le patient de se déterminer
-     * Consultations gynécologiques : « Nous devons être plus actif(ive)s
-       dans la recherche du consentement »
-     * Toucher rectal : une nécessité de renforcer la culture du
-       consentement
-
-   Ages du consentement, protection des mineurs, consentement au sein d'un
-   couple
-     * Les âges du consentement dans le droit criminel canadien
-     * Crimes sexuels : un pas en avant avec la loi de 2021 mais la
-       protection des mineurs demeure insuffisante
-     * Couple et sexualité en droit : la place du consentement
-
-   Populations vulnérables : lorsque le consentement n'est pas forcément
-   recueilli
-     * Accès aux soins pour les migrants : comment consentir si l’on ne
-       comprend pas ?
-     * Consentir à mourir ?
-
-   Rubriques
-     * Covid-19 : « Seule une psychothérapie individuelle de 16 séances a
-       fait la preuve  e son efficacité de manière robuste sur le trouble
-       de deuil prolongé »
-     * Expérimentation d’un programme de prévention de l’obésité : « Pour
-       environ un tiers des enfants, une amélioration de la corpulence a
-       été constatée »
-     * Permanence d’accès aux soins mobile de Marseille : « Un lieu de
-       confiance où les demandeurs d’asile peuvent parler de leur santé »
-     * Permanences d’accès aux soins de santé – Pass : une prise en charge
-       et un accompagnement des personnes en situation de précarité
-
-Les numéros parus en 2023
-
-N°463 - Mars 2023 - Prévention et promotion de la santé chez les 40-55 ans :
-quels enjeux pour la pratique ?
-
-   Image illustrative
-
-   La mi-vie, c'est-à-dire 40-55 ans, est une période charnière pour faire
-   de la prévention et promouvoir la santé de la population. Charnière
-   mais peu exploitée car pas identifiée comme un tournant dans le
-   maintien en santé. Les autres âges de la vie sont bien mieux balisés :
-   petite enfance, adolescence, jeunes adultes, puis plus tard, avancée en
-   âge, personnes âgées. Ce numéro spécial présente un état des
-   connaissances scientifiques sur les déterminants et l'état de santé des
-   40-55 ans. Puis il explore ce qui peut être mis en œuvre au profit de
-   la santé des quadras et quinquas, ces " invisibles " des schémas de
-   prévention et de santé publique. Sont passés en revue plusieurs
-   programmes et dispositifs innovants qui s'attachent à améliorer la
-   santé des personnes de cette tranche d'âge. Une trentaine de
-   scientifiques et de professionnels de terrain ont apporté leur
-   contribution à ce numéro spécial. Ce qui frappe dans ce constat est le
-   creusement des inégalités sociales de santé : à mi-vie déjà, selon leur
-   conditions de vie l'écart est considérable entre les personnes ayant
-   bénéficié de conditions favorables et a contrario celles dont le
-   parcours a été beaucoup plus rude et la santé est déjà dégradée.
-     * Lire le numéro
-
-N°462 - Décembre 2022 - Activité physique adaptée : promouvoir la santé des
-populations
-
-   Image illustrative
-
-   L'activité physique est bénéfique pour la santé globale - physique et
-   mentale - de l'ensemble de la population. Les recherches scientifiques
-   les plus récentes au niveau international ont confirmé qu'elle l'est
-   tout aussi pour les personnes souffrant d'une pathologie.
-     * Lire le numéro
-
-Les numéros parus en 2022
-
-N°461 - Septembre 2022 - Promouvoir la santé mentale des populations en temps
-de Covid-19
-
-   Image illustrative
-
-   La pandémie Covid-19 a un impact négatif majeur sur la santé mentale de
-   la population, objectivé par des enquêtes scientifiques et par les
-   professionnels qui travaillent en première ligne. Une trentaine
-   d'experts et de professionnels de terrain dressent un état des
-   connaissances et analysent les conséquences que la pandémie a sur la
-   santé mentale de l'ensemble de la population. Ils formulent des
-   recommandations pour l'action. Ce numéro spécial questionne en
-   particulier l'éthique et les inégalités sociales et territoriales de
+   Ces résultats, obtenus lors du 3e confinement, permettent une meilleure
+   compréhension de la chaîne des déterminants de la survenue de lombalgie
+   en situation de télétravail, bien qu’il soit nécessaire de poursuivre
+   ces travaux avec l’inscription du télétravail dans les organisations de
+   travail sur le long terme. Ils mettent notamment en évidence
+   l’importance des conditions matérielles de télétravail (pièce dédiée,
+   second écran, clavier, chaise de bureau) mais également de certains
+   aspects d’organisation du travail, telle que la quotité de télétravail
+   hebdomadaire, pour réduire les répercussions du télétravail sur la
    santé.
-     * Lire le numéro
 
-N°460 - Juin 2022 - La médiation en santé : un nouveau métier pour lever les
-obstacles aux parcours de soin et de prévention
+Quels sont les leviers d’action pour réduire l’impact du télétravail sur la
+santé ?
 
-   Image illustrative
+     * Encourager les employeurs, en lien avec les services de santé au
+       travail, à prendre des mesures afin de réduire l’impact négatif des
+       nouvelles organisations du travail, en s’appuyant sur les
+       ressources des préventeurs nationaux et régionaux (Anact-Aract,
+       INRS, Carsat, MSA…).
+     * Fournir un matériel adapté pour le domicile (mobilier, écran à
+       hauteur réglable…).
+     * Diffuser des recommandations ergonomiques pour l’aménagement des
+       postes de travail (séances de présentation pratique des
+       recommandations en visioconférence par exemple) afin d’améliorer
+       l’ergonomie du poste de travail et la satisfaction des conditions
+       de travail.
+     * Veiller à la quotité de télétravail mise en œuvre et encourager la
+       prise de pauses régulières pour faciliter le mouvement et lutter
+       contre les postures assises prolongées.
+     * Combiner ces interventions ergonomiques et organisationnelles avec
+       des approches multidimensionnelles impliquant l’ensemble des
+       parties prenantes.
 
-   C'est un nouveau métier dans la santé : les médiatrices et médiateurs
-   facilitent l'accès des patients aux soins et de l'ensemble de la
-   population à la prévention. Le creusement des inégalités de santé
-   actuellement à l'oeuvre, du fait de la pandémie Covid-19 - et de la
-   crise économique qui l'accompagne - place désormais sous la lumière ces
-   " médiateurs " qui font le lien entre les personnes vulnérables et le
-   système de santé. Une trentaine d'experts apportent leur contribution à
-   ce numéro spécial.
-     * Lire le numéro
+   A télécharger
 
-N°459 - Mars 2022 - L'urbanisme au service de la santé
+Étude des relations complexes entre conditions de télétravail et survenue de
+lombalgie tenant compte de la symptomatologie dépressive
 
-   Image illustrative
+   En savoir plus
 
-   C'est un déterminant de la santé des populations insuffisamment reconnu
-   : l'urbanisme joue un rôle crucial dans la qualité de vie, le bien-être
-   et donc la santé globale de tout individu. Quatre experts de
-   l'urbanisme favorable à la santé ont coordonné ce dossier central :
-   Anne Roué Le Gall, Mathilde Pascal, Nina Lemaire et Thierno Diallo. Ce
-   numéro présente une synthèse des connaissances et des focus sur des
-   pratiques d'urbanisme favorable à la santé en France et à l'étranger.
-   Une vingtaine de chercheurs et professionnels de terrain y ont
-   contribué. Avec la contribution de l'Organisation mondiale de la santé
-   (OMS) qui établit un constat d'urgence - l'urbanisme dégradé tue - et
-   formule des propositions.
-     * Lire le numéro
+   1-Enquête CoviPrev menée en France métropolitaine chez des personnes
+   âgées de 18 ans et plus, qui a pour objectif de suivre l’évolution de
+   la santé, notamment de la santé mentale, et de l’adoption des mesures
+   de protection face à la Covid-19 en période de confinement et
+   postconfinement.
+   Maladies liées au travail
+   dossier thématique 2 juillet 2019
 
-N°458 - Décembre 2021 - « Aller-vers » pour promouvoir la santé des
-populations
+Maladies liées au travail
 
-   Image illustrative
-
-   Pour promouvoir la santé de la population, les services de santé,
-   sociaux et d'éducation ne suffisent pas : certains citoyens ne sont pas
-   en capacité d'accéder à la santé, aux soins, à la prévention. Si l'on
-   veut que ces populations bénéficient des droits fondamentaux, il faut "
-   aller-vers " elles. Ce numéro spécial est entièrement consacré à cette
-   démarche : il en synthétise l'état des connaissances et en présente des
-   exemples diversifiés sur le territoire national, département
-   d'outre-mer compris. Une trentaine d'experts et de praticiens de
-   terrain ont contribué.
-     * Lire le numéro
-
-Informations générales
-
-     * Rédaction - ligne éditoriale
-     * Publier dans la santé en action
-     * S’abonner à la revue
-
-   Contact presse
-
-Contacter la rédaction
-
-   01 71 80 15 85 / 01 71 80 15 99
-
-   la-sante-en-action@santepubliquefrance.fr
+   en savoir plus
 
 Nous écrire par email
 

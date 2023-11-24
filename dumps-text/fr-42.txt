@@ -1,401 +1,266 @@
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PGLVR9V
+     * Aller au menu
+     * Aller au contenu principal
+     * Aller au pied de page
 
-   Site
-
-   Forums
-     * Santé
-     * Médicaments
-     * Grossesse - Bébé
-     * Psychologie
-     * Famille
-     * Nutrition
-     * Beauté
-     * Forme
-     * Sexualité
-     * Vie pratique
-     * Animaux
-     * Les experts vous répondent
-
-   Site Forums [logo_doctissimo.png?v=1698918579]
-     * Club Doctissimo
-     * Devenir membre
-     * Mon profil
-     * Se connecter
-     * Déconnexion
-     * Forums
-
-     * Concours
-
-     *
+   (BUTTON) Menu
+   ____________________________________________________________
+   Submit
+   Région île-de-France Région île-de-France
+   (BUTTON)
      *
 
-   Doctissimo
-   Un article Un médicament ____________________ Go
+Franciliens : vivre en Île-de-France
+       Manger local, se déplacer, sortir, s’instruire... Ce que la Région
+       fait pour les particuliers au quotidien.
+       (BUTTON) Retour
+          +
+          + Me déplacer
+          + Produire et manger local
+          + Participer à la transition écologique
+          + Culture
+          + Sport et loisirs
+          + Étudier ou me former
+          + Santé
+          + Solidarité et associations
+          + Me loger
+     *
+
+Professionnels : construire ou renforcer un projet
+       Entrepreneurs, start-up, agriculteurs, chercheurs... Créez,
+       développez, innovez ou faites face aux difficultés grâce aux aides
+       régionales.
+     *
+
+Collectivités : développer votre territoire
+       Trouvez les aides régionales qui correspondent à vos projets.
+     *
+
+Associations : être accompagnées pour mieux agir
+       Solidarité, sport, culture, citoyenneté, environnement... Découvrez
+       toutes les aides aux associations.
+     *
+
+Participer à la vie citoyenne
+       Devenez acteur de votre territoire en contribuant à la vie de votre
+       région.
+       (BUTTON) Retour
+          +
+          + Je participe à la vie de la Région
+          + Décisions et séances du Conseil régional
+     *
+
+M’orienter, étudier, me former
+       L’espace dédié aux lycéens, étudiants et demandeurs d’emploi.
+       (BUTTON) Retour
+          +
+          + Étudiant
+          + Lycéen
+          + Demandeur de formation
+          + Demandeur d'emploi
+          + Étudiants en formations sanitaires et sociales
+          + Organismes de formations sanitaires et sociales
+     *
+
+Découvrir la richesse du patrimoine
+       Qu’ils soient naturels, culturels ou architecturaux, découvrez nos
+       joyaux patrimoniaux.
+       (BUTTON) Retour
+          +
+          + Patrimoine artistique et architectural
+          + Patrimoine religieux
+          + Patrimoine industriel
+          + Patrimoine paysager et naturel
+          + Patrimoine gastronomique
+          + Études de l'Inventaire
+     *
+
+Découvrir le fonctionnement de la Région
+       Tout savoir sur le fonctionnement et les actions de la Région.
+       (BUTTON) Retour
+          +
+          + À propos de la Région
+          + La Région en action
+          + Les élus
+          + Les rapports, délibérations
+          + Financement Région
+          + L'exécutif du Conseil régional
+          + La Commission d'éthique régionale
+          + Les organismes associés de la Région
+
+À la une
+
+Les Brigades régionales de sécurité seront doublées dans les lycées
+franciliens
+
+   Lire l'article
+
+img Raccourcis
+
+     * Actualités
+     * Agenda
+     * Aides et appels à projets
+     * Espace presse
+     * Marchés publics
+     * Médiathèque
+     * Offres d'emploi
+     * Services
+     * (BUTTON) Accessibilité
+
+     * Accueil
+     * Aides et Appels À Projets
+     * Santé numérique et innovation
+
+Accès
+
+     * Nos aides
+     * Services
+     * Newsletter
+     * Emplois & Stages
+     * Contact
+
+     * Aide
      * Santé
-     * Médicaments
-     * Grossesse
-     * Bébé
-     * Psychologie
-     * Famille
-     * Nutrition
-     * Beauté
-     * Mode
-     * Forme
-     * Sexo
-     * Recettes
-     * Vidéos
-     * Tests
+     * Smart Région
 
-   Forums
-     * Accidents
-       domestiques
-     * Activités pour
-       les enfants
-     * Aidants
-       familiaux
-     * Animaux
-     * Automobile
-     * Conseil
-       vétérinaire
-     * Environnement
-     * Etre père
-     * Maison de
-       retraite
-     * Mère
-     * PACS
-     * Relation
-       mère-fille
-     * Scolarité
-     * Séparation
-     * SOS Avocat
-     * Travail
-     * Vacances
+Santé numérique et innovation
 
-Forum santé
+   Association régie par la loi de 1901, Fondation, Communes de moins de
+   2000 habitants, Communes de 10 000 à 20 000 habitants., Communes de
+   2000 à 10 000 habitants, Communes de plus de 20 000 habitants, EPCI
+   (*Établissement public de coopération intercommunale), EPT
+   (*Établissement Public Territorial) / Métropole du Grand Paris,
+   Département, Bailleurs sociaux, Autre (GIP, copropriété, EPA...),
+   Professionnel de la recherche
 
+   Partager
+     * Partager sur Facebook
+     * Partager sur Twitter
+     * Partager sur Linkedin
+     * (BUTTON) Copier dans le presse-papier
+     * (BUTTON) Imprimer
 
-   Articles de référence : Santé
-     * Dictionnaire médical
-     * Guide des médicaments
-     * Quiz santé
+   (BUTTON) Fermer le sommaire
 
-   Voir tous les articles
+Sommaire
 
-   Your browser cannot play this video.
-   Recherche :  ____________________   Lancer une recherche
-     Catégories du forum Santé Nombre de messages Date du dernier message
-   [big-309267894cd.png?v=1]
-   IMPORTANT Je participe
+   (BUTTON) Ouvrir le sommaire
 
-   Masquer Afficher
-   Addictions
-   On Arrêter de fumer
-     * Cigarette électronique
+   Intelligence artificielle, télémédecine… Alors que le système de santé
+   est en évolution rapide, la Région soutient les projets qui misent sur
+   les nouvelles technologies pour améliorer la santé des Franciliens et
+   le travail des soignants.
 
-   1 487 320 22/11/2023 à 07:11
-   par chloyoly58
-   On Autres drogues et dépendances 118 881 21/11/2023 à 09:44
-   par shreemahal​axmisteeli​ndustries
-   On Cannabis 154 340 22/11/2023 à 04:22
-   par freaakss
-   (Publicité)
-   On Dépendance à l'alcool 1 830 011 22/11/2023 à 09:29
-   par laitdesoja​3
-   On Anorexie et Boulimie 2 152 226 17/11/2023 à 07:16
-   par laranella
+Pour quel type de projet ?
 
-   Masquer Afficher
-   Appareil digestif
-   On Diabète 826 982 22/11/2023 à 10:57
-   par WIGOU
-   On Constipation, autres troubles du transit 106 886 22/11/2023 à 07:55
-   par Caro120915
-   On Digestion, brûlures d'estomac, RGO 26 213 21/11/2023 à 11:02
-   par Emmar
-   On Hépatites virales A, B et C 231 611 31/10/2023 à 08:39
-   par Marianyatt
-   On Maux de ventre, d'estomac, ulcères 112 082 20/11/2023 à 22:26
-   par Tout malade
+   Les projets proposés doivent prioritairement concerner l’une ou
+   plusieurs des thématiques suivantes :
+     * Innovation en santé,
+     * Intelligence artificielle,
+     * Télémédecine,
+     * Téléconsultation,
+     * Téléexpertise,
+     * Coordination des professionnels de santé,
+     * Amélioration de la prise en charge des patients.
 
-   Masquer Afficher
-   Cancers
-   On Cancer(s)
-     * Colon-Rectum
-     * Poumon
-     * Prostate
-     * Sein
+Qui peut en bénéficier ?
 
-   2 654 214 21/11/2023 à 23:29
-   par Sophi
-   On Chimiothérapie et radiothérapie 4 620 08/11/2023 à 10:24
-   par dajamag416
+   Prioritairement, les associations relevant de la loi de 1901 et les
+   fondations reconnues d’utilité publique, existantes depuis au moins 1
+   an.
 
-   Masquer Afficher
-   Chirurgie – dons – greffes
-   On Appendicite 10 211 15/11/2023 à 06:52
-   par jmbx
-   On Chirurgie : préparation et suites opératoires 38 048
-   21/11/2023 à 01:03
-   par Chacha6886
-   On Don d'organes - Greffe 82 541 15/11/2023 à 10:47
-   par Azhar97412​1
+   Pour les projets innovants et emblématiques : les collectivités
+   territoriales et EPCI, les établissements publics, les GIP et les
+   structures de droit public ou de droit privé.
 
-   Masquer Afficher
-   Épidémie
-   On Coronavirus
-     * Confinement
-     * Emploi
-     * Symptômes
-     * Test et dépistage
-     * Traitement
-     * Vaccins contre la Covid-19
+   Pour les projets de recherche : les établissements publics
+   d’enseignement supérieur et de recherche, dont notamment les
+   établissements nationaux à caractère scientifique, culturel et
+   professionnel.
 
-   29 987 21/11/2023 à 17:13
-   par Mendocino
+   Cette aide ne constitue pas un soutien à la création d'entreprises. Les
+   structures doivent pouvoir justifier de plus d'un an d'existence et
+   apporter des résultats sur le projet mis en place.
 
-   Masquer Afficher
-   Douleur – maux quotidiens
-   On Douleur 167 797 22/11/2023 à 07:55
-   par nethan
-   On Examens médicaux 15 171 21/11/2023 à 10:42
-   par Kocja
-   On Fatigue et baisse de tonus 53 068 21/11/2023 à 10:54
-   par Emmar
-   On Hémorroïdes 204 938 22/11/2023 à 01:50
-   par Johnn95924
-   On Jambes lourdes, varices 15 599 20/11/2023 à 18:07
-   par Nature
-   On Mal de dos, sciatique et lumbago 340 041 22/11/2023 à 10:40
-   par Nath2609
-   On Migraine et maux de tête 168 418 22/11/2023 à 10:24
-   par utxeuv
-   On Myopie, cataracte et problèmes de vue 159 576 21/11/2023 à 20:32
-   par Jeanyves
-   On Problèmes dentaires 502 149 20/11/2023 à 23:09
-   par Du-per
-   On Spasmophilie, crise de tétanie et fibromyalgie 549 437
-   19/11/2023 à 15:03
-   par Gaelle1313​13
+Quelle est la nature de l'aide ?
 
-   Masquer Afficher
-   Gynécologie – santé de la femme
-   On Contraception 1 491 047 21/11/2023 à 13:19
-   par l'Aventure​use
-   On Endométriose 303 782 05/11/2023 à 16:44
-   par srofca
-   On Ménopause, ostéoporose 331 858 21/11/2023 à 20:48
-   par mim71
-   On Règles et problèmes gynécologiques 852 542 21/11/2023 à 21:38
-   par l'Aventure​use
-   On Thyroïde et problèmes endocriniens 409 567 12/11/2023 à 08:21
-   par martine mm
-   On Troubles sexuels féminins 123 973 21/11/2023 à 23:40
-   par Mrconf
+   Subvention en fonctionnement :
+   La subvention régionale est fixée à 50% de la dépense subventionnable
+   (total des dépenses éligibles). Le montant de subvention est fixé au
+   plafond de 50.000€ par an et par opérateur pour un même projet.
 
-   Masquer Afficher
-   Neurologie
-   On Affections neurologiques (Alzheimer, Parkinson)
-     * Alzheimer
-     * Parkinson
-     * Autres affections neurologiques
+Démarches
 
-   452 435 22/11/2023 à 03:25
-   par evawillms
-   On Epilepsie 252 173 04/11/2023 à 09:42
-   par Ang
-   On Sclérose en plaques 389 057 14/11/2023 à 11:14
-   par Bagherra
-   On Vertiges et syncopes 11 246 21/11/2023 à 11:31
-   par Solang
+   Les demandes doivent être déposées en ligne sur la plateforme
+   mesdemarches.iledefrance.fr (dispositif « Soutien au numérique en santé
+   »).
 
-   Masquer Afficher
-   Peau – muqueuses – cheveux
-   On Acné, psoriasis et problèmes de peau
-     * Acné
-     * Eczéma
-     * Psoriasis
+Infos pratiques
 
-   409 974 21/11/2023 à 19:53
-   par Agathe42
-   On Allergies et eczéma 96 097 14/11/2023 à 19:15
-   par dermseb.fr
-   On Calvitie et perte de cheveux 357 133 20/11/2023 à 23:27
-   par fleurdusol​eil
-   On Mycoses 65 291 04/11/2023 à 10:48
-   par eeffgg05
-   On Poux et lentes 8 041 06/11/2023 à 23:32
-   par Sofy886850
+Contact
 
-   Masquer Afficher
-   Prévention
-   On Infections sexuellement transmissibles 209 777 21/11/2023 à 19:19
-   par Andeber
-   On Sida et prévention 337 279 19/11/2023 à 19:33
-   par Lolytop
-   On Vaccination 169 574 20/11/2023 à 09:03
-   par Malagasy
+   Service santé : sante@iledefrance.fr Tél. : 01.53.85.53.85
 
-   Masquer Afficher
-   Problèmes articulaires
-   On Accidents sportifs 173 261 20/11/2023 à 08:07
-   par Malagasy
-   On Arthrose et problèmes ostéo-articulaires 421 582 21/11/2023 à 17:59
-   par netokris85
-   On Entorses et fractures 38 099 20/11/2023 à 21:56
-   par Tyty81
+Le Médiateur de la Région Île-de-France
 
-   Masquer Afficher
-   Problèmes cardiovasculaires
-   On Cholestérol 33 863 14/11/2023 à 18:49
-   par rosinal
-   On Problèmes cardiovasculaires : hypertension, infarctus, avc 398 720
-   22/11/2023 à 08:10
-   par montijol95
+   Un litige à la suite d'une décision prise par l’un des services de la
+   Région Île-de-France ? Vous pouvez saisir son Médiateur. Comment
+   faire ? Comment intervient-il ?... Toutes les réponses.
 
-   Masquer Afficher
-   Problèmes ORL – pulmonaires
-   On Apnée du sommeil 10 546 13/11/2023 à 14:47
-   par prudenceb1​2
-   On Asthme, bronchite chronique (BPCO) 85 953 21/11/2023 à 01:26
-   par vitriote
-   On Audition, surdité 87 162 28/10/2023 à 13:53
-   par Profil supprimé
-   On Troubles ORL 67 436 20/11/2023 à 09:28
-   par coucou59
+À noter
 
-   Masquer Afficher
-   Problèmes rénaux et urologiques
-   On Autres problèmes urologiques masculins 29 662 21/11/2023 à 15:05
-   par random.see​d
-   On Cystites et problèmes urinaires de la femme 78 374
-   21/11/2023 à 22:10
-   par Lavande35
-   On Ejaculation prématurée (ou précoce) 78 327 21/11/2023 à 23:42
-   par doctibech
-   On Incontinence urinaire de la femme 20 206 18/11/2023 à 18:34
-   par francoiseb
-   On Insuffisance rénale 14 429 13/11/2023 à 02:36
-   par MissWhovie​nne
-   On Prépuce, phimosis et circoncision 127 455 22/11/2023 à 08:58
-   par Solang
-   On Prostate 8 645 15/11/2023 à 22:36
-   par manuderoue​n
-   On Troubles de l'érection 183 188 22/11/2023 à 06:32
-   par Marie Paule
+   Il s’agît d’un dispositif régional pouvant être sollicité durant toute
+   l’année en fonction de la disponibilité des crédits.
 
-   Masquer Afficher
-   À lire aussi
-   On Environnement, écologie 56 811 21/11/2023 à 17:57
-   par invite_PO
-   On Handicap 211 620 17/11/2023 à 13:21
-   par laitdesoja​3
-   On La Salle Détente 6 763 295 22/11/2023 à 08:59
-   par Vacma
-   On Maladies auto-immunes 24 633 04/11/2023 à 17:12
-   par Nature
-   On Maladies génétiques, orphelines, rares
-   (BUTTON) Choisissez une sous-catégorie
-     * Dysplasie ectodermique
-     * Fibromyalgie
-     * Lupus
-     * Maladie de Crohn
-     * Maladie de Recklinghausen
-     * Maladies génétiques
-     * Mucoviscidose
-     * Polychondrite atrophiante
-     * Purpura thrombopénique
-     * Syndrome de Raynaud
-     * Syndrome Ehler-Danlos
+Votre engagement
 
-   120 196 22/11/2023 à 09:45
-   par Nath2609
-   On Médecines complémentaires et alternatives
-     * Homéopathie
-     * Phytothérapie
+Charte de Laïcité
 
-   233 447 20/11/2023 à 14:32
-   par Luise67296​3
-   On Santé de l’enfant
-     * Bronchiolite
+   Afin de promouvoir les valeurs de la République et le principe de
+   laïcité, une charte est soumise aux partenaires régionaux et aux
+   usagers des équipements et services publics régionaux.
 
-   350 905 21/11/2023 à 08:01
-   par Degay
-   On Sexualité des personnes handicapées 21 126 13/11/2023 à 10:01
-   par Siouxie
-   On Forum libre Santé 451 954 22/11/2023 à 10:31
-   par nataly9961​69
-   Nombre total de messages : 296 938 688
-   Utilisateurs Enregistrés : 593 074
-   On   Nouveaux messages depuis la dernière visite
-   Off   Pas de nouveau message depuis la dernière visite
+Recruter un stagiaire
 
-   Index Forum Santé : 2017 - 2016 - 2015 - 2014 - 2013 - 2012 - 2011 -
-   2010 - 2009 - 2008 - 2007 - 2006 - 2005 - 2004 - 2003 - 2002 - 2001 -
-   2000
-   Forum MesDiscussions.Net
-   © 2000-2023 Doctissimo
-   Page générée en 0,340 secondes
+   Dans le cadre de la mesure "trouvez un stage", chaque bénéficiaire
+   d'une subvention régionale doit s'engager à recruter au moins 1
+   stagiaire, pour 2 mois minimum, pendant la période de validation de la
+   subvention.
+   Logo blanc
 
-NOS NEWSLETTERS
+   Conseil régional d'Île-de-France
+   2, rue Simone Veil 93400 Saint-Ouen
+   Tel. : +33 (0)1 53 85 53 85
+   S'abonner à la newsletter
+     * Facebook
+     * Instagram
+     * Linkedin
+     * Twitter
 
-   Pour recevoir nos newsletters ou modifier votre inscription, veuillez
-   saisir votre email ____________________ ok
-   [ ] Newsletter Hebdo [ ] Newsletter Vidéo [ ] Newsletter Test [ ]
-   Newsletter Beauté [ ] Newsletter Recette [ ] Newsletter Sexo [ ]
-   Développement Personnel
+Raccourcis Raccourcis
 
-SUIVIS HEBDOMADAIRES PERSONNALISÉS
+     * Aides et appels à projet
+     * Médiathèque
+     * Presse
+     * Foire aux questions
+     * Offres d'emploi et de stage
+     * Marchés publics
+     * Contact
 
-   [doc-block-right-newsletters-grossesse.jpg] La newsletter grossesse Je
-   m'abonne
-   [doc-block-right-newsletters-bebe.jpg] La newsletter bébé Je m'abonne
-   > Gérer mes newsletters
+Information Information
+
+     * Accessibilité : Non conforme
+     * Politique des cookies
+     * Politique de confidentialité
+     * Gestion des cookies
      * Plan du site
-          + Plan général
-          + Plan de la rubrique santé
+     * Mentions légales
+     * Logotype de la Région Île-de-France
 
-     * A lire aussi sur Doctissimo
-          + Test personnalité
-          + Test amour
-          + Test couple
-          + Test psycho
-          + Test sexualité
-          + Couple
-          + Psychologie de l'enfant
-          + Psychologie de l'ado
-          + Arrêter de fumer
-          + Cholestérol
-          + Diabète
-          + Régime
+Partenaires Partenaires
 
-     * Guide
-          + Prénom
+     * Plateforme open data de la Région Île-de-France
+     * L'Europe en Île-de-France
+     * Île-de-France - Smart services
+     * QIOZ
 
-     * Services et partenaires
-          + News
-
-     * Suivez-Nous :
-          +
-          +
-          +
-          +
-     * Contactez la rédaction
-     * Contactez la régie
-     * Le groupe
-          +
-               o DoctiPharma
-               o Santé des voyageurs
-     * Le site
-          +
-               o Qui sommes nous ?
-               o Comité d'experts de Doctissimo
-               o Charte d'utilisation
-          +
-               o Mentions légales
-               o Recrutement
-               o Charte données personnelles et cookies
-               o Préférences cookies
-     *
-
-   IFRAME:
-   //redirect460.tagcommander.com/utils/noscript.php?id=1&mode=iframe
+   2023 Région Île-de-France. Tous droits réservés.

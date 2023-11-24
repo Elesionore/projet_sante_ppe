@@ -1,636 +1,325 @@
-   #Feed
-
-   {{amount_with_comma_separator}} €
-
-   Mon panier
-   Votre panier est vide
-
-   Plus que 40,00 € pour profiter de la livraison gratuite en France.
-
-   Super ! Votre livraison est offerte.
-
-   0,00 €
-
-   0,00 €
-   Valeur totale de panier
-   (BUTTON) Je finalise ma commande
-   Je continue mes achats
-   OFFRE LIMITÉE BLACK FRIDAY
-   mium-lab-black-friday-nos-plus-grosses-promos-de-l-39-annee-jusqu-39-a-
-   60-de-reduction-l-39-occasion-ideale-pour-redecouvrir-les-bienfaits-de-
-   nos-cures-a-petits-prix-du-lundi-20-au-dimanche-26-novembre-2023-stocks
-   -limites
-   Gummies Sommeil - 7 nuits
-
-   Pour seulement 1,90€ au lieu de 9,90€
-   J'EN PROFITE - 2,90 €
-   OFFRE LIMITÉE BLACK FRIDAY
-   Gummies Sommeil - 7 nuits
-
-   Pour seulement 1,90€ au lieu de 9,90€
-   mium-lab-black-friday-nos-plus-grosses-promos-de-l-39-annee-jusqu-39-a-
-   60-de-reduction-l-39-occasion-ideale-pour-redecouvrir-les-bienfaits-de-
-   nos-cures-a-petits-prix-du-lundi-20-au-dimanche-26-novembre-2023-stocks
-   -limites
-   J'EN PROFITE - 2,90 €
-   [delivery-man-min.png?v=1683272145]
-
-   Livraison offerte
-
-   Dès 40€ d'achat en France Métropolitaine
-   [secure-payment-min.png?v=1683272144]
-
-   Paiements sécurisés
-
-   Carte Bancaire ou Paypal, paiement en 3x dès 50€
-   [online-chat-min.png?v=1683272144]
-
-   Service client
-
-   Du lundi au vendredi de 09h à 18h00
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-
-   🔥 BLACK FRIDAY - JUSQU'À -60% DE RÉDUCTION →
-
-Menu
-
-   Mium Lab
-   ____________________ (BUTTON)
-     *
-
-   0
-   (BUTTON) (BUTTON)
-     * Sommeil
-     * Magnésium
-     * Acide Hyaluronique
-     * Cheveux/Ongles
-     * beauté
-     * Minceur
-     * immunité
-     * FER
-     * énergie
-     * stress
-     * Ménopause
-     * Confort menstruel
-     * Enfants
-     * Vitamine D
-     * Mémoire/Concentration
-     * Circulation
-     * solaire
-     * digestion
-     *
-
-     * 🔥 BLACK FRIDAY -60%
-     * NOS GUMMIES
-          + NOS GUMMIES
-          + Tous nos gummies
-          + Gummies Sommeil
-          + Gummies Acide Hyaluronique
-          + Gummies Magnésium
-          + Gummies Cheveux & Ongles
-          + Gummies Beauté
-          + Gummies Immunité
-          + Gummies Énergie
-          + Gummies Minceur
-          + Gummies Fer
-          + Gummies Stress
-          + Gummies Mémoire/Concentration
-          + Gummies Digestion
-          + Gummies Vitamine D
-          + Gummies Solaire
-          + Gummies Circulation
-          + Gummies Confort Menstruel
-          + Gummies Ménopause
-          + Gummies pour Vegan
-          + Gummies Enfants
-     * AVIS CLIENTS
-     * NOS PROGRAMMES
-          + NOS PROGRAMMES
-          + Programme de fidélité
-          + Programme de parrainage
-          + Programme étudiant
-     * BLOG SANTÉ
-     * AIDE ET CONTACT
-          + AIDE ET CONTACT
-          + Foire aux questions
-          + Suivre votre commande
-          + Contact client
-               o hello@miumlab.com
-               o 01 76 38 06 79
-          + Contact professionnel
-               o adv@miumlab.com
-     * JE M'ABONNE (-35%)
+   #Sante et nutrition » Flux Sante et nutrition » Flux des commentaires
+   alternate alternate alternate
 
-     * Mon compte
-     * Boutiques
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KFLVZRW
 
-   Home › Conseils Santé - Le blog de Mium Lab › Acide Hyaluronique › Les
-   différents états de la peau
-   Les différents états de la peau
+   Categories Menu
 
-Les différents états de la peau
+     * Présentation
+          + Qui suis-je ?
+          + Sommaire
+          + Edito
+          + Evonutri, votre bilan nutritionnel personnalisé
+     * Santé
+          + Articles Santé
+          + Actualités
+          + Aliments Santé
+          + Recettes
+     * Sport
+          + Au quotidien
+          + Avant l’effort
+          + Pendant l’effort
+          + Récupération
+          + Les produits diététiques
+     * Formations Professionnelles
+     * Formations tout public
+     * Services
+          + Bilan nutritionnel
+          + Programmes vidéos
+          + Ebooks
+          + Suivi nutritionnel et consultation
+     * Médias
+          + Vidéos
+          + Références
+     * [search_btn.png]
 
-   Modifié le
-   04 octobre 2023
+   ____________________ recherche sur sante et nutrition
 
-   - Publié le
-   12 juillet 2023
+   Accueil » Santé et Nutrition, le blog dédié à l’approche globale et
+   critique de la nutrition
 
-   Validation scientifique :
-   [Jenni-v2_2_1_2048x_1-min_1.png?v=1683708538]
-   Jennifer Allouche
-   Diététicienne-nutritionniste
+Santé et Nutrition, le blog dédié à l’approche globale et critique de la
+nutrition
 
-   Temps de lecture
-   Acide Hyaluronique
-   Les Miraculeux
-     *
-     *
-     *
+Ce blog vous propose des conseils vous informant des dernières connaissances
+en matière de santé et nutrition, selon un regard holistique et critique.
+Vous y découvrirez des articles visant à prendre soin de votre santé tout en
+répondant aux enjeux environnementaux, ainsi que des conseils en nutrition
+sportive.
 
-Sommaire
+   La qualité de notre alimentation est au cœur de notre santé, mais
+   également de celle de la planète. Le blog santé et nutrition aborde
+   donc différents sujets autour de ces actualités pour vous aider à y
+   voir plus clair au sein d’une cacophonie nutritionnelle grandissante,
+   selon une approche la plus globale possible. Compte tenu de mon
+   expérience en nutrition sportive, j’ai également développé de nombreux
+   articles sur cette thématique, notamment pour les sports d’endurance.
+   Vous y trouverez également des conseils pratiques et des recettes.
 
-   Sommaire
+   Bienvenue dans le monde passionnant de la nutrition !
 
-Les différents états de la peau
+Les derniers articles du blog Santé et Nutrition
 
+Emission « on va déguster » sur France Inter
 
-   Peau grasse, peau acnéique, ou encore peau mature… Il existe plusieurs
-   types de peau. Mais saviez-vous que derrière ces termes se cachent deux
-   définitions distinctes ? Mium Lab vous aide à y voir plus clair et à
-   comprendre les facteurs qui peuvent influencer l'état de votre peau.
+   Anthony Berthou 2 novembre 2023
 
+   (Re)découvrez l’émission de François-Régis Gaudry sur France Inter « On
+   va déguster », à laquelle j’ai eu…
+   Lire l’article
 
-Quelles sont les différences entre les types et les états de la peau ?
+Sortie du livre Traité de la pleine santé par l’alimentation
+durable Nutrition, écologie et évolution
 
+   Anthony Berthou 15 septembre 2023
 
-   Lorsque nous parlons du type de peau, il s'agit d'une classification
-   générale basée sur les caractéristiques naturelles de la peau. On en
-   distingue 4 principaux :
+   Au cours de ce printemps, j’ai eu l’occasion de vous présenter mon
+   livre Du bon sens…
+   Lire l’article
 
+Sortie du livre Du bon sens dans l’assiette
 
-     * La peau normale, qui est considérée comme équilibrée avec une
-       production de sébum modérée, un teint uniforme et une bonne
-       hydratation ;
+   Anthony Berthou 23 février 2023
 
-     * La peau sèche, qui a tendance à manquer de lipides et
-       d'hydratation, ce qui peut rendre le teint terne. Les peaux sèches
-       sont généralement rugueuses et sujette aux irritations ;
+   C’est avec une grande joie que je vous annonce la sortie officielle de
+   mon nouveau…
+   Lire l’article
 
-     * La peau grasse qui à l’inverse produit une surproduction de sébum,
-       provoquant un aspect brillant, des pores dilatés et l'apparition de
-       boutons. Les peaux grasses peuvent être liées à différents facteurs
-       : hérédité, déséquilibres hormonaux, stress, pollution, tabac et
-       changements climatiques ;
+La biologie fonctionnelle, un allié santé sous-estimé ?
 
-     * La peau mixte, qui est une combinaison de ces deux extrêmes, avec
-       certaines zones du visage grasses et d'autres sèches qui présentent
-       un manque de sébum.
+   Anthony Berthou 7 septembre 2022
 
+   Auteure : Juliette Mellentin | Médecin biologiste Connaissez-vous la
+   biologie fonctionnelle ? Savez-vous qu’il existe des…
+   Lire l’article
 
-   Au-delà du type de peau qui est déterminé par notre héritage génétique,
-   l’état de la peau peut fluctuer au fil du temps en raison de divers
-   facteurs. Même si vous avez toujours eu une peau grasse, il est tout à
-   fait possible qu'elle devienne sèche ou sujette aux imperfections à un
-   moment donné de votre vie !
+   SOPK chez la femme
 
+Le SOPK touche 1 femme sur 10 : alimentation et mode de vie comme précieux
+leviers d’action
 
+   Anthony Berthou 9 mai 2022
 
-Les différents états de la peau
+   Auteure : Géraldine Galan | Docteur en Pharmacie Le syndrome des
+   ovaires polykystiques, communément appelé…
+   Lire l’article
 
+   Le chocolat
 
-   Comprendre la distinction entre le type de peau et l'état de la peau
-   est essentiel pour prendre soin de votre épiderme de manière adaptée.
-   En analysant à la fois votre type de peau de base et son état actuel,
-   vous pouvez choisir les produits de soins et la routine beauté la plus
-   efficace pour avoir une belle peau. Voici les différents états de la
-   peau que vous pouvez rencontrer :
+Le chocolat est-il aussi bon pour la santé que pour le palais ?
 
+   Anthony Berthou 14 octobre 2021
 
-
-La peau sensible
-
-
-   La peau sensible est l'un des états de la peau les plus courants et se
-   manifeste par une réactivité accrue aux agressions extérieures. Si vous
-   avez une peau sensible ou une peau réactive, vous pouvez ressentir une
-   sensation d'inconfort, de tiraillement ou de picotement fréquente.
-   Votre peau réagit souvent de manière excessive aux produits
-   cosmétiques, aux changements de température, aux rayons UV et à
-   d'autres facteurs déclenchants. Des rougeurs, des démangeaisons et une
-   sensation de brûlure peuvent accompagner ces symptômes, ce qui peut
-   rendre la peau sensible extrêmement délicate et fréquemment sujette aux
-   irritations.
-
-   Les peaux sensibles ont besoin de produits doux et spécialement
-   formulés pour apaiser et renforcer la barrière protectrice cutanée afin
-   de réduire les réactions et de retrouver une peau plus apaisée.
-
-
-
-La peau déshydratée
-
-   Contrairement à la peau sèche, qui est un type de peau, la
-   déshydratation est un état temporaire qui peut toucher tous les types
-   de peau, y compris les peaux normales, grasses ou mixtes. Les signes
-   révélateurs de la déshydratation cutanée se manifestent par une
-   sensation de sécheresse et de tiraillement. La peau peut également
-   sembler terne et manquer d'éclat.
-
-   Pour retrouver une belle peau, pas de secret ! Il faut adapter votre
-   rituel beauté en privilégiant une crème hydratante et légère pour
-   restaurer le film hydrolipidique présent à la surface de votre peau.
-   Une bonne hydratation interne est aussi recommandée !
-
-
-
-La peau acnéique
-
-
-   La peau acnéique est un état de la peau caractérisé par la présence
-   fréquente de petits boutons, de points noirs et d'autres imperfections.
-   Elle est souvent associée à une surproduction de sébum, à des
-   follicules pileux obstrués et à une prolifération bactérienne. En cas
-   de peau acnéique, les symptômes se manifestent par une inflammation, la
-   présence de rougeurs et de sensibilité dans les zones concernées.
-   Notons que l'acné peut être légère à sévère et nécessiter un
-   accompagnement par un professionnel de santé.
-
-   Côté soins, les manifestations des peaux acnéiques peuvent être
-   apaisées par l’utilisation de produits de nettoyage doux, de masque gel
-   purifiant pour absorber le sébum en excès ou encore de soins hydratants
-   légers. Attention aux produits décapants qui, s'ils permettent
-   d'éliminer l'aspect gras de la peau acnéique, peuvent entraîner un
-   effet rebond !
-
-
-
-La peau mature
-
-
-   Avec l'âge, la peau subit des changements naturels qui peuvent se
-   manifester par divers symptômes. Les rides et petites ridules sont
-   généralement les signes les plus visibles du vieillissement cutané,
-   accompagnés d'une perte d'élasticité et de fermeté. La peau mature peut
-   également présenter une texture plus rugueuse, des taches de vieillesse
-   et un teint irrégulier. Les causes de ces changements sont
-   multifactorielles et incluent le processus naturel de vieillissement,
-   les facteurs génétiques, l'exposition au soleil sans protection
-   adéquate, le stress oxydatif, le tabagisme et d'autres facteurs
-   environnementaux.
-
-   La peau mature a besoin de soins doux et revitalisants. L’ajout
-   d’actifs anti-âge comme l’acide hyaluronique ou le collagène permet
-   aussi de freiner l’apparition des signes du vieillissement et de
-   favoriser le renouvellement cellulaire(1).
-
-
-
-La peau granuleuse
-
-
-   La peau granuleuse peut donner l'impression que la surface de votre
-   peau est légèrement rugueuse, avec de petites bosses ou des
-   irrégularités. Les causes de cette texture granuleuse peuvent varier,
-   mais elles peuvent être liées à l'accumulation de cellules mortes, à un
-   excès de sébum ou même à des facteurs génétiques.
-
-   Heureusement, il existe des solutions pour adoucir cette rugosité ! En
-   intégrant des exfoliants doux dans votre routine de soins, vous pouvez
-   aider à éliminer les peaux mortes et à retrouver un grain de peau fin.
-   N'oubliez pas également de nourrir et d'hydrater votre peau avec des
-   produits adaptés pour la garder souple et éclatante. La peau granuleuse
-   peut par ailleurs être présente sur votre visage, mais aussi sur votre
-   corps.
-
-
-
-   [gummies-acide-hyaluronique-cure-longue.jpg?v=1676021501]
-   Gummies Acide Hyaluronique Sans Sucres
-   4.5
-   Rated 4.5 out of 5 stars
-   220 Avis
-
-   Vous souhaitez prévenir les signes de l'âge ou améliorer la qualité de
-   votre peau ?
-
-   Découvrez notre complément alimentaire hautement dosé en acide
-   hyaluronique (150mg) pour hydrater et raffermir la peau, associé à la
-   vitamine C qui participe à la synthèse du collagène.
-
-
-   ✅ Hydrate et raffermit la peau
-
-   ✅ Aide à combler les rides et ridules
-
-   ✅ Favorise la synthèse du collagène
-   Ajouter
-   En savoir plus
-
-
-
-Les facteurs qui influent sur l'état de votre peau
-
-
-
-   Au-delà du type de peau, l’état de votre peau est le reflet de votre
-   vie ! Elle peut être en effet influencée par de nombreux facteurs
-   internes mais aussi externes :
-
-
-Des facteurs externes
-
-     * Raisons hormonales : puberté, grossesse et ménopause peuvent avoir
-       un impact significatif sur la peau. Ces événements peuvent
-       provoquer une augmentation de la production de sébum par les
-       glandes sébacées, des poussées d'acné ou une augmentation de la
-       sensibilité cutanée(2) ;
-
-     * Climat et environnement : L'humidité, le froid extrême, la
-       pollution ou l'exposition à des vents forts peuvent altérer la
-       barrière cutanée et entraîner une déshydratation ou une
-       surproduction de sébum ;
-
-     * Rayons UV : L'exposition excessive aux rayons ultraviolets (UV)
-       peut endommager la peau et accélérer le processus de
-       vieillissement(3) ;
-
-     * Produits agressifs : L'utilisation de produits nettoyants agressifs
-       ou irritants peut causer des réactions indésirables sur la peau,
-       comme des rougeurs, une sensation d'inconfort, des démangeaisons,
-       voire des allergies. Un diagnostic de peau pour connaître votre
-       type de peau peut vous aider à choisir les produits de soin les
-       plus adaptés ;
-     * Alimentation : Une alimentation déséquilibrée et riche en aliments
-       transformés, en sucres raffinés et en gras saturés peut contribuer
-       à l'inflammation cutanée, à l'acné et à d'autres problèmes cutanés.
-
-
-Des facteurs internes
-
-
-     * Vieillissement naturel : Le vieillissement biologique de la peau
-       est un facteur interne inévitable. Au fil du temps, la peau perd de
-       son élasticité, sa production de collagène diminue et les signes
-       visibles du vieillissement, tels que les rides et la perte de
-       fermeté, deviennent plus prononcés ;
-
-     * Stress et hormones : Les périodes de stress chronique peuvent
-       perturber l'équilibre hormonal de votre corps, ce qui peut se
-       refléter sur votre peau. Des hormones comme le cortisol augmentent
-       la production de sébum et contribuent à l'apparition d'acné ou à
-       une peau plus sensible(4) ;
-
-     * Pathologies : Certaines pathologies internes peuvent également
-       affecter la santé de la peau, de même que la prise de traitements
-       médicaux ciblés.
-
-
-
-   [gummies-acide-hyaluronique-cure-longue.jpg?v=1676021501]
-   Gummies Acide Hyaluronique Sans Sucres
-   4.5
-   Rated 4.5 out of 5 stars
-   220 Avis
-
-   Vous souhaitez prévenir les signes de l'âge ou améliorer la qualité de
-   votre peau ?
-
-   Découvrez notre complément alimentaire hautement dosé en acide
-   hyaluronique (150mg) pour hydrater et raffermir la peau, associé à la
-   vitamine C qui participe à la synthèse du collagène.
-
-
-   ✅ Hydrate et raffermit la peau
-
-   ✅ Aide à combler les rides et ridules
-
-   ✅ Favorise la synthèse du collagène
-   Ajouter
-   En savoir plus
-
-
-
-   Pour vous aider à avoir une peau belle et saine, nous avons conçu nos
-   gummies pour la peau. Formulées à base de biotine, de zinc, d'acide
-   hyaluronique et de vitamine C, nos gommes pour une belle peau
-   contribuent à hydrater votre peau et à conserver tout son éclat.
-   Retrouvez-les dès maintenant sur notre e-shop !
-
-Nos derniers avis
-
-Nous vous conseillons également
-
-   L’acide hyaluronique un allié pour les peaux sèches ?
-
-   Acide Hyaluronique
-
-L’acide hyaluronique un allié pour les peaux sèches ?
-
-   Lire l'article
-   Les bienfaits de l’acide hyaluronique sur la peau
-
-   Acide Hyaluronique
-
-Les bienfaits de l’acide hyaluronique sur la peau
-
-   Lire l'article
-
--15% de réduction sur votre première commande.
-
-   Votre adresse email est utilisée par Mium Lab à des fins de prospection
-   commerciale (nouveautés, actualités...). Pour connaître notre Politique
-   de données personnelles et en savoir plus sur vos droits, cliquez ici
-
-Suivez-nous
-
-   Pour une dose de bonne humeur quotidienne :)
-   (BUTTON)
-
-   Instagram
-   (BUTTON)
-
-   Facebook
-   (BUTTON)
-
-   Youtube
-   (BUTTON)
-
-   TikTok
-   (BUTTON)
-
-   Pinterest
+   Le chocolat créé à partir de la fève de cacao, issue du cacaoyer
+   (famille des…
+   Lire l’article
      __________________________________________________________________
 
-     * Livraison offerte
-       Dès 40€ d'achat en France Métropolitaine
-     * Service client
-       Du Lundi au Vendredi de 09h à 18h00 par téléphone ou par email
-     * Paiements sécurisés
-       Par Carte Bancaire ou Paypal, paiement en 3x à partir de 50€
+Les Formations de La Nutrition Positive
 
-   SERVICE CLIENT À VOTRE ÉCOUTE
+   La Nutrition Positive est un organisme de formation en nutrition visant
+   à promouvoir une alimentation respectueuse de la santé et de
+   l’écologie. Les formations sont ouvertes aux professionnels (de santé,
+   du sport et de l’alimentation) mais également à toute personne
+   souhaitant développer ses connaissances. Elles allient les
+   connaissances fondamentales issues des données scientifiques les plus
+   récentes avec un enseignement pratique, adapté à la réalité du conseil
+   individualisé. L’équipe de La Nutrition Positive regroupe des
+   enseignants complémentaires et experts dans leur domaine (médecin,
+   pharmacien, diététicien-nutritionniste, coach sportif, etc.). Toute
+   l’équipe est dénuée de conflits d’intérêts, vous permettant ainsi de
+   bénéficier d’un enseignement en toute objectivité.
+   Plus d’informations sur le e-learning
 
-   Du lundi au vendredi de 9h à 18h
-   hello@miumlab.com
-   01 76 38 06 79
-   19 rue Cléry, 75002 Paris
-   FAQ Suivre ma commande
-   NOS CLIENTS TÉMOIGNENT
-   Ils nous ont fait confiance et ont partagé leur expérience d'achat et
-   leur avis sur les produits. Découvrez nos +10 000 avis !
+   La Nutrition Positive, ce sont également de nombreux programmes vidéo,
+   à découvrir en toute autonomie, à votre rythme.Vous pouvez accéder ici
+   à l’ensemble des programmes vidéo de La Nutrition Positive, dont voici
+   une sélection :
+   L'Académie de La Nutrition Sportive
 
-   Découvrir les avis ⭐
+L’Académie de La Nutrition Sportive
+
+   64 vidéos
+
+   347 € TTC
+   En savoir plus
+   La nutrition des sports de force
+
+L’importance de la nutritions pour les sports de force
+
+   13 vidéos
+
+   97 € TTC
+   En savoir plus
+   Nutrition et course à pieds
+
+Comment se préparer à un 10 km ou à un semi-marathon ?
+
+   17 vidéos
+
+   97€ TTC
+   En savoir plus
      __________________________________________________________________
 
-   Mium Lab
-     * Notre histoire
-     * Tous nos ingrédients
-     * Avis clients
-     * Parrainage - Gagnez 10€
-     * Réduction Étudiants
-     * Programme de fidélité
-     * Presse et médias
-     * Nos points de vente
-     * Nous rejoindre ♥️
+EvoNutri, votre bilan nutritionnel personnalisé
 
-   Mium Lab
-     * Notre histoire
-     * Tous nos ingrédients
-     * Avis clients
-     * Parrainage - Gagnez 10€
-     * Réduction Étudiants
-     * Programme de fidélité
-     * Presse et médias
-     * Nos points de vente
-     * Nous rejoindre ♥️
+   EvoNutri est un algorithme d’analyse nutritionnelle et
+   micronutritionnelle prenant en considération :
+     * Vos habitudes alimentaires
+     * Vos besoins spécifiques consécutifs à votre mode de vie
+     * Les signes pouvant traduire une altération de votre qualité de vie
+       (troubles digestifs, perte de vitalité, fatigue, troubles du
+       sommeil, troubles ostéo-articulaires, inflammations chroniques,
+       troubles de l’immunité, etc.).
 
-   Nos gummies
+   Il ne s’agit donc pas d’un simple bilan “diététique” ou d’un logiciel
+   de calcul calorique comme il en existe de nombreux, mais véritablement
+   d’un “scanner” de votre état nutritionnel influençant votre santé.
 
-   Tous nos Gummies
+   Son créateur, Anthony Berthou, a déjà développé un précédent algorithme
+   au début des années 2000, lauréat du concours national des entreprises
+   innovantes organisé par le ministère de la Recherche et de
+   l’Enseignement supérieur. EvoNutri est donc le dernier né des solutions
+   de personnalisation des recommandations nutritionnelles.
+   Evonutri_grand-public
+   Evonutri Pro
+     __________________________________________________________________
 
-   Abonnement sur-mesure
+Les Ebooks de La Nutrition Positive
 
-   Coffrets à Composer
+   Les Ebooks de La Nutrition Positive proposent des conseils et des clés
+   pratiques pour mettre en place une alimentation respectueuse de votre
+   santé et de l’écologie en fonction de vos objectifs (santé, minceur,
+   nutrition sportive, grossesse et allaitement, vegan, flexitarien,
+   etc.). Vous pouvez découvrir ici l’ensemble des ebooks de la Nutrition
+   Positive, dont voici une sélection :
+   ebook conseils-santé
 
-   Complément Alimentaire Sommeil
+Le guide nutritrionnelle pour une alimentation respectueuse de votre santé et
+de l’environnement
 
-   Complément Alimentaire Fer
+   76 pages
 
-   Complément Alimentaire Cheveux
+   17 € TTC
+   En savoir plus
+   ebook Conseils-Minceur
 
-   Complément Alimentaire Énergie
+Comment mincir durablement et avec plaisir ?
 
-   Complément Alimentaire Magnésium
+   81 pages
 
-   Complément Alimentaire Immunité
+   17 € TTC
+   En savoir plus
+   ebook Conseils flexitarien
 
-   Complément Alimentaire Ménopause
+Comment réduire votre consommation de viande tout en prenant soin de votre
+santé ?
 
-   Complément Alimentaire Vitamine D
+   84 pages
 
-   Complément Alimentaire Peau
+   17€ TTC
+   En savoir plus
+   Ebooks conseils-sports
 
-   Complément Alimentaire Stress
+Optimiser naturellement vos performances
 
-   Complément Alimentaire Solaire
+   102 pages
 
-   Complément Alimentaire Minceur
+   17€ TTC
+   En savoir plus
+   Plus d’informations sur les Ebooks
+     __________________________________________________________________
 
-   Complément Alimentaire Circulation
+Suivi nutritionnel
 
-   Gamme nutricosmétiques
+   Vous souhaitez bénéficier d’un accompagnement nutritionnel personnalisé
+   avec l’un des membres de notre équipe (médecin, pharmacien,
+   diététicien-nutritionniste, coach) ? Réalisez votre bilan EvoNutri et
+   un membre de notre équipe de professionnels de santé vous accompagnera
+   à travers un programme individualisé destiné à répondre à vos objectifs
+   spécifiques.
+   Je découvre les offres de consultation
+     __________________________________________________________________
 
-   Gamme santé féminine
+L’équipe de La Nutrition Positive
 
-   Gamme vitalité
+     * Anthony Berthou
+     * Edito
+     * Bilan gratuit
+     * Plan du site
+     * Mentions légales
+     * Politique de confidentialité
+     * Conditions générales d’utilisation
+     * Me contacter
+     * [unnamed.png]
+     * [facebook-logo-2019-1597680-1350125.png]
 
-   Gamme santé
+   MENU
+     * Présentation
+          + Qui suis-je ?
+          + Sommaire
+          + Edito
+          + Evonutri, votre bilan nutritionnel personnalisé
+     * Santé
+          + Articles Santé
+          + Actualités
+          + Aliments Santé
+          + Recettes
+     * Sport
+          + Au quotidien
+          + Avant l’effort
+          + Pendant l’effort
+          + Récupération
+          + Les produits diététiques
+     * Formations Professionnelles
+     * Formations tout public
+     * Services
+          + Bilan nutritionnel
+          + Programmes vidéos
+          + Ebooks
+          + Suivi nutritionnel et consultation
+     * Médias
+          + Vidéos
+          + Références
+     * [search_btn.png]
+     * ____________________ (BUTTON)
 
-   Nos gummies
+   Gérer le consentement aux cookies
+   Pour offrir les meilleures expériences, nous utilisons des technologies
+   telles que les cookies pour stocker et/ou accéder aux informations des
+   appareils. Le fait de consentir à ces technologies nous permettra de
+   traiter des données telles que le comportement de navigation ou les ID
+   uniques sur ce site. Le fait de ne pas consentir ou de retirer son
+   consentement peut avoir un effet négatif sur certaines caractéristiques
+   et fonctions.
+   Fonctionnel [ ] Fonctionnel Toujours activé
+   Le stockage ou l’accès technique est strictement nécessaire dans la
+   finalité d’intérêt légitime de permettre l’utilisation d’un service
+   spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans
+   le seul but d’effectuer la transmission d’une communication sur un
+   réseau de communications électroniques.
+   Préférences [ ] Préférences
+   Le stockage ou l’accès technique est nécessaire dans la finalité
+   d’intérêt légitime de stocker des préférences qui ne sont pas demandées
+   par l’abonné ou la personne utilisant le service.
+   Statistiques [ ] Statistiques
+   Le stockage ou l’accès technique qui est utilisé exclusivement à des
+   fins statistiques. Le stockage ou l’accès technique qui est utilisé
+   exclusivement dans des finalités statistiques anonymes. En l’absence
+   d’une assignation à comparaître, d’une conformité volontaire de la part
+   de votre fournisseur d’accès à internet ou d’enregistrements
+   supplémentaires provenant d’une tierce partie, les informations
+   stockées ou extraites à cette seule fin ne peuvent généralement pas
+   être utilisées pour vous identifier.
+   Marketing [ ] Marketing
+   Le stockage ou l’accès technique est nécessaire pour créer des profils
+   d’utilisateurs afin d’envoyer des publicités, ou pour suivre
+   l’utilisateur sur un site web ou sur plusieurs sites web ayant des
+   finalités marketing similaires.
+   Gérer les options Gérer les services Gérer {vendor_count} fournisseurs
+   En savoir plus sur ces finalités
+   (BUTTON) Accepter (BUTTON) Refuser (BUTTON) Voir les préférences
+   (BUTTON) Enregistrer les préférences Voir les préférences
+   {title} {title} {title}
 
-   Tous nos Gummies
-
-   Abonnement sur-mesure
-
-   Coffrets à Composer
-
-   Complément Alimentaire Sommeil
-
-   Complément Alimentaire Fer
-
-   Complément Alimentaire Cheveux
-
-   Complément Alimentaire Énergie
-
-   Complément Alimentaire Magnésium
-
-   Complément Alimentaire Immunité
-
-   Complément Alimentaire Ménopause
-
-   Complément Alimentaire Vitamine D
-
-   Complément Alimentaire Peau
-
-   Complément Alimentaire Stress
-
-   Complément Alimentaire Solaire
-
-   Complément Alimentaire Minceur
-
-   Complément Alimentaire Circulation
-
-   Gamme nutricosmétiques
-
-   Gamme santé féminine
-
-   Gamme vitalité
-
-   Gamme santé
-
-   15% de réduction
-
-   Réduction valable sur votre 1ère commande en vous inscrivant à notre
-   Newsletter. On ne parle que de bonnes choses : bien-être, nutrition et
-   nouveautés.
-
-   Merci pour votre inscription!
-
-   15% de réduction
-
-   Réduction valable sur votre 1ère commande en vous inscrivant à notre
-   Newsletter. On ne parle que de bonnes choses : bien-être, nutrition et
-   nouveautés.
-
-   Merci pour votre inscription!
-   2023 ©Mium Lab - Tous droits réservés |
-   Mentions Légales | Politique de confidentialité | CGV | Cookies
-
-   (BUTTON) FR
-     * EU
-     * UK
-     * DE
-     * IT
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WLPXC8W
-
-   Popup
-
-   Use this popup to embed a mailing list sign up form. Offer incentives
-   to customers to join and build your mailing list.
-
-   Merci pour votre inscription!
-   Popup
-
-   Use this popup to embed a mailing list sign up form. Offer incentives
-   to customers to join and build your mailing list.
-
-   Merci pour votre inscription!
+   (BUTTON) Gérer le consentement

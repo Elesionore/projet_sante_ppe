@@ -1,345 +1,702 @@
-   #alternate alternate alternate alternate alternate
+    #alternate
 
-     * Accès direct au contenu
-     * Accès direct au menu principal
-
-   Logo Marianne République française
-   Retour à l'accueil (logo République française)
-   Logo Inserm Header
-   Retour à l'accueil (logo Inserm)
-
-     * English
-
-   (BUTTON) Recherche
-   Rechercher ____________________ (BUTTON) Recherche
-
-   (BUTTON) Menu Fermer
-     * Connaître
-       l’Inserm
-       Connaître l’Inserm
-          + L’Institut
-               o L’Inserm en un coup d’œil
-               o Missions
-               o Organigramme
-               o Infrastructures de recherche
-               o Documents stratégiques
-               o Budget
-               o Prix Inserm
-          + Notre écosystème
-               o Partenariats de recherche
-               o L’Inserm et les associations
-               o Coopération en Europe et à l’international
-               o Programme Investissements d’Avenir (PIA)
-               o France Relance
-          + Nos programmes
-               o Programmes de recherche
-               o Programme Atip–Avenir
-               o École de l’Inserm Liliane Bettencourt
-     * La recherche
-       à l’Inserm
-       La recherche à l’Inserm
-          + Du laboratoire jusqu’au patient
-               o Le continuum de la recherche
-               o La recherche fondamentale
-               o La recherche clinique
-               o La recherche en santé publique
-               o La recherche technologique
-               o Valorisation et transfert des découvertes
-               o La recherche participative
-          + Une recherche responsable
-               o Nos bonnes pratiques
-               o La science ouverte
-               o L’éthique à l’Inserm
-               o Les modèles animaux
-          + Portraits et reportages
-               o Portraits de chercheuses et de chercheurs
-               o Reportages en labo
-     * Information
-       en santé
-       Information en santé
-          + Pour tout public
-               o Dossiers thématiques
-               o C’est quoi ? Les mots de la science
-               o Magazine de l’Inserm
-               o Ouvrages coédités par l’Inserm
-               o Expositions et ressources pédagogiques
-          + Pour public avancé
-               o Expertises collectives
-               o Rapports thématiques
-               o Revue médecine/sciences
-     * Actualités & évènements
-       Actualités & évènements
-          + Nos actualités
-               o Actu science
-               o Actu institutionnelle
-               o Actu pro
-               o Toutes les actualités
-          + Nos évènements
-               o Évènéments
-     * Faire un don
-     *
-          + English
-     *
-
-Actualités
-
-Une approche vaccinale contre l’inflammation chronique intestinale
-
-   Actualité, Science
-
-   Certains émulsifiants alimentaires induisent une inflammation
-   intestinale chronique, également retrouvée dans différentes maladies
-   métaboliques.…
-   © Benoit Chassaing/Institut Cochin/Inserm.licence CC-BY-NC 4.0
-   international
-
-Biopile : l’énergie illimitée du corps
-
-   Actualité, Science
-
-Clément Papadacci : « Une nouvelle imagerie ultrasonore pour visualiser des
-organes avec une précision jamais atteinte »
-
-   Lauréats ERC
-
-Pollution atmosphérique : Respirer est-il mauvais pour la santé ?
-
-   Actualité, Science
-   Toutes les actus
-
-L’information en santé
-
-Inserm, le magazine n°58
-
-   Magazine
-
-   Alors que l’espérance de vie et le nombre de centenaires ont augmenté,
-   la vieillesse…
-
-Derniers stocks – C’est quoi la préménopause ?
-
-   C’est quoi
-
-   La ménopause, tout le monde en a déjà entendu parler et les femmes
-   savent…
-
-médecine/sciences
-
-   Nous connaître
-
-   La revue médecine/sciences offre à ses lecteurs des textes sur les
-   avancées de la…
-   Revue médecine/sciences n°10, volume 39. Octobre 2023
-
-Découvrez
-nos dossiers d’infos !
-
-   Ces dossiers font le point sur une maladie, une innovation en santé ou
-   une thématique importante pour la recherche biomédicale. Ils présentent
-   les connaissances actuelles et les recherches en cours, notamment à
-   l’Inserm.
-   VOIR TOUS LES DOSSIERS
-
-Maladies auto-immunes
-
-   Les maladies auto-immunes résultent d’un dysfonctionnement du système
-   immunitaire qui conduit ce dernier à…
-   Image réalisée en miscroscopie en fluorescence
-
-Acouphènes
-
-   Les acouphènes sont des bruits générés spontanément dans la voie
-   auditive, sans qu’ils proviennent…
-
-Ménopause
-
-   Si la ménopause n’est pas une maladie, la carence en œstrogènes qui
-   lui est…
-
-Journalistes, visitez
-notre site Presse !
-
-   Pour consulter nos communiqués destinés aux médias, ainsi que pour
-   contacter le service Presse de l’Institut, rendez-vous sur notre salle
-   de presse en ligne.
-   presse.inserm.fr
-   Notre dernier communiqué
-
-Antibiorésistance : un nouveau mécanisme observé en temps réel grâce à des
-techniques de microscopie innovantes
-
-La science pour la santé
-
-   L’Institut national de la santé et de la recherche médicale (Inserm)
-   est le seul organisme de recherche public français entièrement dédié à
-   la santé humaine.
-   L’Inserm en un coup d’oeil
-   RAPPORT D’ACTIVITÉ 2022
-
-L’année européenne de l’Inserm
-
-   Actualité, Institut
-
-Agenda
-
-LibéCARE 2023 : retrouvez l’Inserm à Caen
-
-   Actualité, Évènements
-   LibéCare, du 30 novembre au 2 décembre 2023
-
-Web-émission – Diagnostic, traitements, recherche : tout ce qu’il faut savoir
-sur les troubles bipolaires
-
-   Actualité, Évènements
-   Web-émission 30 minutes Santé - 28 novembre 2023
-
-10 ans de révolutions et d’accélérations technologiques et 10 ans de
-nouvelles réflexions éthiques
-
-   Séminaires
-   Journée annuelle du comité d'éthique, le 22 novembre 2023
-   Voir l’agenda complet
-
-Professionnels de la recherche, consultez Inserm Pro
-
-   Les informations et ressources pour les professionnels de la recherche
-   sont sur un site dédié.
-   Consulter Inserm pro
-   HR Excellence in Research
-
-Recevoir notre lettre d’information
-
-   Vous recevrez chaque mois les derniers articles publiés sur ce site.
-   Nous n’utiliserons pas votre e‑mail pour autre chose, et vous pourrez
-   vous désabonner à tout moment. En savoir plus sur vos données et vos
-   droits.
-
-Formulaire d’inscription
-
-   loader
-
-   Adresse e-mail (au format pbheevry@rkrzcyr.se) : ____________________
-   M'inscrire
-
-Nos délégations régionales
-
-     * Auvergne Rhône-Alpes
-     * Est
-     * Grand Ouest
-     * Île-de-France Centre Est
-     * Île-de-France Centre Nord
-     * Île-de-France Sud
-     * Nord-Ouest
-     * Nouvelle-Aquitaine
-     * Occitanie Méditerranée
-     * Occitanie Pyrénées
-     * PACA et en Corse
-
-Autres sites Inserm
-
-     * Professionnels de la recherche
-     * Ressources Humaines
-     * Marchés publics
-     * Évaluation
-     * Orphanet
-
-Accès direct
-
-     * Volontaire pour des tests
-
-Associés à l’Inserm
-
-     * ANRS | MIE
-     * Inserm Transfert
+   [alpha.png]
 
      *
-     *
-     *
-     *
-     *
-     *
+     * Mode
+     * Beauté
+     * Cuisine
+     * Déco
+     * Jardin
+     * Amour
+     * Mariage
+     * Famille
+     * Santé
+     * Société
+     * Stars
+     * Loisirs
+     * Horoscope
+     * Hugo
+
+   (BUTTON)
+     * (BUTTON) Menu Principal
+     * Santé
+     * Maladies (BUTTON)
+     * Quotidien (BUTTON)
+     * Nutrition (BUTTON)
+     * Médicaments (BUTTON)
+     * Examens (BUTTON)
+     * Psycho (BUTTON)
+     * Sexo-gynéco (BUTTON)
+     * Forum
+
+   Journal des femmes Santé
      *
 
-     * Questions fréquentes
-     * Nous contacter
-     * Mentions légales
-     * Accessibilité (partiellement conforme)
+       Moteur de recherche
+
+       ____________________ (BUTTON)
+
+       (BUTTON)
+     * (BUTTON)
+          + S'inscrire
+          + Connexion
+
+     * Maladies
+          + Covid-19
+          + Cancer
+          + Cardiologie
+          + Dermatologie
+          + Endocrinologie
+          + Maladies du foie
+          + Gastro-enterologie
+          + Neurologie
+          + ORL
+          + Rhumatologie
+     * Quotidien
+          + Addictions
+          + Blessures
+          + Dents
+          + Digestion
+          + Douleur
+          + Médecines douces
+          + Piqûres
+          + Podologie
+          + Sommeil
+          + Symptômes
+     * Nutrition
+          + Aliments et maladies
+          + Bienfaits des aliments
+          + Equilibre alimentaire
+          + Nutriments
+          + Vitamines
+          + Calcul IMC
+          + Annuaire des calories
+     * Médicaments
+          + Définitions
+          + Types
+          + Principes actifs
+          + Effets secondaires
+          + Annuaire des médicaments
+     * Examens
+          + Analyses
+          + Anatomie
+          + Examens médicaux
+          + Opérations
+     * Psycho
+          + Emotions
+          + Thérapies
+          + Maladies psy
+     * Sexo-gynéco
+          + Contraception
+          + Tomber enceinte
+          + Gynécologie
+          + Sexualité
+          + Santé de l'homme
+     * Forum
+
+     *
+     * Forum Santé
+     * Santé
+
+Forum Santé
+
+   Toutes les discussions autour de la santé en général
+   Posez votre question
+   Voir les catégories Voir les thèmes
+
+Les discussions
+
+   (BUTTON) Rechercher
+
+     * Alzheimer
+     * Asthme
+     * Infection urinaire
+     * Maladies neurologiques
+     * Maux de l'hiver
+     * Prostate
+     * Sommeil / Fatigue
+
+   Récentes Sans réponse Résolues
+
+   Femme à 12:11 Santé
+
+Glandes mammaires
+
+   Bonjour , Depuis hier j’ai mal aux glandes mammaires du sein gauche .
+   Ce matin , quand je pressais mes glandes je voyais un peu de liquide
+   blanc ( ...
+
+   1 réponse Dernière réponse à 13:26 par DCI
+
+   Abra43 le 22 nov. Maladies neurologiques
+
+Moments de confusion mentale, perte de lien à la réalité
+
+   Bonjour, Je me permets de passer sur un forum pour faire part de mes
+   pbm de santé.  Depuis plusieurs années, 5 ans je dirai, je souffre de
+   moments d...
+
+   10 réponses Dernière réponse à 11:49 par begonie
+
+   Tom à 08:19 Santé
+
+Douleur bras gauche
+
+    Fermé
+
+   Bonjour je vous écris car depuis les vacances d été ( j était tombé en
+   moto ), et depuis des douleurs dans le bras gauche pourtant j ai fait
+   tout les ...
+
+   1 réponse Dernière réponse à 08:55 par joraline
+
+   Stef le 23 nov. Santé
+
+Irm cervicale
+
+   Bonjour, Après mon IRM cervicale mon compte rendu dit que j'ai une
+   hernie discale posteromediane sans signe de migration et Debord discal
+   postérieur ...
+
+   1 réponse Dernière réponse le 23 nov. par DCI
+
+   Laeti le 23 nov. Santé
+
+Boule dans l’os derrière l’oreille
+
+   Bonjour, Je me suis percé le cartilage il y a une semaine et mon
+   oreille a gonflé donc j’ai cru à une inflammation qui est normal  sauf
+   que je viens...
+
+   1 réponse Dernière réponse le 23 nov. par Docteur Pierrick Hordé
+
+   Lalila le 22 nov. Santé
+
+Risque d’infection ? (piercing)
+
+   Bonjour,  j’ai fais un piercing il y’a un peu moins d’un mois au
+   labret, mon deuxième. En mangeant tout à l’heure, il s’est dévissé et
+   c’est enlever. ...
+
+   Répondre
+
+   Mounette le 21 nov. Maladies neurologiques
+
+Précisons sur le syndrome de la bouche en feu
+
+   Bonjour, Je souhaite avoir des précisions sur le syndrome de la bouche
+   en feu.  Je souffre de picotements, fourmillements et sensation de
+   chaleur de...
+
+   3 réponses Dernière réponse le 22 nov. par DCI
+
+   Ret_mdr le 14 nov. Santé
+
+Mauvaise respiration
+
+   Bonjour, depuis que je suis petit je respire naturellement par le
+   thorax et non pas par le ventre. Je viens d’apprendre que c’est
+   mauvais. Est-ce que ...
+
+   4 réponses Dernière réponse le 21 nov. par Fab
+
+   Prune92 le 21 nov. Santé
+
+Fourmillements ou picotements
+
+   Bonjour, Je suis anxieuse, surménée, hypocondriaque, fatiguée, stressé,
+   énervée, dépressive, à bout... breeeef Depuis 3 jours j'ai une gêne
+   dans la ...
+
+   7 réponses Dernière réponse le 21 nov. par Docteur Pierrick Hordé
+
+   Ju030413 le 21 nov. Santé
+
+Radio thorax
+
+   Bonjour mon conjoint a fais une radio du thorax pour le moment personne
+   ne lui a expliqué les résultats  Pouvez vous me dire si cela peut-être
+   grave...
+
+   1 réponse Dernière réponse le 21 nov. par DCI
+
+   Lia_108 le 19 nov. Santé
+
+Chat griffure danger
+
+   Bonjour, je me suis fait griffer profondément par mon chat il y a 5
+   jours. Depuis, j’ai extrêmement peur qu’il m’ai transmis un virus tel
+   que la rage....
+
+   6 réponses Dernière réponse le 20 nov. par joraline
+
+   Amelie le 20 nov. Santé
+
+Examens gynécologiques
+
+   Bonjour, Suspectant une mycose vaginale, j’ai effectué plusieurs
+   examens sous l’ordre de mon gynécologue : - Prélèvement cervico-vaginal
+   - ECBU - ...
+
+   1 réponse Dernière réponse le 20 nov. par DCI
+
+   Grosminet-s-interroge le 20 nov. Santé
+
+Tubercules de morgagni avec fil blanc quand pincés
+
+   Bonjour, J'ai toujours eu des sortes de petites bosses sur les
+   mamelons, que je suppose être des tubercules de Morgagni d'après ce que
+   j'ai pu lire s...
+
+   Répondre
+
+   Anonymedu555 le 19 nov. Santé
+
+Problème de diarrhée lié au stress scolaire que faire
+
+   Bonjour depuis la rentrée scolaire de septembre j ai une diarrhée qui
+   perdure tous au long de la semaine et qui s'arrete le week-end et qui
+   revient le...
+
+   1 réponse Dernière réponse le 19 nov. par levieuxmatou
+
+   Lili-123 le 19 nov. Santé
+
+Herpès labial bouton de fièvre ou feu sauvage
+
+   Hello j’espère vous allez bien  Voilà j’ai récemment appris que ma sœur
+   fessait dés crise de herpès labial (boutons de fièvre) (a précisé que
+   elle m...
+
+   1 réponse Dernière réponse le 19 nov. par Docteur Pierrick Hordé
+
+   Lacoco le 19 nov. Maladies neurologiques
+
+Séquelles leucoariose
+
+   Bonjour, Que veut dire séquelles leucoariose ? détectée a l âge de 50
+   ans. J ai aujourd'hui 69 ans, il y a 2 ans petite lésion
+   cervelet,stable depui...
+
+   1 réponse Dernière réponse le 19 nov. par Docteur Pierrick Hordé
+
+   Clarissette98 le 6 mai Santé
+
+Lignes rouges bras
+
+   Bonjour  hier soir des traces rouges sans reliefs sont apparues et je
+   ne sais pas quoi en penser je ne sais plus si je me suis grattée ou si
+   il s...
+
+   3 réponses Dernière réponse le 19 nov. par Sand
+
+   Amandine le 19 nov. Santé
+
+Hemorroides
+
+   Bonjour, Je rencontre depuis plusieurs mois un problème qui génère chez
+   moi beaucoup d'angoisse. J'ai des saignements en allant à la selle. Ce
+   problè...
+
+   2 réponses Dernière réponse le 19 nov. par Amandine
+
+   Lilouu170514 le 7 nov. Santé
+
+Irm de la jambe
+
+   Bonjour j’ai passer une IRM suite au faite que je boîte et une douleur
+   insupportable à la jambe je ne vois pas de suite mon médecin./. Lame
+   d'épanche...
+
+   9 réponses Dernière réponse le 19 nov. par Lea
+
+   Lilouu170514 le 19 nov. Maladies neurologiques
+
+Douleur jambe boiterie
+
+    Fermé
+
+   Bonjour,j’ai fait une IRM et voici les résultats  Résultats Lame
+   d'épanchement articulaire physiologique. Discret hypersignal de
+   l'insertion du gastro...
+
+   1 réponse Dernière réponse le 19 nov. par joraline
+
+   Mich le 19 nov. Sommeil / Fatigue
+
+Perte sommeil
+
+   Bonjour, Je ne trouve pas de solution pour m aider à  m'endormir et a
+   dormir  J'ai tout essayé comme de nombreuses personnes  Relaxation
+   plantes ...
+
+   2 réponses Dernière réponse le 19 nov. par begonie
+
+   Rose0406 le 18 nov. Santé
+
+Gestion émotions au travail
+
+   Bonjour,  Je suis étudiante en travail social. Je suis en stage pour 1
+   ans sur un service (j'alterne semaines de cours et semaines de stages)
+   et il m...
+
+   3 réponses Dernière réponse le 18 nov. par begonie
+
+   Max le 18 nov. Santé
+
+Pulsations dans les doigts
+
+   Bonjour, Je ressens la même chose, je ressens énormément de pulsations
+   dans les doigts c'est juste atroce, c'est invivable, alors oui ça crée
+   énormém...
+
+   1 réponse Dernière réponse le 18 nov. par Docteur Pierrick Hordé
+
+   Prune92 le 17 nov. Santé
+
+Estomac rgo brûlures
+
+    Fermé
+
+   Bonjour, Mes douleurs thoraciques sont apprement du au RGO et depuis
+   quelques jours gêne respiratoire, qui sont peut-être du à ce RGO. Je
+   suis sous ...
+
+   1 réponse Dernière réponse le 17 nov. par joraline
+
+   Lulu le 16 nov. Santé
+
+Urgence malaise douleur
+
+   Bonjour, je viens de faire 2 malaise à la suite ou j’ai perdu
+   connaissance brièvement et je me suis même uriner dessus… c’est la 1er
+   fois que ça m’ar...
+
+   1 réponse Dernière réponse le 16 nov. par joraline
+
+   Rainbow le 16 nov. Santé
+
+Séquelles d'une opération d'hernie inguinale
+
+   Bonjour, J'ai subi en mars 2021 une opération d'hernie inguinale. Peu
+   de temps après je me suis mis à boiter. Depuis décembre 2021 je suis en
+   faute...
+
+   Répondre
+
+   tartiflette le 16 nov. Santé
+
+Grain beauté arraché
+
+   Bonjour, Il y a environ 4 mois je me suis arrachée en me grattant un
+   grain de beauté légèrement surélevé de couleur foncée : brun
+   foncé/noir. Il est ...
+
+   2 réponses Dernière réponse le 16 nov. par tartiflette
+
+   Roman le 16 nov. Santé
+
+Douleur articulaires depuis 4 mois environs
+
+   Bonjour, je suis aide soignant et j'ai mal aux articulations depuis 4
+   mois . J'ai 20 ans qui pourrait me dire quoi faire.   J'ai essayer
+   bouillotte...
+
+   1 réponse Dernière réponse le 16 nov. par joraline
+
+   Elodie le 16 nov. Maladies neurologiques
+
+Sos svp c'est urgent vessie hyperactive
+
+   Bonjour, Ma fille de 2ans es diagnostiquer avec une vessie hyper actif
+   il mon donner ditropan pour stopper toute fuite et je la sond toute les
+   3h mem...
+
+   Répondre
+
+   Sissi930 le 8 janv. 2014 Santé
+
+Douleur arcade sourcilliere
+
+   Bonjour j'ai mal au niveau de l'arcade sourcilliere sourtout vers le
+   coin interne la première fois sa a duré une semaine j'ai vu l'ophtalmo
+   mais ce n'...
+
+   5 réponses Dernière réponse le 16 nov. par Marine57
+
+   RkoN le 15 nov. Santé
+
+Symptômes grossesse test négatif
+
+   Bonjour à tous.  Avant toute chose, j'ai un rdv mais à la fin du mois,
+   c'est pour ca que je demande ici. J'ai eu à peu près tous les symptômes
+   d'une...
+
+   1 réponse Dernière réponse le 15 nov. par RkoN
+
+   Mimiso le 15 nov. Maladies neurologiques
+
+Irm cérébrale
+
+   Bonjour,  Que penser du résultat d'une IRM dont les conclusions sont
+   : affleurement des amygdales cérébelleuses au niveau du foramen magnum
+   à corréler...
+
+   1 réponse Dernière réponse le 15 nov. par Docteur Pierrick Hordé
+
+   lahmar le 14 nov. Santé
+
+Fibroscopie cause elle un reflux gastro-œsophagien?
+
+   es ce que la La fibroscopie  peut provoquer un dysfonctionnement
+   du sphincter œsophagien donc être un facteur de
+   reflux gastro-œsophagien?
+
+   2 réponses Dernière réponse le 15 nov. par DCI
+
+   Pln234 le 14 nov. Santé
+
+Levre intime gonflé
+
+   Bonjour, Hier soir, mon homme et moi avons eu des petits échanges
+   intimes. Durant ce moment là celui ci m'a fait un cuni hors à la fin de
+   nos ebats j...
+
+   4 réponses Dernière réponse le 15 nov. par DCI
+
+   mysteria le 14 nov. Santé
+
+Épilepsie nocturne solution?
+
+   Bonsoir, j'ai 19 ans, diagnostiquer officiellement migraineuse depuis 3
+   ans, je suis désormais confrontée a un autre problème, je vous
+   explique. En 20...
+
+   Répondre
+
+   chloe208 le 14 nov. Maladies neurologiques
+
+Anévrisme cérébral non rompu
+
+   Bonjour à tous, C'est assez rare que je prenne la parole sur un forum
+   public mais je suis à la recherche de témoignages, et d'un peu de
+   compréhension...
+
+   Répondre
+
+   08Audrey le 14 nov. Santé
+
+Genoux droit
+
+    Fermé
+
+   Bonjour, Je m'appelle Audrey, j'ai 23 ans Sur l'IRM du 08 décembre
+   2018: Fissure longitudinale des segments moyen et postérieur du
+   ménisque interne ...
+
+   1 réponse Dernière réponse le 14 nov. par joraline
+
+   Marieb le 31 oct. Maladies neurologiques
+
+Tangage en permanence
+
+   Bonjour, Ça va faire 8mois que je tangue de la tête en permanence.
+   J’ai tout fait, orl, cardiologue, kine vestibulaire, endocrinologue,
+   irm des cond...
+
+   4 réponses Dernière réponse le 14 nov. par Marieb
+
+   Sandra84120 le 14 nov. Sommeil / Fatigue
+
+Corps au ralenti grosse fatigue
+
+   Bonjour,  Depuis le mois de septembre je suis très fatiguée. Même si je
+   me repose, mes batteries restent faibles. Je continue à travailler (je
+   suis a...
+
+   3 réponses Dernière réponse le 14 nov. par Sandra84120
+
+   arnina le 12 nov. Santé
+
+Maux de ventre chronique ??
+
+   Bonjour, Bonsoir je vous contacte aujourd'hui car j'aimerai avoir votre
+   avis et pourquoi pas être aider par des personnes qui aurait pu vivre
+   les même...
+
+   5 réponses Dernière réponse le 14 nov. par DCI
+
+   Nlenduxbq le 13 nov. Santé
+
+6 doliprane moin de 1 h je sais pas quoi faire
+
+   Bonjour, J’ai pris 6 Doliprane d’un coup, c’est pas vrm fait exprès, ce
+   n’est pas le sujet, ques que je dois faire pour limiter les dégâts ?
+
+   2 réponses Dernière réponse le 13 nov. par labricole47
+
+   Racha le 13 nov. Santé
+
+Vertiges maux de tête, perte d'équilibre
+
+   Bonjour, Je soufre de vertiges, je perd d'équilibre, je respire mal,
+   des balonements même si j'ai rien mangé. Avec tous ça jai développé une
+   phopie e...
+
+   1 réponse Dernière réponse le 13 nov. par Docteur Pierrick Hordé
+
+   mel le 13 nov. Santé
+
+Gêne en haut de l'estomac et toux sèche
+
+   Bonjour, j'ai depuis près de 2 mois une gêne au dessus de l'estomac
+   sensation que ça me démange de l'intérieur que ça gratte, et cela
+   provoque de la t...
+
+   1 réponse Dernière réponse le 13 nov. par DCI
+
+   Annna112 le 13 nov. Santé
+
+Hémorroïdectomie : conseils et expériences du post-op
+
+   Hello !  Exercice pas facile mais je l'espère, salvateur : pouvoir
+   échanger avec d'autres personnes qui ont subi cette opération et
+   apporter aussi un...
+
+   1 réponse Dernière réponse le 13 nov. par joraline
+
+   Ali le 12 nov. Santé
+
+Tache noire sur l'orteil
+
+   Bonjour, j'ai vu cette tâche noire ce matin sur mon orteil, j'ai peur
+   de ce que ça peut être
+
+   8 réponses Dernière réponse le 12 nov. par DCI
+
+   Guyro le 12 nov. Santé
+
+''ulcere gastrique ''
+
+   Bonjour, y'a ma mère qui souffre d'un ulcère gastrique depuis 2 semaine
+   maintenant, elle n'arrive pas à manger normalement lorsqu'elle avale
+   quelques ...
+
+   1 réponse Dernière réponse le 12 nov. par DCI
+
+   Loulou le 31 oct. Santé
+
+Question sur mon poids
+
+   Bonjour, J'ai 14ans et je fait 1m67 et je pèse 62k  Ma grand mère me
+   démoralise en me disant que je pèse trop  Es ce vrai?
+
+   4 réponses Dernière réponse le 12 nov. par Loulou
+
+   Mrbest77 le 11 nov. Maladies neurologiques
+
+Hallucination ou illusion ?
+
+   Bonjour, enfaite je suis passer par tellement d’épreuves dont
+   maintenant je diminue, de nombreuse craintes et peurs comme la peur
+   d’être schizo parano...
+
+   15 réponses Dernière réponse le 12 nov. par begonie
+
+   Claude le 11 nov. Santé
+
+Problème de douleurs à la hanche et la cuisse droite
+
+   Bonjour,il y as 10 jours aujourd'hui je me suis réveillé avec une
+   douleur a la hanche qui a progressé le lendemain sur la cuisse et vers
+   le dos.Malgre...
+
+   1 réponse Dernière réponse le 11 nov. par DCI
+
+   Mani le 11 nov. Santé
+
+Deux parents du groupe sanguin o+ et enfant o-
+
+   Bonjour, J'aimerais savoir si votre enfant a t il des problèmes de
+   santé ?
+
+   1 réponse Dernière réponse le 11 nov. par DCI
+   Résultats 1 - 50 sur un total de plus de 50 000
+     * 1
+     * 2
+     * 3
+     * 4
+     * 5
+     * 51
+     * 101
+     * 250
+     * 499
+     * 748
+     * 897
+     * 947
+     * 1000
+
+   Suivant
+
+Newsletters
+
+   Newsletters
+
+   [X] Santé
+   Voir un exemple
+   [X] Actu du jour
+   Voir un exemple
+
+   ____________________ OK
+
+   Les informations recueillies sont destinées à CCM BENCHMARK GROUP pour
+   vous assurer l'envoi de votre newsletter.
+
+   Elles seront également utilisées sous réserve des options souscrites,
+   par CCM Benchmark Group à des fins de ciblage publicitaire et
+   prospection commerciale au sein du Groupe Le Figaro, ainsi qu’avec nos
+   partenaires commerciaux.Le traitement de votre email à des fins de
+   publicité et de contenus personnalisés est réalisé lors de votre
+   inscription sur ce formulaire. Toutefois, vous pouvez vous y opposer à
+   tout moment.
+
+   Plus généralement, vous bénéficiez d'un droit d'accès et de
+   rectification de vos données personnelles, ainsi que celui d'en
+   demander l'effacement dans les limites prévues par la loi.
+
+   Vous pouvez également à tout moment revoir vos options en matière de
+   prospection commerciale et ciblage. En savoir plus sur notre politique
+   de confidentialité ou notre politique Cookies.
+
+   (BUTTON)
+   en ce moment
+     * Scoops people
+     * Naufrage dans le lagon
+     * Ville de France vieillir en bonne santé
+     * Consommer Graine de lin
+     * Symptômes méningite
+     * Alain Afflelou retraite
+     * Charlène de Monaco looks
+     * Mincir avant les fêtes
+     * Alain Chabat
+     * Enfant à la crèche signes
+     * Utiliser écorces clémentines
+     * Tous en cuisine menu
+
+   (BUTTON)
+   A voir également
+     * Kamasutra : + de 100 positions en images
+
+     * Qui sommes-nous ?
+     * Contact
+     * Publicité
+     * Recrutement
      * Données personnelles
-     * Gérer mes cookies
-     * © Inserm 2023
+     * Paramétrer les cookies
+     * Mentions légales
+     * © 2023 CCM Benchmark
 
-   (BUTTON) Retour en haut de page
-
-   Ce site utilise des cookies. Vous pouvez changer d'avis à tout moment
-   en cliquant le menu "Gérer mes cookies" en bas de page.
-   AccepterRefuser
-   Paramétrer
-   Cookies
-   (BUTTON) Fermer
-
-Paramétrer les cookies
-
-   Liste des types de cookies utilisés sur ce site et de leurs finalités.
-   Certains cookies sont déposés quelle que soit la page que vous visitez,
-   d'autres uniquement si vous visitez une page qui en a besoin.
-   Nécessaire
-   [X] Nécessaire
-   Toujours activé
-   Ces cookies sont indispensables aux fonctionnalités de base du site et
-   à sa sécurité. Vous ne pouvez pas les refuser, car ils ne collectent
-   pas de données personnelles.
-   Cookie Durée Description
-   cerber_bjZJE-PQKeqAy 1 jour Déposé par l'extension de sécurité du site.
-   cerber_iEuaryZDFx 1 jour Déposé par l'extension de sécurité du site.
-   cerber_rmpcGFhB 1 jour Déposé par l'extension de sécurité du site.
-   cookielawinfo-checkbox-advertisement 1 an Déposé par l'extension de
-   gestion des cookies pour stocker le consentement du visiteur.
-   cookielawinfo-checkbox-analytics 1 an Déposé par l'extension de gestion
-   des cookies pour stocker le consentement du visiteur.
-   cookielawinfo-checkbox-embedded 1 an Déposé par l'extension de gestion
-   des cookies pour stocker le consentement du visiteur.
-   cookielawinfo-checkbox-necessary 11 mois Déposé par l'extension de
-   gestion des cookies pour stocker le consentement du visiteur.
-   cookielawinfo-checkbox-non-necessary 11 mois Déposé par l'extension de
-   gestion des cookies pour stocker le consentement du visiteur.
-   viewed_cookie_policy 11 mois Déposé par l'extension de gestion des
-   cookies pour stocker le statut du consentement du visiteur concernant
-   les cookies.
-   Contenu embarqué
-   [ ] embedded
-   Ces cookies sont liés à des contenus tiers embarqués sur le site
-   (vidéos, etc.). Ils ne sont déposés que sur certaines pages.
-   Cookie Durée Description
-   CONSENT 16 ans 5 mois 11 jours 11 heures Déposé via les vidéos YouTube
-   embarquées. Enregistre des statistiques anonymes, par exemple sur le
-   nombre d'affichages d'une vidéo. Aucune information sensible n'est
-   collectée, à moins que vous soyez connecté à un compte Google (dans ce
-   cas, vos actions sont liées à votre compte).
-   dmvk session Déposé par Dailymotion, pour collecter statistiques à
-   propos du comportement des visiteurs du site. Utilisé pour des
-   statistiques internes.
-   pll_language 1 an Déposé par l'extension de traduction. Stocke le code
-   langue de la dernière page consultée.
-   ts 1 an et 1 mois Déposé par Dailymotion.
-   usprivacy 1 an 1 mois Déposé par Dailymotion.
-   v1st 1 an 1 mois Déposé par Dailymotion.
-   VISITOR_INFO1_LIVE 5 mois 27 jours Déposé par YouTube pour collecter
-   des informations à propos des vidéos embarquées.
-   YSC session Déposé par YouTube pour comptabiliser le nombre de vues des
-   vidéos embarquées.
-   Publicité
-   [ ] advertisement
-   Le site n'affiche pas de publicité, mais certains contenus embarqués
-   peuvent déclencher le dépôt de cookies publicitaires. Ces cookies sont
-   utilisés pour fournir des publicités et des campagnes marketing
-   personnalisées. Ils pistent les visiteurs entre les sites et collectent
-   des données personnelles.
-   Cookie Durée Description
-   IDE 1 an 24 jours Déposé par Google DoubleClick pour stocker des
-   informations sur la façon dont les visiteurs utilisent les vidéos
-   YouTube et la publicité vue avant les vidéos. Il sert à afficher des
-   publicités pertinentes à l'utilisateur selon son profil.
-   test_cookie 15 minutes Déposé par Google DoubleClick pour déterminer si
-   le navigateur du visiteur supporte les cookies.
-   Enregistrer et accepter
-   Powered by CookieYes Logo
+   CCM Benchmark Group
+   CCM Journal Du Net Linternaute Droit-finances.net Copains d'avant
+   Viadeo JDN Jeux gratuits Ariase

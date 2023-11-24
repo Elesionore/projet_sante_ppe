@@ -1,493 +1,401 @@
-   #next
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PGLVR9V
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KLNBDC8
+   Site
 
-     * Merci pour l'info
-     * Santé Magazine
-     * Parents
-     * Mômes
-     * Détente Jardin
-     * Maison Créative
-     * Régal
-     * Détours en France
-
-   (BUTTON) Menu
-   Santé Magazine, le féminin qui fait du bien !
-     * Je m’abonne
-     *
-
-   ____________________ (BUTTON)
-
-     * (BUTTON) Santé
-          + Toute la rubrique santé
-          + Maladies
-          + Covid 19
-          + Addictions
-          + Santé bucco-dentaire
-          + Ménopause et andropause
-          + Cancer
-          + Cancer du sein
-          + Fiches maladies
-          + Pollution
-          + Examens médicaux
-     * (BUTTON) Traitements
-          + Toute la rubriques Traitements
-          + Contraception
-          + Médicaments
-          + Traitements du cancer
-          + PMA
-          + Pilule du lendemain
-          + Pilule
-          + Antibiotiques
-          + Anxiolytiques
-          + Classes thérapeutiques
-     * (BUTTON) Alimentation
-          + Toute la rubrique Alimentation
-          + Intolérances alimentaires
-          + Régimes alimentaires
-          + Nutriments
-          + Régime sans gluten
-          + Aliments et santé
-          + Acheter et cuisiner
-          + Annuaire des additifs alimentaires
-          + Guide des calories
-          + Calcul des calories
-          + Fiches aliments
-     * (BUTTON) Psycho-Sexo
-          + Toute la rubrique Psycho-Sexo
-          + Désir et plaisir
-          + Troubles sexuels
-          + Psycho
-          + Le blog sexo de Daisy et Marine
-     * (BUTTON) Médecines alternatives
-          + Toute la rubrique Médecines alternatives
-          + Approches naturelles
-          + Pratiques orientales
-          + Thérapies manuelles
-          + Relaxation
-          + Acupuncture
-          + Homéopathie
-          + Yoga
-          + Massage
-          + Phytothérapie
-          + Bons plans
-     * (BUTTON) Grossesse
-          + Toute la rubrique Grossesse
-          + Conception bébé
-          + Grossesse et santé
-          + Accouchement
-          + Infertilité
-          + Grossesse mois par mois
-     * (BUTTON) Bébé
-          + Toute la rubrique Bébé
-          + Alimentation du bébé
-          + Santé du bébé
-          + Sommeil de bébé
-     * (BUTTON) Minceur
-          + Toute la rubrique Minceur
-          + Régimes minceur
-          + Calcul IMC
-          + IMC enfant
-          + Coaching minceur
-          + Cellulite
-          + Chrononutrition
-          + Perdre du ventre
-     * (BUTTON) Beauté
-          + Toute la rubrique Beauté
-          + Prix Santé Magazine 2021
-          + Soins du visage
-          + Soins du corps
-          + Soins des cheveux
-          + Anti-âge
-          + Sport
-          + Chirurgie esthétique
-          + Maquillage
-          + Peau sensible
-     * (BUTTON) Recettes
-          + Toute la rubrique Recettes
-          + Recettes anti-cholestérol
-          + Recettes pour diabétique
-          + Recettes détox
-          + Recettes minceur
-          + Recettes sans gluten
-          + Recettes sans lactose
-          + Recettes brûle-graisse
-          + Recettes crudivores
-          + Recettes végétaliennes / véganes
-          + Recettes végétariennes
-     * (BUTTON) Actualités
-          + Toute la rubrique Actualités
-          + Actualités Santé
-          + Actualités Traitement
-          + Actualités Médecines alternatives
-          + Actualités Alimentation
-          + Actualités Minceur
-          + Actualités Psycho-sexo
-          + Actualités Beauté forme
-     * (BUTTON) Vidéos
-          + Toute la rubrique Vidéos
-          + Beauté
-          + Forme
-          + Nutrition
-          + Phytothérapie
-          + Recettes
-          + Santé
-     * Podcasts
-     * Naturissime
-     * Prix Santé Magazine 2023
-
-   Suivez-nous
-     *
-     *
-     *
-     *
-
+   Forums
      * Santé
-     * Traitements
+     * Médicaments
+     * Grossesse - Bébé
+     * Psychologie
+     * Famille
      * Nutrition
-     * Psycho-Sexo
-     * Santé naturelle
+     * Beauté
+     * Forme
+     * Sexualité
+     * Vie pratique
+     * Animaux
+     * Les experts vous répondent
+
+   Site Forums [logo_doctissimo.png?v=1698918579]
+     * Club Doctissimo
+     * Devenir membre
+     * Mon profil
+     * Se connecter
+     * Déconnexion
+     * Forums
+
+     * Concours
+
+     *
+     *
+
+   Doctissimo
+   Un article Un médicament ____________________ Go
+     * Santé
+     * Médicaments
      * Grossesse
-     * Minceur
-     * Prix Santé Magazine 2023
+     * Bébé
+     * Psychologie
+     * Famille
+     * Nutrition
+     * Beauté
+     * Mode
+     * Forme
+     * Sexo
+     * Recettes
+     * Vidéos
+     * Tests
+
+   Forums
+     * Accidents
+       domestiques
+     * Activités pour
+       les enfants
+     * Aidants
+       familiaux
+     * Animaux
+     * Automobile
+     * Conseil
+       vétérinaire
+     * Environnement
+     * Etre père
+     * Maison de
+       retraite
+     * Mère
+     * PACS
+     * Relation
+       mère-fille
+     * Scolarité
+     * Séparation
+     * SOS Avocat
+     * Travail
+     * Vacances
+
+Forum santé
+
+
+   Articles de référence : Santé
+     * Dictionnaire médical
+     * Guide des médicaments
+     * Quiz santé
+
+   Voir tous les articles
+
+   Your browser cannot play this video.
+   Recherche :  ____________________   Lancer une recherche
+     Catégories du forum Santé Nombre de messages Date du dernier message
+   [big-309267894cd.png?v=1]
+   IMPORTANT Je participe
+
+   Masquer Afficher
+   Addictions
+   On Arrêter de fumer
+     * Cigarette électronique
+
+   1 487 358 24/11/2023 à 10:30
+   par chloyoly58
+   On Autres drogues et dépendances 118 884 24/11/2023 à 08:31
+   par newman616
+   On Cannabis 154 340 22/11/2023 à 04:22
+   par freaakss
+   (Publicité)
+   On Dépendance à l'alcool 1 830 015 24/11/2023 à 12:30
+   par dek-A-lee
+   On Anorexie et Boulimie 2 152 235 23/11/2023 à 19:46
+   par jennyaymie
+
+   Masquer Afficher
+   Appareil digestif
+   On Diabète 826 983 24/11/2023 à 13:43
+   par neder
+   On Constipation, autres troubles du transit 106 888 22/11/2023 à 23:53
+   par Lucky_heal​thy
+   On Digestion, brûlures d'estomac, RGO 26 215 24/11/2023 à 07:12
+   par Titi34
+   On Hépatites virales A, B et C 231 611 31/10/2023 à 08:39
+   par Marianyatt
+   On Maux de ventre, d'estomac, ulcères 112 094 24/11/2023 à 01:59
+   par Nocti
+
+   Masquer Afficher
+   Cancers
+   On Cancer(s)
+     * Colon-Rectum
+     * Poumon
+     * Prostate
+     * Sein
+
+   2 654 249 24/11/2023 à 06:55
+   par Bea70
+   On Chimiothérapie et radiothérapie 4 620 08/11/2023 à 10:24
+   par dajamag416
+
+   Masquer Afficher
+   Chirurgie – dons – greffes
+   On Appendicite 10 212 22/11/2023 à 23:17
+   par Kinosaure
+   On Chirurgie : préparation et suites opératoires 38 049
+   24/11/2023 à 08:38
+   par Gasy24
+   On Don d'organes - Greffe 82 541 15/11/2023 à 10:47
+   par Azhar97412​1
+
+   Masquer Afficher
+   Épidémie
+   On Coronavirus
+     * Confinement
+     * Emploi
+     * Symptômes
+     * Test et dépistage
+     * Traitement
+     * Vaccins contre la Covid-19
+
+   29 983 21/11/2023 à 17:13
+   par Mendocino
+
+   Masquer Afficher
+   Douleur – maux quotidiens
+   On Douleur 167 800 24/11/2023 à 14:25
+   par katzele
+   On Examens médicaux 15 176 24/11/2023 à 14:38
+   par katzele
+   On Fatigue et baisse de tonus 53 070 23/11/2023 à 11:16
+   par Eric
+   On Hémorroïdes 204 949 24/11/2023 à 10:22
+   par proktos
+   On Jambes lourdes, varices 15 599 20/11/2023 à 18:07
+   par Nature
+   On Mal de dos, sciatique et lumbago 340 050 24/11/2023 à 13:37
+   par Désenchant​ée
+   On Migraine et maux de tête 168 426 24/11/2023 à 14:53
+   par leucoptera
+   On Myopie, cataracte et problèmes de vue 159 578 23/11/2023 à 10:44
+   par elodinou
+   On Problèmes dentaires 502 155 24/11/2023 à 13:24
+   par Désenchant​ée
+   On Spasmophilie, crise de tétanie et fibromyalgie 549 438
+   23/11/2023 à 11:44
+   par Mama1722
+
+   Masquer Afficher
+   Gynécologie – santé de la femme
+   On Contraception 1 491 049 23/11/2023 à 13:29
+   par l'Aventure​use
+   On Endométriose 303 782 05/11/2023 à 16:44
+   par srofca
+   On Ménopause, ostéoporose 331 865 24/11/2023 à 10:37
+   par rosette 45
+   On Règles et problèmes gynécologiques 852 546 23/11/2023 à 20:18
+   par l'Aventure​use
+   On Thyroïde et problèmes endocriniens 409 567 12/11/2023 à 08:21
+   par martine mm
+   On Troubles sexuels féminins 123 974 22/11/2023 à 14:33
+   par Julie38610
+
+   Masquer Afficher
+   Neurologie
+   On Affections neurologiques (Alzheimer, Parkinson)
+     * Alzheimer
+     * Parkinson
+     * Autres affections neurologiques
+
+   452 435 22/11/2023 à 03:25
+   par evawillms
+   On Epilepsie 252 173 04/11/2023 à 09:42
+   par Ang
+   On Sclérose en plaques 389 057 14/11/2023 à 11:14
+   par Bagherra
+   On Vertiges et syncopes 11 247 22/11/2023 à 15:33
+   par Solang
+
+   Masquer Afficher
+   Peau – muqueuses – cheveux
+   On Acné, psoriasis et problèmes de peau
+     * Acné
+     * Eczéma
+     * Psoriasis
+
+   409 978 24/11/2023 à 12:01
+   par Littleb0yy
+   On Allergies et eczéma 96 097 14/11/2023 à 19:15
+   par dermseb.fr
+   On Calvitie et perte de cheveux 357 133 20/11/2023 à 23:27
+   par fleurdusol​eil
+   On Mycoses 65 293 24/11/2023 à 14:39
+   par leucoptera
+   On Poux et lentes 8 041 06/11/2023 à 23:32
+   par Sofy886850
+
+   Masquer Afficher
+   Prévention
+   On Infections sexuellement transmissibles 209 787 24/11/2023 à 12:08
+   par Gwen0395
+   On Sida et prévention 337 283 23/11/2023 à 18:39
+   par *yog*
+   On Vaccination 169 574 20/11/2023 à 09:03
+   par Malagasy
+
+   Masquer Afficher
+   Problèmes articulaires
+   On Accidents sportifs 173 261 20/11/2023 à 08:07
+   par Malagasy
+   On Arthrose et problèmes ostéo-articulaires 421 584 23/11/2023 à 18:12
+   par netokris85
+   On Entorses et fractures 38 100 22/11/2023 à 17:40
+   par Fusée des neiges
+
+   Masquer Afficher
+   Problèmes cardiovasculaires
+   On Cholestérol 33 863 14/11/2023 à 18:49
+   par rosinal
+   On Problèmes cardiovasculaires : hypertension, infarctus, avc 398 734
+   24/11/2023 à 08:08
+   par montijol95
+
+   Masquer Afficher
+   Problèmes ORL – pulmonaires
+   On Apnée du sommeil 10 546 13/11/2023 à 14:47
+   par prudenceb1​2
+   On Asthme, bronchite chronique (BPCO) 85 953 21/11/2023 à 01:26
+   par vitriote
+   On Audition, surdité 87 162 28/10/2023 à 13:53
+   par Profil supprimé
+   On Troubles ORL 67 436 20/11/2023 à 09:28
+   par coucou59
+
+   Masquer Afficher
+   Problèmes rénaux et urologiques
+   On Autres problèmes urologiques masculins 29 663 24/11/2023 à 09:44
+   par Tigri
+   On Cystites et problèmes urinaires de la femme 78 377
+   21/11/2023 à 22:10
+   par Lavande35
+   On Ejaculation prématurée (ou précoce) 78 327 21/11/2023 à 23:42
+   par doctibech
+   On Incontinence urinaire de la femme 20 206 18/11/2023 à 18:34
+   par francoiseb
+   On Insuffisance rénale 14 429 13/11/2023 à 02:36
+   par MissWhovie​nne
+   On Prépuce, phimosis et circoncision 127 460 23/11/2023 à 09:16
+   par Solang
+   On Prostate 8 645 15/11/2023 à 22:36
+   par manuderoue​n
+   On Troubles de l'érection 183 189 23/11/2023 à 06:14
+   par eklundmerv​e34
+
+   Masquer Afficher
+   À lire aussi
+   On Environnement, écologie 56 817 24/11/2023 à 14:03
+   par Courant d'eau
+   On Handicap 211 623 23/11/2023 à 13:32
+   par ditikicroi
+   On La Salle Détente 6 763 785 24/11/2023 à 14:55
+   par Zack.
+   On Maladies auto-immunes 24 633 04/11/2023 à 17:12
+   par Nature
+   On Maladies génétiques, orphelines, rares
+   (BUTTON) Choisissez une sous-catégorie
+     * Dysplasie ectodermique
+     * Fibromyalgie
+     * Lupus
+     * Maladie de Crohn
+     * Maladie de Recklinghausen
+     * Maladies génétiques
+     * Mucoviscidose
+     * Polychondrite atrophiante
+     * Purpura thrombopénique
+     * Syndrome de Raynaud
+     * Syndrome Ehler-Danlos
+
+   120 196 22/11/2023 à 09:45
+   par Nath2609
+   On Médecines complémentaires et alternatives
+     * Homéopathie
+     * Phytothérapie
+
+   233 448 23/11/2023 à 10:01
+   par Dabidabo
+   On Santé de l’enfant
+     * Bronchiolite
+
+   350 908 23/11/2023 à 16:09
+   par Amirsub
+   On Sexualité des personnes handicapées 21 126 13/11/2023 à 10:01
+   par Siouxie
+   On Forum libre Santé 451 963 24/11/2023 à 12:24
+   par nataly9961​69
+   Nombre total de messages : 296 944 521
+   Utilisateurs Enregistrés : 592 977
+   On   Nouveaux messages depuis la dernière visite
+   Off   Pas de nouveau message depuis la dernière visite
+
+   Index Forum Santé : 2017 - 2016 - 2015 - 2014 - 2013 - 2012 - 2011 -
+   2010 - 2009 - 2008 - 2007 - 2006 - 2005 - 2004 - 2003 - 2002 - 2001 -
+   2000
+   Forum MesDiscussions.Net
+   © 2000-2023 Doctissimo
+   Page générée en 0,484 secondes
+
+NOS NEWSLETTERS
+
+   Pour recevoir nos newsletters ou modifier votre inscription, veuillez
+   saisir votre email ____________________ ok
+   [ ] Newsletter Hebdo [ ] Newsletter Vidéo [ ] Newsletter Test [ ]
+   Newsletter Beauté [ ] Newsletter Recette [ ] Newsletter Sexo [ ]
+   Développement Personnel
+
+SUIVIS HEBDOMADAIRES PERSONNALISÉS
+
+   [doc-block-right-newsletters-grossesse.jpg] La newsletter grossesse Je
+   m'abonne
+   [doc-block-right-newsletters-bebe.jpg] La newsletter bébé Je m'abonne
+   > Gérer mes newsletters
+     * Plan du site
+          + Plan général
+          + Plan de la rubrique santé
+
+     * A lire aussi sur Doctissimo
+          + Test personnalité
+          + Test amour
+          + Test couple
+          + Test psycho
+          + Test sexualité
+          + Couple
+          + Psychologie de l'enfant
+          + Psychologie de l'ado
+          + Arrêter de fumer
+          + Cholestérol
+          + Diabète
+          + Régime
+
+     * Guide
+          + Prénom
+
+     * Services et partenaires
+          + News
+
+     * Suivez-Nous :
+          +
+          +
+          +
+          +
+     * Contactez la rédaction
+     * Contactez la régie
+     * Le groupe
+          +
+               o DoctiPharma
+               o Santé des voyageurs
+     * Le site
+          +
+               o Qui sommes nous ?
+               o Comité d'experts de Doctissimo
+               o Charte d'utilisation
+          +
+               o Mentions légales
+               o Recrutement
+               o Charte données personnelles et cookies
+               o Préférences cookies
      *
-          + Fiches
-            maladies
-          + Vidéos
-          + Podcasts
-          + Naturissime
-          + Magazine
 
-   En ce moment :
-     * Prix Santé Magazine Beauté Santé 2023
-     * Prix Bien manger 2023
-     * Bien vivre sa ménopause
-     * Application Grossesse
-
-     * Accueil
-     * Actualités
-
-Actualités santé
-
-   .
-   (BUTTON) Plus de contenu
-
-     * Déserts médicaux : l’UFC Que Choisir attaque l’État pour inaction
-       Actualités santé Déserts médicaux : l’UFC Que Choisir attaque
-       l’État pour inaction Pour garantir un meilleur accès aux soins,
-       l’UFC-Que Choisir plaide pour l’instauration « d’un
-       conventionnement territorial des médecins.
-     * La SNCF, qui compte installer des box de téléconsultation médicale,
-       se trompe de priorité selon l’Ordre des médecins Dans un
-       communiqué, l’institution tacle la SNCF concernant sa décision de
-       proposer des téléconsultations en gare.
-       La SNCF, qui compte installer des box de téléconsultation médicale,
-       se trompe de priorité selon l’Ordre des médecins
-     * Mort d’une femme enceinte et de son bébé lors d’un accouchement à
-       domicile qui a mal tourné : ce que l’on sait À Fougères en
-       Ille-et-Vilaine, une femme enceinte et son bébé sont décédés lors
-       d’un accouchement à domicile, pourtant accompagné d’une sage-femme.
-       Mort d’une femme enceinte et de son bébé lors d’un accouchement à
-       domicile qui a mal tourné : ce que l’on sait
-     * Maux de ventre : 85 % des Français concernés, comment se
-       soignent-ils ? Le 1er baromètre Opinionway pour Dijo sur "Les
-       Français et la santé du ventre” montre que 85 % sont concernés par
-       les maux de ventre. Probiotiques, médicaments, sports... que font
-       les Français pour se soulager ? Les détails.
-       Maux de ventre : 85 % des Français concernés, comment se
-       soignent-ils ?
-     * Découvrez pourquoi Doctolib ne sera rentable qu’en 2025 Le
-       président et cofondateur de la plateforme a donné un entretien à
-       nos confrères de Ouest-France. Les éléments à retenir.
-       Découvrez pourquoi Doctolib ne sera rentable qu’en 2025
-     * Selon une étude, cet aliment peut pimenter votre vie sexuelle En
-       Chine, des chercheurs ont constaté que cette espèce de plante
-       permettrait d’augmenter les niveaux de testostérone.
-       Selon une étude, cet aliment peut pimenter votre vie sexuelle
-
-Nos fiches maladie
-
-     * Grippe aviaire : où en est l'épidémie en France ? transmission à
-       l'Homme ? symptômes ?
-       Grippe aviaire : où en est l'épidémie en France ? transmission à
-       l'Homme ? symptômes ?
-     * Grippe : chiffres épidémie 2022-2023 en France, symptômes,
-       traitement
-       Grippe : chiffres épidémie 2022-2023 en France, symptômes,
-       traitement
-
-.
-
-     * Un voyage étudiant tourne au cauchemar : tumeur cérébrale et
-       urgence médicale bloquent une étudiante danoise en Australie Tanja
-       Dittfeld, une étudiante de 35 ans, a vu son rêve d'étudier en
-       Australie se transformer en cauchemar après la découverte d'une
-       tumeur de 2,2 cm dans son hypophyse.
-       Un voyage étudiant tourne au cauchemar : tumeur cérébrale et
-       urgence médicale bloquent une étudiante danoise en Australie
-     * Chaleurs extrêmes au Brésil : quels liens entre santé et changement
-       climatique ? Les températures au Brésil ont atteint des niveaux
-       alarmants ces derniers jours, avec des pics de température
-       ressentie grimpant jusqu'à 58°C, dépassant la moyenne de 5°C.
-       Chaleurs extrêmes au Brésil : quels liens entre santé et changement
-       climatique ?
-     * Déserts médicaux : le projet d'ouvertures d'espaces de télémédecine
-       de la SNCF dans 300 gares d'ici 2028 La SNCF a récemment dévoilé un
-       plan ambitieux visant à déployer des espaces de télémédecine dans
-       près de 300 gares en France d'ici 2028.
-       Déserts médicaux : le projet d'ouvertures d'espaces de télémédecine
-       de la SNCF dans 300 gares d'ici 2028
-     * Mauvais diagnostic : cette femme pensait avoir une gastro-entérite,
-       mais cela s'avère bien plus grave Kasia Szczech, une Londonienne de
-       41 ans, partage son bouleversant parcours de santé alors qu'elle
-       lutte contre un cancer des voies biliaires.
-       Mauvais diagnostic : cette femme pensait avoir une gastro-entérite,
-       mais cela s'avère bien plus grave
-     *
-     * Allez-vous bientôt devoir payer la « taxe lapin », votée au Sénat ?
-       Dans le cadre du projet de loi du budget de la Sécurité sociale
-       pour 2024, le Sénat a voté ce jeudi 16 novembre en faveur de la
-       « taxe lapin ». À quoi correspond-elle et allez-vous être
-       concerné ?
-       Allez-vous bientôt devoir payer la « taxe lapin », votée au Sénat ?
-     * Une étude révèle un lien « fort » entre les insecticides et la
-       baisse des spermatozoïdes Des chercheurs ont examiné près de cinq
-       décennies de preuves humaines concernant les impacts sur la santé
-       d’une exposition à deux classes d’insecticides.
-       Une étude révèle un lien « fort » entre les insecticides et la
-       baisse des spermatozoïdes
-     * Fibromyalgie : ce nouveau traitement améliore l’état de santé de 8
-       patients sur 10 Une start-up française vient de dévoiler les
-       résultats positifs de son étude sur une nouvelle thérapie innovante
-       contre la fibromyalgie.
-       Fibromyalgie : ce nouveau traitement améliore l’état de santé de 8
-       patients sur 10
-     * Quels sont les risques pour la santé du glyphosate, renouvelé pour
-       10 ans ? La commercialisation de l’herbicide est renouvelée pour
-       les dix prochaines années, suite à une décision de la Commission
-       européenne. Mais que sait-on de ses effets sur notre santé ?
-       Quels sont les risques pour la santé du glyphosate, renouvelé pour
-       10 ans ?
-     * Selon une étude, 1 adulte sur 3 risque de devenir dépendant de son
-       smartphone Les chercheurs ont constaté que les jeunes femmes de
-       moins de 40 ans étaient les plus à risque de dépendance.
-       Selon une étude, 1 adulte sur 3 risque de devenir dépendant de son
-       smartphone
-     * Pour la 1re fois en France, une femme a reçu une greffe de larynx
-       La patiente de 49 ans « va bien » et pourrait retrouver
-       « durablement » l’usage de la parole dans les mois à venir.
-       Pour la 1re fois en France, une femme a reçu une greffe de larynx
-     * Cette maladie mortelle connaît un « rebond sans précédent » en
-       France Depuis la fin des mesures sanitaires mises en place pendant
-       la pandémie de Covid-19, une importante hausse du nombre de cas
-       d’une autre maladie inquiète les chercheurs.
-       Cette maladie mortelle connaît un « rebond sans précédent » en
-       France
-     * L’appendice, un organe inutile ? Pas si sûr, selon une nouvelle
-       étude Une nouvelle étude a mis en avant un effet protecteur de
-       l’appendice chez les primates.
-       L’appendice, un organe inutile ? Pas si sûr, selon une nouvelle
-       étude
-     * En quoi consiste le nouveau plan gouvernemental pour les troubles
-       du neuro-développement ? Une enveloppe totale de 680 millions
-       d’euros sera consacrée à ce nouveau plan 2023/2027 annoncé par le
-       président de la République Emmanuel Macron.
-       En quoi consiste le nouveau plan gouvernemental pour les troubles
-       du neuro-développement ?
-     * Selon une étude, le diabète est 2 fois plus fréquent dans les DROM
-       qu’en Hexagone À l’occasion de la journée mondiale du diabète,
-       Santé publique France publie les résultats d’une enquête sur la
-       prévalence et les spécificités de la maladie dans les départements
-       et régions d’outre-mer.
-       Selon une étude, le diabète est 2 fois plus fréquent dans les DROM
-       qu’en Hexagone
-     * Découvrez l’intelligence artificielle de dépistage de cancers
-       développée par l’Institut Curie L’origine tissulaire des certains
-       cancers est difficile à identifier, l’intelligence artificielle
-       doit permettre d’aider les médecins.
-       Découvrez l’intelligence artificielle de dépistage de cancers
-       développée par l’Institut Curie
-     * Selon une étude, travailler debout serait bon pour le cœur Pratique
-       peu courante en France, travailler debout offrirait pourtant des
-       bénéfices non négligeables sur la santé cardiovasculaire, selon une
-       récente étude.
-       Selon une étude, travailler debout serait bon pour le cœur
-     * Savez-vous ce qu’est la “langue du vapoteur” ? Une experte dentaire
-       a détaillé ce que l’on appelle une “langue de vapoteur”, cette
-       affection méconnue qui touche des adeptes de la cigarette
-       électronique.
-       Savez-vous ce qu’est la “langue du vapoteur” ?
-     * Voici le temps qu’il faut au cerveau pour récupérer après un
-       sevrage en cas de dépendance à l’alcool Des résultats qui suggèrent
-       que les dommages cérébraux liés à l’abus d’alcool ne sont,
-       heureusement, pas irréversibles.
-       Voici le temps qu’il faut au cerveau pour récupérer après un
-       sevrage en cas de dépendance à l’alcool
-     * Découvrez un nouveau test respiratoire qui révolutionne la
-       détection des aliments déclencheurs du syndrome de l'intestin
-       irritable Des chercheurs ont développé un test respiratoire
-       novateur, nommé FoodMarble, qui offre un moyen efficace aux
-       personnes souffrant du syndrome de l'intestin irritable (SII)
-       d'identifier les aliments provoquant des ballonnements
-       inconfortables.
-       Découvrez un nouveau test respiratoire qui révolutionne la
-       détection des aliments déclencheurs du syndrome de l'intestin
-       irritable
-     * Chikungunya : un premier vaccin autorisé aux États-Unis Les
-       autorités sanitaires américaines ont donné leur feu vert, jeudi 9
-       novembre, au premier vaccin contre le chikungunya.
-       Chikungunya : un premier vaccin autorisé aux États-Unis
-     * Le Ministre de la Santé défend l'Aide Médicale d'État (AME) face à
-       son éventuelle suppression Le ministre de la Santé, Aurélien
-       Rousseau, a vivement défendu l'Aide Médicale d'État (AME) sur
-       France Info, qualifiant ce dispositif de "santé publique" alors que
-       le Sénat envisage sa suppression.
-       Le Ministre de la Santé défend l'Aide Médicale d'État (AME) face à
-       son éventuelle suppression
-     * Saviez-vous que l'hiver peut avoir des conséquences sur la santé de
-       vos intestins ? Voici quelques conseils pour rester en bonne santé
-       digestive durant l'hiver. Des chercheurs révèlent que des
-       ajustements dans le sommeil et l'alimentation pourraient impacter
-       votre bien-être intestinal.
-       Saviez-vous que l'hiver peut avoir des conséquences sur la santé de
-       vos intestins ?
-     * Une étude met en évidence les avantages pour la santé du travail
-       flexible Des chercheurs ont mis en évidence de sérieux bénéfices
-       pour la santé du travail dit “flexible”, avec un meilleur équilibre
-       entre vie professionnelle et personnelle.
-       Une étude met en évidence les avantages pour la santé du travail
-       flexible
-     * Un adolescent de 15 ans avale 21 aimants : les médecins détaillent
-       sa prise en charge et mettent en garde L’adolescent a affirmé ne
-       pas savoir comment ces objets métalliques se sont retrouvés dans
-       son estomac.
-       Un adolescent de 15 ans avale 21 aimants : les médecins détaillent
-       sa prise en charge et mettent en garde
-
-     * 1
-     * 2
-     * 3
-     * 4
-     * 5
-     * 6
-     * 7
-     * 8
-     * 9
-     * 10
-     * 20
-     * 30
-     * 40
-     * 50
-     * 60
-     * 70
-     * 80
-     * 90
-     * 100
-     * 180
-
-   Suivant
-
-   Publié le 11 févr. 2019 par
-
-   Les plus lus
-     * 1
-       Un voyage étudiant tourne au cauchemar : tumeur cérébrale et
-       urgence médicale bloquent une étudiante danoise en Australie
-     * 2
-       Fibromyalgie : ce nouveau traitement améliore l’état de santé de 8
-       patients sur 10
-     * 3
-       Voici le temps qu’il faut au cerveau pour récupérer après un
-       sevrage en cas de dépendance à l’alcool
-     * 4
-       Cette maladie mortelle connaît un « rebond sans précédent » en
-       France
-     * 5
-       En quoi consiste le nouveau plan gouvernemental pour les troubles
-       du neuro-développement ?
-     * 6
-       Allez-vous bientôt devoir payer la « taxe lapin », votée au Sénat ?
-
-les newsLetters
-
-   Actualités
-   5 fois par semaine
-   [ ]
-   Recettes
-   1 fois par semaine
-   [ ]
-   Offres exclusives de nos partenaires
-   1 fois par mois
-   [ ]
-   ____________________
-
-   ____________________ Je m’inscris
-
-   Santé Magazine, le féminin qui fait du bien !
-     __________________________________________________________________
-
-   Suivez-nous
-     *
-     *
-     *
-     *
-
-   [ ]
-   Nos services
-     * Fiches maladies
-     * Annuaire des associations de patients
-     * Annuaire des associations de thérapie naturelle
-     * Le magazine de la santé
-     * Annuaire des médicaments
-
-   [ ]
-   Nos sujets
-     * Cancer de la peau
-     * Cancer de la prostate
-     * Cancer du colon
-     * Cancer du col de l'utérus
-     * Gastro entérite
-     * Varicelle
-     * Maladies cardiovasculaires
-     * Troubles sexuels chez l'homme
-     * Stérilet
-     * Somnifères
-     * Radiothérapie
-     * Insémination artificielle
-     * Naturopathie
-     * Thalassothérapie
-     * Cure thermale
-     * Rhume - Rhino-pharyngite
-     * Analyse de sang
-     * Blanchiment des dents
-     * Droits et démarches
-     * Glucides
-     * IRM
-     * Mal de dos
-     * Maladie chronique
-     * Maladies de l'oreille
-     * Maladies des reins
-     * Maladies des yeux
-     * Maladies infectieuses
-     * Mammographie
-
-   [ ]
-   Le groupe
-     * Parents.fr
-     * Merci pour l'info
-     * Mômes
-     * Détente Jardin
-     * Détours en France
-     * Maison Créative
-     * Régal
-     * Bottin gourmand
-
-     * Abonnements |
-     * Nous contacter |
-     * Mentions légales |
-     * Données personnelles et cookies |
-     * CGU |
-     * Désabonnement au magazine |
-     * Flux RSS
-
-   (BUTTON)
+   IFRAME:
+   //redirect460.tagcommander.com/utils/noscript.php?id=1&mode=iframe

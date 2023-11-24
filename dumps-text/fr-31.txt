@@ -1,684 +1,792 @@
-   #alternate alternate
+    #alternate
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WQWG44D
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5H2XS26
 
-   [ ] [ ]
+   Couverture Le Point N°2677 - Jeudi 23 novembre 2023
 
-   (BUTTON) précédent
+   Lire le numéro
+   Le Point Le Point
+     * Mon compte
+          + Mon profil
+          + Mes favoris
+          + Mes alertes et mes newsletters
+          + Mes commentaires
+          + Mon abonnement
+          + Se déconnecter
+       Se connecter
+     * S'abonner
 
-   [ ]
-
-   À lire fermer
-     * Vous devez vous connecter pour afficher vos articles sauvegardés
-
-   (*)
-   ( )
-   ( )
-
-   MENU
-   Ouest-France
-   Petits écrans Petits écrans
-   Jeux Jeux
-   Newsletters Newsletters
-   Podcasts Podcasts
-   chercher
-   Abonnez-vous
-   Se connecter Mon espace
-   [ ]
-
-   Mon compte
-     *
-     *
-
-   Mes services
-     *
-     * À lire
-     * Communes préférées
-     * Bibliothèque
-     *
-
-   Se déconnecter
-   Image de la une
-
-   Mercredi
-   22 novembre 2023
-   Lire
-   Ouest-France
-     * Actualité
-     * Nos parutions
-     * Régions
-     * Communes Communes
-     * Sport
-     * Vidéos
-     * Programme TV
-     * Annonces Annonces
-     *
-
-   chercher
-   Abonnez-vous
-   (BUTTON) Rechercher ma commune
-     * Bretagne
-     * Rennes
-     * Saint-Malo
-     * Vannes
-     * Lorient
-     * Brest
-     * Quimper
-     * Saint-Brieuc
-
-     * Normandie
-     * Caen
-     * Bayeux
-     * Saint-Lô
-     * Granville
-     * Alençon
-     * Flers
-     * Le Havre
-     * Rouen
-
-     * Pays de la Loire
-     * Nantes
-     * Saint-Nazaire
-     * Angers
-     * Cholet
-     * Laval
-     * Le Mans
-     * La Roche sur Yon
-
-     * Nouvelle Aquitaine
-     * Niort
-     * Bressuire
-     * Parthenay
-     * Thouars
-
-     * Autres régions
-     * Paris
-     * Toulouse
-     * Nice
-     * Lille
-     * Marseille
-     * Bordeaux
-
-    1. Immobilier
-    2. Shopping
-    3. Automobile
-    4. Obsèques
-    5. Comparateur
-    6. Codes Promo
-    7. Estimation immobilière
-    8. Annonces légales
-    9. Passez votre annonce
-   10. Offres d’emploi
-   11. Marchés Publics
-
-   [ ]
-
-   fermer MENU
-   Ouest-France
-
-   Image de la une
-   Jeux Jeux
-   Newsletters Newsletters
-   Petits écrans Petits écrans
-   Communes Communes
-     * Actualité
-     * Le Journal
-     * Parutions
-     * Communes
-     * Régions
-     * Sport
-     * VIDÉOS
-     * Podcasts
-     * Et vous
+     * Politique
+     * International
+     * Débats
      * Économie
-          + Secteurs d'activités
-               o Services
-                    # Immobilier
-                    # Transports
-                    # Hôtellerie / Restauration
-                    # Services aux entreprises
-                    # Service à la personne
-                    # Santé
-                    # Banques - Finance
-                    # Assurance
-     * Entreprises
-     * Étudiant
-     * Mer
-     * Obsèques
-     * Annonces
-     * Partenaires
+     * Culture
+     * Style
      * Services
-     * Programme TV
-     * Loisirs
      * Événements
-     * Codes Promo
-     * Shopping
-     * Ouest-France Communication
-     * Rejoignez-nous
 
-     * Accueil
-     * Santé
-     * Hôpital
+   ____________________ (BUTTON) Rechercher
 
-Hôpital
+   Appuyez sur la touche échap pour fermer la recherche.
 
-   Le professeur Laurent Sulpice, chef du service de chirurgie épata
-   biliaire au CHU de Rennes.
+     * À la une
+     * Palmarès des hôpitaux et cliniques
+     * Alzheimer : protégez-vous
+     * Soigner son cœur
+     * Liste noire des médicaments
 
-Le CHU de Rennes vient de franchir le cap des 3 000 greffes de foie  bloqué
+                                     Santé
 
-   Reconnu pour son excellence bien au-delà des frontières bretonnes, le
-   service de chirurgie hépatobiliaire du CHU de Rennes vient de franchir
-   le cap des 3 000 greffes de foie. Chaque opération reste à chaque fois
-   un...
-   10h36
+Pneumonies en Chine : « Probablement un panachage de pathologies »
 
-   Florence, agent hospitalier, a tout de suite remarqué la boîte de
-   médicaments qui n’a rien à faire sur la table de chevet.
+   INTERVIEW. Les cas de pneumonie flambent chez les enfants en Chine.
+   Inquiète, l’OMS lui demande des comptes. Faut-il s’alarmer ? Les
+   réponses d’Antoine Flahault, professeur de santé publique à Genève.
+   Enfants traites pour des syndromes respiratoires dans un hopital de
+   Pekin, le 23 novembre 2023.
 
-EN IMAGES. Cette clinique bretonne met en place un jeu de piste pour éviter
-les erreurs médicales  bloqué
+   Des medias officiels chinois ont rapporte des cas de pneumonie non
+   confirmee chez des enfants dans le nord de la Chine.
 
-   À la clinique de la Baie, à Morlaix (Bretagne), dans le cadre de la
-   Semaine de la sécurité des patients, jusqu’au vendredi 24 novembre
-   2023, le personnel soignant, les administratifs et les personnes
-   chargées de l’entretien sont invités à repérer les erreurs placées
-   volontaire...
-   10h26
+Maladies respiratoires en Chine : que sait-on de cette nouvelle épidémie qui
+inquiète l'OMS ?
 
-   Karine, 25 ans et Justine 27 ans ont choisi la filière physiologique
-   Parent"eizh de la maternité de la Sagesse à Rennes. Là en train
-   d’échanger avec Sophie, sage-femme.
+   Ce nouvel ouvrage alerte sur les risques associes a certains regimes
+   alimentaires.
 
-Ce pôle hospitalier breton est dédié au suivi des accouchements les plus
-naturels possible  bloqué
+« Certains régimes exposent à de graves risques de carences »
 
-   Elles ont fait le choix d’un accouchement le plus naturel possible.
-   Mais tout en restant à quelques pas d’une salle de naissance
-   médicalisée en cas de problème. L’intérêt des filières physiologiques
-   proposées par des CHU et hôpitaux. Exemple à la clinique de la Sagesse
-   à Renne...
-   21/11
+   Les emotions souvent considerees comme negatives, comme la colere,
+   l'ennui ou la tristesse, peuvent etre utiles pour atteindre un
+   objectif.
 
-   Céline Eck Lucas, Stéphanie Primel et Béatrice Le Bigot, de la CFDT de
-   l’hôpital de Morlaix (Finistère).
+La colère a (vraiment) des effets bénéfiques
 
-« C’est une situation qui s’enkyste » : à l’hôpital de Morlaix, les soignants
-veulent plus de moyens  bloqué
+   Des chercheurs américains ont constaté que les émotions négatives,
+   souvent considérées comme indésirables et inadaptées, constituent
+   un moteur efficace pour atteindre ses objectifs.
 
-   Avec un afflux de patients importants, qui viennent du territoire de
-   Carhaix ou même des Côtes-d’Armor, l’hôpital de Morlaix (Finistère),
-   peine à faire face. On fait le point avec des syndicats et la
-   direction.
-   21/11
+   Publié le 22-11-2023 à 12h00
 
-   Le conseil municipal de Paimpol réclame une « politique forte et
-   ambitieuse » dans le domaine de la santé. Photo d’illustration du
-   centre hospitalier de Paimpol.
+   << L'odeur de propre >> a la maison provient des polluants contenus
+   dans les produits menagers chimiques auxquels il faut preferer des
+   produits sains.
 
-« Il faut un an pour une mammographie » : la mairie de Paimpol interpelle les
-autorités de santé
+Pollution : comment améliorer la qualité de l’air chez soi
 
-   Dans une lettre ouverte adressée au ministre de la Santé et à la
-   direction de l’Agence régionale de santé (ARS), la mairie de Paimpol
-   (Côtes-d’Armor) appelle à des solutions concrètes face au manque
-   d’infrastructures médicales.
-   21/11
+   Une révolution des comportements et des habitudes de consommation au
+   quotidien peut permettre de réduire les émissions de polluants à la
+   maison. Revue de détail.
 
-   Une panne d’électricité a eu lieu mardi 21 novembre 2023, dans le
-   quartier de l’hôpital de Saint-Brieuc.
+   Mis à jour le 22-11-2023 à 10h15
 
-Une panne d’électricité à l’hôpital de Saint-Brieuc à cause d’un câble rompu
-sur un chantier
+   Le vin rouge, tout comme le vin blanc, comporte son lot d'inconvenients
+   (Illustration).
 
-   La panne a duré moins d’une heure, après qu’une pelleteuse a arraché un
-   câble sur le chantier de la friche Enedis, rue Romain-Rolland
-   (Saint-Brieuc). Un millier de clients ont été touchés, dont l’hôpital,
-   qui n’a pas eu besoin de passer sur groupe électrogène.
-   21/11
+On sait enfin pourquoi le vin rouge donne mal à la tête
 
-   L’accès aux urgences de l’hôpital du Centre-Bretagne sera régulé
-   pendant plus de 38 heures, du mardi 21 au jeudi 23 novembre 2023.
-   (Photo d’illustration)
+   Des chimistes ont publié leurs conclusions sur une substance présente
+   dans le vin rouge, qui semble être à l’origine des maux de tête.
 
-Le service des urgences régulé pendant deux jours au centre hospitalier du
-Centre-Bretagne
+   Mis à jour le 22-11-2023 à 06h52
 
-   Confronté à un manque d’effectifs, le centre hospitalier du
-   Centre-Bretagne, basé à Noyal-Pontivy (Morbihan) procède à une
-   régulation du service des urgences. Celle-ci est effective du mardi 21
-   au jeudi 23 novembre 2023.
-   21/11
+   L'UFC-Que Choisir a annonce attaquer l'Etat en justice pour son <<
+   inaction >> dans le domaine de la sante, notamment face aux inegalites
+   d'acces aux soins.
 
-   Offres d'emploi
-   Avec ouestfrance-emploi.com
+Inégalités d’accès aux soins : l’État attaqué en justice pour « inaction »
 
-   TECHNICIEN MAINTENANCE MULTITECHNIQUE (H/F)
+   UFC-Que choisir dénonce « l’inaction » du gouvernement face aux
+   inégalités d’accès aux soins. L’association a annoncé attaquer l’État
+   en justice.
 
-   CDI - Manpower recrutement Tertiaire Nantes
+   Publié le 21-11-2023 à 07h56
 
-   Orvault
+   <p style="margin-bottom:11px">L'usine Sanofi de fabrication de Depakine
+   a Mourenx a rejete pendant des annees du valproate de sodium dans
+   l'air.
 
-   Voir l'offre
+Des malformations révélées chez les enfants de riverains de l'usine de
+Dépakine
 
-   Charge d'investissement Senior (H/F)
+   Des habitants exposés aux rejets toxiques de l'usine Sanofi à
+   Mourenx constatent des troubles et malformations chez leurs enfants.
+   Une plainte a été déposée.
 
-   CDI - Groupe Roullier
+   Mis à jour le 20-11-2023 à 11h51
 
-   Ille-et-Vilaine
+   L'ARS d'Ile-de-France recommande aux habitants de l'agglomeration
+   parisienne de ne pas consommer les oeufs des poulaillers domestiques.
+   (Image d'illustration)
 
-   Voir l'offre
+L’agglomération parisienne ne doit pas consommer les œufs des poulaillers
+domestiques
 
-   Exploitant transport H/F
+   Environ 400 communes sont concernées par cette recommandation de
+   l’agence régionale de santé, qui s’adressait depuis avril à l’ensemble
+   de la région.
 
-   CDI - SARL G2RH|G2RH
+   Publié le 20-11-2023 à 11h01
 
-   Rouen
+   La drepanocytose affecte l'hemoglobine des globules rouges.
 
-   Voir l'offre
-   Rechercher
+Drépanocytose : un premier traitement révolutionnaire grâce à l’édition du
+génome
 
-   L’hôpital du Scorff, à Lorient, dans le Morbihan, est le principal
-   établissement du Groupe hospitalier de Bretagne Sud.
+   Le tout premier traitement utilisant les ciseaux moléculaires
+   CRISPR-cas9, récompensé d’un Nobel en 2020, vient d’être autorisé par
+   l’agence du médicament britannique.
 
-À l’hôpital de Lorient, les syndicats vent debout contre la nouvelle
-direction
+   Mis à jour le 21-11-2023 à 12h17
+   La newsletter santé
 
-   Une intersyndicale, composée de la CGT, la CFDT, la Fédération autonome
-   et santé sociaux du Groupe hospitalier Bretagne Sud (GHBS), appelle à
-   une manifestation devant l’hôpital du Scorff, à Lorient (Morbihan),
-   lundi 27 novembre 2023. Les partenaires sociaux dénoncent la réduct...
-   21/11
+   Tous les mardis à 9h30
 
-   L’entrée des urgences de l’hôpital de Carhaix.
+   Recevez notre sélection d’articles issue de notre rubrique Santé ainsi
+   que les Palmarès des hôpitaux et cliniques, dossiers spéciaux, conseils
+   et astuces…
+   Votre adresse email ____________________
 
-Urgences régulées à Carhaix : le syndicat CGT demande « une solution rapide »
+   Votre adresse email n'est pas valide
 
-   La régulation des urgences de Carhaix (Finistère) mise en place par le
-   CHRU depuis la fin de semaine dernière alarme le syndicat CGT.
-   21/11
+   Veuillez renseigner votre adresse email
+   S'inscrire
 
-   Newsletter Médecine et Santé
+   Merci !
+   Votre inscription à bien été prise en compte avec l'adresse email :
 
-   Chaque mercredi, une sélection de contenus pour mieux comprendre
-   l'actualité de la santé
+   Pour découvrir toutes nos autres newsletters, rendez-vous ici :
+   MonCompte
 
-   Merci de saisir votre adresse e-mail
-   ____________________
-   (BUTTON) OK
+   En vous inscrivant, vous acceptez les conditions générales
+   d’utilisations et notre politique de confidentialité.
 
-   Votre e-mail, avec votre consentement, est utilisé par Ouest-France
-   pour recevoir notre newsletter. En savoir plus.
+   76 % des participants declarent que la premiere chose qu'ils feraient
+   apres avoir appris une bonne nouvelle serait de... la partager.
 
-   Ce don permettra un nouvel aménagement du salon d’accueil des patients
-   à l’Unité médico_judiciaire (UMJ) sur le site de l’hôpital du Scorff, à
-   Lorient (Morbihan). (Photo d’illustration).
+Vous avez tout intérêt à garder une bonne nouvelle pour vous
 
-Un chèque de 1 100 € pour l’unité médico-judiciaire de l’hôpital du Scorff, à
-Lorient
+   Selon une récente étude, garder une (bonne) nouvelle secrète serait
+   bénéfique pour la santé et apporterait davantage d’énergies positives.
 
-   Un chèque de 1 100 € sera remis vendredi 24 novembre 2023 au bénéfice
-   de l’unité médico-judiciaire du Groupement hospitalier Bretagne sud
-   (GHBS), par l’association Voyages Soleil Levant, et la concession
-   Renault de Caudan.
-   21/11
+   Publié le 21-11-2023 à 12h00
 
-   Modélisation du futur institut de cancérologie et d’imagerie de Brest.
+   Plusieurs enfants inscrits dans une creche de Toulouse ont du etre
+   hospitalises apres avoir ete contamines par la bacterie E. coli.
 
-Au futur institut de cancérologie de Brest, « le privé ne coûtera pas plus
-cher au patient »  bloqué
+Toulouse : des enfants contaminés par la bactérie E. coli dans une crèche
 
-   Le premier patient du nouvel institut de cancérologie et d’imagerie de
-   Brest devrait être accueilli en février 2024, annonce Pierre Guégan,
-   directeur général adjoint de Seny. Cet opérateur de santé privé
-   partagera les lieux avec le Centre hospitalier universitaire (CHU) de
-   la ...
-   21/11
+   L’établissement a dû fermer ses portes après l’hospitalisation de
+   plusieurs enfants. La source de la contamination reste inconnue.
 
-   Sur la rampe des urgences, à Quimper (Finistère), mardi 21 novembre
-   2023, les soignants ont partagé leur quotidien.
+   Publié le 21-11-2023 à 09h01
 
-« L’hôpital est en souffrance » : le ras-le-bol du personnel des urgences et
-du Smur à Quimper
+   Pour le docteur Samy Taha, de l'unite Infections bacteriennes invasives
+   a l'Institut Pasteur et coauteur de l'etude : << il est temps de
+   reconsiderer la strategie >> vaccinale. Interview
 
-   Le personnel des urgences et du Smur du centre hospitalier
-   Quimper-Concarneau (Finistère) est au bout du rouleau. Ce mardi 21
-   novembre 2023, ils se sont réunis en début de matinée pour exprimer
-   leur ras-le-bol.
-   21/11
+Le rebond des méningites concerne les adolescents et les jeunes adultes
 
-   Une partie de l’équipe du service de médecine de physique et de
-   réadaptation pour enfants (CHU de Rennes), installé dans des locaux à
-   la clinique Saint-Laurent.
+   ENTRETIEN. Les cas de méningites se multiplient depuis la fin de la
+   pandémie. Il faut changer de stratégie vaccinale, alerte
+   un chercheur de l’Institut Pasteur.
 
-À Rennes, ce service s’équipe d’une baignoire pour soulager ses jeunes
-patients handicapés  bloqué
+   Publié le 20-11-2023 à 10h41
 
-   C’est un projet qui tient à cœur à toute l’équipe du service de
-   médecine physique et de réadaptation pour enfants du CHU de Rennes. Se
-   doter d’une baignoire thérapeutique pour permettre à leurs jeunes
-   patients, lourdement handicapés, de se réapproprier leurs corps.
-   21/11
+   L'AME est accessible aux personnes etrangeres, residant en France
+   depuis plus de trois mois, ainsi qu'aux personnes a leur charge (epoux,
+   epouse, enfants). Leur revenu mensuel ne doit pas exceder 810 euros par
+   mois. Le nombre de beneficiaires de l'AME est en progression depuis
+   quelques annees. De 318 000 beneficiaires en 2018, il est passe a 403
+   000 en 2022.
 
-   Éliane Breihi a remis un chèque de 1 000 € à Tatiana David, présidente
-   de l’Association malouine d’oncologie hématologie (Amoh), entourées des
-   membres du Lions Club et du personnel du service.
+Aide médicale d’État : les vrais chiffres pour tout comprendre
 
-Dinard. Les femmes du Lions Club reversent 11 000 € de dons par an  bloqué
+   Les sénateurs proposent que l’aide médicale pour les étrangers en
+   situation irrégulière ne concerne que les maladies graves. Selon nos
+   infos, le rapport Stefanini-Evin pourrait préconiser des aménagements.
 
-   Les membres du bureau du Lions Club Dinard Émeraude (Ille-et-Vilaine)
-   se sont rendues, ce lundi 20 novembre 2023, à l’hôpital de jour
-   d’oncologie et au centre Françoise-Dolto pour adolescents de
-   Saint-Malo, pour remettre à chacun un chèque de 1 000 €, issus de dons
-   récoltés pa...
-   21/11
+   Mis à jour le 18-11-2023 à 14h10
 
-   En 2021, près de 2 millions de personnes âgées de 60 ans ou plus
-   déclarent être limitées dans les activités de la vie quotidienne.
+   Chronique
 
-Permettre massivement aux personnes âgées de rester à leur domicile, combien
-ça coûterait ?
+Peut-on perdre du poids en mangeant des nouilles de konjac ?
 
-   Selon un rapport de l’Institut des politiques publiques, le « virage
-   domiciliaire » nécessiterait de doubler le budget de l’Allocation
-   personnalisée d’autonomie d’ici à 2040.
-   20/11
+   LA CHRONIQUE DE BORIS HANSEL. Très en vogue dans les
+   rayons diététiques, le konjac, souvent consommé sous la forme de
+   nouilles, est vanté pour ses propriétés coupe-faim. Mais est-il
+   vraiment efficace ?
 
-   Si rien n’est fait, l’actuelle directrice par intérim du centre
-   hospitalier de La Ferté-Bernard envisage bien de quitter ses fonctions
-   d’ici 2 à 3 ans.
+   Publié le 17-11-2023 à 18h30
 
-La direction de l’hôpital de La Ferté bientôt vacante ?
+Antibiorésistance : l’extraordinaire bilan des élevages français
 
-   Depuis quelques jours la rumeur enfle : Catherine Robic, directrice par
-   intérim du centre hospitalier de La Ferté-Bernard pourrait quitter ses
-   fonctions prochainement. En réalité rien n’est encore fait.
-   20/11
+   Alors que la consommation d’antibiotiques atteint toujours des sommets
+   chez les humains, les éleveurs français ont réduit leur usage de 79 %
+   en vingt ans.
 
-   Le tant décrié projet médico-soignant partagé 2023-2028 prévoit, entre
-   autres, la fin des accouchements à Guingamp et l’arrêt de la chirurgie
-   conventionnelle.
+   Publié le 17-11-2023 à 18h33
 
-Hôpital de Guingamp : Sud-santé 22 demande la mise en place d’un Copil de
-défense
+Hôpitaux : que faut-il changer ?
 
-   Dans un communiqué adressé à la presse, le syndicat Sud-santé 22
-   demande à Guingamp-Paimpol agglomération la mise en place d’un Copil de
-   défense de l’hôpital de Guingamp (Côtes-d’Armor).
-   20/11
+   C’est la question posée lors de la Soirée des hôpitaux, événement
+   emblématique du « Point », qui s’est tenue le 9 novembre à l’université
+   Paris Cité.
 
-   Après plusieurs perturbations en maternité et aux urgences, en raison
-   du manque d’anesthésistes, l’ensemble des services de l’hôpital
-   fonctionnent de nouveau parfaitement.
+   Publié le 16-11-2023 à 11h26
 
-À l’hôpital de Landerneau, « les embauches compensent les départs » mais des
-comptes dans le rouge  bloqué
+Perturbateurs endocriniens : « Ce n’est pas la dose qui fait le poison, mais
+le moment d’exposition »
 
-   Le conseil de surveillance de l’hôpital Ferdinand Grall de Landerneau,
-   réunit la semaine dernière, voit une accalmie au niveau du personnel,
-   alors que les comptes restent dans le rouge, notamment en raison des
-   coûts de l’énergie (+ 700 %).
-   20/11
+   À l’occasion de la journée de la prématurité, le D^r Magendie rappelle
+   que les femmes enceintes sont particulièrement vulnérables face aux
+   perturbateurs endocriniens.
 
-   Une neurologue examine des images du cerveau prises par Imagerie par
-   résonance magnétique (Photo d’illustration).
+   Mis à jour le 17-11-2023 à 15h16
 
-ENTRETIEN. Tromper le personnel médical : le syndrome de Münchhausen, si
-difficile à détecter
+Déserts médicaux : la SNCF veut vous permettre de consulter… dans ses gares
 
-   Difficile à détecter, le syndrome de Münchhausen, trouble factice
-   visant à duper le personnel médical, n’est souvent décelé qu’en dernier
-   recours. Un véritable casse-tête pour le corps médical, face à des
-   patients qui finissent par se mettre en danger. Antoine Bérar, Docteur
-   e...
-   20/11
+   Un infirmier diplômé d’État sera présent sur place et le patient sera
+   « examiné à distance par un médecin exerçant sur le territoire
+   français », selon SNCF Gares et Connexions.
 
-   Les soignants des urgences et Smur du centre hospitalier de Quimper et
-   Concarneau partagent une lettre ouverte. Ils y décrivent et dénoncent
-   la situation « intenable » qu’ils vivent dans leur travail.
+   Publié le 17-11-2023 à 11h48
 
-Hôpital de Quimper et Concarneau : les soignants des urgences décrivent « une
-situation intenable »  bloqué
+Plagiocéphalie : ce qu’il faut savoir sur le syndrome de la tête plate
 
-   Les soignants des urgences et Smur du centre hospitalier de Quimper et
-   Concarneau (Finistère) partagent une lettre ouverte, ce lundi 20
-   novembre 2023. Ils y décrivent et dénoncent la situation « intenable »
-   qu’ils vivent dans leur travail.
-   20/11
-   Voir plus de contenus : Hôpital
-   logo App Store logo Google Play
+   Depuis de nombreuses années, cette déformation du crâne de l’enfant est
+   en augmentation chez les nourrissons. Des solutions existent pour y
+   remédier rapidement.
 
-   L’appli, l’info en temps réel !
+   Publié le 15-11-2023 à 19h00
 
-   Suivez l'actualité qui vous intéresse en ajoutant vos villes et
-   thématiques favorites.
-   (BUTTON) Je télécharge
+Un « rebond sans précédent » des méningites après le Covid
 
-   En continu
+   L’Institut Pasteur alerte sur le retour en force des méningites, une
+   infection potentiellement mortelle. La sortie de la crise sanitaire
+   serait l’une des causes de cette reprise.
+
+   Publié le 15-11-2023 à 17h31
+
+   Voir les articles suivants
+
+Anticancéreux : une production publique pour réduire la facture
+
+   L’Académie de médecine s’alarme du coût de nouveaux traitements en
+   cancérologie pour le système de santé. La création de filière publique
+   de production diviserait par cinq leur prix.
+
+   Publié le 15-11-2023 à 12h00
+
+La cuisine au gaz, mauvaise pour les voies respiratoires ?
+
+   Selon une étude, les niveaux de concentration en dioxyde d’azote,
+   potentiellement toxique, sont plus élevés avec ce type de cuisson.
+
+   Publié le 14-11-2023 à 12h00
+
+Que sont les « sachets de nicotine », dans le viseur du gouvernement ?
+
+   Un adolescent sur dix a déjà testé ce produit, encore méconnu en
+   France, selon l’Alliance contre le tabac. Aurélien Rousseau veut les
+   interdire, comme les « Puffs ».
+
+   Mis à jour le 15-11-2023 à 06h24
+
+Les ruraux utilisent moins les soins hospitaliers que la moyenne des Français
+
+   Selon une étude de l’Association des maires ruraux de France, l’écart
+   est de 16 %. L’organisation d’élus pointe du doigt la distance et
+   l’éloignement.
+
+   Publié le 13-11-2023 à 12h38
+
+Vaccin contre le chikungunya : ce labo français qui remporte la course
+mondiale
+
+   DÉCRYPTAGE. Autorisé aux États-Unis, le vaccin contre cette maladie
+   émergente est une belle revanche pour le laboratoire Valneva, basé à
+   Nantes. Et une chance pour contrer les épidémies à venir.
+
+   Publié le 11-11-2023 à 09h11
+
+Faut-il vraiment manger du skyr ?
+
+   LA CHRONIQUE DE BORIS HANSEL. Une polémique a éclaté autour des vertus
+   nutritionnelles de cette spécialité laitière islandaise. Son apport en
+   protéines serait inutile pour la plupart des Français.
+
+   Publié le 10-11-2023 à 18h30
+
+États-Unis : première greffe d’un œil complet, sans rétablir la vue
+
+   Des chirurgiens américains ont annoncé avoir réalisé la première greffe
+   d’un œil complet. Le patient n’a, pour le moment, pas recouvré la vue.
+
+   Publié le 10-11-2023 à 13h21
+
+États-Unis : le premier vaccin contre le chikungunya approuvé
+
+   Développé par le groupe européen Valneva, ce vaccin pourrait constituer
+   le premier traitement spécifique permettant de soigner la maladie.
+
+   Mis à jour le 10-11-2023 à 06h28
+
+Cuisine au gaz : une étude pointe une surexposition au dioxyde d’azote dans
+les foyers français
+
+   Une étude de l’Organisation néerlandaise pour la recherche scientifique
+   appliquée conclut que 53 % des foyers dépassent le seuil journalier
+   recommandé.
+
+   Mis à jour le 09-11-2023 à 13h25
+
+Qu'est-ce que la prégabaline, cette « drogue du pauvre » ?
+
+   En l'espace de quelques jours, 8 300 gélules ont été saisies en France.
+   Les conséquences sanitaires peuvent être dévastatrices.
+
+   Publié le 09-11-2023 à 19h20
+
+Les États-Unis approuvent le Zepbound, un médicament très attendu contre
+l’obésité
+
+   Le médicament du groupe américain Eli Lilly sera administré par
+   injection hebdomadaire. La molécule utilisée était déjà approuvée
+   contre le diabète.
+
+   Mis à jour le 09-11-2023 à 07h17
+
+Pourquoi a-t-on le nez qui coule quand on est malade ?
+
+   Lorsqu’on est malade, le système immunitaire produit davantage de mucus
+   afin d’éliminer les germes. Une fonction très utile pour l’organisme.
+
+   Publié le 08-11-2023 à 16h00
+
+Parkinson : ce Français a retrouvé la marche grâce à une neuroprothèse
+
+   Une équipe franco-suisse a réussi à rétablir la locomotion d’une
+   personne atteinte de cette maladie en implantant des électrodes dans sa
+   colonne vertébrale.
+
+   Mis à jour le 07-11-2023 à 15h57
+
+Une troisième greffe d’utérus réussie en France
+
+   Quelques jours après cette prouesse chirurgicale, la deuxième femme à
+   avoir bénéficié d’une greffe d’utérus en France a donné naissance à une
+   petite fille.
+
+   Publié le 07-11-2023 à 12h14
+
+Non, dormir peu ne va pas atrophier votre cerveau
+
+   Selon une étude publiée dans la revue « Nature », il n’y aurait aucune
+   preuve d’association entre la durée du sommeil et l’atrophie cérébrale.
+
+   Publié le 07-11-2023 à 12h00
+
+Cancer du cerveau : les récidives bientôt évitées grâce à une simple piqûre
+du doigt ?
+
+   Des chercheurs mettent au point un test de flux latéral par piqûre au
+   doigt qui permettrait de détecter les signes de récidive de cancer du
+   cerveau.
+
+   Mis à jour le 07-11-2023 à 06h28
+
+Lucien, contre-exemple d'un système de santé à la dérive
+
+   Si ce jeune polyhandicapé s’en sort, c’est aussi grâce au système de
+   santé, hélas en souffrance. Son père, Marc Payet, raconte son histoire
+   dans « Votre santé va vous coûter un bras ». Il sera également l'invité
+   de notre soirée des hôpitaux, jeudi 9 novembre.
+
+   Mis à jour le 09-11-2023 à 18h30
+
+Movember : ce qu’il faut savoir sur les maladies masculines
+
+   En novembre, la moustache est à l’honneur. Cancer de la prostate ou des
+   testicules, Movember veut inciter les hommes à prendre soin d’eux.
+
+   Publié le 05-11-2023 à 08h34
+
+Santé : la métropole de Nice à la pointe
+
+   Un institut hospitalo-universitaire spécialisé dans les maladies
+   respiratoires, un pôle d’excellence du bien vieillir, de nouvelles
+   unités psychiatriques… Les projets abondent.
+
+   Publié le 05-11-2023 à 09h00
+
+Les produits sans gluten sont-ils meilleurs pour la santé ?
+
+   LA SANTÉ DANS VOS ASSIETTES. Bien souvent, aliment sans gluten
+   rime avec plus de sucres, de sel, de matières grasses et autres
+   additifs industriels.
+
+   Publié le 03-11-2023 à 18h30
+
+Médecine générale : recrudescence des tarifs sauvages
+
+   De plus en plus de médecins demandent des dépassements d’honoraires à
+   leurs patients pour gonfler leurs revenus.
+
+   Mis à jour le 03-11-2023 à 12h02
+
+Pourquoi fait-on des cauchemars ?
+
+   Le cauchemar serait une sorte de rêve raté qui gâche nos nuits et
+   parfois nos journées. Mais pour les scientifiques, sa fonction est
+   toujours un immense mystère.
+
+   Publié le 31-10-2023 à 17h46
+
+Dès l’âge de 4 ans, l’enfant mange quand il s’ennuie
+
+   Pour la première fois, une étude établit un lien entre les émotions des
+   enfants et les habitudes alimentaires de leurs parents.
+
+   Publié le 31-10-2023 à 12h00
+
+Papillomavirus : enquête ouverte après la mort d’un collégien tout juste
+vacciné
+
+   La campagne de vaccination lancée début octobre pourrait en pâtir.
+   Pourtant, aucun lien n’est pour l’instant établi entre la mort du
+   garçon et l’injection.
+
+   Publié le 31-10-2023 à 08h25
+
+Changement d’heure : nos conseils pour le gérer au mieux
+
+   TRIBUNE. Le passage à l’heure d’hiver aura lieu ce dimanche 29 octobre
+   à 3 heures du matin. Il sera alors 2 heures. Ce changement
+   a-t-il un réel impact sur les rythmes biologiques et sur notre
+   sommeil ?
+
+   Mis à jour le 29-10-2023 à 12h30
+
+Pourquoi les exercices de respiration, c'est bon pour la santé
+
+   De récentes recherches démontrent les bienfaits de la cohérence
+   cardiaque sur le stress et surtout sur la santé cardiovasculaire.
+   Explications.
+
+   Publié le 28-10-2023 à 09h45
+
+Que manger pour stopper la gastro ?
+
+   LA SANTÉ DANS VOS ASSIETTES. Certains aliments sont efficaces afin
+   d’arrêter les symptômes de la gastro-entérite, d’autres à proscrire.
+   Quelques conseils pour bien préparer une assiette anti-diarrhée.
+
+   Publié le 27-10-2023 à 18h30
+
+Des bouteilles de lait de plusieurs grandes marques rappelées dans toute la
+France
+
+   Une campagne de rappel concernant des centaines de bouteilles de
+   lait commercialisées à travers la France a été lancée après des
+   inquiétudes de consommateurs.
+
+   Mis à jour le 25-10-2023 à 10h20
+
+Vaccin, infection : quel lien entre le Covid-19 et le syndrome de
+Guillain-Barré ?
+
+   Une récente étude montre une association entre une infection par le
+   coronavirus et le risque de souffrir du syndrome de Guillain-Barré.
+   Explications.
+
+   Publié le 24-10-2023 à 12h00
+
+Alerte sur les antidiabétiques : des stylos injecteurs frauduleux circulent
+en Europe
+
+   Les autorités sanitaires ont indiqué que des stylos injecteurs
+   frauduleux, prescrits aux patients atteints de diabète, étaient en
+   circulation en Europe.
+
+   Publié le 23-10-2023 à 14h39
+
+Pourquoi l’ANSM déconseille les médicaments antirhume
+
+   Actifed Rhume, Dolirhume, Humex Rhume, Nurofen Rhume, Rhinadvil Rhume…
+   Tous ces médicaments sont à éviter car ils contiennent une substance
+   dangereuse.
+
+   Mis à jour le 23-10-2023 à 14h45
+
+Attention à l’érythritol, cet édulcorant naturel présent dans les bonbons et
+chewing-gums !
+
+   LA SANTÉ DANS VOS ASSIETTES. L’érythritol, un édulcorant
+   naturel utilisé pour remplacer le sucre dans les bonbons et les
+   chewing-gums, peut présenter des risques pour la santé
+   cardiovasculaire.
+
+   Publié le 20-10-2023 à 16h00
+
+La proximité de vignes augmente-t-elle réellement le risque de leucémie chez
+les enfants ?
+
+   Vivre près de vignes n’aurait pas d’incidence, mais la densité des
+   vignobles augmenterait légèrement le risque de certains cancers du sang
+   chez l’enfant, selon une étude de l’Inserm… aux résultats fragiles.
+
+   Publié le 20-10-2023 à 12h00
+
+Octobre rose : les hommes aussi peuvent avoir un cancer du sein
+
+   Au Royaume-Uni, une association a été créée pour lutter contre le
+   cancer du sein chez l’homme. Souvent associée aux femmes, cette maladie
+   peut également toucher les messieurs.
+
+   Mis à jour le 19-10-2023 à 10h05
+
+La langue serait capable de détecter six saveurs
+
+   Selon une récente étude, la langue pourrait repérer un sixième goût de
+   base. Il s’agit du chlorure d’ammonium, un ingrédient présent dans des
+   bonbons venus d’Europe du Nord.
+
+   Publié le 17-10-2023 à 12h00
+
+Bruno Bonnell à Futurapolis Santé : « Et si on créait une école de
+bioproduction à Montpellier ? »
+
+   Lors du forum Futurapolis Santé, Bruno Bonnell, secrétaire général de
+   France 2030, a proposé de rassembler l’écosystème autour d’une école à
+   Montpellier. Et de la financer.
+
+   Mis à jour le 17-10-2023 à 14h53
+
+Grippe saisonnière : la campagne démarre, qui peut se faire vacciner ?
+
+   Pour la première fois, la campagne de vaccination est ouverte aux
+   enfants âgés d’au moins deux ans. Objectif : éviter un hiver aussi
+   difficile qu’en 2022.
+
+   Mis à jour le 17-10-2023 à 06h23
+
+Les locataires vieillissent plus vite que les propriétaires
+
+   Selon une étude récente, les personnes propriétaires de leur logement
+   vieilliraient moins vite que les locataires du parc privé, davantage
+   sujets au stress.
+
+   Publié le 17-10-2023 à 06h50
+
+Santé : des « patients simulés » pour former les jeunes médecins
+
+   Le CHU de Toulouse recrute cent personnes qui seront chargées
+   d’interpréter le rôle d’un patient face à des étudiants en quatrième
+   année de médecine.
+
+   Mis à jour le 16-10-2023 à 22h07
+
+L’intelligence artificielle en renfort pour aider au dépistage du cancer
+
+   CHRONIQUE. L’intelligence artificielle ouvre de nouvelles perspectives
+   en médecine, et particulièrement dans le dépistage des cancers.
+
+   Publié le 16-10-2023 à 13h01
+
+Près de 60 % des Français auraient déjà renoncé à se soigner
+
+   Dans la plupart des cas, les sondés expliquent cette décision par des
+   délais d’attente trop longs. Le coût des consultations est aussi
+   évoqué.
+
+   Mis à jour le 16-10-2023 à 06h27
+
+Dépistage, rééducation : ce qu’il faut savoir sur les troubles dys
+
+   Les troubles du langage écrit peuvent être à l’origine de difficultés
+   scolaires. Un dépistage rapide permet d’accompagner au plus vite les
+   enfants.
+
+   Publié le 14-10-2023 à 07h00
+
+Futurapolis Santé 2023 - Cancer, longévité, sport : repousser les limites
+
+   La 7^e édition de l'événement du « Point » consacré à la santé globale
+   s'est tenue à Montpellier les 13 et 14 octobre 2023. Revivez ici
+   l'ensemble des conférences en direct.
+
+   Mis à jour le 14-10-2023 à 17h56
+
+Quels aliments faut-il vraiment proscrire pour éviter les boutons ?
+
+   LA SANTÉ DANS VOS ASSIETTES. Le lait, le chocolat et d’autres produits
+   sucrés favoriseraient l’apparition de boutons. Les explications du P^r
+   Boris Hansel.
+
+   Publié le 13-10-2023 à 18h30
+
+   Vous souhaitez lire un article plus ancien ?
+   Consulter les archives du Point
+
+L'info en continu
+
+     * 16H57 Pneumonies en Chine : « Probablement un panachage de
+       pathologies »
+     * 14H41 Maladies respiratoires en Chine : que sait-on de cette
+       nouvelle...
+     * 06H58 « Certains régimes exposent à de graves risques de carences »
+     * 12H00 La colère a (vraiment) des effets bénéfiques
+
+   Toute l'actualité Santé
+
+   Abonnement Le Point
+
+En kiosque
+
+     * Le Point du Jeudi 16 novembre 2023
+     * Le Point du Jeudi 23 novembre 2023
+       Jeudi 23 novembre 2023
+     * Le Point du Jeudi 9 novembre 2023
+
+   Voir le kiosque
+
+Nos Hors-Séries
+
+     * Hors Série Le Point du Mardi 21 novembre 2023
+     * Hors Série Le Point du Mardi 21 novembre 2023
+       Mardi 21 novembre 2023
+     * Hors Série Le Point du Mardi 21 novembre 2023
+
+   Voir les hors-séries
+
+Les plus lus
+
+    1.
+
+  Pays-Bas : l’extrême droite de Geert Wilders en passe de remporter les
+  législatives
+    2.
+
+  Crimes sexuels du Hamas en Israël : l’inquiétant silence des
+  organisations internationales
+    3.
+
+  Les indiscrets - Des stars en soutien d’une liste anti-Nupes aux européennes
+    4.
+
+  Attaque contre Israël : le viol, arme de guerre du Hamas
+    5.
+
+  Maladies respiratoires en Chine : que sait-on de cette nouvelle épidémie qui
+  inquiète l'OMS ?
+    6.
+
+  « Tout est une question de circonstances » : le retour de Jérôme Cahuzac
+
+Le Point stories
+
+   i
+
+   Contenus réalisés par les équipes de la régie publicitaire du Point
+
+   La rédaction n’a pas participé à leur réalisation.
+
+Dossier Packaging
+
+   Avec Scribeo
+
+Organiser votre épargne
+
+   Avec l'AFER
+
+Sur la route...
+
+   Avec Citroën
+
+Le Point Services
+
+     * Cette friteuse sans huile Airfryer est la meilleure vente de ce
+       site pour le Black Friday
+       Avec Le Point Services
+     * Le Samsung Galaxy S23 Ultra profite d'une offre folle pour le Black
+       Friday (offre limitée)
+       Avec Le Point Services
+     * Le Cookeo de Moulinex est-il à son meilleur prix avec cette offre
+       Black Friday ?
+       Avec Le Point Services
+
+Le classement des hôpitaux
+
+   Illustration Classement des hôpitaux
      *
-   10h54
-        DIRECT. Guerre Israël-Hamas : après l’accord, la France « espère »
-       une libération d’otages français
+
+EXCLUSIF. Les tableaux d’honneur 2021 des hôpitaux et cliniques
      *
-   10h51
-       Que contient la proposition de loi qui réhabilite les personnes
-       condamnées pour homosexualité ?
-     *
-   10h40
-       Un ouvrier survit par miracle à une chute de 20 mètres dans sa
-       nacelle
-     *
-   10h36
-       Affaire du lait infantile contaminé : le laboratoire nantais
-       Eurofins répond à Lactalis
-     *
-   10h24
-       Test du jeu vidéo Howl : un conte tactique à la croisée des échecs
-       et du Loup-Garou
 
-   Ailleurs sur le Web Contenus Sponsorisés
+Palmarès des hôpitaux : un professeur de médecine dénonce la censure
 
-   Offres d'emploi
-   Avec ouestfrance-emploi.com
+   Trouver le meilleur hôpital
 
-   TECHNICIEN MAINTENANCE MULTITECHNIQUE (H/F)
+   Le Point
 
-   CDI - Manpower recrutement Tertiaire Nantes
+   Consultez toute l’actualité en France et dans le monde sur Le Point,
+   suivez les informations en temps réel et accédez à nos analyses, débats
+   et dossiers.
+   Les univers
+     * Le Point Montres
+     * Le Point Vin
+     * Le Point Auto
+     * Le Point Pop
+     * Le Point Afrique
+     * Eurêka
 
-   Orvault
+   Lire Le Point
+     * Abonnement
+     * L'édition de la semaine
+     * La boutique
+     * L'application mobile
+     * Les newsletters
 
-   Voir l'offre
+   À propos
+     * Expérience Le Point
+     * Tutoriel Vidéo
+     * Publicité
+     * Le Point Stories
+     * Nous sommes OJD
+     * Les forums du Point
 
-   Charge d'investissement Senior (H/F)
+   Liens utiles
+     * Nous contacter
+     * Nos journalistes
+     * Archives
+     * Le Point pour les déficients visuels
+     * FAQ
+     * Abonnements
+     * Crédit d'impôt
+     * Plan du site
 
-   CDI - Groupe Roullier
-
-   Ille-et-Vilaine
-
-   Voir l'offre
-
-   Exploitant transport H/F
-
-   CDI - SARL G2RH|G2RH
-
-   Rouen
-
-   Voir l'offre
-   Rechercher
-
-   Vidéos Hôpital
-
-   Actu
-   VIDEO. L'hôpital des nounours, cette semaine, à Nantes
-   10/11
-
-   Actu
-   VIDÉO. Au CHU de Rennes, il assiste à sa future opération grâce à la
-   réalité virtuelle
-   07/11
-
-   Actu
-   VIDÉO. Les pompiers sauvent un bébé trouvé dans une poubelle à Rennes
-   20/10
-
-   Actu
-   VIDÉO. Ce qu'il faut retenir de la manifestation pour la défense de
-   l'hôpital de Carhaix à Quimper
-   30/09
-
-   (BUTTON) Voir plusVoir moins
-
-   Newsletter Médecine et Santé
-
-   Chaque mercredi, une sélection de contenus pour mieux comprendre
-   l'actualité de la santé
-
-   Merci de saisir votre adresse e-mail
-   ____________________
-   (BUTTON) OK
-
-   Votre e-mail, avec votre consentement, est utilisé par Ouest-France
-   pour recevoir notre newsletter. En savoir plus.
-
-   Services Ouest-France
-     * Abonnez-vous
-     * Achetez le journal du jour (0,99€)
-     * Mon abonnement
-     * Bons Plans
-     * Comparateur produits
-     * La Boutique Ouest-France
-     * LaPlace
-     * Obsèques
-
-   Les plus populaires
-    1. Des conducteurs agacés par un tracteur trop lent : ce que dit le
-       Code de la route
-    2. «Je suis un peu un Robinson Crusoé» : en Bretagne, il vit dans les
-       bois pour être proche de son fils
-    3. Face aux loyers impayés, ce propriétaire squatte le logement pour
-       faire partir son locataire
-    4. Météo : après les tempêtes, le froid et la neige arrivent en France
-    5. L’animateur Sébastien Cauet visé par une plainte pour viols
-    6. Guerre Israël-Hamas : un accord pour les otages imminent, un
-       hôpital frappé… Les dernières infos
-    7. INFO PRESSE OCÉAN. Affaire Guerriau : le témoignage choc du député
-       qui a secouru Sandrine Josso
-    8. Affaire Joël Guerriau : l’avocate de Sandrine Josso déplore « des
-       explications invraisemblables »
-    9. Grèce – France. Les compositions probables avec une équipe remaniée
-       par Deschamps
-   10. Résultat EuroDreams FDJ : les numéros du tirage du lundi
-       20 novembre 2023
-
-   (BUTTON) Voir plusVoir moins
-
-   Tout savoir sur : Hôpital
-
-   Un hôpital est un établissement de santé où les patients malades ou
-   victimes d'accidents sont pris en charge par des médecins, des
-   infirmières et des aides-soignantes. Certains hôpitaux disposent un
-   service d'urgences, voire d'un service mobile d'urgence et de
-   réanimation (SMUR). Les hôpitaux associés à une faculté de médecine
-   sont appelés Centre hospitalier universitaire (CHU). Un centre
-   hospitalier peut être appelé clinique s'il n'est pas public.
-   (BUTTON) Voir plusVoir moins
-
-     * []
-     * []
-
-     * []
-     * []
-
-     * []
-     * []
-
-     * []
-     * []
-
-   Téléchargez gratuitement les applications
-
-   logo App Store logo Google Play
-
-   L’appli, l’info en temps réel !
-
-   Suivez l'actualité qui vous intéresse en ajoutant vos villes et
-   thématiques favorites.
-   (BUTTON) Je télécharge
-
-   Régions
-   Sport
-   Ouest-France
-   En Direct
-   Recherche
+   Les services
+     * Cours de langues
+     * Forfait mobile
+     * Comparateurs PER
+     * Code promo lastminute.com
+     * Code promo C&A
+     * Code promo Emirates
+     * Code promo Bleu Bonheur
+     * Code promo SFR
 
    Suivez-nous
      *
      *
-     * []
-     *
-     *
      *
      *
 
-   Newsletter Médecine et Santé
-
-   Merci de saisir votre adresse e-mail
-   ____________________
-   (BUTTON) Ok
-
-   Votre e-mail, avec votre consentement, est utilisé par Ouest-France
-   pour recevoir notre newsletter. En savoir plus.
-
-   Sites d'actualité
-     * Ouest-France
-     * Appli Android Ouest-France
-     * Appli iOS Ouest-France
-     * Courrier de l'Ouest
-     * Presse Océan
-     * Le Maine-libre
-     * Autres sites du groupe
-
-   Services
-     * Services
-     * Contactez-nous
-     * FAQ
-     * Rejoignez-nous
-     * Ouest-France Solidarité
-     * Archives du site
-     * Égalité professionnelle
-     * Modifier mes choix de cookies
-
-   Shopping
-     * Black Friday
-     * Code Promo Emma Matelas
-     * Code Promo Deliveroo
-     * Code Promo H&M
-     * Code Promo Booking
-     * Code Promo Boohoo
-     * Code Promo Uber Eats
-     * Comparateur
-     * Guide d'achat
-     * Bons Plans Cdiscount
-     * Bons Plans Canal+
-
-   Les applications mobiles du groupe SIPA Ouest-France disponibles en
-   téléchargement
+     * Portail de la transparence
      * Mentions légales
-     * Données personnelles
-     * Cookies
      * CGU
-     * Qui sommes-nous ?
-     * Tarifs de références
-     * Charte utilisateur
-     * Plan du site
-     * Plan des élections
-     * © Ouest-France
-
-     *
-
-   fermer
-
-   []
-
-   Téléchargez notre application
-   (BUTTON) fermer
+     * CGV
+     * Conditions générales d'un compte client
+     * Charte de modération
+     * Politique de protection des données à caractère personnel
+     * Gérer mes cookies

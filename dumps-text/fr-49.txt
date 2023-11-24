@@ -1,0 +1,287 @@
+   #Home
+
+   (BUTTON)
+
+   Logo de la République française
+
+   Manger-Bouger Manger-Bouger
+     * Recherche
+       (BUTTON)
+       ____________________
+       (BUTTON) Rechercher
+          + Accueil
+          + Manger mieux
+            Outil
+
+Calendrier de saison
+            Voir le contenu
+               o (BUTTON) Retour Manger mieux
+               o À tout âge et à chaque étape de la vie
+                    # (BUTTON) Retour À tout âge et à chaque étape de la
+                      vie
+                    # Les recommandations alimentaires pour les adultes
+                    # Les recommandations et conseils avant, pendant et
+                      après la grossesse
+                    # Jeunes enfants de 0 à 3 ans : du lait à la
+                      diversification
+                    # Enfants et adolescents de 4 à 17 ans
+                    # Adultes de plus de 75 ans
+               o Se faire plaisir en mangeant équilibré
+                    # (BUTTON) Retour Se faire plaisir en mangeant
+                      équilibré
+                    # Manger équilibré, ça veut dire quoi et comment y
+                      arriver ?
+                    # Planifier ses repas avec la Fabrique à menus
+                    # Cuisiner maison
+                    # Découvrir des idées recettes
+                    # S’informer sur les différentes pratiques
+                      alimentaires
+               o S’informer sur les produits qu’on achète
+                    # (BUTTON) Retour S’informer sur les produits qu’on
+                      achète
+                    # Choisir ses produits avec le Nutri-Score
+                    # Comprendre les informations nutritionnelles et les
+                      étiquettes
+                    # Acheter plus responsable, ça veut dire quoi ?
+               o Bien manger sans se ruiner
+                    # (BUTTON) Retour Bien manger sans se ruiner
+                    # Calendrier de saison
+                    # Bien manger en préservant la planète sans se ruiner
+                      c’est possible !
+          + Bouger Plus
+            Outil
+
+Consulter le catalogue d’activités physiques
+            Voir le contenu
+               o (BUTTON) Retour Bouger Plus
+               o À tout âge et à chaque étape de la vie
+                    # (BUTTON) Retour À tout âge et à chaque étape de la
+                      vie
+                    # Les recommandations pour les adultes
+                    # Les recommandations et conseils pour les enfants et
+                      adolescents
+                    # Les recommandations spécifiques avant, pendant et
+                      après la grossesse
+                    # Les recommandations et conseils pour les personnes
+                      en situation de handicap
+               o Test de niveau d’activité physique et de sédentarité des
+                 adultes
+               o Test de niveau d’activité physique et de sédentarité des
+                 ados
+               o Avoir un mode de vie actif
+                    # (BUTTON) Retour Avoir un mode de vie actif
+                    # Catalogue d’activités physiques
+                    # Comment être plus actif au quotidien ?
+                    # Idées d'exercices
+          + L'essentiel
+            Outil
+
+Test de niveau d'activité physique des adultes
+            Faire le test
+               o (BUTTON) Retour L'essentiel
+               o Les recommandations sur l’alimentation, l’activité
+                 physique et la sédentarité
+               o La Fabrique à menus
+               o Test de niveau d’activité physique et de sédentarité des
+                 adultes
+               o Catalogue d’activités physiques
+               o Guides et documents
+               o Lexique
+          + Ressources Pros
+            Brochure
+
+Le petit guide de la diversification alimentaire
+            Voir le contenu
+               o (BUTTON) Retour Ressources Pros
+               o Le Programme National Nutrition Santé (PNNS)
+                    # (BUTTON) Retour Le Programme National Nutrition
+                      Santé (PNNS)
+                    # Qu'est-ce que le PNNS ?
+                    # Les axes stratégiques et objectifs du PNNS 4
+                    # Les 10 mesures phares du PNNS 4
+               o La Stratégie Nationale Sport Santé
+               o Elaboration des recommandations nutritionnelles
+                    # (BUTTON) Retour Elaboration des recommandations
+                      nutritionnelles
+                    # Comment sont élaborées les recommandations
+                      nutritionnelles ?
+                    # Les recommandations sur la diversification
+                      alimentaire des enfants jusqu'à 3 ans
+                    # Les recommandations adultes : alimentation, activité
+                      physique et sédentarité
+               o Ressources (documents, MOOC, liens utiles...)
+                    # (BUTTON) Retour Ressources (documents, MOOC, liens
+                      utiles...)
+                    # Professionnels de santé
+                    # Enseignants et clubs sportifs
+                    # Collectivités
+                    # Portail des actions probantes en nutrition
+               o Guides et documents
+     * Le calendrier de saison Le test de niveau d'activité physique Le
+       catalogue d'activités physiques La Fabrique à menus
+     *
+          + Mon compte
+          + (BUTTON)
+               o Mon compte
+               o Mes informations
+               o Mes paramètres
+               o Mon menu
+               o Mes favoris
+
+   (BUTTON) Rechercher
+   (BUTTON)
+
+   (BUTTON)
+
+     * Manger Bouger
+     * Ressources Pros
+     * Le Programme National Nutrition Santé (PNNS)
+     * Qu'est-ce que le PNNS ?
+
+Qu'est-ce que le PNNS ?
+
+   Temps de lecture : 3 minutes
+
+   Lancé en 2001, le Programme national nutrition santé (PNNS) a pour
+   objectif général l’amélioration de l’état de santé de l’ensemble de la
+   population en agissant sur l’un de ses déterminants majeurs : la
+   nutrition (comprenant l’alimentation, l’activité physique et la
+   sédentarité). Ce programme a été reconduit en 2006 (PNNS-2), en 2011
+   (PNNS-3) et en 2019 (PNNS-4).
+   (BUTTON) Partager
+   Partager sur twitter Partager sur facebook (BUTTON) Copier le lien
+
+Le Programme National Nutrition Santé (PNNS)
+
+   La mise en place d’une politique nutritionnelle est apparue, au cours
+   des vingt dernières années, comme une priorité de santé publique. Le
+   rôle joué par la nutrition comme facteur de protection ou de risque des
+   pathologies les plus répandues en France est de mieux en mieux compris,
+   qu’il s’agisse du (BUTTON) cancer, des maladies cardiovasculaires de l’
+   (BUTTON) obésité, de l’ (BUTTON) ostéoporose ou du (BUTTON) diabète de
+   type 2.
+
+   Le PNNS s’appuie, d’une part, sur une analyse de la situation
+   nutritionnelle de la population française et de son évolution, telle
+   qu’elle ressort des études récentes, comme les études INCA3 et Esteban
+   mises en œuvre respectivement par l’Anses et Santé publique France et,
+   d’autre part, dans le but de donner la priorité à la réduction des
+   inégalités sociales dans ce domaine, sur les objectifs quantifiés du
+   PNNS 2019-2023, actualisés par le Haut conseil de la santé publique.
+
+   Le PNNS 2019-2023 s’inscrit dans les orientations de la Stratégie
+   nationale de santé, du Plan national de santé publique « priorité
+   prévention : rester en bonne santé tout au long de sa vie » du
+   gouvernement. Le quatrième PNNS est essentiellement axé sur la
+   promotion d’une nutrition satisfaisante pour tous les groupes de
+   population, avec un accent particulier pour les groupes défavorisés/à
+   moindre niveau d’éducation. Il s’inscrit dans le cadre global d’une
+   contribution de la France à l’atteinte des objectifs du développement
+   durable. Il s’articule avec d’autres plans, programmes ou stratégies
+   mis en œuvre par le gouvernement, qui le complètent, l’accompagnent,
+   l’amplifient ou entrent en synergie avec lui. Ces outils concourent à
+   l’atteinte de l’objectif d’amélioration de la santé de l’ensemble de la
+   population dans le domaine de la nutrition :
+     * Approche par l’alimentation : Programme national pour
+       l’alimentation ; Plan Ecoantibio
+     * Approche par l’ (BUTTON) activité physique : Stratégie nationale
+       sport santé ; Plan vélo
+     * Approche par pathologie : Feuille de route obésité ; Plan cancer
+     * Approche par population : Stratégie nationale de prévention et de
+       lutte contre la pauvreté ; Feuille de route périnatalité
+     * Approche environnementale :
+          + Contaminants : PNSE, Ecophyto, Plan d’action sur les produits
+            phytopharmaceutiques, Stratégie nationale sur les
+            perturbateurs endocriniens
+          + Durabilité : Plan Ambition Bio ; Plan biodiversité
+     * Spécificités de l’Outre-mer : Livre Bleu de l’Outre-mer ; Plan
+       chlordécone
+
+   Le PNNS s’applique à tous en métropole et Outre-mer. Un volet «
+   Outre-mer » comportant des spécificités territoriales complète le PNNS
+   applicable par ailleurs sur tout le territoire national (y compris les
+   DOM). Vous trouverez le lien vers le PNNS 4- Volet Outre-mer dans les
+   liens en bas de page.
+
+Quelles évolutions depuis le premier PNNS ?
+
+   Certains indicateurs montrent que la situation s’est stabilisée voire
+   un peu améliorée :
+     * C’est le cas depuis le milieu des années 2000 de la prévalence du
+       surpoids et de l’obésité tant chez les adultes que chez les
+       enfants. Cette stabilisation survient à un niveau qui, bien que
+       moins mauvaise comparativement à de nombreux autres pays européens,
+       demeure trop élevée.
+
+   D’autres indicateurs n’évoluent pas de façon favorable :
+     * La croissance de la prévalence du diabète de type 2 se poursuit ;
+     * La pratique d’activité physique tend à décroître, particulièrement
+       chez les femmes et les enfants, et reste très insuffisante.
+     * Les comportements sédentaires ont fortement augmenté ces dix
+       dernières années.
+     * La consommation de sel, après avoir diminué au début des années
+       2000 stagne à un niveau beaucoup trop élevé, celle de sucres est
+       trop importante tandis que la consommation de fruits et légumes et
+       de fibres est beaucoup trop faible.
+     * La consommation d’alcool, bien qu’en décroissance depuis de
+       nombreuses années reste beaucoup trop importante.
+     * En outre, la supplémentation systématique en folates de toutes les
+       femmes qui désirent concevoir (4 semaines avant la conception et 8
+       semaines après), est insuffisamment mise en œuvre.
+     * Malgré l’insuffisance de données précises sur ce sujet, la
+       prévalence de la dénutrition demeure élevée, notamment chez les
+       personnes âgées.
+
+   Le phénomène le plus notable reste cependant l’accroissement des
+   inégalités sociales dans le champ de la nutrition.
+   Liens Utiles
+     * PNNS 4 - 2019-2023
+     * PNNS 4 - Volet Outre-mer
+     * La stratégie nationale de santé 2018-2022
+     * La stratégie nationale sport santé
+     * La stratégie décennale de lutte contre les cancers - 2021-2030
+
+   Manger
+
+   (BUTTON) (BUTTON)
+   (BUTTON)
+   Définitions du mot
+
+   (BUTTON)
+   (BUTTON) (BUTTON)
+
+     * Manger Bouger
+     * Ressources Pros
+     * Le Programme National Nutrition Santé (PNNS)
+     * Qu'est-ce que le PNNS ?
+
+Manger mieux
+
+   À tout âge et à chaque étape de la vie Se faire plaisir en mangeant
+   équilibré S’informer sur les produits qu’on achète Bien manger sans se
+   ruiner
+
+Bouger Plus
+
+   À tout âge et à chaque étape de la vie Test de niveau d’activité
+   physique et de sédentarité des adultes Test de niveau d’activité
+   physique et de sédentarité des ados Avoir un mode de vie actif
+
+L'essentiel
+
+   Les recommandations sur l’alimentation, l’activité physique et la
+   sédentarité La Fabrique à menus Test de niveau d’activité physique et
+   de sédentarité des adultes Catalogue d’activités physiques Guides et
+   documents Lexique
+
+Ressources Pros
+
+   Le Programme National Nutrition Santé (PNNS) La Stratégie Nationale
+   Sport Santé Elaboration des recommandations nutritionnelles Ressources
+   (documents, MOOC, liens utiles...) Guides et documents
+   Ce lien rediriger vers le site de sante publique france Manger-Bouger,
+   lien de redirection vers la paga d'accueil
+
+   Mentions légales Politique de confidentialité Contact Accessibilité
+
+   (BUTTON)

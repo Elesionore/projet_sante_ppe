@@ -1,163 +1,340 @@
-    #RSS
+   #alternate alternate alternate alternate alternate
 
-     * Accéder au contenu
-     * Accéder au menu
-     * Accéder à la recherche
-     * Accéder au footer
+     * Accès direct au contenu
+     * Accès direct au menu principal
 
-   Gouvernement
-   _______________ (Rechercher) Rechercher
+   Logo Marianne République française
+   Retour à l'accueil (logo République française)
+   Logo Inserm Header
+   Retour à l'accueil (logo Inserm)
 
-     * (BUTTON) L’actualité
-          + Toute l'actualité
-          + L'actualité de la Première ministre
-          + Espace presse
-          + Agenda
-          + Discours et rapports
-     * (BUTTON) Les actions du Gouvernement
-          + Les politiques prioritaires
-          + Les portraits de la relance
-          + Conseil des ministres
-     * (BUTTON) Le Gouvernement et les institutions
-          + Composition du Gouvernement
-          + Services de la Première ministre
-          + Visite virtuelle de Matignon
-          + Le savez-vous ?
+     * English
 
-   (BUTTON) Voir le fil d’Ariane
-    1. Accueil
-    2. Les services du Premier ministre
-    3. Secrétariat général pour l'investissement (SGPI)
-    4. Agence de l'innovation en santé
+   (BUTTON) Recherche
+   Rechercher ____________________ (BUTTON) Recherche
 
-   (BUTTON) Menu
-
-Navigation
-
-Secrétariat général pour l'investissement (SGPI)
-
-     * FRANCE 2030
-     * Stratégies d’accélération pour l’innovation
-     * Les dispositifs de France 2030
-     * Compétences et métiers d'avenir
-     * Concours d'innovation
-     * Evaluer les investissements publics
-     * Le Secrétariat général pour l'investissement
-     * Agence de l'innovation en santé
-     * Espace médias et ressources
-     __________________________________________________________________
-
-   Nous suivre
-
-   Twitter
-   Economie
-
-Agence de l'innovation en santé
-     __________________________________________________________________
-
-   Publié 10/05/2023 | Modifié 13/09/2023
-   Avec le plan Innovation santé 2030 et la création de l’Agence de
-   l’innovation en santé, l’Etat se donne les moyens de soutenir
-   financièrement l’écosystème français de la santé et de le dynamiser. Un
-   élan collectif qui doit favoriser l’émergence des innovations,
-   l’invention des produits et solutions de santé de demain ainsi que
-   l’anticipation des besoins médicaux et du système de santé. Elle doit
-   également permettre de les rendre accessibles aux patients plus
-   rapidement et de faciliter leur intégration dans les pratiques et dans
-   notre système de santé.
-
-   L’Agence de l’innovation en santé est l’une des mesures du plan
-   Innovation Santé 2030, volet santé de France 2030, et est chargée à ce
-   titre de piloter et de coordonner, en interministériel et avec les
-   opérateurs concernés, la stratégie d’innovation en santé que l’État a
-   doté d’un budget conséquent de 7,5 milliards d’euros. Elle a été créée
-   dans un objectif simple mais néanmoins majeur : favoriser le
-   développement et la mise à disposition de toute innovation en santé qui
-   apporte un bénéfice pour les patients, les professionnels de santé et
-   le système de santé.
-
-   Concrètement, cela recouvre quatre missions :
-     * suivre les financements consacrés à la recherche biomédicale et aux
-       grandes stratégies d’accélération ;
-     * mener des travaux de prospective afin de caractériser les besoins à
-       venir du système de santé, anticiper l’arrivée des innovations et
-       leurs impacts sur le système de prévention et de soins ainsi que
-       les modalités de leur intégration ;
-     * accompagner les projets innovants considérés comme stratégiques
-       pour la France en s’appuyant sur un réseau de partenaires en région
-       constitué à partir du tour de France que l’agence a démarré en mars
-       dernier ;
-     * accélérer la mise à disposition effective des innovations pour le
-       patient et les professionnels de santé en proposant des
-       simplifications des processus existants et en travaillant sur
-       l’accélération et l’attractivité de la recherche clinique.
-     * La prise en compte de la contribution de l’innovation à une
-       politique de prévention ambitieuse.
-
-   Chiffres clés :
-     * 7,5 milliards d’euros de France 2030 consacrés au plan Innovation
-       santé 2030
-     * ~ 100 projets accompagnés individuellement chaque année par
-       l’Agence
-     * 4 stratégies d’accélération :
-          + Maladies infectieuses émergentes et menaces NRBC (nucléaires,
-            radiologiques, biologiques, chimiques)
-          + Biomédicaments et bioproduction
-          + Santé numérique
-          + Dispositifs médicaux innovants
-
-     * 7 programmes de recherche, pilotés essentiellement par l’INSERM
-     * 1 réseau de partenaires en région
-
-   Partager cette page
-     * Tweeter
-     * Partager
-     * Envoyer
+   (BUTTON) Menu Fermer
+     * Connaître
+       l’Inserm
+       Connaître l’Inserm
+          + L’Institut
+               o L’Inserm en un coup d’œil
+               o Missions
+               o Organigramme
+               o Infrastructures de recherche
+               o Documents stratégiques
+               o Budget
+               o Prix Inserm
+          + Notre écosystème
+               o Partenariats de recherche
+               o L’Inserm et les associations
+               o Coopération en Europe et à l’international
+               o Programme Investissements d’Avenir (PIA)
+               o France Relance
+          + Nos programmes
+               o Programmes de recherche
+               o Programme Atip–Avenir
+               o École de l’Inserm Liliane Bettencourt
+     * La recherche
+       à l’Inserm
+       La recherche à l’Inserm
+          + Du laboratoire jusqu’au patient
+               o Le continuum de la recherche
+               o La recherche fondamentale
+               o La recherche clinique
+               o La recherche en santé publique
+               o La recherche technologique
+               o Valorisation et transfert des découvertes
+               o La recherche participative
+          + Une recherche responsable
+               o Nos bonnes pratiques
+               o La science ouverte
+               o L’éthique à l’Inserm
+               o Les modèles animaux
+          + Portraits et reportages
+               o Portraits de chercheuses et de chercheurs
+               o Reportages en labo
+     * Information
+       en santé
+       Information en santé
+          + Pour tout public
+               o Dossiers thématiques
+               o C’est quoi ? Les mots de la science
+               o Magazine de l’Inserm
+               o Ouvrages coédités par l’Inserm
+               o Expositions et ressources pédagogiques
+          + Pour public avancé
+               o Expertises collectives
+               o Rapports thématiques
+               o Revue médecine/sciences
+     * Actualités & évènements
+       Actualités & évènements
+          + Nos actualités
+               o Actu science
+               o Actu institutionnelle
+               o Actu pro
+               o Toutes les actualités
+          + Nos évènements
+               o Évènéments
+     * Faire un don
+     *
+          + English
      *
 
-Pied de page
+Actualités
 
-L’actualité
+Cancer du sein : la difficile reprise du travail
 
-     * Toute l'actualité
-     * L'actualité de la Première ministre
-     * Espace presse
-     * Agenda
-     * Discours et rapports
+   Actualité, Science
 
-Les actions du Gouvernement
+   Plus de 20 % des femmes qui ont eu un cancer du sein ne travaillent…
 
-     * Les politiques prioritaires
-     * Les portraits de la relance
-     * Conseil des ministres
+Une approche vaccinale contre l’inflammation chronique intestinale
 
-Le Gouvernement et les institutions
+   Actualité, Science
 
-     * Composition du Gouvernement
-     * Services de la Première ministre
-     * Visite virtuelle de Matignon
-     * Le savez-vous ?
+Biopile : l’énergie illimitée du corps
 
-Les réseaux sociaux du Gouvernement
+   Actualité, Science
 
-     * Facebook
-     * Twitter
-     * Linkedin
-     * Instagram
+Clément Papadacci : « Une nouvelle imagerie ultrasonore pour visualiser des
+organes avec une précision jamais atteinte »
 
-   Sauf mention contraire, tous les contenus de ce site sont sous licence
-   etalab-2.0
+   Lauréats ERC
+   Toutes les actus
 
-   Gouvernement
-     * elysee.fr
-     * service-public.fr
-     * legifrance.gouv.fr
-     * data.gouv.fr
-     * france.fr
+L’information en santé
 
-     * Données personnelles et cookies
-     * Écrire à la Première ministre
-     * Contact presse
+Inserm, le magazine n°58
+
+   Magazine
+
+   Alors que l’espérance de vie et le nombre de centenaires ont augmenté,
+   la vieillesse…
+
+Derniers stocks – C’est quoi la préménopause ?
+
+   C’est quoi
+
+   La ménopause, tout le monde en a déjà entendu parler et les femmes
+   savent…
+
+médecine/sciences
+
+   Nous connaître
+
+   La revue médecine/sciences offre à ses lecteurs des textes sur les
+   avancées de la…
+   Revue médecine/sciences n°10, volume 39. Octobre 2023
+
+Découvrez
+nos dossiers d’infos !
+
+   Ces dossiers font le point sur une maladie, une innovation en santé ou
+   une thématique importante pour la recherche biomédicale. Ils présentent
+   les connaissances actuelles et les recherches en cours, notamment à
+   l’Inserm.
+   VOIR TOUS LES DOSSIERS
+
+Maladies auto-immunes
+
+   Les maladies auto-immunes résultent d’un dysfonctionnement du système
+   immunitaire qui conduit ce dernier à…
+   Image réalisée en miscroscopie en fluorescence
+
+Acouphènes
+
+   Les acouphènes sont des bruits générés spontanément dans la voie
+   auditive, sans qu’ils proviennent…
+
+Ménopause
+
+   Si la ménopause n’est pas une maladie, la carence en œstrogènes qui
+   lui est…
+
+Journalistes, visitez
+notre site Presse !
+
+   Pour consulter nos communiqués destinés aux médias, ainsi que pour
+   contacter le service Presse de l’Institut, rendez-vous sur notre salle
+   de presse en ligne.
+   presse.inserm.fr
+   Notre dernier communiqué
+
+La listériose néonatale : quelles conséquences sur la santé des enfants ?
+
+La science pour la santé
+
+   L’Institut national de la santé et de la recherche médicale (Inserm)
+   est le seul organisme de recherche public français entièrement dédié à
+   la santé humaine.
+   L’Inserm en un coup d’oeil
+   RAPPORT D’ACTIVITÉ 2022
+
+L’année européenne de l’Inserm
+
+   Actualité, Institut
+
+Agenda
+
+LibéCARE 2023 : retrouvez l’Inserm à Caen
+
+   Actualité, Évènements
+   LibéCare, du 30 novembre au 2 décembre 2023
+
+Web-émission – Diagnostic, traitements, recherche : tout ce qu’il faut savoir
+sur les troubles bipolaires
+
+   Actualité, Évènements
+   Web-émission 30 minutes Santé - 28 novembre 2023
+
+10 ans de révolutions et d’accélérations technologiques et 10 ans de
+nouvelles réflexions éthiques
+
+   Séminaires
+   Journée annuelle du comité d'éthique, le 22 novembre 2023
+   Voir l’agenda complet
+
+Professionnels de la recherche, consultez Inserm Pro
+
+   Les informations et ressources pour les professionnels de la recherche
+   sont sur un site dédié.
+   Consulter Inserm pro
+   HR Excellence in Research
+
+Recevoir notre lettre d’information
+
+   Vous recevrez chaque mois les derniers articles publiés sur ce site.
+   Nous n’utiliserons pas votre e‑mail pour autre chose, et vous pourrez
+   vous désabonner à tout moment. En savoir plus sur vos données et vos
+   droits.
+
+Formulaire d’inscription
+
+   loader
+
+   Adresse e-mail (au format pbheevry@rkrzcyr.se) : ____________________
+   M'inscrire
+
+Nos délégations régionales
+
+     * Auvergne Rhône-Alpes
+     * Est
+     * Grand Ouest
+     * Île-de-France Centre Est
+     * Île-de-France Centre Nord
+     * Île-de-France Sud
+     * Nord-Ouest
+     * Nouvelle-Aquitaine
+     * Occitanie Méditerranée
+     * Occitanie Pyrénées
+     * PACA et en Corse
+
+Autres sites Inserm
+
+     * Professionnels de la recherche
+     * Ressources Humaines
+     * Marchés publics
+     * Évaluation
+     * Orphanet
+
+Accès direct
+
+     * Volontaire pour des tests
+
+Associés à l’Inserm
+
+     * ANRS | MIE
+     * Inserm Transfert
+
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+     * Questions fréquentes
+     * Nous contacter
      * Mentions légales
-     * Accessibilité : partiellement conforme
-     * Marque de l'État
+     * Accessibilité (partiellement conforme)
+     * Données personnelles
+     * Gérer mes cookies
+     * © Inserm 2023
+
+   (BUTTON) Retour en haut de page
+
+   Ce site utilise des cookies. Vous pouvez changer d'avis à tout moment
+   en cliquant le menu "Gérer mes cookies" en bas de page.
+   AccepterRefuser
+   Paramétrer
+   Cookies
+   (BUTTON) Fermer
+
+Paramétrer les cookies
+
+   Liste des types de cookies utilisés sur ce site et de leurs finalités.
+   Certains cookies sont déposés quelle que soit la page que vous visitez,
+   d'autres uniquement si vous visitez une page qui en a besoin.
+   Nécessaire
+   [X] Nécessaire
+   Toujours activé
+   Ces cookies sont indispensables aux fonctionnalités de base du site et
+   à sa sécurité. Vous ne pouvez pas les refuser, car ils ne collectent
+   pas de données personnelles.
+   Cookie Durée Description
+   cerber_bjZJE-PQKeqAy 1 jour Déposé par l'extension de sécurité du site.
+   cerber_iEuaryZDFx 1 jour Déposé par l'extension de sécurité du site.
+   cerber_rmpcGFhB 1 jour Déposé par l'extension de sécurité du site.
+   cookielawinfo-checkbox-advertisement 1 an Déposé par l'extension de
+   gestion des cookies pour stocker le consentement du visiteur.
+   cookielawinfo-checkbox-analytics 1 an Déposé par l'extension de gestion
+   des cookies pour stocker le consentement du visiteur.
+   cookielawinfo-checkbox-embedded 1 an Déposé par l'extension de gestion
+   des cookies pour stocker le consentement du visiteur.
+   cookielawinfo-checkbox-necessary 11 mois Déposé par l'extension de
+   gestion des cookies pour stocker le consentement du visiteur.
+   cookielawinfo-checkbox-non-necessary 11 mois Déposé par l'extension de
+   gestion des cookies pour stocker le consentement du visiteur.
+   viewed_cookie_policy 11 mois Déposé par l'extension de gestion des
+   cookies pour stocker le statut du consentement du visiteur concernant
+   les cookies.
+   Contenu embarqué
+   [ ] embedded
+   Ces cookies sont liés à des contenus tiers embarqués sur le site
+   (vidéos, etc.). Ils ne sont déposés que sur certaines pages.
+   Cookie Durée Description
+   CONSENT 16 ans 5 mois 11 jours 11 heures Déposé via les vidéos YouTube
+   embarquées. Enregistre des statistiques anonymes, par exemple sur le
+   nombre d'affichages d'une vidéo. Aucune information sensible n'est
+   collectée, à moins que vous soyez connecté à un compte Google (dans ce
+   cas, vos actions sont liées à votre compte).
+   dmvk session Déposé par Dailymotion, pour collecter statistiques à
+   propos du comportement des visiteurs du site. Utilisé pour des
+   statistiques internes.
+   pll_language 1 an Déposé par l'extension de traduction. Stocke le code
+   langue de la dernière page consultée.
+   ts 1 an et 1 mois Déposé par Dailymotion.
+   usprivacy 1 an 1 mois Déposé par Dailymotion.
+   v1st 1 an 1 mois Déposé par Dailymotion.
+   VISITOR_INFO1_LIVE 5 mois 27 jours Déposé par YouTube pour collecter
+   des informations à propos des vidéos embarquées.
+   YSC session Déposé par YouTube pour comptabiliser le nombre de vues des
+   vidéos embarquées.
+   Publicité
+   [ ] advertisement
+   Le site n'affiche pas de publicité, mais certains contenus embarqués
+   peuvent déclencher le dépôt de cookies publicitaires. Ces cookies sont
+   utilisés pour fournir des publicités et des campagnes marketing
+   personnalisées. Ils pistent les visiteurs entre les sites et collectent
+   des données personnelles.
+   Cookie Durée Description
+   IDE 1 an 24 jours Déposé par Google DoubleClick pour stocker des
+   informations sur la façon dont les visiteurs utilisent les vidéos
+   YouTube et la publicité vue avant les vidéos. Il sert à afficher des
+   publicités pertinentes à l'utilisateur selon son profil.
+   test_cookie 15 minutes Déposé par Google DoubleClick pour déterminer si
+   le navigateur du visiteur supporte les cookies.
+   Enregistrer et accepter
+   Powered by CookieYes Logo

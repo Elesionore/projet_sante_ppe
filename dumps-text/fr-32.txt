@@ -1,239 +1,487 @@
-    #RSS
+   #next
 
-     * Accéder au contenu
-     * Accéder au menu
-     * Accéder à la recherche
-     * Accéder au footer
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KLNBDC8
 
-   Gouvernement
-   _______________ (Rechercher) Rechercher
-
-     * (BUTTON) L’actualité
-          + Toute l'actualité
-          + L'actualité de la Première ministre
-          + Espace presse
-          + Agenda
-          + Discours et rapports
-     * (BUTTON) Les actions du Gouvernement
-          + Les politiques prioritaires
-          + Les portraits de la relance
-          + Conseil des ministres
-     * (BUTTON) Le Gouvernement et les institutions
-          + Composition du Gouvernement
-          + Services de la Première ministre
-          + Visite virtuelle de Matignon
-          + Le savez-vous ?
-
-   (BUTTON) Voir le fil d’Ariane
-    1. Accueil
-    2. Les services du Premier ministre
-    3. Secrétariat général pour l'investissement (SGPI)
-    4. Les dispositifs du PIA et de France 2030
-    5. Santé du futur
+     * Merci pour l'info
+     * Santé Magazine
+     * Parents
+     * Mômes
+     * Détente Jardin
+     * Maison Créative
+     * Régal
+     * Détours en France
 
    (BUTTON) Menu
-
-Navigation
-
-Secrétariat général pour l'investissement (SGPI)
-
-     * FRANCE 2030
-     * Stratégies d’accélération pour l’innovation
-     * Les dispositifs de France 2030
-     * Compétences et métiers d'avenir
-     * Concours d'innovation
-     * Evaluer les investissements publics
-     * Le Secrétariat général pour l'investissement
-     * Agence de l'innovation en santé
-     * Espace médias et ressources
-     __________________________________________________________________
-
-   Nous suivre
-
-   Twitter
-   Economie
-
-Santé du futur
-     __________________________________________________________________
-
-   Publié 30/06/2021 | Modifié 21/04/2022
-   Retrouvez sur cette page l'ensemble des appels à projet et appels à
-   manifestation d'intérêt du PIA et de France 2030 en cours dans la
-   thématique santé du futur.
-
-Santé
-
-   Appel à projets "Instituts Hospitalo-Universitaires (IHU3)"
-
-   Présentation du dispositif : La mission des IHU est de développer, dans
-   leur domaine thématique, des compétences et une capacité de recherche
-   de niveau mondial, incluant une infrastructure de recherche clinique et
-   une infrastructure de recherche translationnelle ouvertes aux projets
-   émanant de partenaires publics ou privés, d’origine nationale ou
-   internationale. Les infrastructures de recherche clinique et de
-   recherche translationnelle permettent la valorisation des découvertes
-   émanant du secteur public ainsi que les programmes de recherche
-   partenariale.
-
-   Opéré par : ANR
-
-   Date de clôture : 07/11/2022
-     __________________________________________________________________
-
-   Appel à manifestation d'intérêt "BIOCLUSTERS 2022"
-
-   Présentation du dispositif : Inspiré du Biocluster de Boston
-   (Massachusetts, USA), chaque biocluster, écosystème d’innovation avec
-   les entreprises, constituera un guichet unique facilitateur et
-   animateur de réseau, catalysant au sein d’un lieu unique une masse
-   critique d’acteurs faisant référence (industries, recherche, soins,
-   formation) autour d’une thématique porteuse d’innovation de rupture et
-   bénéficiera d’un engagement fort des collectivités locales pour asseoir
-   son attractivité.
-
-   Opéré par : ANR
-
-   Date de clôture : 07/11/2022
-     __________________________________________________________________
-
-   Appel à projets "Intégrateurs Biothérapie-Bioproduction"
-
-   Présentation du dispositif : Cet appel à projets entre dans le cadre de
-   la Stratégie d’accélération « biothérapies et bioproduction de
-   thérapies innovantes » (SABB). Il vise à attribuer le label «
-   Intégrateurs Biothérapie-Bioproduction » à des plateformes académiques
-   qui disposent de compétences en bioproduction de biothérapies.
-
-   Opéré par : ANR
-
-   Date de clôture : 05/05/2022
-     __________________________________________________________________
-
-   Appel à projets "Industrialisation et Capacités Santé 2030"
-
-   Présentation du dispositif : Cet appel vise à soutenir les projets
-   d’industrialisation dans les secteurs de la biothérapie et
-   bioproduction de thérapies innovantes, de la lutte contre les maladies
-   infectieuses émergentes et les menaces NRBC, et des dispositifs
-   médicaux et dispositifs de diagnostic in vitro.
-
-   Opéré par : Bpifrance
-
-   Date de clôture : 09/01/2024
-     __________________________________________________________________
-
-   Appel à projets "Tiers lieux d'expérimentation"
-
-   Présentation du dispositif : Dans la cadre de France 2030, cet appel à
-   projets a pour objectif de financer des tiers lieux pour répondre au
-   manque de terrains d’expérimentation, l’une des principales limites
-   identifiées au développement de la filière numérique en santé lors de
-   la consultation publique de préfiguration de la stratégie
-   d’accélération réalisée au premier trimestre 2021. Toutes les
-   structures de santé (sanitaire ou médico-sociale, publique ou privée,
-   en ville ou en établissement) ainsi que les acteurs de l’innovation
-   (intégrant une structure de santé sanitaire ou médico-sociale) peuvent
-   candidater pour devenir « Tiers-Lieux d’expérimentation ». 30 tiers
-   lieux seront ainsi sélectionnés entre 2022 et 2024, selon 3 vagues
-   successives d’appels à projets qui seront opérées par la Banque des
-   Territoires pour le compte de l’Etat
-   Opéré par : CDC
-   Date de clôture de la vague 1 : 25/05/2022
-     __________________________________________________________________
-
-   Appel à projets « Innovations en biothérapies et bioproduction »
-
-   Présentation du dispositif : dans le cadre de la stratégie
-   d’accélération Biothérapies et bioproduction de thérapies innovante,
-   l’appel à projets « innovation en biothérapie et bioproduction » vise à
-   soutenir les projets de développement de nouvelles biothérapies
-   (thématique 1), de développement d’outils de R&D ou de stratification
-   pour le développement de biothérapies (thématique 2) et de
-   développement de nouveaux procédés de bioproduction, nouveaux outils,
-   équipements et systèmes d’optimisation de technologies de bioproduction
-   existantes (thématique 3).
-   Opéré par : Bpifrance
-   Date de clôture : 17/05/2022 ; 23/11/2022 ; 23/05/2023 ; 21/11/2023
-     __________________________________________________________________
-
-   Appel à candidatures chaires juniors et seniors du Programme
-   prioritaire de recherche Antibiorésistance
-
-   Présentation du dispositif : Après l'appel à projets recherche
-   "Antibiorésistance : comprendre, innover, agir " et les trois appels
-   structurants, le Programme Prioritaire de Recherche (PPR)
-   Antibiorésistance, coordonné par l'Inserm et financé par le Programme
-   d'investissements d'Avenir (PIA), en collaboration avec l'Agence
-   Nationale de la Recherche (ANR), lance un appel à candidatures pour des
-   chaires juniors et seniors. Cet appel vise à développer une recherche
-   d'excellence dans le domaine de l’antibiorésistance afin d’enrichir
-   l'environnement et les infrastructures de recherche en cours de
-   construction en France.
-   Opéré par : ANR
-   Date de clôture : 03/02/2022
-     __________________________________________________________________
-
-   Appel à projets "Evaluation du bénéfice médical et/ou économique des
-   dispositifs médicaux numériques basés ou à base d'intelligence
-   artificielle"
-
-   Présentation du dispositif : L’objectif de cet appel à projets est de
-   soutenir les projets d’évaluation visant à évaluer le bénéfice des
-   dispositifs médicaux numériques ou à base d’intelligence artificielle.
-   Les résultats des projets devront directement permettre de justifier
-   l'utilisation en pratique du dispositif testé.
-   Opéré par : ANR
-   Date de clôture : 02/03/2022
-
-   Partager cette page
-     * Tweeter
-     * Partager
-     * Envoyer
+   Santé Magazine, le féminin qui fait du bien !
+     * Je m’abonne
      *
 
-Pied de page
+   ____________________ (BUTTON)
 
-L’actualité
+     * (BUTTON) Santé
+          + Toute la rubrique santé
+          + Maladies
+          + Covid 19
+          + Addictions
+          + Santé bucco-dentaire
+          + Ménopause et andropause
+          + Cancer
+          + Cancer du sein
+          + Fiches maladies
+          + Pollution
+          + Examens médicaux
+     * (BUTTON) Traitements
+          + Toute la rubriques Traitements
+          + Contraception
+          + Médicaments
+          + Traitements du cancer
+          + PMA
+          + Pilule du lendemain
+          + Pilule
+          + Antibiotiques
+          + Anxiolytiques
+          + Classes thérapeutiques
+     * (BUTTON) Alimentation
+          + Toute la rubrique Alimentation
+          + Intolérances alimentaires
+          + Régimes alimentaires
+          + Nutriments
+          + Régime sans gluten
+          + Aliments et santé
+          + Acheter et cuisiner
+          + Annuaire des additifs alimentaires
+          + Guide des calories
+          + Calcul des calories
+          + Fiches aliments
+     * (BUTTON) Psycho-Sexo
+          + Toute la rubrique Psycho-Sexo
+          + Désir et plaisir
+          + Troubles sexuels
+          + Psycho
+          + Le blog sexo de Daisy et Marine
+     * (BUTTON) Médecines alternatives
+          + Toute la rubrique Médecines alternatives
+          + Approches naturelles
+          + Pratiques orientales
+          + Thérapies manuelles
+          + Relaxation
+          + Acupuncture
+          + Homéopathie
+          + Yoga
+          + Massage
+          + Phytothérapie
+          + Bons plans
+     * (BUTTON) Grossesse
+          + Toute la rubrique Grossesse
+          + Conception bébé
+          + Grossesse et santé
+          + Accouchement
+          + Infertilité
+          + Grossesse mois par mois
+     * (BUTTON) Bébé
+          + Toute la rubrique Bébé
+          + Alimentation du bébé
+          + Santé du bébé
+          + Sommeil de bébé
+     * (BUTTON) Minceur
+          + Toute la rubrique Minceur
+          + Régimes minceur
+          + Calcul IMC
+          + IMC enfant
+          + Coaching minceur
+          + Cellulite
+          + Chrononutrition
+          + Perdre du ventre
+     * (BUTTON) Beauté
+          + Toute la rubrique Beauté
+          + Prix Santé Magazine 2021
+          + Soins du visage
+          + Soins du corps
+          + Soins des cheveux
+          + Anti-âge
+          + Sport
+          + Chirurgie esthétique
+          + Maquillage
+          + Peau sensible
+     * (BUTTON) Recettes
+          + Toute la rubrique Recettes
+          + Recettes anti-cholestérol
+          + Recettes pour diabétique
+          + Recettes détox
+          + Recettes minceur
+          + Recettes sans gluten
+          + Recettes sans lactose
+          + Recettes brûle-graisse
+          + Recettes crudivores
+          + Recettes végétaliennes / véganes
+          + Recettes végétariennes
+     * (BUTTON) Actualités
+          + Toute la rubrique Actualités
+          + Actualités Santé
+          + Actualités Traitement
+          + Actualités Médecines alternatives
+          + Actualités Alimentation
+          + Actualités Minceur
+          + Actualités Psycho-sexo
+          + Actualités Beauté forme
+     * (BUTTON) Vidéos
+          + Toute la rubrique Vidéos
+          + Beauté
+          + Forme
+          + Nutrition
+          + Phytothérapie
+          + Recettes
+          + Santé
+     * Podcasts
+     * Naturissime
+     * Prix Santé Magazine 2023
 
-     * Toute l'actualité
-     * L'actualité de la Première ministre
-     * Espace presse
-     * Agenda
-     * Discours et rapports
+   Suivez-nous
+     *
+     *
+     *
+     *
 
-Les actions du Gouvernement
+     * Santé
+     * Traitements
+     * Nutrition
+     * Psycho-Sexo
+     * Santé naturelle
+     * Grossesse
+     * Minceur
+     * Prix Santé Magazine 2023
+     *
+          + Fiches
+            maladies
+          + Vidéos
+          + Podcasts
+          + Naturissime
+          + Magazine
 
-     * Les politiques prioritaires
-     * Les portraits de la relance
-     * Conseil des ministres
+   En ce moment :
+     * Prix Santé Magazine Beauté Santé 2023
+     * Prix Bien manger 2023
+     * Bien vivre sa ménopause
+     * Application Grossesse
 
-Le Gouvernement et les institutions
+     * Accueil
+     * Actualités
 
-     * Composition du Gouvernement
-     * Services de la Première ministre
-     * Visite virtuelle de Matignon
-     * Le savez-vous ?
+Actualités santé
 
-Les réseaux sociaux du Gouvernement
+   .
+   (BUTTON) Plus de contenu
 
-     * Facebook
-     * Twitter
-     * Linkedin
-     * Instagram
+     * Pneumonies en cascade chez les jeunes enfants en Chine :
+       inquiétudes et hypothèses
+       Actualités santé Pneumonies en cascade chez les jeunes enfants en
+       Chine : inquiétudes et hypothèses L’Organisation mondiale de la
+       santé s’est récemment inquiétée de ce qui ressemble à une épidémie
+       de maladie respiratoire en Chine. Faits, inquiétudes et hypothèses
+       à ce jour.
+     * Santé : s’informer sur les réseaux sociaux augmente les
+       comportements à risque Ceux qui s’informent sur ces sujets
+       directement auprès de leur médecin ou dans les médias généralistes
+       grand public affichent de meilleures connaissances en santé.
+       Santé : s’informer sur les réseaux sociaux augmente les
+       comportements à risque
+     * Contre les déserts médicaux, bientôt de la télémédecine dans les
+       supermarchés ? Michel-Édouard Leclerc a estimé qu’installer des
+       cabines de télémédecine dans des supermarchés était une « très
+       bonne idée ».
+       Contre les déserts médicaux, bientôt de la télémédecine dans les
+       supermarchés ?
+     * Découvrez comment cette petite fille de 8 ans a sauvé sa grand-mère
+       Elle a 8 ans, s’appelle Kalli. Grâce à son sang-froid elle a réussi
+       à sauver sa grand-mère victime d’un malaise cardiaque. Une histoire
+       émouvante relayée par les pompiers de l’Essonne (91) sur leurs
+       réseaux sociaux (91).
+       Découvrez comment cette petite fille de 8 ans a sauvé sa grand-mère
+     * Covid-19 : la mise en garde de l’OMS « Ce virus, le SRAS-CoV-2,
+       circule actuellement dans tous les pays et constitue toujours une
+       menace », rappelle l'Organisation mondiale de la Santé.
+       Covid-19 : la mise en garde de l’OMS
+     * Une mouche découverte intacte dans le côlon d’un homme : un cas
+       clinique insolite rapporté dans une étude Une étude de cas fait
+       état de la découverte fortuite d’une mouche dans le côlon d’un
+       homme lors d’une coloscopie. Comment s’est-elle retrouvée là ?
+       Une mouche découverte intacte dans le côlon d’un homme : un cas
+       clinique insolite rapporté dans une étude
 
-   Sauf mention contraire, tous les contenus de ce site sont sous licence
-   etalab-2.0
+Nos fiches maladie
 
-   Gouvernement
-     * elysee.fr
-     * service-public.fr
-     * legifrance.gouv.fr
-     * data.gouv.fr
-     * france.fr
+     * Grippe aviaire : où en est l'épidémie en France ? transmission à
+       l'Homme ? symptômes ?
+       Grippe aviaire : où en est l'épidémie en France ? transmission à
+       l'Homme ? symptômes ?
+     * Grippe : chiffres épidémie 2022-2023 en France, symptômes,
+       traitement
+       Grippe : chiffres épidémie 2022-2023 en France, symptômes,
+       traitement
 
-     * Données personnelles et cookies
-     * Écrire à la Première ministre
-     * Contact presse
-     * Mentions légales
-     * Accessibilité : partiellement conforme
-     * Marque de l'État
+.
+
+     * Déserts médicaux : l’UFC Que Choisir attaque l’État pour inaction
+       Pour garantir un meilleur accès aux soins, l’UFC-Que Choisir plaide
+       pour l’instauration d’un conventionnement territorial des médecins.
+       Déserts médicaux : l’UFC Que Choisir attaque l’État pour inaction
+     * La SNCF, qui compte installer des box de téléconsultation médicale,
+       se trompe de priorité selon l’Ordre des médecins Dans un
+       communiqué, l’institution tacle la SNCF concernant sa décision de
+       proposer des téléconsultations en gare.
+       La SNCF, qui compte installer des box de téléconsultation médicale,
+       se trompe de priorité selon l’Ordre des médecins
+     * Mort d’une femme enceinte et de son bébé lors d’un accouchement à
+       domicile qui a mal tourné : ce que l’on sait À Fougères en
+       Ille-et-Vilaine, une femme enceinte et son bébé sont décédés lors
+       d’un accouchement à domicile, pourtant accompagné d’une sage-femme.
+       Mort d’une femme enceinte et de son bébé lors d’un accouchement à
+       domicile qui a mal tourné : ce que l’on sait
+     * Maux de ventre : 85 % des Français concernés, comment se
+       soignent-ils ? Le 1er baromètre Opinionway pour Dijo sur "Les
+       Français et la santé du ventre” montre que 85 % sont concernés par
+       les maux de ventre. Probiotiques, médicaments, sports... que font
+       les Français pour se soulager ? Les détails.
+       Maux de ventre : 85 % des Français concernés, comment se
+       soignent-ils ?
+     *
+     * Découvrez pourquoi Doctolib ne sera rentable qu’en 2025 Le
+       président et cofondateur de la plateforme a donné un entretien à
+       nos confrères de Ouest-France. Les éléments à retenir.
+       Découvrez pourquoi Doctolib ne sera rentable qu’en 2025
+     * Selon une étude, cet aliment peut pimenter votre vie sexuelle En
+       Chine, des chercheurs ont constaté que cette espèce de plante
+       permettrait d’augmenter les niveaux de testostérone.
+       Selon une étude, cet aliment peut pimenter votre vie sexuelle
+     * Un voyage étudiant tourne au cauchemar : tumeur cérébrale et
+       urgence médicale bloquent une étudiante danoise en Australie Tanja
+       Dittfeld, une étudiante de 35 ans, a vu son rêve d'étudier en
+       Australie se transformer en cauchemar après la découverte d'une
+       tumeur de 2,2 cm dans son hypophyse.
+       Un voyage étudiant tourne au cauchemar : tumeur cérébrale et
+       urgence médicale bloquent une étudiante danoise en Australie
+     * Chaleurs extrêmes au Brésil : quels liens entre santé et changement
+       climatique ? Les températures au Brésil ont atteint des niveaux
+       alarmants ces derniers jours, avec des pics de température
+       ressentie grimpant jusqu'à 58°C, dépassant la moyenne de 5°C.
+       Chaleurs extrêmes au Brésil : quels liens entre santé et changement
+       climatique ?
+     * Déserts médicaux : le projet d'ouvertures d'espaces de télémédecine
+       de la SNCF dans 300 gares d'ici 2028 La SNCF a récemment dévoilé un
+       plan ambitieux visant à déployer des espaces de télémédecine dans
+       près de 300 gares en France d'ici 2028.
+       Déserts médicaux : le projet d'ouvertures d'espaces de télémédecine
+       de la SNCF dans 300 gares d'ici 2028
+     * Mauvais diagnostic : cette femme pensait avoir une gastro-entérite,
+       mais cela s'avère bien plus grave Kasia Szczech, une Londonienne de
+       41 ans, partage son bouleversant parcours de santé alors qu'elle
+       lutte contre un cancer des voies biliaires.
+       Mauvais diagnostic : cette femme pensait avoir une gastro-entérite,
+       mais cela s'avère bien plus grave
+     * Allez-vous bientôt devoir payer la « taxe lapin », votée au Sénat ?
+       Dans le cadre du projet de loi du budget de la Sécurité sociale
+       pour 2024, le Sénat a voté ce jeudi 16 novembre en faveur de la
+       « taxe lapin ». À quoi correspond-elle et allez-vous être
+       concerné ?
+       Allez-vous bientôt devoir payer la « taxe lapin », votée au Sénat ?
+     * Une étude révèle un lien « fort » entre les insecticides et la
+       baisse des spermatozoïdes Des chercheurs ont examiné près de cinq
+       décennies de preuves humaines concernant les impacts sur la santé
+       d’une exposition à deux classes d’insecticides.
+       Une étude révèle un lien « fort » entre les insecticides et la
+       baisse des spermatozoïdes
+     * Fibromyalgie : ce nouveau traitement améliore l’état de santé de 8
+       patients sur 10 Une start-up française vient de dévoiler les
+       résultats positifs de son étude sur une nouvelle thérapie innovante
+       contre la fibromyalgie.
+       Fibromyalgie : ce nouveau traitement améliore l’état de santé de 8
+       patients sur 10
+     * Quels sont les risques pour la santé du glyphosate, renouvelé pour
+       10 ans ? La commercialisation de l’herbicide est renouvelée pour
+       les dix prochaines années, suite à une décision de la Commission
+       européenne. Mais que sait-on de ses effets sur notre santé ?
+       Quels sont les risques pour la santé du glyphosate, renouvelé pour
+       10 ans ?
+     * Selon une étude, 1 adulte sur 3 risque de devenir dépendant de son
+       smartphone Les chercheurs ont constaté que les jeunes femmes de
+       moins de 40 ans étaient les plus à risque de dépendance.
+       Selon une étude, 1 adulte sur 3 risque de devenir dépendant de son
+       smartphone
+     * Pour la 1re fois en France, une femme a reçu une greffe de larynx
+       La patiente de 49 ans « va bien » et pourrait retrouver
+       « durablement » l’usage de la parole dans les mois à venir.
+       Pour la 1re fois en France, une femme a reçu une greffe de larynx
+     * Cette maladie mortelle connaît un « rebond sans précédent » en
+       France Depuis la fin des mesures sanitaires mises en place pendant
+       la pandémie de Covid-19, une importante hausse du nombre de cas
+       d’une autre maladie inquiète les chercheurs.
+       Cette maladie mortelle connaît un « rebond sans précédent » en
+       France
+     * L’appendice, un organe inutile ? Pas si sûr, selon une nouvelle
+       étude Une nouvelle étude a mis en avant un effet protecteur de
+       l’appendice chez les primates.
+       L’appendice, un organe inutile ? Pas si sûr, selon une nouvelle
+       étude
+     * En quoi consiste le nouveau plan gouvernemental pour les troubles
+       du neuro-développement ? Une enveloppe totale de 680 millions
+       d’euros sera consacrée à ce nouveau plan 2023/2027 annoncé par le
+       président de la République Emmanuel Macron.
+       En quoi consiste le nouveau plan gouvernemental pour les troubles
+       du neuro-développement ?
+     * Selon une étude, le diabète est 2 fois plus fréquent dans les DROM
+       qu’en Hexagone À l’occasion de la journée mondiale du diabète,
+       Santé publique France publie les résultats d’une enquête sur la
+       prévalence et les spécificités de la maladie dans les départements
+       et régions d’outre-mer.
+       Selon une étude, le diabète est 2 fois plus fréquent dans les DROM
+       qu’en Hexagone
+     * Découvrez l’intelligence artificielle de dépistage de cancers
+       développée par l’Institut Curie L’origine tissulaire des certains
+       cancers est difficile à identifier, l’intelligence artificielle
+       doit permettre d’aider les médecins.
+       Découvrez l’intelligence artificielle de dépistage de cancers
+       développée par l’Institut Curie
+     * Selon une étude, travailler debout serait bon pour le cœur Pratique
+       peu courante en France, travailler debout offrirait pourtant des
+       bénéfices non négligeables sur la santé cardiovasculaire, selon une
+       récente étude.
+       Selon une étude, travailler debout serait bon pour le cœur
+     * Savez-vous ce qu’est la “langue du vapoteur” ? Une experte dentaire
+       a détaillé ce que l’on appelle une “langue de vapoteur”, cette
+       affection méconnue qui touche des adeptes de la cigarette
+       électronique.
+       Savez-vous ce qu’est la “langue du vapoteur” ?
+     * Voici le temps qu’il faut au cerveau pour récupérer après un
+       sevrage en cas de dépendance à l’alcool Des résultats qui suggèrent
+       que les dommages cérébraux liés à l’abus d’alcool ne sont,
+       heureusement, pas irréversibles.
+       Voici le temps qu’il faut au cerveau pour récupérer après un
+       sevrage en cas de dépendance à l’alcool
+
+     * 1
+     * 2
+     * 3
+     * 4
+     * 5
+     * 6
+     * 7
+     * 8
+     * 9
+     * 10
+     * 20
+     * 30
+     * 40
+     * 50
+     * 60
+     * 70
+     * 80
+     * 90
+     * 100
+     * 180
+
+   Suivant
+
+   Publié le 11 févr. 2019 par
+
+   Les plus lus
+     * 1
+       Un voyage étudiant tourne au cauchemar : tumeur cérébrale et
+       urgence médicale bloquent une étudiante danoise en Australie
+     * 2
+       Fibromyalgie : ce nouveau traitement améliore l’état de santé de 8
+       patients sur 10
+     * 3
+       En quoi consiste le nouveau plan gouvernemental pour les troubles
+       du neuro-développement ?
+     * 4
+       Voici le temps qu’il faut au cerveau pour récupérer après un
+       sevrage en cas de dépendance à l’alcool
+     * 5
+       Allez-vous bientôt devoir payer la « taxe lapin », votée au Sénat ?
+     * 6
+       Cette maladie mortelle connaît un « rebond sans précédent » en
+       France
+
+les newsLetters
+
+   Actualités
+   5 fois par semaine
+   [ ]
+   Recettes
+   1 fois par semaine
+   [ ]
+   Offres exclusives de nos partenaires
+   1 fois par mois
+   [ ]
+   ____________________
+
+   ____________________ Je m’inscris
+
+   Santé Magazine, le féminin qui fait du bien !
+     __________________________________________________________________
+
+   Suivez-nous
+     *
+     *
+     *
+     *
+
+   [ ]
+   Nos services
+     * Fiches maladies
+     * Annuaire des associations de patients
+     * Annuaire des associations de thérapie naturelle
+     * Le magazine de la santé
+     * Annuaire des médicaments
+
+   [ ]
+   Nos sujets
+     * Cancer de la peau
+     * Cancer de la prostate
+     * Cancer du colon
+     * Cancer du col de l'utérus
+     * Gastro entérite
+     * Varicelle
+     * Maladies cardiovasculaires
+     * Troubles sexuels chez l'homme
+     * Stérilet
+     * Somnifères
+     * Radiothérapie
+     * Insémination artificielle
+     * Naturopathie
+     * Thalassothérapie
+     * Cure thermale
+     * Rhume - Rhino-pharyngite
+     * Analyse de sang
+     * Blanchiment des dents
+     * Droits et démarches
+     * Glucides
+     * IRM
+     * Mal de dos
+     * Maladie chronique
+     * Maladies de l'oreille
+     * Maladies des reins
+     * Maladies des yeux
+     * Maladies infectieuses
+     * Mammographie
+
+   [ ]
+   Le groupe
+     * Parents.fr
+     * Merci pour l'info
+     * Mômes
+     * Détente Jardin
+     * Détours en France
+     * Maison Créative
+     * Régal
+     * Bottin gourmand
+
+     * Abonnements |
+     * Nous contacter |
+     * Mentions légales |
+     * Données personnelles et cookies |
+     * CGU |
+     * Désabonnement au magazine |
+     * Flux RSS
+
+   (BUTTON)

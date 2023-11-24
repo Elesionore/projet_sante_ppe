@@ -1,282 +1,466 @@
-   #alternate
+   REFRESH(300 sec): https://www.topsante.com/
+   #Top Santé » Flux
 
-     * Aller au menu
-     * Aller à la recherche
-     * Aller au contenu
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PWK9JCL
 
-   Header liens à gauche
-     * etudiant.gouv.fr
-     * Nos sites
-          + horizon-europe.gouv.fr
-          + data.esr.gouv.fr
-          + publication.esr.gouv.fr
-          + fetedelascience.fr
-          + parcoursup.fr
-          + monmaster.gouv.fr
+   Découvrez le nouveau site
 
-   Sourd et malentendant, contactez-nous avec Acceo - Nouvelle fenêtre
-     * English
-
-     * Nous suivre sur Twitter
-     * Nous suivre sur Facebook
-     * Nous suivre sur LinkedIn
-
-   (BUTTON) Afficher plus de liens sociaux
-     * Nous suivre sur Instagram
-     * Nous suivre sur YouTube
-
-   Ministère de l'enseignement supérieur de la recherche Retourner à la
-   page d'accueil
-   Ministère de l'enseignement supérieur de la recherche Retourner à la
-   page d'accueil
-   Ministère de l'enseignement supérieur de la recherche
-   bloc de droite
-   Afficher — bloc de droite Masquer — bloc de droite
-     * Bulletin officiel
-     * Vous êtes
-          + Chercheurs et enseignants-chercheurs
-          + Étudiant entrepreneur
-          + Étudiant
-          + Établissements d’enseignement supérieur
-          + Personnels de l'ESR
-          + Journaliste
-
-   Fil d'Ariane
-    1. Accueil
-    2. Presse
-    3. Communiqués de presse
-
-   (BUTTON) Rechercher
-   Rechercher ____________________
-   Plus de résultats
+   (BUTTON) x
+   Top sante logo
    Rechercher
-   (BUTTON) (BUTTON)
+   ____________________ (BUTTON) OK
 
-   (BUTTON) Menu Menu
-     * Le ministère
-          + La ministre
-          + Priorités ministérielles
-          + Événements
-          + Budget
-          + Mission et organisation
-          + Histoire et patrimoine
-     * Thématiques
-          + Enseignement supérieur
-          + Recherche
-          + Innovation
-          + Europe et international
-     * Ressources humaines
-          + Concours, emploi et carrières
-          + Vie des agents
-          + Égalité professionnelle et diversité
+   Top Sante logo
+   Newsletter (BUTTON) Recherche (BUTTON)
 
-     * Agenda
-     * Presse
-     * Statistiques et analyses
-     * Bulletin officiel
+     * Médecine
+     * Bien manger
+     * Tous aidants
+     * Minceur
+     * Santé au naturel
+     * Bien-être
+     * Beauté
+     * Amour & Sexo
+     * Maman
+     * Senior
+     * Podcasts
+     * Prix Top Santé
 
-   (BUTTON) Vous êtes
-     * Chercheur et enseignant-chercheur
-     * Étudiant entrepreneur
-     * Étudiant
-     * Établissement d’enseignement supérieur
-     * Personnel de l'ESR
-     * Journaliste
+   En ce moment :
+     * Top Santé TV
+     * Manger équilibré
+     * Passion fitness
 
-   Header liens à gauche
-     * etudiant.gouv.fr
-     * Nos sites
-          + horizon-europe.gouv.fr
-          + data.esr.gouv.fr
-          + publication.esr.gouv.fr
-          + fetedelascience.fr
-          + parcoursup.fr
-          + monmaster.gouv.fr
+   Voici la quantité de féculents à ne pas dépasser par jour
+   Bien manger Publié le 24/11/2023
+   Voici la quantité de féculents à ne pas dépasser par jour
+   L'aliment oublié, extrêmement précieux pour perdre du poids, comme le
+   savaient si bien nos grands-mères
+   Aliments minceur Publié le 24/11/2023
+   L'aliment oublié, extrêmement précieux pour perdre du poids, comme le
+   savaient si bien nos grands-mères
+   Tablette de chocolat : voici la plus calorique selon un nutritionniste
+   Chocolat Publié le 24/11/2023
+   Tablette de chocolat : voici la plus calorique selon un nutritionniste
+   Vous pouvez rattraper une mauvaise nuit en 20 minutes : voici comment
+   Troubles du sommeil Publié le 24/11/2023
+   Vous pouvez rattraper une mauvaise nuit en 20 minutes : voici comment
+   (BUTTON)
+   (BUTTON)
 
-   Sourd et malentendant, contactez-nous avec Acceo - Nouvelle fenêtre
-   (BUTTON) Accessibilité
-     * Nous suivre sur Twitter
-     * Nous suivre sur Facebook
-     * Nous suivre sur LinkedIn
+TopSante
 
-   (BUTTON) Afficher plus de liens sociaux
-     * Nous suivre sur Instagram
-     * Nous suivre sur YouTube
+   Top articles
+   Les remèdes de grand-mère vraiment insolites qui aident à mieux dormir
+   Has diapo image
+   Antifatigue Publié le 23/11/2023
+   Les remèdes de grand-mère vraiment insolites qui aident à mieux dormir
+   Des citrons rappelés en raison d’une teneur importante en pesticides
+   dans ces 4 départements
+   Intoxication alimentaire Publié le 23/11/2023
+   Des citrons rappelés en raison d’une teneur importante en pesticides
+   dans ces 4 départements
+   Un nutritionniste a tranché : voici les 3 pires charcuteries en termes
+   de gras et de calories
+   Bien choisir ses aliments Publié le 23/11/2023
+   Un nutritionniste a tranché : voici les 3 pires charcuteries en termes
+   de gras et de calories
+   Pervers narcissique : si vous recevez l'un de ces 3 cadeaux à Noël,
+   c'est mauvais signe
+   Vie amoureuse Publié le 23/11/2023
+   Pervers narcissique : si vous recevez l'un de ces 3 cadeaux à Noël,
+   c'est mauvais signe
+   Vous êtes constipé ? C'est sûrement à cause de l'un de ses 3 aliments
+   Digestion et transit Publié le 23/11/2023
+   Vous êtes constipé ? C'est sûrement à cause de l'un de ses 3 aliments
+   4 aliments contre la déprime saisonnière à consommer tout l'hiver selon
+   un nutritionniste
+   Déprime saisonnière Publié le 23/11/2023
+   4 aliments contre la déprime saisonnière à consommer tout l'hiver selon
+   un nutritionniste
+   (BUTTON)
+   (BUTTON)
+   Détox de saison
+   Pour perdre du poids, voici pourquoi vous devriez manger vos légumes en
+   premier
+   Nutrition minceur Publié le 22/11/2023
+   Pour perdre du poids, voici pourquoi vous devriez manger vos légumes en
+   premier
+   “J’ai perdu 90 kg avec ce régime simple que tout le monde peut suivre
+   (ou presque)”
+   Régime cétogène Publié le 20/11/2023
+   “J’ai perdu 90 kg avec ce régime simple que tout le monde peut suivre
+   (ou presque)”
+   Perte de poids : connaissez-vous le petit déjeuner idéal selon les
+   diététistes ?
+   Perdre du poids Publié le 18/11/2023
+   Perte de poids : connaissez-vous le petit déjeuner idéal selon les
+   diététistes ?
+   Les 9 aliments recommandés par le nutritionniste contre les troubles de
+   la ménopause Has diapo image
+   Ménopause Publié le 18/11/2023
+   Les 9 aliments recommandés par le nutritionniste contre les troubles de
+   la ménopause
+   (BUTTON)
+   (BUTTON)
+   Voir plus
+   Astuces anti- Stress
 
-   Agenda
+   10 aliments riches en polyphénols Has diapo image
+   Manger équilibré Publié le 04/07/2023
+   10 aliments riches en polyphénols
 
-   Publié le 16.05.2023
+   Santé mentale : 4 oligo-éléments qui préservent le cerveau
+   Stress Publié le 29/06/2023
+   Santé mentale : 4 oligo-éléments qui préservent le cerveau
 
-France 2030 : 16 nouveaux programmes d’excellence soutenus pour accélérer la
-recherche et l’innovation en santé
+   7 sports efficaces contre le stress Has diapo image
+   Santé mentale Publié le 05/06/2023
+   7 sports efficaces contre le stress
 
-   La recherche, qu’elle soit fondamentale, translationnelle ou clinique,
-   est la première étape pour permettre aux innovations en santé d’émerger
-   et de bénéficier aux patients et au système de soins. Aujourd’hui, le
-   Président de la République annonce 4 nouveaux bioclusters, 12 nouveaux
-   instituts hospitalo-universitaires et différentes infrastructures de
-   recherche, qui vont recevoir un soutien financier de la part de l’Etat
-   pour accélérer la recherche et l’innovation en santé. Ils viennent
-   compléter les 7 programmes de recherche, le premier biocluster déjà
-   lancé, et les 7 IHU en exercice. A cette occasion, un nouvel appel à
-   projet pour créer des chaires d’excellence et ainsi attirer et
-   fidéliser en France des chercheurs de très haut niveau est également
-   lancé.
-   Communiqué de presse
+   Voici l'activité inattendue qui permet d'être plus heureux juste après
+   Stress Publié le 11/04/2023
+   Voici l'activité inattendue qui permet d'être plus heureux juste après
+   Voir plus
+   Les outils Top Santé
+   Calcul de I'IMC Calcul de I'IMC enfant/ado Calcul de poids idéal Calcul
+   de I'IMG Compteur de calories Metabolisme Période de fertilité
+   Allergies
 
-   A l’Institut Curie (Saint-Cloud) le 16 mai, le Président de la
-   République a annoncé de nouveaux investissements majeurs pour renforcer
-   la recherche en santé en France et accélérer le passage de la recherche
-   au soin. Ces investissements visent à attirer et fidéliser des
-   chercheurs de très haut niveau sur le territoire, à mettre à
-   disposition des équipes de recherche les meilleures technologies et
-   méthodologies et d’assurer un continuum de la découverte à
-   l’industrialisation et à l’application au bénéfice du patient.
+   Allergie aux chats : premiers essais d'un vaccin sur l'Homme
+   Prévention et traitement des allergies Publié le 11/10/2023
+   Allergie aux chats : premiers essais d'un vaccin sur l'Homme
 
-   Ce sont ainsi 4 nouveaux bioclusters et 12 nouveaux IHU qui sont créés
-   sur l’ensemble du territoire. Ces pôles d’excellence permettront, en
-   rassemblant chercheurs, cliniciens, investisseurs et industriels de
-   développer ensemble des traitements et solutions innovantes qui
-   permettront demain des avancées importantes pour les patients dans de
-   nombreux domaines : neurosciences, immunologie, infectiologie,
-   thérapies géniques, maladies vasculaires, troubles du
-   neuro-développement de l’enfant, cancers, onco-hématologie, maladies
-   respiratoires, troubles de l’audition, sepsis, pathologies hépatiques…
+   Certaines personnes devraient éviter le poisson en conserve : découvrez
+   si vous en faites partie
+   Allergies alimentaires Publié le 03/10/2023
+   Certaines personnes devraient éviter le poisson en conserve : découvrez
+   si vous en faites partie
 
-   De plus, les investissements consacrés au renforcement des
-   infrastructures de recherche en biologie-santé vont être amplifiés à
-   hauteur de 100 millions d’euros. Ces infrastructures sont
-   indispensables aux équipes de recherche françaises par le soutien
-   méthodologique et technologique qu’elles leurs apportent par exemple
-   sur la génomique, le phénotypage, la bioproduction de médicaments
-   innovants, l’étude d’agents hautement pathogènes, etc.
+   Cette plante invasive de votre jardin est hautement allergisante :
+   voici comment la reconnaître
+   Allergie au pollen Publié le 02/09/2023
+   Cette plante invasive de votre jardin est hautement allergisante :
+   voici comment la reconnaître
 
-   Enfin, un appel à projet sera lancé dans quelques jours pour offrir à
-   des équipes de chercheurs de premier plan et de toutes origines des
-   financements conséquents sur une durée de 5 ans pour qu’ils mènent
-   leurs programmes de recherche en France. Cet AAP Chaire d’excellence
-   veut attirer en France des chercheurs exerçant à l’étranger et donner
-   la possibilité aux meilleurs chercheurs de créer en France des équipes
-   compétitives au plus haut niveau international.
+   A la mi-août, méfiez vous de cette plante particulièrement
+   allergisante, qui libère son pollen
+   Allergie au pollen Publié le 14/08/2023
+   A la mi-août, méfiez vous de cette plante particulièrement
+   allergisante, qui libère son pollen
+   Voir plus
+   Voir aussi :
+   Allergie au pollenAllergie aux acariensAllergies alimentairesPrévention
+   et traitement des allergiesRhinite allergique
+   Bien manger
+   Comment savoir si une viande n'est plus bonne ?
+   Intoxication alimentaire Publié le 23/11/2023
+   Comment savoir si une viande n'est plus bonne ?
+   Ce produit souvent sur les tables du réveillon peut vous intoxiquer
+   gravement
+   Intoxication alimentaire Publié le 23/11/2023
+   Ce produit souvent sur les tables du réveillon peut vous intoxiquer
+   gravement
+   Est-ce une bonne idée de mener un jeûne intermittent “préventif” avant
+   les fêtes ?
+   Bien manger Publié le 22/11/2023
+   Est-ce une bonne idée de mener un jeûne intermittent “préventif” avant
+   les fêtes ?
+   Des aliments du supermarché directement mis en cause dans l’apparition
+   de cancers de la tête et du cou
+   Prévention et traitement du cancer Publié le 22/11/2023
+   Des aliments du supermarché directement mis en cause dans l’apparition
+   de cancers de la tête et du cou
+   (BUTTON)
+   (BUTTON)
+   Voir plus
+   Voir aussi :
+   Bien choisir ses alimentsLes bons alimentsLes minéraux et
+   oligo-élémentsLes vitaminesManger équilibréNutritionRecettes
+   santéRégimes alimentairesRisques santé
+   Sexualité
 
-   La recherche biomédicale est un axe important du plan Innovation santé
-   2030, le volet santé de France 2030, et est au cœur de la feuille de
-   route présentée récemment par la Première Ministre : sur les 7,5 Mds €
-   attribués à ce plan, plus d’un milliard sera consacré à la recherche et
-   d’autres programmes d’excellence seront lancés prochainement. Pour
-   structurer la recherche et créer ou consolider le leadership français,
-   sept programmes de recherche sont actuellement à l’œuvre, dont deux
-   programmes exploratoires. Ils sont portés par l’INSERM, l’INRIA, le
-   CEA, le CNRS, le CIRAD, l’IRD, l’Université de Strasbourg, l’Université
-   Paris Sciences et Lettres, et l’Université Côte d’Azur.
+   Sensation Homme & l’Expert : votre porte d’entrée vers le plaisir
+   Sexualité Publié le 09/11/2023
+   Sensation Homme & l’Expert : votre porte d’entrée vers le plaisir
 
-   L’ensemble de ces programmes d’excellence seront suivis et accompagnés
-   par l’Agence de l’innovation en santé qui pilote le plan Innovation
-   santé 2030, le volet santé de France 2030, au sein du Secrétariat
-   général pour l’investissement, et en lien avec les ministères de
-   l’Enseignement supérieur et de la Recherche, de la Santé et de la
-   Prévention, et de l’Industrie. Ces programmes sont opérés pour le
-   compte de l’État par l’Agence nationale de la Recherche
+   Le café est-il vraiment aphrodisiaque ? Un médecin nous explique !
+   Désir et plaisir Publié le 24/10/2023
+   Le café est-il vraiment aphrodisiaque ? Un médecin nous explique !
 
-A propos de France 2030
+   Diabète : comment faire pour soigner les troubles de l'érection ? La
+   sexologue répond
+   Troubles sexuels chez l'homme Publié le 14/08/2023
+   Diabète : comment faire pour soigner les troubles de l'érection ? La
+   sexologue répond
 
-   Le plan d’investissement France 2030 :
-     * Traduit une double ambition : transformer durablement des secteurs
-       clefs de notre économie (santé, énergie, automobile, aéronautique
-       ou encore espace) par l’innovation technologique, et positionner la
-       France non pas seulement en acteur, mais bien en leader du monde de
-       demain. De la recherche fondamentale, à l’émergence d’une idée
-       jusqu’à la production d’un produit ou service nouveau, France 2030
-       soutient tout le cycle de vie de l’innovation jusqu’à son
-       industrialisation.
-     * Est inédit par son ampleur : 54 Md € seront investis pour que nos
-       entreprises, nos universités, nos organismes de recherche,
-       réussissent pleinement leurs transitions dans ces filières
-       stratégiques. L’enjeu : leur permettre de répondre de manière
-       compétitive aux défis écologiques et d’attractivité du monde qui
-       vient, et faire émerger les futurs leaders de nos filières
-       d’excellence. France 2030 est défini par deux objectifs
-       transversaux consistant à consacrer 50 % de ses dépenses à la
-       décarbonation de l’économie, et 50 % à des acteurs émergents,
-       porteurs d’innovation sans dépenses défavorables à l’environnement
-       (au sens du principe Do No Significant Harm).
-     * Sera mis en œuvre collectivement : pensé et déployé en concertation
-       avec les acteurs économiques, académiques, locaux et européens pour
-       en déterminer les orientations stratégiques et les actions phares.
-       Les porteurs de projets sont invités à déposer leur dossier via des
-       procédures ouvertes, exigeantes et sélectives pour Est piloté par
-       le Secrétariat général pour l’investissement pour le compte du
-       Premier ministre.
+   Sexo : "J'ai des fantasmes violents, à tendance sadomasochiste. J'en ai
+   honte..."
+   Désir et plaisir Publié le 05/08/2023
+   Sexo : "J'ai des fantasmes violents, à tendance sadomasochiste. J'en ai
+   honte..."
+   Voir plus
+   Voir aussi :
+   Désir et plaisirKamasutraPratiques sexuellesTroubles sexuels chez
+   l'hommeTroubles sexuels chez la femme
+   Diaporamas
+   Satim Santé : votre allié dans la gestion des maladies chroniques, en
+   particulier pour le diabète
+   Satim Santé : votre allié dans la gestion des maladies chroniques, en
+   particulier pour le diabète
+   Associez ces 6 aliments ensemble et vous serez sûr de souffrir de
+   ballonnements
+   Associez ces 6 aliments ensemble et vous serez sûr de souffrir de
+   ballonnements
+   Les 3 références de poissons panés que vous pouvez acheter les yeux
+   fermés selon le Dr Cohen
+   Les 3 références de poissons panés que vous pouvez acheter les yeux
+   fermés selon le Dr Cohen
+   “Je suis nutritionniste et je conseille ce yaourt le soir pour maigrir”
+   “Je suis nutritionniste et je conseille ce yaourt le soir pour maigrir”
+   Plantes Médicinales
 
+   Varech : bienfaits santé, effet coupe-faim, comment le consommer ?
+   Plantes médicinales Publié le 26/05/2023
+   Varech : bienfaits santé, effet coupe-faim, comment le consommer ?
 
-   Plus d’informations
+   Levure de bière : bienfaits, effets sur les cheveux, quand faut-il en
+   prendre ?
+   Plantes médicinales Publié le 26/05/2023
+   Levure de bière : bienfaits, effets sur les cheveux, quand faut-il en
+   prendre ?
 
-Consulter le dossier de presse
+   Agar-agar : bienfaits santé, effet coupe-faim, comment l'utiliser ?
+   Plantes médicinales Publié le 25/05/2023
+   Agar-agar : bienfaits santé, effet coupe-faim, comment l'utiliser ?
 
-   Dossier de presse - Innovation santé 2030 - PDF | 1.34 Mo
+   Ail des ours : bienfaits santé, quels effets sur l'arthrite, comment le
+   consommer ?
+   Plantes médicinales Publié le 25/05/2023
+   Ail des ours : bienfaits santé, quels effets sur l'arthrite, comment le
+   consommer ?
+   Voir plus
+   Santé au Naturel
+   Pépins de pamplemousse : quand peut-on prendre cet antibiotique naturel
+   ?
+   Phytothérapie Publié le 21/11/2023
+   Pépins de pamplemousse : quand peut-on prendre cet antibiotique naturel
+   ?
+   Herpès : comment faire disparaître un bouton de fièvre... et éviter
+   qu'il revienne
+   Herpès Publié le 20/11/2023
+   Herpès : comment faire disparaître un bouton de fièvre... et éviter
+   qu'il revienne
+   6 recettes de gargarismes ou de cataplasmes pour soulager un mal de
+   gorge
+   Angine Publié le 12/11/2023
+   6 recettes de gargarismes ou de cataplasmes pour soulager un mal de
+   gorge
+   Je suis pharmacienne et voici LA tisane anti-maux de gorge que je vous
+   recommande
+   Phytothérapie Publié le 11/11/2023
+   Je suis pharmacienne et voici LA tisane anti-maux de gorge que je vous
+   recommande
+   (BUTTON)
+   (BUTTON)
+   Voir plus
+   Voir aussi :
+   Fleurs de BachHoméopathieHuiles essentielles
+   (aromathérapie)HypnoseLuminothérapiePhytothérapieRemèdes de
+   grand-mèreThérapies manuelles
+   Recettes
+   Crumble aux pêches
+   Recettes Publié le 20/07/2021
 
-   Publié le 16.05.2023
-     * Recherche
-     * France 2030
-     * Communiqué de presse
-     * Dossier de presse
-     * Actualité
+Crumble aux pêches
 
-Contact(s)
+   Muffins fondants aux myrtilles sauvages
+   Recettes Publié le 20/07/2021
 
-   Service presse du ministère de l'Enseignement supérieur et de la
-   Recherche (MESR)
+Muffins fondants aux myrtilles sauvages
 
-   0155558200
-   Contacter
-   Service presse du ministère de la Santé et de la Prévention
+   Salade de blé au haddock
+   Recettes Publié le 19/07/2021
 
-   0140566060
-   Contacter
-   Service presse du ministère de l'Industrie
-   Contacter
-   Service presse du Secrétariat général pour l'investissement (SGPI)
+Salade de blé au haddock
 
-   0142756458
-   Contacter
+   Salade de tagliatelles et poivrons
+   Recettes Publié le 19/07/2021
 
-   Haut de page
+Salade de tagliatelles et poivrons
 
-Nous suivre
+   Voir plus
+   Cancers
 
-     * Nous suivre sur Twitter
-     * Nous suivre sur Facebook
-     * Nous suivre sur LinkedIn
-     * Nous suivre sur Instagram
-     * Nous suivre sur YouTube
+   "Je n’ai jamais fumé de ma vie et je me bats à 40 ans contre un cancer
+   du poumon"
+   Cancer du poumon Publié le 23/11/2023
+   "Je n’ai jamais fumé de ma vie et je me bats à 40 ans contre un cancer
+   du poumon"
 
-Nos sites
+   Un nutriment présent dans cette viande pourrait “tuer les cellules
+   cancéreuses”
+   Cancers Publié le 23/11/2023
+   Un nutriment présent dans cette viande pourrait “tuer les cellules
+   cancéreuses”
 
-     * etudiant.gouv.fr
-     * horizon-europe.gouv.fr
-     * data.esr.gouv.fr
-     * publication.esr.gouv.fr
-     * fetedelascience.fr
-     * monmaster.gouv.fr
+   Les 3 boissons à éviter si on veut prendre soin de sa prostate
+   Cancer de la prostate Publié le 09/11/2023
+   Les 3 boissons à éviter si on veut prendre soin de sa prostate
 
-   Ministère de l'enseignement supérieur de la recherche
-   Ministère de l'enseignement supérieur de la recherche
+   Cet ustensile que vous utilisez tous les jours en cuisine peut
+   favoriser le cancer de la thyroïde
+   Cancer de la thyroïde Publié le 25/10/2023
+   Cet ustensile que vous utilisez tous les jours en cuisine peut
+   favoriser le cancer de la thyroïde
+   Voir plus
+   Voir aussi :
+   Cancer colorectalCancer de l'endomètre (cancer du corps de
+   l'utérus)Cancer de l'estomacCancer de l'intestinCancer de l'intestin
+   grêleCancer de l'oesophageCancer de la gorgeCancer de la peauCancer de
+   la prostateCancer de la thyroïdeCancer de la vessieCancer des
+   ovairesCancer du cerveauCancer du col de l’utérusCancer du foieCancer
+   du pancréasCancer du poumonCancer du seinLeucémieLymphomePrévention et
+   traitement du cancer
+   Les guides Top Santé
+   Guide des Médicament Carte des Épidémies Guide Sexo Calendrier Vaccinal
+   Guide des Maladies Guide des Symptômes Guide Grossesse Guide Bébé
+   Vidéos
+   Dyslexie : des solutions existent !
+   Dyslexie : des solutions existent !
+   Cancer du poumon : épisode 2
+   Cancer du poumon : épisode 2
+   Cancer du poumon : épisode 1
+   Cancer du poumon : épisode 1
+   Cancer du poumon : comment préserver sa qualité de vie ?
+   Cancer du poumon : comment préserver sa qualité de vie ?
+   (BUTTON)
+   (BUTTON)
+   Gynéco
 
-Raccourcis visiteurs
+   Quelle alimentation pour mieux vivre son endométriose ?
+   Gyneco Publié le 15/11/2023
+   Quelle alimentation pour mieux vivre son endométriose ?
 
-     * Mentions légales
+   Voici le meilleur régime contre les bouffées de chaleur, selon une
+   nouvelle étude
+   Ménopause Publié le 15/11/2023
+   Voici le meilleur régime contre les bouffées de chaleur, selon une
+   nouvelle étude
+
+   Ce changement subtil qui apparaît à la ménopause et dont personne ne
+   parle
+   Ménopause Publié le 07/11/2023
+   Ce changement subtil qui apparaît à la ménopause et dont personne ne
+   parle
+
+   Les 3 meilleures épices pour soulager le syndrome prémenstruel selon
+   une experte en biomédecine
+   Épices Publié le 31/10/2023
+   Les 3 meilleures épices pour soulager le syndrome prémenstruel selon
+   une experte en biomédecine
+   Voir plus
+   Voir aussi :
+   AménorrhéeClitorisEmbolisationEndométrioseFibrome
+   utérinGonorrhée/blennoragieHystérectomieISTIVGKyste
+   ovarienMénopauseProblèmes intimesRègles douloureusesVulvite
+   Analyses de Sang
+   Analyse du taux de GGT dans le sang
+   Analyse du taux de PSA dans le sang
+   Clairance de la créatinine : dosage sanguin et urinaire
+   [main-image.png]
+   Dépistage du VIH : on décrypte la prise de sang
+   (BUTTON)
+   (BUTTON)
+   Voir plus
+   Forme by Vital
+   Découvrez vos besoins en eau et minéraux selon votre âge
+   Publié le 22/04/2021
+   Découvrez vos besoins en eau et minéraux selon votre âge
+   Rando et jeûne : on teste ou pas ?
+   Publié le 04/10/2019
+   Rando et jeûne : on teste ou pas ?
+   Découvrez les nouveaux podcasts #VitalTraining
+   Publié le 03/10/2019
+   Découvrez les nouveaux podcasts #VitalTraining
+   (BUTTON)
+   (BUTTON)
+   Voir plus
+   Prix Top Santé
+   Soin minceur Energy Slim par digitopuncture
+   Soin minceur Energy Slim par digitopuncture
+   EVABIOTE® Hygiène intime
+   EVABIOTE® Hygiène intime
+   Ampoules BIO Gelée Royale 4000 mg
+   Ampoules BIO Gelée Royale 4000 mg
+   Shampoing fortifiant anti-chute Mon SHAMPOING
+   Shampoing fortifiant anti-chute Mon SHAMPOING
+   (BUTTON)
+   (BUTTON)
+   Voir plus
+
+   Les + Lus
+   Zcross, la nouvelle brassière d’excellence par Zsport
+   Zcross, la nouvelle brassière d’excellence par Zsport
+   Medoucine.com : agir pour son bien-être
+   Medoucine.com : agir pour son bien-être
+   Dale Pharma voit la vie en rose tout le mois d’octobre
+   Dale Pharma voit la vie en rose tout le mois d’octobre
+   La boxe, un sport idéal pour le corps… et l’esprit !
+   La boxe, un sport idéal pour le corps… et l’esprit !
+   Maîtriser l’allaitement en 30 jours pour créer une relation harmonieuse
+   avec bébé : découvrez notre formation !
+   Maîtriser l’allaitement en 30 jours pour créer une relation harmonieuse
+   avec bébé : découvrez notre formation !
+
+   (BUTTON)
+
+   Top Sante logo
+   Le magazine
+   Abonnez-vous Papier ou numérique achetez ce numéro
+   L’application
+   Suivez-nous
+     * has-i--instagram
+     * has-i--facebook
+     * has-i--twitter
+
+   L'actualité Topsante.com
+   dans votre boîte mail
+   Remarque – JavaScript est requis pour ce contenu.
+
      * Gestion des cookies
-     * Données personnelles
-     * Plan du site
-     * Accessibilité : partiellement conforme
+     * La rédaction
      * Nous contacter
+     * Service client
+     * Gérer votre abonnement
+     * Je m'abonne à Top Santé
 
-Sites publics
+     * Kiosquemag : la boutique officielle
+     * Mentions légales
+     * CGU
+     * Charte des données personnelles et usage des cookies
 
-   (BUTTON) Sites publics
-     * service-public.fr
-     * legifrance.gouv.fr
-     * gouvernement.fr
-     * france.fr
-     * data.gouv.fr
-     * elysee.fr
+     * Charte éditoriale
+     * Flux RSS
+     * Inscription à la Newsletter Top Santé
+     * Toute la santé
+     * Thèmes
+     * Tous les dossiers
+
+     * Formation pour entrepreneur
+     * Top santé assurance
+     * Comparateur mutuelle santé
+     * Séminaires et événementiel
+     * Joséphine-Yacht
+
+     * Les Rhodos
+     * Les terrasses du Mont Blanc
+     * Le Galet
+     * Capdel
+     * Alarme maison
+     * Guide de voyage
+     * Ma santé
+
+   Certifié par : Certifié par acpm Certifié par digital ad trust Certifié
+   par cim internet
+   © Topsante.com - Tous droits réservés

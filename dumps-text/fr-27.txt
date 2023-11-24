@@ -1,259 +1,229 @@
-     * Aller au contenu
-     * Aller à la navigation
+   Javascript est inactif dans votre navigateur. Pour un meilleur confort
+   de navigation, il est conseillé de l'activer.
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P5D2M93
+   Une expertise pluridisciplinaire au service de la santé publique
 
-   (BUTTON) E-santé
-     * E-santé(page courante)
-     * Profession libérale
-     * Établissement de santé
-     * Structure Médico-Sociale
-     * Industriel
-     * Patient
+   (BUTTON) Toggle navigation Haut Conseil de la santé publique
+     * le HCSP
+     * avis et rapports
+     * la revue adsp
+     * ____________________
+       (chercher) chercher
 
-     * Stratégie nationale
-     * L'Agence
-     * Europe
+   (BUTTON) S'abonner à la lettre du HCSP
+   Covid-19
+   Haut Conseil de la santé publique
+   ____________________ (chercher) Chercher
+   le HCSP
+   avis et rapports
+   la revue adsp
+   Spécial Covid-19
 
-   Ministère de la Santé et de la Prévention
-   ANS, Agence du Numérique en Santé
-   (BUTTON) Menu
-   (BUTTON) Fermer le menu
-     * Bienvenue
-     * Temps forts
-     * (BUTTON) Comprendre la e-santé
-          + Petite histoire de la e-santé(page courante)
-          + Ce que la e-santé fait pour vous
-          + Abécédaire de la e-santé
-     * (BUTTON) Acteurs de la e-santé
-          + Acteurs de terrain
-          + Acteurs institutionnels
-     * Recherche
+Vous êtes ici :
 
-     * (BUTTON) Accessibilité
+    1. accueil
+    2. La revue adsp
+    3. Actualité et dossier en santé publique n° 113
 
-Options d'accessibilité
+Actualité et dossier en santé publique n° 113
+Les inégalités sociales de santé : vingt ans d’évolution
 
-       Contrastes :
+     * Sommaire actualité
+     * Sommaire dossier
+     * Références
 
-       (*) Contrastes Standards
-       ( ) Contrastes Renforcés
+   Ce dossier constitue un questionnement du rôle des politiques publiques
+   dans la construction des inégalités sociales de santé. Il propose une
+   vision prospective des inégalités sociales de santé et des prochaines
+   thématiques à mieux maîtriser, notamment à partir des premiers
+   résultats à l’heure de l’épidémie de Covid‑19 et de ce qu’ils montrent
+   sur les inégalités sociales de santé.
 
-   (BUTTON) Recherche
-   Rechercher _______________
-   (Rechercher) Rechercher
+Sommaire actualité
 
-   Besoin d'être guidé ?
+Éditorial
 
-   Trouvez l'information ou la démarche correspondant à votre situation
-    1. Accueil
-    2. La petite histoire de la e-santé
+   Les inégalités sociales de santé : vingt ans d’évolution  [pdf3.gif]
+   (126 ko)
+   Gwenn Menvielle, Thierry Lang
 
-La petite histoire de la e-santé
+HCSP direct
 
-   Allier santé et numérique : en route pour la santé 3.0 !
+   Avis et rapports du Haut Conseil de la santé publique
 
-   Le secteur de la e-santé, produit de la digitalisation active de notre
-   société, se présente comme la rencontre des secteurs de la santé et du
-   numérique. Porté par l’usage des nouvelles technologies de
-   l’information et de la communication, il se destine à la fondation
-   d’une « santé augmentée ». Concrètement, il apporte de la valeur
-   ajoutée aux métiers et aux acteurs de la santé, implémente des
-   solutions qui améliorent nos quotidiens et fait ainsi progresser notre
-   système de santé comme notre qualité de vie à tous.
-   Partager sur Facebook Partager sur Twitter Partager sur Linkedin
+Actualité
 
-La petite histoire de la e-santé
+   Les impacts de la crise sanitaire sur les actions de prévention et
+   promotion de la santé : une étude en Bourgogne-Franche-Comté
+   Lucie Cros, Isabelle Millot-Van Vlierberghe, Éric Lalaurie, Estelle
+   Bécherot, Laurianne Bruet
 
-   Malgré sa démocratisation récente, la e-santé relève d’une émergence
-   ancienne : bouleversement de la médecine traditionnelle avec le début
-   de la « révolution numérique » dans les années 70, apparition du marché
-   industriel de la santé numérique dans les années 90, accessibilité de
-   l’information de santé avec l’essor d’internet dans les années 2000,
-   constitution d’une politique publique ambitieuse dans les années 2010,
-   alors portée par une série de grands plans d’investissement,
-   démocratisation accélérée de la e-santé face aux enjeux de la crise
-   sanitaire dans les années 2020…
-   Découvrez en détail l'histoire de la e-santé
+Lectures
 
-La e-santé répond à des enjeux sociétaux
+   Lectures
 
-   Inégalités d’accès aux soins
+International
 
-   Vieillissement de la population
+   La Chine à l’épreuve de la Covid‑19
 
-   Désertification médicale
+Sommaire dossier
 
-   Evolution de la démographie médicale
+Les inégalités sociales de santé : vingt ans d’évolution
+Dossier coordonné par Gwenn Menvielle, Thierry Lang
 
-   Hausse des pathologies chroniques
+État des lieux des inégalités sociales de santé
 
-   Prise en charge de la dépendance
+   Les inégalités sociales d’espérances de vie en bonne et en mauvaise
+   santé : approche démographique et état des lieux
+   Emmanuelle Cambois
 
-   Soutenabilité économique du secteur de la santé
+   Dispositif statistique permettant la mesure et l’étude des inégalités
+   sociales de santé : où en est-on en 2021 ?
+   Walid Ghosn, Grégoire Rey
 
-   Défis sanitaires et sociaux contemporains
+   L’évolution des inégalités sociales relatives au tabagisme en France
+   entre 2000 et 2019
+   Anne Pasquereau, Raphaël Andler, Romain Guignard, Viêt NGuyen-Thanh
 
-Cadre juridique de la e-santé
+Le rôle majeur des politiques publiques
 
-   L’émergence de la e-santé ne va pas sans celle d'un cadre légal,
-   légitimé par différentes problématiques juridiques  :
-     * Protection des données de santé ultrasensibles
-     * Sécurité des systèmes d’information et confidentialité des données
-     * Certification des hébergeurs de données et des dispositifs médicaux
-     * Déontologie médicale et responsabilité médicale
-     * Droits et obligations des patients et des professionnels de santé
+   La contribution des soins de proximité à la réduction des inégalités
+   sociales de santé
+   Sandrine Danet
 
-   Découvrez l'action juridique de l'ANS
+   La santé dans toutes les politiques : où en est-on en France ?
+   [pdf3.gif]  (181 ko)
+   Gwenn Menvielle, Thierry Lang
 
-Dates clés de la e-santé
+   L’évaluation d’impact sur la santé : plus de deux décennies de pratique
+   internationale
+   Thierno Diallo
 
-   Années 60
+   Des stratégies de promotion de la santé souvent « évoquées », encore
+   trop peu « pratiquées »
+   Anne Laurent, Pierre Lombrail
 
-   Apparition des premiers systèmes d’information hospitaliers européens
+   Inégalités sociales et inégalités territoriales : quelles interactions
+   et quelles conséquences pour les politiques publiques ?
+   Luc Ginot
 
-   6 janvier 1978
+Les inégalités sociales de santé : des thématiques à investir
 
-   Promulgation de la loi « informatique et libertés »
+   Petite enfance et inégalités de santé et de développement : quel rôle
+   des modes d’accueil pour les diminuer ?
+   Lidia Panico
 
-   12 mars 1984
+   Pour une analyse genrée des inégalités de santé
+   Michelle Kelly-Irving, Nathalie Bajos
 
-   Première opération du robot chirurgien « Arthrobot »
+   Les inégalités sociales et environnementales de santé
+   Stéphanie Vandentorren, Séverine Deguen, Cécile Vuillermoz
 
-   Avril 1998
+Les inégalités sociales de santé à l’heure de l’épidémie de Covid-19
 
-   Circulation des premières CPS et des premières cartes vitales
+   Statistiques, inégalités sociales de santé et Covid-19
+   Cyrille Delpierre, Stéphanie Vandentorren, Michelle Kelly-Irving,
+   Damien Mouly
 
-   Décembre 2007
+   Travail exposé, travail protégé : un facteur dynamique d’inégalités
+   sociales face à l’épidémie de Covid-19
+   Émilie Counil
 
-   Ouverture par l'Assurance Maladie de son service en ligne Ameli.fr
+   La surmortalité durant la première vague de l’épidémie de Covid-19 en
+   Île-de-France au regard des fragilités des territoires
+   Isabelle Grémy
 
-   Décembre 2008
+   Inégalités sociales de santé à l’heure de la Covid-19 : le cas
+   particulier des enfants
+   Thierry Lang, Marie-Josèphe Saurel-Cubizolles
 
-   Déploiement du Dossier Pharmaceutique
+Tribunes
 
-   Décembre 2010
+   Le recours aux soins des populations pauvres en France
+   Benoît Carré, Florence Jusot, Antoine Marsaudon, Jérôme Wittwer
 
-   Déploiement du Dossier Médical Partagé
+   Le travail : un point aveugle des inégalités sociales de santé
+   Thomas Coutrot
 
-   23 décembre 2014
+Bibliographie générale
 
-   Arrivée de la Messagerie Sécurisée de Santé dans les établissements de
-   santé
+   Couverture de la revue
 
-   Octobre 2017
+   Abonnés à la revue
 
-   Obligation de déclarer les incidents de cybersécurité des structures de
-   santé
+   Saisissez votre n° d'abonné pour avoir accès à l'ensemble du numéro :
+   ____________________ ok
 
-   26 février 2018
+   64 pages
 
-   Décret sur la certification des hébergeurs de données de santé
+   21x27 cm
 
-   15 septembre 2018
+   ISSN : 1243-275X
 
-   Entrée des téléconsultations dans le droit commun
+   18,50 euros
 
-   Avril 2019
+   Vente en librairie
 
-   Lancement de la Feuille de route du numérique en santé
+   Seuls des extraits sont disponibles en ligne, pour obtenir la revue
+   complète :
 
-   6 septembre 2019
+   Les Presses de l’EHESP
+   Achat en ligne
+   Comité de rédaction de la revue adsp
 
-   Lancement de la e-CPS
+HCSP
 
-   30 novembre 2019
+     * Présentation
+     * Collège
+     * CS Maladies infectieuses et maladies émergentes
+     * CS Déterminants de santé et maladies non-transmissibles
+     * CS Risques liés à l’environnement
+     * CS Système de santé et sécurité des patients
+     * CS Santé des enfants et des jeunes / approche populationnelle
+     * Groupes de travail permanents
+          + Inégalités sociales et territoriales de santé
+          + Stratégie nationale de santé et indicateurs
+          + Sécurité des éléments et produits du corps humain (Secproch)
+          + Grippe, coronavirus, maladies émergentes
+          + Déchets d’activités de soins à risques infectieux (Dasri)
+          + Prévention et santé dans toutes les politiques
+          + Évaluation, stratégie, prospective en santé publique
 
-   Création du Health Data Hub
+Avis et rapports
 
-   13 mai 2020
+     * Le point sur la Covid-19
+     * English synthesis
 
-   Début de l’enregistrement des tests de dépistage COVID dans la base
-   SIDEP
+Revue adsp
 
-   3 juin 2021
+     * Dernier numéro paru
+     * Tous les numéros
+     * Acheter les numéros de la revue adsp (lien vers Les Presses de
+       l’EHESP)
+     * Politique éditoriale
+     * Comité de rédaction
 
-   Autorisation du télésoin pour les pharmaciens et les auxiliaires
-   médicaux
+Archives
 
-   Juillet 2021
+     * La santé en France
+     * Haut Comité de la santé publique (1992-2004)
+     * Conseil supérieur d'hygiène publique de France (1902-2004)
+     * Revues de presse (2002-2011)
+     * Informations
 
-   Lancement du Ségur du numérique en santé
+Le site hcsp.fr
 
-   1er janvier 2022
-
-   La France à la Présidence du Conseil de l’Union Européenne (PFUE)
-
-   Janvier 2022
-
-   Lancement de Mon espace santé
-
-   2028
-
-   Installation de PariSanté Campus à l’hôpital du Val-de-Grâce
-
-La e-santé au cœur de la lutte contre la COVID-19
-
-   La crise sanitaire a marqué un tournant dans l’histoire de la e-santé,
-   celui de son développement à grande vitesse pour répondre aux enjeux
-   soulevés par la pandémie : recours massif à la télésanté et notamment à
-   la téléconsultation, coordination face à l’engorgement hospitalier,
-   recensement des ressources médicales et gestion des flux de patients,
-   continuité des soins, gestion du dépistage, démocratisation de
-   l’auto-diagnostic et des outils de tracing (TousAntiCovid),
-   connaissance en temps réel de l’évolution de la pandémie… La e-santé
-   s’est présentée comme la solution privilégiée pour gérer au mieux la
-   crise, et comme un indicateur à travers le monde, de la maturité
-   technologique de chaque nation. En France, cela a pu mettre en exergue
-   les failles préexistantes du système de santé et ainsi susciter une
-   évolution déterminante vers un système plus équitable, accessible,
-   qualitatif et efficient, exigé par la crise mais aussi, plus
-   généralement, par les nouveaux défis sociétaux.
-
-La e-santé portée par une stratégie nationale forte
-
-   Le secteur de la e-santé s’édifie grâce un portage politique fort,
-   articulé autour d’une stratégie nationale qui embarque tous les acteurs
-   de l'écosystème à toutes les échelles du territoire.
-   Découvrez la stratégie nationale
-
-La e-santé en quelques chiffres
-
-   + 19 millions de téléconsultations prises en charge par l'Assurance
-   Maladie en 2020
-
-   + 370000 boîtes aux lettres de messagerie sécurisée en 2021
-
-   + 350000 applications de santé en 2021
-   Ministère de la Santé et de la Prévention
-   Agence du numérique en santé
-
-   Agence du Numérique en Santé
-   2-10 Rue d'Oradour-sur-Glane
-   75015 Paris
-     * linkedin
-     * twitter
-     * youtube
-     * rss
-
-     * Carrières
-     * Espace presse
-     * Marchés publics
-     * Inscrivez-vous à la newsletter
-
-     * Webinaires
-     * Contactez-nous
-
-     * Ministère de la Santé et de la Prévention
-     * Legifrance.gouv.fr
-     * Service-public.fr
+     * [ Se connecter ]
+     * Contacter le HCSP
+     *
      * Mentions légales
-     * Accessibilité : partiellement conforme
-     * Politique de protection des données personnelles
-     * Politique de gestion de cookies
-     * Gestion des cookies
-     * Plan de site
 
-Vidéo
+   © Copyright Haut Conseil de la santé publique 2023
 
-   (BUTTON) Fermer : Video
+   Veuillez patienter quelques instants...
+
+   (BUTTON) ×
+
+S'abonner à la lettre d’information du HCSP
+
+   IFRAME: https://my.sendinblue.com/users/subscribe/js_id/22zd5/id/1

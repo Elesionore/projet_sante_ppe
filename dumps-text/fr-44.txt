@@ -1,83 +1,269 @@
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NXR3DQH
+     * Aller au menu
+     * Aller au contenu principal
+     * Aller au pied de page
 
-   Aller au contenu
+   (BUTTON) Menu
+   ____________________________________________________________
+   Submit
+   Région île-de-France Région île-de-France
+   (BUTTON)
+     *
 
-     * Le concept
-     * Qui sommes-Nous ?
-     * Les Annuaires
-          + Annuaire & Comparateur des groupements de pharmacies
-          + Annuaire des laboratoires génériques
-          + Annuaire des grossistes répartiteurs
-          + Annuaire des centrales d’achats
-          + Annuaire des transactionnaires d’officines
-          + Annuaire des agenceurs
-          + Annuaire des boosters d’apports
-          + Annuaire des logiciels LGO
-          + Annuaire des agences web
-          + Annuaire des robots de pharmacie
-          + Annuaire des experts-comptables spécialisés dans la pharmacie
-     * Simulateurs
-     * CMG Mag
-     * Espace groupement
+Franciliens : vivre en Île-de-France
+       Manger local, se déplacer, sortir, s’instruire... Ce que la Région
+       fait pour les particuliers au quotidien.
+       (BUTTON) Retour
+          +
+          + Me déplacer
+          + Produire et manger local
+          + Participer à la transition écologique
+          + Culture
+          + Sport et loisirs
+          + Étudier ou me former
+          + Santé
+          + Solidarité et associations
+          + Me loger
+     *
 
-   Menu
-     * Le concept
-     * Les Annuaires
-          + Annuaire & Comparateur des groupements de pharmacies
-          + Annuaire des laboratoires génériques
-          + Annuaire des grossistes répartiteurs
-          + Annuaire des centrales d’achats
-          + Annuaire des transactionnaires d’officines
-          + Annuaire des agenceurs
-          + Annuaire des boosters d’apports
-          + Annuaire des logiciels LGO
-          + Annuaire des agences web
-          + Annuaire des robots de pharmacie
-     * Simulateurs
-     * CMG Mag
-     * Espace groupement
+Professionnels : construire ou renforcer un projet
+       Entrepreneurs, start-up, agriculteurs, chercheurs... Créez,
+       développez, innovez ou faites face aux difficultés grâce aux aides
+       régionales.
+     *
 
-   COMPARER
+Collectivités : développer votre territoire
+       Trouvez les aides régionales qui correspondent à vos projets.
+     *
 
-Forum Santé
+Associations : être accompagnées pour mieux agir
+       Solidarité, sport, culture, citoyenneté, environnement... Découvrez
+       toutes les aides aux associations.
+     *
 
-   image-groupement
-   Forum Santé 4 chemin du Dornig
-   68000 Colmar Tel. : 03 89 29 19 57
+Participer à la vie citoyenne
+       Devenez acteur de votre territoire en contribuant à la vie de votre
+       région.
+       (BUTTON) Retour
+          +
+          + Je participe à la vie de la Région
+          + Décisions et séances du Conseil régional
+     *
 
-   Fort de son réseau de 75 officines en France métropolitaine,
-   Martinique, Guadeloupe et Guyane, centrées sur l’accompagnement et le
-   suivi thérapeutique des patients, Forum Sant se positionne aujourd’hui
-   comme une référence en matière de conseils santé et bien-être.
-   L’enseigne fait la preuve de sa capacité à s’adapter à son
-   environnement, mais aussi à innover en mettant en place une offre de
-   pharmacie à 360°. Ainsi, que ce soit en officine, sur le Web ou depuis
-   son smartphone, faire confiance à Forum Santé, c’est l’assurance de
-   bénéficier d’une prise en charge personnalisée et de trouver des
-   réponses à toutes ses questions de santé.
-   Pour un pharmacien titulaire, rejoindre le groupement de pharmacies
-   Forum Santé signifie
-     * Bénéficier de conditions d’achat et d’actions commerciales
-       exclusives.
-     * Appartenir à une enseigne dont l’identité est reconnue, disposant
-       d’un concept innovant qui privilégie l’écoute du patient.
-     * Avoir un suivi personnalisé dans la gestion de l’officine
-       (référencement, merchandising, agencement opportunités des marchés,
-       formations, RH …).
-     * Utiliser des outils numériques (site web référencé sur Google,
-       application mobile) qui permettront de satisfaire, d’acquérir et de
-       fidéliser les patients.
-       Le groupement de Pharmacies Forum Santé en chiffres
-       Chiffres clés
+M’orienter, étudier, me former
+       L’espace dédié aux lycéens, étudiants et demandeurs d’emploi.
+       (BUTTON) Retour
+          +
+          + Étudiant
+          + Lycéen
+          + Demandeur de formation
+          + Demandeur d'emploi
+          + Étudiants en formations sanitaires et sociales
+          + Organismes de formations sanitaires et sociales
+     *
 
-     * 1ère enseigne de pharmacies créée en 1989
-     * 28 ans d’expérience et d’indépendance
-     * 75 pharmacies en France et dans les DOM-
-     * 860 professionnels de santé
-     * 4,2 millions de patients chaque année en officine et sur le Web
+Découvrir la richesse du patrimoine
+       Qu’ils soient naturels, culturels ou architecturaux, découvrez nos
+       joyaux patrimoniaux.
+       (BUTTON) Retour
+          +
+          + Patrimoine artistique et architectural
+          + Patrimoine religieux
+          + Patrimoine industriel
+          + Patrimoine paysager et naturel
+          + Patrimoine gastronomique
+          + Études de l'Inventaire
+     *
 
-   IFRAME: https://www.youtube.com/embed/ki6ponL4pRs
+Découvrir le fonctionnement de la Région
+       Tout savoir sur le fonctionnement et les actions de la Région.
+       (BUTTON) Retour
+          +
+          + À propos de la Région
+          + La Région en action
+          + Les élus
+          + Les rapports, délibérations
+          + Financement Région
+          + L'exécutif du Conseil régional
+          + La Commission d'éthique régionale
+          + Les organismes associés de la Région
 
-   Forum Santé - Groupements de pharmacies
+À la une
 
-                          comparer les groupements
+Les Brigades régionales de sécurité seront doublées dans les lycées
+franciliens
+
+   Lire l'article
+
+img Raccourcis
+
+     * Actualités
+     * Agenda
+     * Aides et appels à projets
+     * Espace presse
+     * Marchés publics
+     * Médiathèque
+     * Offres d'emploi
+     * Services
+     * (BUTTON) Accessibilité
+
+     * Accueil
+     * Toutes Les Actualités
+     * Santé mentale des jeunes : un nouveau sondage pour faire le point
+
+Accès
+
+     * Nos aides
+     * Services
+     * Newsletter
+     * Emplois & Stages
+     * Contact
+
+     * Actualité
+     * Santé
+
+Santé mentale des jeunes : un nouveau sondage pour faire le point
+
+   Date de publication Publié 21 novembre 2023
+
+   2 minutes
+   (BUTTON) Enlarge image Crédit photo : iStock / ArtistGNDphotography
+
+   La Région Île-de-France et la Fondation FondaMental lancent un nouveau
+   sondage pour alimenter le Baromètre sur la santé mentale des 18-30 ans.
+   L’objectif : améliorer leur prise en charge. Réalisé dans le cadre d'un
+   programme de recherche régional Question d’intérêt majeur (QIM).
+
+   La Région Île-de-France prend la santé mentale des 18-30 ans très au
+   sérieux. Depuis septembre 2022, elle soutient un vaste programme de
+   recherche dans le cadre d’une Question d’intérêt majeur (QIM).
+
+Les Questions d'intérêt majeur (QIM), c'est quoi ?
+
+   Les Questions d’intérêt majeur (QIM) de la Région répondent aux enjeux
+   d’avenir scientifiques, sociétaux ou économique du territoire. Ces
+   questions, posées par la Région à la communauté scientifique, lui
+   permettent d’être éclairée sur des enjeux d’actualité et d'y apporter
+   des réponses.
+
+   Les QIM, qui sont au nombre de 5 actuellement, complètent les Domaines
+   d'intérêt majeur (DIM) de recherche de la Région.
+
+   Après une première enquête réalisée début 2023, la Région, la Fondation
+   FondaMental et l’Observatoire régional de santé lancent un nouveau
+   sondage auprès des 18-30 ans avec l’institut Ipsos. Il a pour but
+   d’identifier les problématiques auxquelles les jeunes sont confrontés
+   et de recueillir les besoins qu’ils expriment.
+   Je réponds au sondage en ligne
+
+Un premier sondage aux résultants alarmants
+
+   Les résultats de la première enquête ont mis en évidence la fragilité
+   de l’état de santé mental des jeunes Franciliens depuis la crise
+   sanitaire.
+     * 68% des jeunes franciliens de 18 à 30 ans sont touchés par des
+       troubles anxieux,
+     * Plus de 1 jeune sur 10 déclare présenter des troubles anxieux
+       sévères,
+     * 78% des jeunes Franciliens déclarent avoir des signes de dépression
+       modérée ou sévère,
+     * 25% des jeunes Franciliens ont pensé à se suicider au cours des 12
+       derniers mois.
+
+   Ces troubles ont un impact sévère sur leur santé mentale en particulier
+   s’ils sont mal ou trop tardivement pris en charge. Il est donc
+   important de leur apporter des solutions adaptées.
+
+Le programme de recherche sur la santé mentale des jeunes
+
+   Porté par la Fondation FondaMental, le programme de recherche sur la
+   santé mentale des jeunes vise à améliorer la prise en charge à travers
+   4 grandes missions :
+     * La détection des jeunes en détresse psychologique,
+     * Leur évaluation par des professionnels de santé,
+     * L’orientation des patients et des aidants vers des ressources
+       adéquates,
+     * La prise en charge des jeunes dans un parcours de soins adapté à
+       leurs besoins.
+
+La QIM Cassandre
+
+   La Question d'intérêt majeur dont il est question ici fait partie des 5
+   QIM de la Région actuellement et s'appelle « Cassandre ».
+
+   Retenue par la Région et son Conseil scientifique régional (CSR), elle
+   a pour but d’évaluer et d’améliorer la santé mentale des jeunes
+   Franciliens en réalisant des baromètres et des plateformes pour éviter
+   le développement de pathologies psychiatriques.
+
+Partager la page
+
+   Partager
+     * Partager sur Facebook
+     * Partager sur Twitter
+     * Partager sur Linkedin
+     * (BUTTON) Copier dans le presse-papier
+     * (BUTTON) Imprimer
+
+     * À LA UNE Active theme
+     * Actualité
+
+   [flash-on.svg]
+
+Comment la Région lutte contre les déserts médicaux sur son territoire
+
+     * Date Le 20/01/2022
+     * Santé - Social Catégorie
+
+     * Communiqué de presse
+
+La Région Île-de-France va créer 900 emplois étudiants mentors dans les 16
+universités franciliennes
+
+     * Date de publication Le 03/10/2023
+
+     * Actualité
+
+Enseignement supérieur : les nouveautés de la rentrée 2023
+
+     * Date Le 04/10/2023
+     * Éducation et recherche Catégorie
+
+   Logo blanc
+
+   Conseil régional d'Île-de-France
+   2, rue Simone Veil 93400 Saint-Ouen
+   Tel. : +33 (0)1 53 85 53 85
+   S'abonner à la newsletter
+     * Facebook
+     * Instagram
+     * Linkedin
+     * Twitter
+
+Raccourcis Raccourcis
+
+     * Aides et appels à projet
+     * Médiathèque
+     * Presse
+     * Foire aux questions
+     * Offres d'emploi et de stage
+     * Marchés publics
+     * Contact
+
+Information Information
+
+     * Accessibilité : Non conforme
+     * Politique des cookies
+     * Politique de confidentialité
+     * Gestion des cookies
+     * Plan du site
+     * Mentions légales
+     * Logotype de la Région Île-de-France
+
+Partenaires Partenaires
+
+     * Plateforme open data de la Région Île-de-France
+     * L'Europe en Île-de-France
+     * Île-de-France - Smart services
+     * QIOZ
+
+   2023 Région Île-de-France. Tous droits réservés.

@@ -30,13 +30,14 @@ echo "<html>
 
 echo "		<div class=\"hero-body\">
 			<table class=\"table is-striped is-fullwidth\">
-				<tr class=\"title is-5\"><th>ligne</th><th>URL</th><th>code HTTP</th><th>encodage</th><th>aspiration</th><th>dump</th></tr> " >> ../tableaux/$langue.html
+				<tr class=\"title is-5\"><th>ligne</th><th>URL</th><th>code HTTP</th><th>encodage</th><th>aspiration</th><th>dump</th><th>occurrences</th></tr> " >> ../tableaux/$langue.html
 
 #remplissage du tableau html : 
 while read -r URL
 do
 	reponse=$(curl -s -I -L -w "%{http_code}" -o /dev/null $URL)
 	encodage=$(curl -s -I -L -w "%{content_type}" -o /dev/null $URL | grep -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
+	occurrence=$(bash ./occurrences.sh $langue $lineno)
 	echo "					<tr>
 						<td>$lineno</td>
 						<td>$URL</td>
@@ -44,6 +45,7 @@ do
 						<td>$encodage</td>
 						<td><a href="../aspirations/$langue-$lineno.html">$langue-$lineno</a></td>
 						<td><a href="../dumps-text/$langue-$lineno.txt">$langue-$lineno</a></td>
+						<td>$occurrence</td>
 					</tr>" >> ../tableaux/$langue.html
 	lineno=$(expr $lineno + 1)
 done < ../URLs/$URLS

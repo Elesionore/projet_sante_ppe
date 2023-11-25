@@ -1,6 +1,7 @@
 ﻿# 22/11/23 DÉBUT DU PROJET EN GROUPE
 
-Aujourd’hui on a travaillé sur le projet du groupe. Notre équipe inclut Lise Brisset, Solomiia Korol et Nataliia Kulikova. On a choisi le mot santé en français, ukrainien et chinois. 
+22/11/23 (Solomiia)
+Aujourd’hui on a travaillé sur le projet du groupe. Notre équipe inclut Lise Brisset, Solomiia Korol et Nataliia Kulikova. On a choisi le mot santé en français, ukrainien et chinois.
 
 Précédemment chacune de nous a essaye de créer un site a la base de html (c’est-à-dire, une page d’accueil du projet). Pendant cette séance on a fait telles choses :
 1) a crée un dépôt GitHub commun 
@@ -9,3 +10,15 @@ Précédemment chacune de nous a essaye de créer un site a la base de html (c�
 
 Le résultat : tout fonctionne, quelques liens donnent la réponse 403/404. On n’a pas commencé encore de récupérer les concordances et les contextes. 
 Les difficultés a cet étape :  il fallait unifier les chemins des fichiers dans les dossiers, fusionner le code et éviter la synchronisation chaotique. On n’a pas fait « deploy » de notre site, car on veut finir avec les concordances. 
+
+
+25/11/23 (Lise)
+Nous avons à présent l'ensemble des scripts permettant de faire l'aspiration de nos urls, les dumps-text de nos urls et venir compter le nombre d'occurrences de "santé" dans notre texte. Concernant ce dernier, pour le français des problèmes apparaissent. En effet, plutôt que d'avoir un nombre total d'occurrences, dans certains cas plusieurs nombres s'affichent. Par exemple, avec la commande suivante :
+cat "$FICHIER" | grep -P -o "\p{Latin}+" | tr "[:upper:]" "[:lower:]" | tr "É" "é" | sort | uniq -c | grep -P "santé" | grep -P -o "[[:digit:]]+"
+pour l'url numéro 6 dans le tableau, il est affiché "16 1 1". Le total devrait être "18".
+Nous pourrions ajouter des "+" entre chaque nombre dans le cas où il y a en plusieurs mais ce n'est pas un résultat optimal. Il est surement possible d'utiliser expr mais nous ne trouvons pas comment le faire.
+
+Certains liens du français rencontraient encore des erreurs tels qu'un était en ISO ou d'autre avaient des erreurs "000", 400 et 500. Ces liens ont donc été retirés et remplacés. Malgrès cela, le dernier liens du français affiche l'erreur "403", mais le reste de ces colonnes est bien rempli, il trouve même le nombre d'occurrences. Il est possible que malgré l'errreur l'aspiration arrive à acceder au site et cela ne pose pas vraiment de soucis.
+
+4 urls n'affichent aucun encodage, mais ayant vérifié manuellement, ces urls contiennent bien la balise
+"meta charset='utf-8'" dans le head. Elles sont donc bien elles aussi encodées en UTF-8. Nous pourrons donc ajouter dans nos script un "if" qui indique que si encodage est vide on peut y indiquer "utf-8".

@@ -22,3 +22,33 @@ Certains liens du français rencontraient encore des erreurs tels qu'un était e
 
 4 urls n'affichent aucun encodage, mais ayant vérifié manuellement, ces urls contiennent bien la balise
 "meta charset='utf-8'" dans le head. Elles sont donc bien elles aussi encodées en UTF-8. Nous pourrons donc ajouter dans nos script un "if" qui indique que si encodage est vide on peut y indiquer "utf-8".
+
+27/11/23 (Solomiia)
+Je n'ai pas réussi à faire en sorte que le programme compte les occurrences. Cela peut être dû à l'alphabet cyrillique. En revanche, je suis parvenue à ajouter des styles pour embellir les tableaux et mettre en évidence les lignes au survol.
+Voici une description de chaque partie du code :
+
+body Selector: background-color
+Définit la couleur de fond du corps de la page à une teinte gris clair (#f5f5f5).
+
+.hero-body Class: padding
+Ajoute un remplissage de 2 rem (unité relative à la taille de la police) à tous les côtés de l'élément avec la classe hero-body. Cela peut être une partie d'un framework CSS comme Bulma.
+
+.table-container Class:max-height
+Limite la hauteur maximale de l'élément avec la classe table-container à 500 pixels.
+overflow-y: Ajoute une barre de défilement verticale si le contenu de l'élément déborde au-delà de la hauteur maximale.
+
+th:hover Selector:cursor
+Définit le curseur de la souris en forme de pointeur lorsqu'il survole un élément th (cellule d'en-tête de tableau).
+
+tr:hover Selector
+overflow: Masque tout contenu qui déborde de la ligne.
+text-overflow: Affiche une ellipse (...) pour indiquer qu'il y a du contenu masqué.
+
+max-width: Limite la largeur maximale des cellules de données du tableau (td) à 300 pixels.
+overflow: Masque tout contenu qui déborde de la cellule.
+
+
+
+
+
+

@@ -1,8 +1,48 @@
 <html>
 	<head>
 		<meta charset="UTF-8"/>
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">	
-</head>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <style>
+        body {
+            background-color: #f5f5f5;
+        }
+
+        .hero-body {
+            padding: 2rem;
+        }
+
+        .table-container {
+            max-height: 500px;
+            overflow-y: auto;
+        }
+
+        th:hover {
+            cursor: pointer;
+        }
+
+        tr:hover {
+            background-color: #CBFCE7 !important;
+            overflow: hidden; /* Hide overflow content */
+            text-overflow: ellipsis; /* Display ellipsis (...) for overflow */
+        }
+
+        th {
+            background-color: #7FFCC6;
+            color: #fff;
+            transition: background-color 0.3s;
+        }
+        
+         td {
+            max-width: 300px; /* Set max-width to 300px for the columns */
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        td a {
+            color: #3273dc;
+        }
+    </style>
+	</head>
 	<body class="has-background-grey-lighter">
 		<div class="hero-body">
 			<table class="table is-striped is-fullwidth">
@@ -367,7 +407,7 @@
 						<td>39</td>
 						<td>https://event.lesechosleparisien-evenements.com/forum-sante-2025-3e-edition/</td>
 						<td>200</td>
-						<td></td>
+						<td>utf-8</td>
 						<td><a href=../aspirations/fr-39.html>fr-39</a></td>
 						<td><a href=../dumps-text/fr-39.txt>fr-39</a></td>
 						<td>3
@@ -389,8 +429,7 @@
 						<td>UTF-8</td>
 						<td><a href=../aspirations/fr-41.html>fr-41</a></td>
 						<td><a href=../dumps-text/fr-41.txt>fr-41</a></td>
-						<td>60
-1</td>
+						<td>61</td>
 					</tr>
 					<tr>
 						<td>42</td>

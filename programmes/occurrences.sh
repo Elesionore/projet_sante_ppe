@@ -17,7 +17,7 @@ then
 
 elif [ $langue=="ukr" ]
 then
-	cat "$FICHIER" | grep -P -o "\p{Cyrillic}+" | tr "[:upper:]" "[:lower:]" | sort | uniq -c | grep -P "Здоров'я" | grep -P -o "[[:digit:]]+"
+	cat "$FICHIER" | grep -P -o "здоров'я" | sort | uniq -c | awk '{print $1}'
 	
 elif [ $langue=="chin" ]
 then

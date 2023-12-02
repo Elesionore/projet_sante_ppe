@@ -1,4 +1,6 @@
-   REFRESH(300 sec): https://www.topsante.com/
+   REFRESH(300 sec):
+   file://localhost/home/lise/Documents/projet_ppe_sante/projet_sante_ppe/
+   aspirations/fr-34.html
    #Top Santé » Flux
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PWK9JCL
@@ -11,7 +13,11 @@
    ____________________ (BUTTON) OK
 
    Top Sante logo
-   Newsletter (BUTTON) Recherche (BUTTON)
+     * has-i--instagram
+     * has-i--facebook
+     * has-i--twitter
+
+   Newsletter (BUTTON) Recherche
 
      * Médecine
      * Bien manger
@@ -34,17 +40,32 @@
    Voici la quantité de féculents à ne pas dépasser par jour
    Bien manger Publié le 24/11/2023
    Voici la quantité de féculents à ne pas dépasser par jour
+   Les glucides sont la base de nos apports nutritionnels et doivent
+   apporter plus de la moitié des calories que nous ingérons chaque jour.
+   Top Santé vous partage les recommandations à suivre sur ce qu’il faut
+   consommer comme féculents.
    L'aliment oublié, extrêmement précieux pour perdre du poids, comme le
    savaient si bien nos grands-mères
    Aliments minceur Publié le 24/11/2023
    L'aliment oublié, extrêmement précieux pour perdre du poids, comme le
    savaient si bien nos grands-mères
+   Très nutritives et riches en fer, les lentilles sont non seulement une
+   bonne alternative à la viande, mais elles sont aussi peu caloriques, ce
+   qui en fait des véritables alliées quand on cherche à perdre du poids.
    Tablette de chocolat : voici la plus calorique selon un nutritionniste
    Chocolat Publié le 24/11/2023
    Tablette de chocolat : voici la plus calorique selon un nutritionniste
+   Le nutritionniste Raphaël Gruman a passé au crible 3 tablettes de
+   chocolat vendues au supermarché pour nous indiquer le meilleur choix
+   minceur.
    Vous pouvez rattraper une mauvaise nuit en 20 minutes : voici comment
    Troubles du sommeil Publié le 24/11/2023
    Vous pouvez rattraper une mauvaise nuit en 20 minutes : voici comment
+   Près de la moitié de la population manquerait de sommeil. Selon une
+   nouvelle étude dirigée par l’Université de Portsmouth, il y aurait un
+   moyen de faire rattraper une mauvaise nuit au cerveau : l’activité
+   physique. L’exercice améliorerait les performances cognitives, et ce,
+   malgré une dette de sommeil.
    (BUTTON)
    (BUTTON)
 
@@ -55,56 +76,90 @@ TopSante
    Has diapo image
    Antifatigue Publié le 23/11/2023
    Les remèdes de grand-mère vraiment insolites qui aident à mieux dormir
+   Vous avez du mal à vous endormir le soir et vos nuits ne sont pas
+   reposantes ? Voici une petite sélection des meilleures astuces et
+   remèdes de grand-mère pour retrouver un sommeil réparateur sans avoir
+   recours aux somnifères.
    Des citrons rappelés en raison d’une teneur importante en pesticides
    dans ces 4 départements
    Intoxication alimentaire Publié le 23/11/2023
    Des citrons rappelés en raison d’une teneur importante en pesticides
    dans ces 4 départements
+   Des citrons verts viennent de faire l’objet d’un rappel. Ils ont été
+   commercialisés dans plusieurs Monoprix. En cause ? Une teneur trop
+   importante en pesticides.
    Un nutritionniste a tranché : voici les 3 pires charcuteries en termes
    de gras et de calories
    Bien choisir ses aliments Publié le 23/11/2023
    Un nutritionniste a tranché : voici les 3 pires charcuteries en termes
    de gras et de calories
+   La charcuterie est à consommer avec modération à cause de sa teneur en
+   graisses et en sel. A travers une nouvelle vidéo, notre nutritionniste,
+   Raphaël Gruman, alerte sur les produits à limiter en priorité.
    Pervers narcissique : si vous recevez l'un de ces 3 cadeaux à Noël,
    c'est mauvais signe
    Vie amoureuse Publié le 23/11/2023
    Pervers narcissique : si vous recevez l'un de ces 3 cadeaux à Noël,
    c'est mauvais signe
+   Saviez-vous que l’on pouvait démasquer les pervers narcissiques avec
+   les cadeaux qu’ils offrent ? Ce qu’il faut comprendre, c’est que, bien
+   souvent, leurs cadeaux ne sont pas destinés aux autres, mais à eux
+   même. Explications.
    Vous êtes constipé ? C'est sûrement à cause de l'un de ses 3 aliments
    Digestion et transit Publié le 23/11/2023
    Vous êtes constipé ? C'est sûrement à cause de l'un de ses 3 aliments
+   La constipation est un problème fréquent qui peut être causé par divers
+   facteurs, notamment l'alimentation. Le nutritionniste Raphaël Gruman
+   met en garde contre trois aliments courants qui pourraient être
+   responsables de troubles du transit.
    4 aliments contre la déprime saisonnière à consommer tout l'hiver selon
    un nutritionniste
    Déprime saisonnière Publié le 23/11/2023
    4 aliments contre la déprime saisonnière à consommer tout l'hiver selon
    un nutritionniste
+   On le sait, l'alimentation joue un rôle important dans la stabilisation
+   de l'humeur. Un nutritionniste dévoile les 4 aliments à ajouter dans
+   tous vos menus de l'hiver pour lutter contre la dépression saisonnière.
    (BUTTON)
    (BUTTON)
-   Détox de saison
+   Détox de saisonVoir plus
    Pour perdre du poids, voici pourquoi vous devriez manger vos légumes en
    premier
    Nutrition minceur Publié le 22/11/2023
    Pour perdre du poids, voici pourquoi vous devriez manger vos légumes en
    premier
+   L'ordre dans lequel vous avalez les différents aliments de votre repas
+   aurait une influence sur la glycémie et la satiété. Et donc sur la
+   perte de poids.
    “J’ai perdu 90 kg avec ce régime simple que tout le monde peut suivre
    (ou presque)”
    Régime cétogène Publié le 20/11/2023
    “J’ai perdu 90 kg avec ce régime simple que tout le monde peut suivre
    (ou presque)”
+   Une mère de famille américaine vient de témoigner au sein d’un magazine
+   new yorkais et raconte comment elle est parvenue à se délester de 90
+   kilos en suivant le régime cétogène. Explications et décryptage de ce
+   régime avec notre nutritionniste Raphaël Gruman.
    Perte de poids : connaissez-vous le petit déjeuner idéal selon les
    diététistes ?
    Perdre du poids Publié le 18/11/2023
    Perte de poids : connaissez-vous le petit déjeuner idéal selon les
    diététistes ?
+   Dans une dynamique de perte de poids, une diététicienne conseille une
+   recette de petit déjeuner équilibré et facile à préparer.
    Les 9 aliments recommandés par le nutritionniste contre les troubles de
    la ménopause Has diapo image
    Ménopause Publié le 18/11/2023
    Les 9 aliments recommandés par le nutritionniste contre les troubles de
    la ménopause
+
+   Une étude montre qu'un régime alimentaire riche en fruits et légumes et
+   en soja permet de réduire les différents troubles associés à la
+   ménopause. A part le soja, quels sont les aliments à privilégier à la
+   ménopause ? Les conseils du nutritionniste Raphaël Gruman.
    (BUTTON)
    (BUTTON)
-   Voir plus
-   Astuces anti- Stress
+   Astuces anti- StressVoir plus
 
    10 aliments riches en polyphénols Has diapo image
    Manger équilibré Publié le 04/07/2023
@@ -121,15 +176,17 @@ TopSante
    Voici l'activité inattendue qui permet d'être plus heureux juste après
    Stress Publié le 11/04/2023
    Voici l'activité inattendue qui permet d'être plus heureux juste après
-   Voir plus
    Les outils Top Santé
    Calcul de I'IMC Calcul de I'IMC enfant/ado Calcul de poids idéal Calcul
    de I'IMG Compteur de calories Metabolisme Période de fertilité
-   Allergies
-
+   AllergiesVoir plus
    Allergie aux chats : premiers essais d'un vaccin sur l'Homme
    Prévention et traitement des allergies Publié le 11/10/2023
    Allergie aux chats : premiers essais d'un vaccin sur l'Homme
+
+   Le laboratoire Angany lance la première étude clinique chez l'Homme
+   d'un vaccin pour traiter l'allergie aux chats. Les premiers patients
+   ont été recrutés par un hôpital londonien
 
    Certaines personnes devraient éviter le poisson en conserve : découvrez
    si vous en faites partie
@@ -148,41 +205,62 @@ TopSante
    Allergie au pollen Publié le 14/08/2023
    A la mi-août, méfiez vous de cette plante particulièrement
    allergisante, qui libère son pollen
-   Voir plus
+
+   Je suis allergique aux abeilles : puis-je manger du miel ?
+   Prévention et traitement des allergies Publié le 08/08/2023
+   Je suis allergique aux abeilles : puis-je manger du miel ?
    Voir aussi :
    Allergie au pollenAllergie aux acariensAllergies alimentairesPrévention
    et traitement des allergiesRhinite allergique
-   Bien manger
+   Bien mangerVoir plus
    Comment savoir si une viande n'est plus bonne ?
    Intoxication alimentaire Publié le 23/11/2023
    Comment savoir si une viande n'est plus bonne ?
+   Vous avez acheté de la viande chez le boucher, mais vous savez pas si
+   elle est "encore bonne à manger" ? Les conseils de la
+   diététicienne-nutritionniste pour éviter l'intoxication alimentaire...
    Ce produit souvent sur les tables du réveillon peut vous intoxiquer
    gravement
    Intoxication alimentaire Publié le 23/11/2023
    Ce produit souvent sur les tables du réveillon peut vous intoxiquer
    gravement
+   Si vous avez acheté des bocaux d'escargots au court bouillon pour le
+   réveillon, vérifiez bien l'étiquette. Certains bocaux sont susceptibles
+   d'être contaminés par la bactérie responsable du botulisme.
    Est-ce une bonne idée de mener un jeûne intermittent “préventif” avant
    les fêtes ?
    Bien manger Publié le 22/11/2023
    Est-ce une bonne idée de mener un jeûne intermittent “préventif” avant
    les fêtes ?
+   Et si le jeûne intermittent était la clé pour enfin profiter des fêtes
+   de fin d’année sans crise de foie, et surtout sans prise de poids ?
+   Mode d’emploi.
    Des aliments du supermarché directement mis en cause dans l’apparition
    de cancers de la tête et du cou
    Prévention et traitement du cancer Publié le 22/11/2023
    Des aliments du supermarché directement mis en cause dans l’apparition
    de cancers de la tête et du cou
+   Une nouvelle étude publiée au sein de l’European Journal of Nutrition a
+   fait le lien entre les aliments ultra-transformés et l’apparition de
+   cancers de la tête et du cou ainsi que de l'œsophage.
    (BUTTON)
    (BUTTON)
-   Voir plus
    Voir aussi :
    Bien choisir ses alimentsLes bons alimentsLes minéraux et
    oligo-élémentsLes vitaminesManger équilibréNutritionRecettes
    santéRégimes alimentairesRisques santé
-   Sexualité
-
+   SexualitéVoir plus
    Sensation Homme & l’Expert : votre porte d’entrée vers le plaisir
    Sexualité Publié le 09/11/2023
    Sensation Homme & l’Expert : votre porte d’entrée vers le plaisir
+   La sensualité masculine évolue constamment, Sensation Homme le sait,
+   c’est pourquoi ils ont créé l'Expert, le masturbateur pour homme
+   électrique et automatique. Dans cet article, nous vous emmènerons dans
+   un voyage sensuel à travers les fonctionnalités et performances de
+   l'Expert, proposé par la marque française Sensation Homme.
+   Préparez-vous à explorer un monde de plaisir qui éveillera vos sens et
+   vous emportera vers des sommets de satisfaction que vous n'aviez jamais
+   pensé atteindre.
 
    Le café est-il vraiment aphrodisiaque ? Un médecin nous explique !
    Désir et plaisir Publié le 24/10/2023
@@ -199,7 +277,12 @@ TopSante
    Désir et plaisir Publié le 05/08/2023
    Sexo : "J'ai des fantasmes violents, à tendance sadomasochiste. J'en ai
    honte..."
-   Voir plus
+
+   Candaulisme, voyeurisme, bondage... Voici les 6 pratiques sexuelles
+   préférées des Français
+   Pratiques sexuelles Publié le 23/07/2023
+   Candaulisme, voyeurisme, bondage... Voici les 6 pratiques sexuelles
+   préférées des Français
    Voir aussi :
    Désir et plaisirKamasutraPratiques sexuellesTroubles sexuels chez
    l'hommeTroubles sexuels chez la femme
@@ -218,7 +301,11 @@ TopSante
    fermés selon le Dr Cohen
    “Je suis nutritionniste et je conseille ce yaourt le soir pour maigrir”
    “Je suis nutritionniste et je conseille ce yaourt le soir pour maigrir”
-   Plantes Médicinales
+   Ces 3 plats d’hiver aux légumes font grossir : ne tombez pas dans le
+   piège !
+   Ces 3 plats d’hiver aux légumes font grossir : ne tombez pas dans le
+   piège !
+   Plantes MédicinalesVoir plus
 
    Varech : bienfaits santé, effet coupe-faim, comment le consommer ?
    Plantes médicinales Publié le 26/05/2023
@@ -239,36 +326,47 @@ TopSante
    Plantes médicinales Publié le 25/05/2023
    Ail des ours : bienfaits santé, quels effets sur l'arthrite, comment le
    consommer ?
-   Voir plus
-   Santé au Naturel
+   Santé au NaturelVoir plus
    Pépins de pamplemousse : quand peut-on prendre cet antibiotique naturel
    ?
    Phytothérapie Publié le 21/11/2023
    Pépins de pamplemousse : quand peut-on prendre cet antibiotique naturel
    ?
+   Réputé pour éliminer les virus, les bactéries et les champignons,
+   l'extrait de pépins de pamplemousse (EPP) est reconnu en Allemagne
+   comme une alternative naturelle aux antibiotiques. On vous dit comment
+   l'utiliser.
    Herpès : comment faire disparaître un bouton de fièvre... et éviter
    qu'il revienne
    Herpès Publié le 20/11/2023
    Herpès : comment faire disparaître un bouton de fièvre... et éviter
    qu'il revienne
+   A l'occasion de la Journée nationale de l'herpès, ce 20 novembre, on
+   fait le point sur les solutions douces pour faire disparaître un
+   "bouton de fièvre" avec le Dr Jean-Marc Bohbot, infectiologue.
    6 recettes de gargarismes ou de cataplasmes pour soulager un mal de
    gorge
    Angine Publié le 12/11/2023
    6 recettes de gargarismes ou de cataplasmes pour soulager un mal de
    gorge
+   Nous passons rarement plus de 15 secondes sans avaler notre salive :
+   rien d'étonnant qu'un mal de gorge soit difficile à supporter. Pour le
+   soulager, on a fait appel aux bons vieux remèdes de grand-mère.
    Je suis pharmacienne et voici LA tisane anti-maux de gorge que je vous
    recommande
    Phytothérapie Publié le 11/11/2023
    Je suis pharmacienne et voici LA tisane anti-maux de gorge que je vous
    recommande
+   Le Dr. Christine Cieur, docteure en pharmacie et herboriste, nous
+   propose une tisane adoucissante et cicatrisante pour apaiser nos maux
+   de gorge hivernaux. Mode d'emploi.
    (BUTTON)
    (BUTTON)
-   Voir plus
    Voir aussi :
    Fleurs de BachHoméopathieHuiles essentielles
    (aromathérapie)HypnoseLuminothérapiePhytothérapieRemèdes de
    grand-mèreThérapies manuelles
-   Recettes
+   RecettesVoir plus
    Crumble aux pêches
    Recettes Publié le 20/07/2021
 
@@ -289,8 +387,9 @@ Salade de blé au haddock
 
 Salade de tagliatelles et poivrons
 
-   Voir plus
-   Cancers
+   (BUTTON)
+   (BUTTON)
+   CancersVoir plus
 
    "Je n’ai jamais fumé de ma vie et je me bats à 40 ans contre un cancer
    du poumon"
@@ -313,7 +412,6 @@ Salade de tagliatelles et poivrons
    Cancer de la thyroïde Publié le 25/10/2023
    Cet ustensile que vous utilisez tous les jours en cuisine peut
    favoriser le cancer de la thyroïde
-   Voir plus
    Voir aussi :
    Cancer colorectalCancer de l'endomètre (cancer du corps de
    l'utérus)Cancer de l'estomacCancer de l'intestinCancer de l'intestin
@@ -336,8 +434,7 @@ Salade de tagliatelles et poivrons
    Cancer du poumon : comment préserver sa qualité de vie ?
    (BUTTON)
    (BUTTON)
-   Gynéco
-
+   GynécoVoir plus
    Quelle alimentation pour mieux vivre son endométriose ?
    Gyneco Publié le 15/11/2023
    Quelle alimentation pour mieux vivre son endométriose ?
@@ -359,12 +456,17 @@ Salade de tagliatelles et poivrons
    Épices Publié le 31/10/2023
    Les 3 meilleures épices pour soulager le syndrome prémenstruel selon
    une experte en biomédecine
-   Voir plus
+
+   Voici les 3 parties du corps qui complexent le plus les femmes à la
+   ménopause
+   Ménopause Publié le 25/10/2023
+   Voici les 3 parties du corps qui complexent le plus les femmes à la
+   ménopause
    Voir aussi :
    AménorrhéeClitorisEmbolisationEndométrioseFibrome
    utérinGonorrhée/blennoragieHystérectomieISTIVGKyste
    ovarienMénopauseProblèmes intimesRègles douloureusesVulvite
-   Analyses de Sang
+   Analyses de SangVoir plus
    Analyse du taux de GGT dans le sang
    Analyse du taux de PSA dans le sang
    Clairance de la créatinine : dosage sanguin et urinaire
@@ -372,21 +474,25 @@ Salade de tagliatelles et poivrons
    Dépistage du VIH : on décrypte la prise de sang
    (BUTTON)
    (BUTTON)
-   Voir plus
-   Forme by Vital
+   Forme by VitalVoir plus
    Découvrez vos besoins en eau et minéraux selon votre âge
    Publié le 22/04/2021
    Découvrez vos besoins en eau et minéraux selon votre âge
+
+   Femme active, enceinte ou à la ménopause…, les besoins des femmes
+   évoluent et l'eau est le réflexe indispensable qui les suit à chaque
+   étape de leur vie
    Rando et jeûne : on teste ou pas ?
    Publié le 04/10/2019
    Rando et jeûne : on teste ou pas ?
+
    Découvrez les nouveaux podcasts #VitalTraining
    Publié le 03/10/2019
    Découvrez les nouveaux podcasts #VitalTraining
+
    (BUTTON)
    (BUTTON)
-   Voir plus
-   Prix Top Santé
+   Prix Top SantéVoir plus
    Soin minceur Energy Slim par digitopuncture
    Soin minceur Energy Slim par digitopuncture
    EVABIOTE® Hygiène intime
@@ -397,7 +503,12 @@ Salade de tagliatelles et poivrons
    Shampoing fortifiant anti-chute Mon SHAMPOING
    (BUTTON)
    (BUTTON)
-   Voir plus
+
+   [pastille-km.png]
+   Profitez de nos offres d'abonnement
+   je m'abonne
+
+   [expertise-sante.png]
 
    Les + Lus
    Zcross, la nouvelle brassière d’excellence par Zsport
@@ -412,6 +523,10 @@ Salade de tagliatelles et poivrons
    avec bébé : découvrez notre formation !
    Maîtriser l’allaitement en 30 jours pour créer une relation harmonieuse
    avec bébé : découvrez notre formation !
+
+L'actualité Topsante.com
+
+   dans votre boîte email (BUTTON) je m'inscris
 
    (BUTTON)
 
@@ -446,20 +561,6 @@ Salade de tagliatelles et poivrons
      * Toute la santé
      * Thèmes
      * Tous les dossiers
-
-     * Formation pour entrepreneur
-     * Top santé assurance
-     * Comparateur mutuelle santé
-     * Séminaires et événementiel
-     * Joséphine-Yacht
-
-     * Les Rhodos
-     * Les terrasses du Mont Blanc
-     * Le Galet
-     * Capdel
-     * Alarme maison
-     * Guide de voyage
-     * Ma santé
 
    Certifié par : Certifié par acpm Certifié par digital ad trust Certifié
    par cim internet

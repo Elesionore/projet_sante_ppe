@@ -1,79 +1,55 @@
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PGLVR9V
 
-   Site
-
-   Forums
-     * Santé
-     * Médicaments
-     * Grossesse - Bébé
-     * Psychologie
-     * Famille
-     * Nutrition
-     * Beauté
-     * Forme
-     * Sexualité
-     * Vie pratique
-     * Animaux
-     * Les experts vous répondent
-
-   Site Forums [logo_doctissimo.png?v=1698918579]
-     * Club Doctissimo
-     * Devenir membre
-     * Mon profil
-     * Se connecter
-     * Déconnexion
-     * Forums
-
-     * Concours
-
+     *
+     *
+     *
      *
      *
 
+   Concours
+   Club Doctissimo | Devenir membre | Se connecter | Forums
+
+   Connexion au club Doctissimo
+   Me connecter
+   Mot de passe oublié ?
+
+   Créér un compte
+
+   Le Club Doctissimo vous permet d'accéder gratuitement au plus grand
+   forum francophone
+   Je m'inscris
    Doctissimo
-   Un article Un médicament ____________________ Go
-     * Santé
-     * Médicaments
-     * Grossesse
-     * Bébé
-     * Psychologie
-     * Famille
-     * Nutrition
-     * Beauté
-     * Mode
-     * Forme
-     * Sexo
-     * Recettes
-     * Vidéos
-     * Tests
+   ____________________ [img_head_searchBtn.png]-Submit
+   ____________________ [img_head_searchBtn.png]-Submit
+   Santé
+   Médicaments
+   Médecines douces
+   Grossesse
+   Bébé
+   Psycho
+   Famille
+   Nutrition
+   Beauté
+   Mode
+   Forme
+   Sexo
+   Vidéos
+   Tests
 
-   Forums
-     * Accidents
-       domestiques
-     * Activités pour
-       les enfants
-     * Aidants
-       familiaux
-     * Animaux
-     * Automobile
-     * Conseil
-       vétérinaire
-     * Environnement
-     * Etre père
-     * Maison de
-       retraite
-     * Mère
-     * PACS
-     * Relation
-       mère-fille
-     * Scolarité
-     * Séparation
-     * SOS Avocat
-     * Travail
-     * Vacances
+   Forum Santé
+     * Forum Santé
+     * Forum Grossesse Bébés
+     * Forum Beauté
+     * Forum Nutrition régimes
+     * Forum Psychologie
+     * Forum Sexualité
+     * Forum Médicaments
+     * Forum Forme sport
+     * Forum Vie pratique
+     * Forum Animaux
+     * Forum Famille
 
-Forum santé
-
-
+   Les experts vous répondent
    Articles de référence : Santé
      * Dictionnaire médical
      * Guide des médicaments
@@ -82,10 +58,20 @@ Forum santé
    Voir tous les articles
 
    Your browser cannot play this video.
+
+   Santé
+   /
+
+FORUM Santé
+
+
+   liste des connectés Lancer une recherche S'inscrire S'identifier
+
+
    Recherche :  ____________________   Lancer une recherche
      Catégories du forum Santé Nombre de messages Date du dernier message
    [big-309267894cd.png?v=1]
-   IMPORTANT Je participe
+   IMPORTANT Suppression application « ClubDocti »
 
    Masquer Afficher
    Addictions
@@ -98,7 +84,6 @@ Forum santé
    par newman616
    On Cannabis 154 340 22/11/2023 à 04:22
    par freaakss
-   (Publicité)
    On Dépendance à l'alcool 1 830 015 24/11/2023 à 12:30
    par dek-A-lee
    On Anorexie et Boulimie 2 152 235 23/11/2023 à 19:46
@@ -294,7 +279,6 @@ Forum santé
    On Maladies auto-immunes 24 633 04/11/2023 à 17:12
    par Nature
    On Maladies génétiques, orphelines, rares
-   (BUTTON) Choisissez une sous-catégorie
      * Dysplasie ectodermique
      * Fibromyalgie
      * Lupus
@@ -334,68 +318,10 @@ Forum santé
    2000
    Forum MesDiscussions.Net
    © 2000-2023 Doctissimo
-   Page générée en 0,484 secondes
+   Page générée en 0,248 secondes
 
-NOS NEWSLETTERS
-
-   Pour recevoir nos newsletters ou modifier votre inscription, veuillez
-   saisir votre email ____________________ ok
-   [ ] Newsletter Hebdo [ ] Newsletter Vidéo [ ] Newsletter Test [ ]
-   Newsletter Beauté [ ] Newsletter Recette [ ] Newsletter Sexo [ ]
-   Développement Personnel
-
-SUIVIS HEBDOMADAIRES PERSONNALISÉS
-
-   [doc-block-right-newsletters-grossesse.jpg] La newsletter grossesse Je
-   m'abonne
-   [doc-block-right-newsletters-bebe.jpg] La newsletter bébé Je m'abonne
-   > Gérer mes newsletters
-     * Plan du site
-          + Plan général
-          + Plan de la rubrique santé
-
-     * A lire aussi sur Doctissimo
-          + Test personnalité
-          + Test amour
-          + Test couple
-          + Test psycho
-          + Test sexualité
-          + Couple
-          + Psychologie de l'enfant
-          + Psychologie de l'ado
-          + Arrêter de fumer
-          + Cholestérol
-          + Diabète
-          + Régime
-
-     * Guide
-          + Prénom
-
-     * Services et partenaires
-          + News
-
-     * Suivez-Nous :
-          +
-          +
-          +
-          +
-     * Contactez la rédaction
-     * Contactez la régie
-     * Le groupe
-          +
-               o DoctiPharma
-               o Santé des voyageurs
-     * Le site
-          +
-               o Qui sommes nous ?
-               o Comité d'experts de Doctissimo
-               o Charte d'utilisation
-          +
-               o Mentions légales
-               o Recrutement
-               o Charte données personnelles et cookies
-               o Préférences cookies
-     *
-
-   IFRAME:
-   //redirect460.tagcommander.com/utils/noscript.php?id=1&mode=iframe
+   [spacer.gif]
+   [spacer.gif] [spacer.gif]
+   Qui sommes-nous ? | Recrutement | Contacts | Espace Annonceurs | Charte
+   d'utilisation | Charte données personnelles et cookies | Préférences
+   cookies | Notice légale © Doctissimo

@@ -434,4 +434,4 @@ Navigation des articles
 
                  Seo wordpress plugin by www.seowizard.org.
 
-        Page generated in 0,955 seconds. Stats plugin by www.blog.ca
+        Page generated in 1,208 seconds. Stats plugin by www.blog.ca

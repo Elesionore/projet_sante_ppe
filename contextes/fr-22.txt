@@ -1,0 +1,105 @@
+               o Le continuum de la recherche
+               o La recherche fondamentale
+               o La recherche clinique
+               o La recherche en santé publique
+               o La recherche technologique
+               o Valorisation et transfert des découvertes
+               o La recherche participative
+--
+               o Portraits de chercheuses et de chercheurs
+               o Reportages en labo
+     * Information
+       en santé
+       Information en santé
+          + Pour tout public
+               o Dossiers thématiques
+               o C’est quoi ? Les mots de la science
+--
+
+     Dossiers
+
+     Intelligence artificielle et santé
+
+Intelligence artificielle et santé
+
+   Des algorithmes au service de la médecine
+
+--
+
+   Dossier réalisé en collaboration avec Jean Charlet (AP-HP et
+   Laboratoire d’informatique médicale et ingénierie des connaissances
+   pour la e‑santé – LIMICS, unité 1142 Inserm/Sorbonne
+   Université/Université Sorbonne Paris nord) et Xavier Tannier (LIMICS)
+   1960 Naissance des premiers « systèmes experts » 2 approches actuelles
+   : « symbolique », fondée sur la logique et « numérique », fondée sur
+--
+   connaissances médicales dans un domaine donné et une formalisation des
+   raisonnements des spécialistes qui lient ces connaissances entre elles
+   pour aboutir à un diagnostic. Les systèmes actuels, qualifiés d’aide à
+   la décision, de gestion des connaissances ou d’e‑santé, sont plus
+   sophistiqués. Ils bénéficient de meilleurs modèles de raisonnement
+   ainsi que de meilleures techniques de description des connaissances
+   médicales, des patients et des actes médicaux. La mécanique
+--
+Aider à la prise en charge des cancers du sein
+
+   Des équipes du Laboratoire d’informatique médicale et d’ingénierie des
+   connaissances en e‑santé (LIMICS, unité Inserm 1142) et de l’Assistance
+   Publique – Hôpitaux de Paris, ont participé à un projet européen,
+   Desiree, qui s’appuie sur l’approche symbolique pour aider les
+   cliniciens dans le traitement et le suivi des patientes atteintes de
+--
+   l’objectif que se fixe le concepteur de logiciel. Elles posent donc de
+   nombreux problèmes pour leur exploitation.
+
+   La France dispose en particulier d’une des plus grandes bases en santé
+   du monde : son système national de données médico-administratives, le
+   SNIIRAM (pour Système national d’information inter-régimes de
+   l’Assurance Maladie). Cette base, qui fait maintenant partie du SNDS,
+   stocke toutes les prescriptions de médicaments, la description des
+   maladies et les actes hospitaliers. Elle est toutefois délicate à
+   exploiter, car elle a été créée pour l’analyse économique des
+   prestations de santé et non pour une analyse médicale. Ainsi, les
+   données relatives à une personne hospitalisée pour un problème
+   respiratoire ne feront pas nécessairement mention du cancer qui
+   l’affecte par ailleurs. Dans certains cas, on relève jusqu’à 30 %
+--
+
+Protéger les données personnelles
+
+   Une plateforme nationale de santé regroupant toutes les données santé
+   de la population est une ressource inestimable pour les praticiens,
+   mais aussi pour la recherche médicale et pharmaceutique. Néanmoins, on
+   doit s’assurer que ces données sont utilisées à bon escient et dans le
+--
+   usufruitiers de leurs données : ils peuvent en disposer mais non les
+   vendre. D’autre part, le traitement de ces données est conditionné au
+   consentement éclairé de la personne concernée. En France, les données
+   de santé sont anonymisées ou pseudonymisées pour être accessibles par
+   les chercheurs, uniquement sur des projets autorisés par des comités
+   d’éthique.
+     __________________________________________________________________
+--
+   traitement automatique des langues pour analyser ces textes et en
+   extraire des informations sur le patient. De nombreux projets sont en
+   cours au sein des hôpitaux, en particulier ceux hébergeant un entrepôt
+   de données de santé, pour faciliter l’accès à ces informations à des
+   visées de recherche ou de soin. A titre d’exemple, le système
+   Epifractal, en cours de mise en œuvre à l’AP-HP, permet de détecter à
+   partir des comptes rendus médicaux, les patients à risque élevé de
+--
+
+À découvrir aussi
+
+     * Big data en santé – dossier d’information
+     * Chirurgie assistée par ordinateur – dossier d’information
+
+Pour aller plus loin
+--
+     * Ethique de la recherche en apprentissage machine
+     * Des machines enfin intelligentes ?
+     * Demain, un ordinateur inspiré de notre cerveau ?
+     * Qui est le propriétaire des données de ma santé ?
+
+Recevoir notre lettre d’information
+

@@ -1,0 +1,79 @@
+    1. Accueil
+    2. Recherches financées
+    3. Intelligence artificielle (IA)
+    4. L’intelligence artificielle au service de la santé
+
+L’intelligence artificielle au service de la santé
+
+     * Qu’est-ce que l’intelligence artificielle ?
+     * Exemples d’applications de l’intelligence artificielle en santé
+     * L’intelligence artificielle : un outil qui reste à maîtriser
+     * Les questions éthiques soulevée par l’intelligence artificielle
+
+--
+   comparer une multitude de paramètres, alors que le cerveau humain ne
+   gère guère plus de 6 ou 7 variables en même temps. Associé à
+   l’expertise des médecins, le développement de l’intelligence
+   artificielle (IA) est donc très prometteur en santé.
+
+   Mais qu’est-ce que l’IA ? Ce domaine s’appuie sur deux éléments
+   importants : les algorithmes et les données massives.
+--
+Les données massives, ou big data
+
+   Autre élément indispensable à l’IA : les données massives, ou big data.
+   Dans le domaine de la santé, les données numériques se multiplient :
+   dossiers de l’Assurance maladie, fichiers des causes de décès ou du
+   système national des données de santé, dossiers médicaux de patients
+   (résultats d’examens et d’imagerie, comptes rendus chirurgicaux,
+   protocoles thérapeutiques...), etc. À quoi s’ajoutent encore les
+   données issues de programmes de recherche.
+--
+   ____________________________________________________________
+   ____________________________________________________________
+
+Exemples d’applications de l’intelligence artificielle en santé
+
+En cancérologie
+
+--
+Aide à la prédiction dans le domaine cardiovasculaire et de la
+transplantation
+
+   Autre domaine dans lequel l’IA prend son essor : la santé
+   cardiovasculaire. Une équipe de l’University College of London
+   développe par exemple un algorithme pour prédire le risque de décès
+   après un infarctus du myocarde ou un accident vasculaire cérébral à
+--
+   qu’il doit réaliser pour poser un diagnostic en cas de pathologie
+   suspectée, afin d’optimiser une éventuelle prise en charge.
+
+La prévention en santé mentale
+
+   Il existe aussi des programmes de recherche en santé mentale, et
+   notamment dans le champ de la prévention. Le projet PsyCARE
+   (Intervention précoce dans la psychose : vers une psychiatrie
+   préventive et personnalisée) porté par Marie-Odile Krebs, clinicienne
+--
+   mieux diagnostiquer, mieux soigner et mieux anticiper les risques.
+
+   Comme l’explique Jean Charlet, chercheur au Laboratoire d'informatique
+   médicale et ingénierie des connaissances pour la e-santé à Paris, « Il
+   existe aujourd’hui de nombreuses preuves de concept que l’IA peut être
+   utile en santé. Mais comme tout nouvel outil, elle va modifier la façon
+   dont le travail est organisé. Or plus un outil est sophistiqué, plus il
+   modifie en profondeur l’organisation préalable. »
+
+   Nul doute donc que l’IA va s’implanter très progressivement dans le
+   domaine de la santé, avec des conséquences sur la relation
+   patient/médecin et l’émergence de nouveaux enjeux éthiques.
+   #ethique
+   #ethique____________________________________________________
+--
+   travaillent déjà de nombreux experts, les sages du CCNE insistent
+   surtout sur le fait que « le risque principal serait de ne pas avoir
+   suffisamment recours à l’IA, explique David Gruson, co-directeur du
+   groupe de travail du CCNE. Nous avons beaucoup de données de santé en
+   France, il ne faudrait pas les sous-exploiter. »
+
+   Enfin, la formation des médecins et soignants à ces outils ainsi que

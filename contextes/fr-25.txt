@@ -1,0 +1,127 @@
+
+   MSD Connect
+   Rechercher (BUTTON) Menu Fermer
+     * Innovation Santé
+          + Innovations thérapeutiques
+          + E-santé
+          + Organisation système de santé
+          + Médecin 2.0
+     * Expertises médicales
+          + Anesthésie et RAAC
+--
+     * Lives et Replays
+
+   Home Comment l’intelligence artificielle peut-elle aider les
+   professionnels de santé ? Partager
+
+Comment l’intelligence artificielle peut-elle aider les professionnels de santé
+                                       ?
+
+   5 min de lecture
+     __________________________________________________________________
+
+   L’intelligence artificielle n’appartient pas qu’au futur, elle imprègne
+   déjà le monde de la santé. Sous différentes formes, allant du simple
+   algorithme au robot chirurgical, l’IA peut aider au quotidien les
+   professionnels de santé dans la prévention d’effets indésirables,
+   l’accélération du diagnostic ou encore le perfectionnement d’une
+   médecine de précision.
+
+   Alors qu’elle devient indispensable au secteur de la santé,
+   l’intelligence artificielle reste encore un concept flou, pouvant
+   susciter fantasmes et inquiétudes de la part des patients comme des
+   professionnels de santé. Même si les premiers algorithmes existent
+   depuis 1960, c’est seulement depuis quelques années que ses
+   applications se multiplient dans tous les domaines des secteurs
+   médicaux. Des maladies rares à l’ophtalmologie, en passant par la
+--
+
+   Grâce au machine learning ou au deep learning, l’intelligence
+   artificielle peut accélérer et amplifier les connaissances des
+   professionnels de santé sur de nombreuses maladies. Un outil
+   technologique particulièrement utile pour détecter les maladies rares,
+   qui, selon le gouvernement, touchent plus de 3 millions de personnes,
+   soit 4,5% de la population française. Plus de 6 000 maladies rares sont
+--
+
+   La médecine de précision (ou médecine personnalisée) a pour objectif de
+   fournir un traitement sur-mesure au patient, qui répondra le plus
+   précisément possible à ses symptômes. En analysant les données de santé
+   du patient, l’intelligence artificielle permet donc de déceler les
+   variations d’une pathologie d’un sujet à un autre. Dans les maladies
+   les plus complexes à traiter, l’analyse de ces variations peut s’avérer
+   décisive pour prescrire le meilleur traitement. Que ce soit en
+   microbiologie clinique ou en oncologie, la médecine de précision,
+   épaulée par l’intelligence artificielle, aide déjà les professionnels
+   de santé à affiner leurs diagnostics. Là encore, le machine learning
+   permet d’étudier toutes les données du patient et des maladies
+   elles-mêmes (l’état de l’art sur une pathologie), pour renforcer la
+   pertinence du diagnostic final. Dans ce domaine, les praticiens gagnent
+--
+   Si les algorithmes aident les praticiens à faire les bons choix, ils ne
+   se substituent pas à l’humain. L’IA est un outil que l’expert peut
+   décider d’utiliser, dans le cadre prévu par la loi française (Article
+   L4001-3) : “Le professionnel de santé qui décide d’utiliser, pour un
+   acte de prévention, de diagnostic ou de soin, un dispositif médical
+   comportant un traitement de données algorithmique dont l’apprentissage
+   a été réalisé à partir de données massives s’assure que la personne
+   concernée en a été informée et qu’elle est, le cas échéant, avertie de
+   l’interprétation qui en résulte.” La loi prévoit ainsi que le
+   concepteur de l’algorithme est obligé d’expliquer le fonctionnement de
+   ce dernier au professionnel de santé. L’objectif est de garantir une
+   transparence totale de l’outil, autant pour les praticiens que pour les
+   patients qui verront leurs données de santé collectées et étudiées. De
+   cette manière,  les acteurs de la santé s’approprient pleinement leurs
+   actes médicaux, sans se reposer exclusivement sur la machine. Ils ne
+   sont plus dépossédés de leur expertise, puisque c’est toujours eux qui
+   rendent le verdict final. L’IA leur permet seulement d’explorer
+--
+   dans leur pays et dans le monde. Mais l’IA joue aussi logiciels un rôle
+   en pharmacovigilance, c’est-à-dire en évaluant les possibles effets
+   secondaires d’un médicament ou d’un traitement sur l’organisme.
+   L’Agence nationale de sécurité du médicament et des produits de santé
+   (ANSM) a par exemple lancé une application nationale de
+   pharmacovigilance intégrant l’intelligence artificielle pour simplifier
+   le traitement des effets indésirables des médicaments et des vaccins,
+--
+
+Faire de l’intelligence artificielle un outil positif au service de l’humain
+
+   Selon l’OMS (Organisation Mondiale de la Santé), l’intelligence
+   artificielle représente autant de défis que d’opportunités pour les
+   gouvernements, les prestataires et les communautés de soin. Elle
+   déclare ainsi : “l’intelligence artificielle (IA) constitue un grand
+--
+   êtres humains, en respectant tout particulièrement la confidentialité
+   de leurs données personnelles. Les évolutions actuelles et à venir
+   devraient ainsi permettre d’utiliser des outils clairs et transparents
+   au service des professionnels de santé comme des patients.
+
+   À lire aussi : L’intelligence artificielle dans le milieu médical : un
+   atout pour les patients et les praticiens
+
+   (BUTTON) Références
+
+   ^(1) Ministère de la Santé et de la Prévention. Les maladies rares.
+   Disponible sur :
+   https://solidarites-sante.gouv.fr/soins-et-maladies/prises-en-charge-sp
+   ecialisees/maladies-rares/article/les-maladies-rares. Consulté le
+   21/12/2022.
+
+   ^(2) Ministère des Solidarités et de la Santé. Plan national maladies
+   rares 2018-2022. Disponible sur :
+   https://solidarites-sante.gouv.fr/IMG/pdf/pnmr_3_v25-09pdf.pdf.
+   Consulté le 21/12/2022.
+
+   ^(3) Code de la Santé Publique. Article L4001-3. Disponible sur :
+   https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043890272/20
+   22-05-02/. Consulté le 21/12/2022.
+
+--
+   ationale-de-pharmacovigilance. Consulté le 21/12/2022.
+
+   ^(9) OMS. Rapport mondial sur l’intelligence artificielle (IA)
+   appliquée à la santé et six principes directeurs relatifs à sa
+   conception et à son utilisation. Disponible sur :
+   https://www.who.int/fr/news/item/28-06-2021-who-issues-first-global-rep
+   ort-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use.

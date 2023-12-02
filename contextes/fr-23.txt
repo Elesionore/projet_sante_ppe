@@ -1,0 +1,141 @@
+                    # Naval
+                    # Nouveaux systèmes énergétiques
+                    # Nucléaire
+                    # Santé
+                    # Robotique
+                    # Transformation et valorisation des déchets
+                    # (BUTTON) Retour au niveau précédent
+--
+                    # (BUTTON) Retour au niveau précédent
+                      (BUTTON) Fermer le menu X
+                      Les secteurs prioritaires
+                         @ Santé
+                         @ Cybersécurité
+                         @ Environnement
+                         @ Mobilité
+--
+    3. Numérique
+    4. Les enjeux
+    5. Les secteurs prioritaires
+    6. L'intelligence artificielle au service de la santé
+
+     * (BUTTON) Agrandissement de la taille de la policeA+
+     * (BUTTON) Réduction de la taille de la policeA-
+     * (BUTTON) Imprimer
+
+L'intelligence artificielle au service de la santé
+
+   © Thinkhubstudio - Getty Images
+
+   L’intelligence artificielle est appelée à jouer un rôle central dans la
+   révolution médicale en cours. Issues du secteur médical et des
+   patients, avec l’avènement des objets connectés de santé, les données
+   de santé permettent d’améliorer considérablement les diagnostics de
+   nombreuses pathologies.
+
+   La France dispose, dans le domaine de l’IA au profit de la santé, d’un
+   écosystème extrêmement dynamique composé à la fois d’équipes de
+   recherche académique d’excellence et d’un réseau médical de renommée
+   mondiale, de grandes entreprises pharmaceutiques et technologiques très
+--
+
+Objectifs poursuivis
+
+   Avec pour ambition d’améliorer la santé des patients et leur expérience
+   du système de santé sur le long terme, la SNIA vise principalement à
+   soutenir la mutualisation des données de santé. En effet, l’accès et le
+   partage des données de santé sont indispensables au développement de
+   solutions numériques efficaces.
+
+   Un tel objectif ne peut toutefois être poursuivi sans l’implication
+   pleine et entière des citoyens. La transparence sur les projets
+   réutilisant leurs données, le partage des principaux résultats, sont
+   des prérequis à leur soutien dans des démarches de partage de données
+   de santé à large échelle.
+
+   Enfin, si la France a toutes les cartes en main pour devenir un leader
+   mondial dans la santé numérique, cela ne sera possible qu’en
+   multipliant les formations sur l’IA en santé et en soutenant les
+   innovations, leur entrée sur le marché français et leur export à
+   l’international.
+
+--
+   les contextes cliniques des patients se complexifient. Par exemple, les
+   personnes âgées souffrent de plus en plus d’une pluralité de
+   pathologies et sont amenées à être suivies par différents
+   professionnels de santé et structures médicales. Le praticien doit
+   alors arbitrer pour offrir le meilleur traitement tout en prenant garde
+   à la qualité de vie du patient, notamment lorsque les traitements sont
+   lourds et admettent d’importants effets secondaires.
+--
+   conditionne l’accès des patients à ces thérapies innovantes et
+   coûteuses.
+
+Un système de santé plus efficient
+
+   L’analyse des données de santé permet également de mieux piloter le
+   système dans son ensemble. Les analyses de données de « vie réelle »
+   (par opposition aux données collectées dans le cadre d’essais
+   cliniques) permettent ainsi de mesurer l’efficacité thérapeutique
+--
+   et éviter des crises.
+
+   Enfin, elles constituent un matériau indispensable à la formulation de
+   recommandations en matière de politiques publiques en santé et à
+   l’évaluation de leur implémentation. On l’a vu, les cas d’usage sont
+   nombreux et dans ce secteur sans doute plus que dans d’autres, l’enjeu
+   de souveraineté nationale est prégnant. L’Etat a un devoir de garantir
+--
+   et en absence de cardiologue.
+
+   En analyse d’image, les algorithmes témoignent également d’une
+   efficacité très intéressante pour le secteur de la santé. La FDA (Food
+   and Drug Administration) a ainsi autorisé le premier dispositif médical
+   utilisant de l’intelligence artificielle pour dépister la rétinopathie
+   diabétique à partir de photos de la rétine en 2018 et une trentaine
+--
+
+Actions clés
+
+     * De nouveaux programmes d’enseignement croisant IA et santé :
+
+   - Lancement d’une Chaire intelligence artificielle en santé, comprenant
+   notamment le D.U. IA appliquée à la santé de la faculté de médecine de
+   l’Université de Paris en janvier 2020.
+
+   - Un master en IA et Santé lancé en 2019 par l’EMLyon : Master in
+   Health and Data Intelligence.
+     * Création du Health Data Hub avec pour objectif de promouvoir
+       l’accès aisé et unifié, transparent et sécurisé aux données de
+       santé, dans le respect des droits des citoyens, pour l’amélioration
+       de la qualité des soins et l’accompagnement du patient.
+     * Trois instituts 3IA (Instituts Interdisciplinaires d’Intelligence
+       Artificielle) Nice, Paris et Grenoble ont mis l’accent sur les
+       applications en santé.
+     * Le Grand défi « Amélioration des diagnostics médicaux par
+       l’intelligence artificielle » a pour objectif de soutenir l’usage
+       de l’IA en santé depuis la production des données jusqu’aux
+       applications industrielles.
+     * L’appel à projets « L’IA pour une expérience améliorée du système
+       de santé » en 2020, co-piloté par le Health Data Hub et le Grand
+       Défi, a sélectionné et soutenu 10 projets innovants associant
+       startups et équipes médicales ou de recherche académique.
+     * Mise en place d’un cycle inédit d’écoles d’IA en santé AI4Health,
+       co-organisé par le Health Data Hub et les Instituts 3IA (Prairie,
+       MIAI Grenoble, 3IA Côte d’Azur), réunissant les plus grands experts
+       mondiaux.
+     * PariSanté Campus, lancé le 4 décembre 2020 par la Président de la
+       République, est un projet ambitieux de campus en santé numérique
+       associant acteurs publics et privés pour construire la médecine du
+       futur.
+
+Liens et téléchargements
+
+     En savoir plus sur la stratégie d'accélération « Santé numérique »
+
+   Mots clés
+     * Intelligence artificielle (IA)
+     * Industrie de santé
+
+   Mis à jour le 01/03/2023
+

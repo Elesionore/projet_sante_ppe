@@ -48,7 +48,14 @@ max-width: Limite la largeur maximale des cellules de données du tableau (td) �
 overflow: Masque tout contenu qui déborde de la cellule.
 
 
+# 29/11/23
 
+02/12/23 (Lise)
+Lors de la séance de cette semaine, nous avons fait la correction du script qui permet de construire nos tableaux.
+Les professeurs nous ont conseillés de faire des scripts séparés pour chaque langue car des problèmes peuvent survenir dans le cas où nous cherchons notre terme dans des écritures différentes.
+De plus, séparer nos scirpts peut permettre d'avoir une meilleure lisibilité. Il nous suffit de reprendre les mêmes scripts entre nous et de les adapter à nos langues. En particulier le mot cible lors du comptage des occurrences, de la création des contextes et des concordanciers.
+
+Concernant les concordanciers du français, le script semble très bien fonctionner. Malgrè cela, dans certains cas minoritaires, le contexte droit ou gauche est accolé à l'occurrence du mot. Quand le mot est cherché seul avec grep, il est trouvé seul mais une fois que nous ajoutons la tabulation, cela ne se fait pas. Nous avons ce cas par exemple dans le fichier "../concordances/fr-9.html". En effet nous trouvons par exemple dans une même case du concordancier "selon Santé Publique France" ou "Le Magazine de la Santé".
 
 
 

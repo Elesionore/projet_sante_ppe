@@ -75,7 +75,7 @@ echo "<html>
 
 echo "		<div class=\"hero-body\">
 			<table class=\"table is-striped is-fullwidth\">
-				<tr class=\"title is-5\"><th>ligne</th><th>URL</th><th>code HTTP</th><th>encodage</th><th>aspiration</th><th>dump</th><th>occurrences</th><th>contextes</th></tr> " >> ../tableaux/${lang}.html
+				<tr class=\"title is-5\"><th>ligne</th><th>URL</th><th>code HTTP</th><th>encodage</th><th>aspiration</th><th>dump</th><th>occurrences</th><th>contextes</th><th>concordances</th></tr> " >> ../tableaux/${lang}.html
 
 
 #remplissage du tableau html : 
@@ -83,6 +83,11 @@ while read -r URL
 do 
 	response=$(curl -s -L -w "%{http_code}" -o "./aspirations/${lang}-${lineno}.html" $URL)
 	encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null $URL | grep -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
+	if [ -z $encoding ]
+	then
+		#si l'encodage est vide on lui attribue utf-8, les quatres urls du fr sans encodage sont bien en utf-8 apèrs vérification manuelle
+		encoding="utf-8"
+	fi
 	
 	COUNT=0
 	TEXTFILE="NA"
@@ -99,6 +104,9 @@ do
 		#chercher le contexte de notre mot 3 lignes dessus et dessous :
 		grep -P -i -C 3 $CIBLE ../dumps-text/${lang}-${lineno}.txt > ../contextes/${lang}-${lineno}.txt
 		CONTEXTE="../contextes/${lang}-${lineno}.txt"
+		
+		CONCORDANCES=$(bash ./concordances_fr.sh ${lang} ${lineno} ${COUNT})
+		CONCORDANCEFILE="../concordances/${lang}-${lineno}.html"
 	fi
 	
 	echo "					<tr>
@@ -110,6 +118,7 @@ do
 						<td><a href="../dumps-text/${lang}-${lineno}.txt">$TEXTFILE</a></td>
 						<td>$COUNT</td>
 						<td><a href="../contextes/${lang}-${lineno}.txt">$CONTEXTE</a></td>
+						<td><a href="../concordances/${lang}-${lineno}.html">$CONCORDANCEFILE</a></td>
 					</tr>" >> ../tableaux/${lang}.html
 					
 	lineno=$(expr $lineno + 1)

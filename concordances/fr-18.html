@@ -1,0 +1,768 @@
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+		<style>
+			body {
+				background-color: #f5f5f5;
+			}
+
+			.hero-body {
+				padding: 2rem;
+			}
+
+			.table-container {
+				max-height: 500px;
+				overflow-y: auto;
+			}
+
+			th:hover {
+				cursor: pointer;
+			}
+
+			tr:hover {
+				background-color: #CBFCE7 !important;
+				overflow: hidden; /* Hide overflow content */
+				text-overflow: ellipsis; /* Display ellipsis (...) for overflow */
+			}
+
+			th {
+				background-color: #7FFCC6;
+				color: #fff;
+				transition: background-color 0.3s;
+			}
+
+			 td {
+				max-width: 300px; /* Set max-width to 300px for the columns */
+				overflow: hidden;
+				text-overflow: ellipsis;
+			}
+
+			td a {
+				color: #3273dc;
+			}
+		</style>
+	</head>
+	<body class="has-background-grey-lighter">
+		<div class="hero-body">
+			<table class="table is-striped is-fullwidth">
+				<tr class="title is-5"><th>Contexte gauche</th><th>Occurrence</th><th>Contexte droit</th></tr>
+					<tr>
+								<td>Soins de </td>
+								<td>santé</td>
+								<td> en France</td>
+							</tr>
+					<tr>
+								<td>Le système de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>Le système de </td>
+								<td>santé</td>
+								<td> en France</td>
+							</tr>
+					<tr>
+								<td>Le système de </td>
+								<td>santé</td>
+								<td> français s'appuie sur</td>
+							</tr>
+					<tr>
+								<td>de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>publics ou privés de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>pilotage du système de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>et syndicats de professionels de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>ficiaires du système de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>La </td>
+								<td>santé</td>
+								<td> publique</td>
+							</tr>
+					<tr>
+								<td>des différents prestataires de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>La surveillance des professionnels de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>Les Agences régionales de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>pilotage du système de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>de la </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>uvre des politiques de </td>
+								<td>santé</td>
+								<td> publique</td>
+							</tr>
+					<tr>
+								<td>tat de </td>
+								<td>santé</td>
+								<td> de la population par la</td>
+							</tr>
+					<tr>
+								<td>Santé publique France</td>
+								<td>Santé publique France</td>
+								<td>Santé publique France</td>
+							</tr>
+					<tr>
+								<td>tablissements de </td>
+								<td>santé</td>
+								<td> et médico-sociaux</td>
+							</tr>
+					<tr>
+								<td>de Santé</td>
+								<td>de Santé</td>
+								<td>de Santé</td>
+							</tr>
+					<tr>
+								<td>la formation des professionnels de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>aux besoins de </td>
+								<td>santé</td>
+								<td> de la population dans chaque</td>
+							</tr>
+					<tr>
+								<td>des coûts en </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td></td>
+								<td>santé</td>
+								<td> publique</td>
+							</tr>
+					<tr>
+								<td>du Ministère de la </td>
+								<td>santé</td>
+								<td> consistent</td>
+							</tr>
+					<tr>
+								<td></td>
+								<td>santé</td>
+								<td> mentale</td>
+							</tr>
+					<tr>
+								<td>représentant les professionnels de </td>
+								<td>santé</td>
+								<td> libéraux</td>
+							</tr>
+					<tr>
+								<td>de Santé</td>
+								<td>de Santé</td>
+								<td>de Santé</td>
+							</tr>
+					<tr>
+								<td>domaines prioritaires des programmes de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>Les agences régionales de </td>
+								<td>santé</td>
+								<td> assurent la coordination de la</td>
+							</tr>
+					<tr>
+								<td>régional la politique de </td>
+								<td>santé</td>
+								<td> en liaison avec les autorit</td>
+							</tr>
+					<tr>
+								<td>dans les domaines de la </td>
+								<td>santé</td>
+								<td> au travail</td>
+							</tr>
+					<tr>
+								<td>de la </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>organisent l'observation de la </td>
+								<td>santé</td>
+								<td> dans la région</td>
+							</tr>
+					<tr>
+								<td>la </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>la </td>
+								<td>santé</td>
+								<td> et</td>
+							</tr>
+					<tr>
+								<td>l'offre de services de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>de promotion de la </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>système de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>professionnels de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td></td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>tablissements de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>de promotion de la </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>de satisfaire les besoins de </td>
+								<td>santé</td>
+								<td> de</td>
+							</tr>
+					<tr>
+								<td>communautés professionnelles territoriales de </td>
+								<td>santé</td>
+								<td> et</td>
+							</tr>
+					<tr>
+								<td>place du projet territorial de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>l'installation des professionnels de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>de promotion de la </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>l'utilisation des produits de </td>
+								<td>santé</td>
+								<td> ainsi que des prises en</td>
+							</tr>
+					<tr>
+								<td>tablissements et services de </td>
+								<td>santé</td>
+								<td> et</td>
+							</tr>
+					<tr>
+								<td>promotion de la </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>aux soins de </td>
+								<td>santé</td>
+								<td> et aux services</td>
+							</tr>
+					<tr>
+								<td>des pratiques des professionnels de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>de </td>
+								<td>santé</td>
+								<td> et médico-sociaux</td>
+							</tr>
+					<tr>
+								<td>la coordination des parcours de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>cibles acteurs de leur propre </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>la </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>l'ensemble des acteurs de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>recherche en </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>des programmes régionaux de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>et syndicats de professionnels de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>professionnels de </td>
+								<td>santé</td>
+								<td> sont regroupés au sein</td>
+							</tr>
+					<tr>
+								<td></td>
+								<td>santé</td>
+								<td> et l'Assurance maladie concernant</td>
+							</tr>
+					<tr>
+								<td>ficiaires du système de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>tablissements de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>de la </td>
+								<td>santé</td>
+								<td> et de la prise en</td>
+							</tr>
+					<tr>
+								<td>usagers du système de </td>
+								<td>santé</td>
+								<td> ainsi qu'aux</td>
+							</tr>
+					<tr>
+								<td>La </td>
+								<td>santé</td>
+								<td> publique</td>
+							</tr>
+					<tr>
+								<td>Santé publique France est un centre</td>
+								<td>Santé publique France est un centre</td>
+								<td>Santé publique France est un centre</td>
+							</tr>
+					<tr>
+								<td></td>
+								<td>santé</td>
+								<td> publique</td>
+							</tr>
+					<tr>
+								<td>et de protéger la </td>
+								<td>santé</td>
+								<td> des</td>
+							</tr>
+					<tr>
+								<td>tat de </td>
+								<td>santé</td>
+								<td> de la population</td>
+							</tr>
+					<tr>
+								<td>les risques pour la </td>
+								<td>santé</td>
+								<td> et concevoir les</td>
+							</tr>
+					<tr>
+								<td>vention et promotion de la </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>promouvoir la </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>Santé</td>
+								<td>Santé</td>
+								<td>Santé</td>
+							</tr>
+					<tr>
+								<td>tat de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>la promotion de la </td>
+								<td>santé</td>
+								<td> et la réduction des</td>
+							</tr>
+					<tr>
+								<td></td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>ducation pour la </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>nationales en matière de </td>
+								<td>santé</td>
+								<td> publique notamment</td>
+							</tr>
+					<tr>
+								<td>les services de </td>
+								<td>santé</td>
+								<td> au travail</td>
+							</tr>
+					<tr>
+								<td>de biens et services en </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>des réseaux de </td>
+								<td>santé</td>
+								<td> pluridisciplinaires</td>
+							</tr>
+					<tr>
+								<td>maisons de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>territoriales de </td>
+								<td>santé</td>
+								<td> ou CPTS</td>
+							</tr>
+					<tr>
+								<td>des maisons ou centres de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>Les professionnels de </td>
+								<td>santé</td>
+								<td> travaillant au sein de ces</td>
+							</tr>
+					<tr>
+								<td>laborer un projet de </td>
+								<td>santé</td>
+								<td> attestant de leur</td>
+							</tr>
+					<tr>
+								<td>Les maisons de </td>
+								<td>santé</td>
+								<td> sont appelées</td>
+							</tr>
+					<tr>
+								<td>l'agence régionale de </td>
+								<td>santé</td>
+								<td> un contrat pluriannuel d'objectifs</td>
+							</tr>
+					<tr>
+								<td>communautés professionnelles territoriales de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>l'ensemble des acteurs de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>professionnels de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>tablissements de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>la </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>matiques en matière de </td>
+								<td>santé</td>
+								<td> qu'ils ont identifiées</td>
+							</tr>
+					<tr>
+								<td>projet de </td>
+								<td>santé</td>
+								<td> est un pr</td>
+							</tr>
+					<tr>
+								<td>professionnels de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>tablissements de </td>
+								<td>santé</td>
+								<td> couvrent des champs d'intervention</td>
+							</tr>
+					<tr>
+								<td></td>
+								<td>santé</td>
+								<td> mentale</td>
+							</tr>
+					<tr>
+								<td></td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>les membres des professions de </td>
+								<td>santé</td>
+								<td> exerçant en pratique de</td>
+							</tr>
+					<tr>
+								<td>uvre de la politique de </td>
+								<td>santé</td>
+								<td> et</td>
+							</tr>
+					<tr>
+								<td>tablissements publics de </td>
+								<td>santé</td>
+								<td> d'un même territoire</td>
+							</tr>
+					<tr>
+								<td>tablissements de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>tablissements de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>des différents prestataires de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>Le site Annuaire </td>
+								<td>santé</td>
+								<td> est un service de l</td>
+							</tr>
+					<tr>
+								<td>un professionnel de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>maladie et les professionnels de </td>
+								<td>santé</td>
+								<td> libéraux</td>
+							</tr>
+					<tr>
+								<td></td>
+								<td>santé</td>
+								<td> qui ont le plus de</td>
+							</tr>
+					<tr>
+								<td>dépenses de soins de </td>
+								<td>santé</td>
+								<td> qui n'est pas prise</td>
+							</tr>
+					<tr>
+								<td>de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>de complémentaire </td>
+								<td>santé</td>
+								<td> solidaire</td>
+							</tr>
+					<tr>
+								<td>La surveillance des professionnels de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>Les Agences régionales de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>les agences régionales de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>vention et promotion de la </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>professions de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>les politiques nationales de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>produits alimentaires et produits de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>tablissements de </td>
+								<td>santé</td>
+								<td> et médico-sociaux</td>
+							</tr>
+					<tr>
+								<td>Les agences régionales de </td>
+								<td>santé</td>
+								<td> veillent au bon fonctionnement des</td>
+							</tr>
+					<tr>
+								<td>tablissements et services de </td>
+								<td>santé</td>
+								<td> ainsi que des</td>
+							</tr>
+					<tr>
+								<td>tablissements de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>de sensibilisation des professionnels de </td>
+								<td>santé</td>
+								<td> autour des</td>
+							</tr>
+					<tr>
+								<td>de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>tablissements de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>de </td>
+								<td>santé</td>
+								<td> est chargée</td>
+							</tr>
+					<tr>
+								<td>tablissements de </td>
+								<td>santé</td>
+								<td> publics et privés doivent</td>
+							</tr>
+					<tr>
+								<td>de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>dicament et des produits de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>prises concernant les produits de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>information des professionnels de la </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>et aux autres produits de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>inattendus des produits de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td>professionnels de </td>
+								<td>santé</td>
+								<td></td>
+							</tr>
+					<tr>
+								<td></td>
+								<td>santé</td>
+								<td> des travailleurs</td>
+							</tr>
+					<tr>
+								<td>radioprotection des professionnels de </td>
+								<td>santé</td>
+								<td> et des personnes</td>
+							</tr>
+			</table>
+		</div>
+	</body>
+</html>

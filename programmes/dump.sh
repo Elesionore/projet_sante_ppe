@@ -7,16 +7,18 @@ then
 	exit
 else
 
-if [ ! -f ../URLs/$URLS ]
+langue=$1
+URLS=$2
+lineno=1
+
+if [ ! -f ../URLs/$2 ]
 	then
 		echo "le fichier n'existe pas"
 		exit
 	fi
 fi
 
-langue=$1
-URLS=$2
-lineno=1
+
 
 while read -r URL
 do

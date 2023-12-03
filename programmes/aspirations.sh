@@ -7,7 +7,7 @@ then
 	exit
 else
 
-if [ ! -f ../URLs/$URLS ]
+if [ ! -f ../URLs/$2 ]
 	then
 		echo "le fichier n'existe pas"
 		exit

@@ -1,295 +1,339 @@
-   [amp_logo.png]
-   [ ]
+   #Здоров'я, безпека та добробут 5 клас Тагліна 2022 Здоров'я, безпека та
+   добробут 5 клас Тагліна 2022
 
-     * УКР
-     * РУС
-     * ENG
-     __________________________________________________________________
+   ____________________
+   (BUTTON)
 
-     * Вхід для клієнтів:
-     * Стрічки новин
-     * Термінал
-     __________________________________________________________________
+   Read
 
-     Головна
+   Articles
 
-     Події
+   Browse short-form content that's perfect for a quick read
 
-     Політика
+   Issuu Store
 
-     Економіка
+   Purchase your next favourite publication
 
-     Green Deal
+   Categories
 
-     Спорт
+   Arts and Entertainment
 
-     Колонки
+   Religion and Spirituality
 
-     Інвестиції
+   Business
 
-     Медицина
+   Science
 
-     Інтерв'ю
+   Education
 
-     Інтерфакс рекомендує
+   Society
 
-     Відео
+   Family and Parenting
 
-     Телеком
+   Sports
 
-     # Червоний Хрест
+   Food and Drink
 
-     # Відновлення України
+   Style and Fashion
 
-     # Зерно
+   Health and Fitness
 
-     # Війна
+   Technology
 
-     # Енергетика
+   Hobbies
 
-     Пресцентр
+   Travel
 
-     Продукти та послуги
+   Home and Garden
 
-     Про агентство
+   Vehicles
 
-Пресрелізи
+   Pets
 
-   16:15 20.10.2023
+   All Categories
+   illustration describing how to get more reads from your publications
+   (BUTTON)
 
-Комплексний підхід до здоров'я серця: харчування, активність і спосіб життя
+   Features
 
-   3 хв читати
+   Flipbooks
 
-   Реклама
+   Transform any piece of content into a page-turning experience.
 
-   Комплексний підхід до здоров'я серця
+   Fullscreen Sharing
 
-   1
+   Deliver a distraction-free reading experience with a simple link.
 
-   Важливе зауваження: Ця стаття не призначена для заміни професійної
-   медичної консультації. Кардіологія - складна і серйозна наука. Якщо у
-   вас є проблеми з серцем, обов'язково проконсультуйтеся з кардіологом.
+   Embed
 
-   Серце - не просто орган. Це потужний мотор, який підтримує всі життєві
-   процеси в організмі. Але як і будь-який механізм, він вимагає якісного
-   "палива" та регулярного "обслуговування".
+   Host your publication on your website or blog with just a few clicks.
 
-Чому харчування таке важливе
+   Articles
 
-   2
+   Get discovered by sharing your best content as bite-sized articles.
 
-   Правильне харчування - ключовий елемент у профілактиці
-   кардіоваскулярних захворювань. Воно може бути вашим союзником у
-   боротьбі з гіпертонією, атеросклерозом та іншими серцево-судинними
-   проблемами.
+   Statistics
 
-Білки, жири, вуглеводи: баланс на користь здоров'я
+   Make data-driven decisions to drive reader engagement, subscriptions,
+   and campaigns.
 
-   Білки - це будівельний матеріал для клітин. Найкращі джерела: риба,
-   курка, сир. Однак надлишок тваринних білків може призвести до
-   додаткового навантаження на серце.
+   Teams
 
-   Жири необхідні для вироблення енергії. Оливкова олія, авокадо і горіхи
-   - чудові джерела корисних жирів. Але трансжири і насичені жири, що
-   часто присутні у фастфуді, збільшують ризик розвитку атеросклерозу.
+   Enable groups of users to work together to streamline your digital
+   publishing.
 
-   Вуглеводи - основне джерело енергії. Цільнозернові продукти, овочі та
-   фрукти повинні бути у вашому раціоні. Їх надлишок, особливо у вигляді
-   цукру та борошняних виробів, може призвести до ожиріння.
+   Social Posts
 
-Вітаміни і мікроелементи: маленькі помічники великого органу
+   Create on-brand social posts and Articles in minutes.
 
-   Вітамін D допомагає у регуляції тиску і зміцненні стінок судин.
-   Присутній у жирній рибі та яйцях.
+   GIFs
 
-   Калій регулює роботу серця і присутній у великій кількості в бананах та
-   апельсинах.
+   Highlight your latest work via email or social media with custom GIFs.
 
-   Магній покращує кровообіг і знаходиться в горіхах, зелених овочах та
-   морепродуктах.
+   Add Links
 
-М'язова маса і обмін речовин: взаємозв'язок з серцевою активністю
+   Send readers directly to specific items or pages with shopping and web
+   links.
 
-   3
+   Video
 
-   Об'ємна м'язова маса сприяє ефективному обміну речовин. Це, в свою
-   чергу, позитивно впливає на функціонування серцево-судинної системи.
-   Збільшення м'язової маси може бути одним з факторів, що покращують стан
-   серця.
+   Say more by seamlessly including video within your publication.
 
-Види фізичної активності для здоров'я серця
+   Digital Sales
 
-   4
+   Sell your publications commission-free as single issues or ongoing
+   subscriptions.
 
-Плавання
+   QR Codes
 
-   Плавання є одним з найбільш ефективних видів фізичної активності для
-   серця. Воно допомагає покращити кровообіг і знизити артеріальний тиск.
+   Generate QR Codes for your digital content.
 
-Ходьба
+   More Features
 
-   Ходьба - доступний і простий спосіб підтримки здоров'я серця. Регулярні
-   прогулянки допомагають контролювати рівень холестерину і знижують ризик
-   розвитку ішемічної хвороби серця.
+   Connections
 
-Йога
+   Canva
 
-   Йога допомагає покращити дихання і знизити рівень стресу, що
-   надзвичайно корисно для серцево-судинної системи.
+   Create professional content with Canva, including presentations,
+   catalogs, and more.
 
-Велосипед
+   Adobe Express
 
-   Велосипедні прогулянки покращують загальну витривалість організму і
-   сприяють нормалізації артеріального тиску. Вони також допомагають у
-   боротьбі зі зайвою вагою, що позитивно позначається на стані серця.
+   Go from Adobe Express creation to Issuu publication.
 
-Вплив сну на здоров'я серця: відпочинок для тіла і душі
+   Adobe InDesign
 
-   5
+   Design pixel-perfect content like flyers, magazines and more with Adobe
+   InDesign.
+   (BUTTON)
 
-   Сон - це не просто "вимкнення" після дня, сповненого активності. Це
-   час, коли наш організм відновлюється, в тому числі і серцево-судинна
-   система. Недолік сну може призвести до підвищення рівня стресових
-   гормонів, що негативно позначається на стані серця.
+   Use Cases
 
-   Якісний сон допомагає регулювати рівень холестерину та артеріального
-   тиску. Він також сприяє нормалізації обміну речовин і рівню цукру у
-   крові. Тому не варто нехтувати повноцінним, 7-8 годинним сном.
+   Industry
 
-В якості висновку
+   Art, Architecture, and Design
 
-   6
+   Education
 
-   Турбота про здоров'я серця - це не просто дієта чи вправи. Це комплекс
-   заходів, який має бути збалансований та регулярно коригуватися. Не
-   займайтеся самолікуванням. Найкращий спосіб підтримувати здоров'я
-   вашого серця - це професійна консультація з кардіологом.
-   Оформити тестову підписку на продукти агентства
-   Читати оперативні новини в офіційному Telegram-каналі
-   Слідкувати за головними повідомленнями агентства у Google News
-   РЕКЛАМА
+   Internal Communications
 
-ВАЖЛИВЕ
+   Marketing and PR
 
-   Як не потрапити на гачок аферистів: ТОП-6 шахрайських схем
+   Nonprofits
 
-   "Дорогу підкорює той, хто іде!": у Києві відбудеться Bouquet Kyiv
-   Stage-2023
+   Publishing
 
-   Жоден сценарій подій на ЗАЕС не потребує проведення йодної профілактики
-   - Державний науково-технічний центр з ядерної та радіаційної безпеки
+   Real Estate
 
-   Саміт НАТО у Вільнюсі має стати переломним моментом, - Київський
-   безпековий форум закликає НАТО невідкладно надати Україні членство
+   Retail and Wholesale
 
-   Посол Корнійчук: ми віримо, що Ізраїль є другом України, і ми
-   потребуємо допомоги негайно
+   Travel and Tourism
 
-ОСТАННЄ
+   More Industries
 
-   Як вибрати тату машинку новачкові?
+   Role
 
-   Світові технологічні тренди впливають на ваш бізнес незалежно від
-   нашого бажання
+   Content Marketers
 
-   FIT for Ukraine: Annual Meeting об'єднав понад 500 міжнародних
-   делегатів
+   Designers
 
-   США признають спільних ворогів України та Ізраїлю - Посольство
+   Publishers
 
-   Руслан Сорочинський та Анастасія Костюкова виграли Кубок України зі
-   Сквошу 2023
+   Salespeople
 
-   Щоб забезпечити захисників якісними дронами, потрібно співробітництво
-   військових та цивільних, - керівник проєкту "ОЧІ" Дмітрієв
+   Social Media Managers
 
-   Демократична стійкість парламенту в умовах війни: довіра та роль
-   громадянського суспільства
+   Teams
 
-   Нова ера освіти: підтримка шкільних викладачів від ЮНЕСКО та EdEra —
-   безкоштовний курс із цифрової педагогіки та Спільнота сучасних учителів
+   Content Type
 
-   В НДСЛ "Охматдит" запрацював новий комп’ютерний томограф
+   Flipbook
 
-   Як купувати прикраси не переплачуючи: комісійний ювелірний
-   інтернет-магазин Goldmart
-   [INS: :INS]
-   РЕКЛАМА
-     * Про агентство
-     * Продукти та послуги
-     * Пресцентр
+   Portfolio
 
-     * Вхід для клієнтів:
-     * Стрічки новин
-     * Термінал
+   Digital Magazine
 
-     * УКР
-     * РУС
-     * ENG
+   Digital Flipbook
 
-   Інтерфакс-Україна
-     * Тестовий доступ
+   PDF to Flipbook
 
+   Newspaper
+
+   Digital Book
+
+   Digital Lookbook
+
+   More Content Types
+   illustration describing two different use cases
+   (BUTTON)
+
+   Learn
+
+   Blog
+
+   Welcome to Issuu’s blog: home to product news, tips, resources,
+   interviews (and more) related to content marketing and publishing.
+
+   Help Center
+
+   Here you'll find an answer to your question.
+
+   Webinars
+
+   Free Live Webinars and Workshops.
+
+   Resources
+
+   Dive into our extensive resources on the topic that interests you. It's
+   like a masterclass to be explored at your own pace.
+   Pricing
+   Log in
+   Sign up
+
+Здоров'я, безпека та добробут 5 клас Тагліна 2022
+
+Document details
+
+Здоров'я, безпека та добробут 5 клас Тагліна 2022
+
+   Published on Jul 10, 2022
+   kreidaros
+   (BUTTON) Follow this publisher
+
+More from
+
+   kreidaros
+   "ГДЗ Пізнаємо природу 5 клас Гільберг 2022 дігностичні роботи"
+   publication cover image
+
+ГДЗ Пізнаємо природу 5 клас Гільберг 2022 дігностичні роботи
+
+   November 26, 2023
+   "ГДЗ Пізнаємо природу 6 клас Гільберг 2023 діагностичні роботи"
+   publication cover image
+
+ГДЗ Пізнаємо природу 6 клас Гільберг 2023 діагностичні роботи
+
+   November 7, 2023
+   "ГДЗ Українська мова 11 клас Авраменко 2019" publication cover image
+
+ГДЗ Українська мова 11 клас Авраменко 2019
+
+   November 4, 2023
+   "Всесвітня історія 10 клас Васильків 2023 станд" publication cover
+   image
+
+Всесвітня історія 10 клас Васильків 2023 станд
+
+   September 9, 2023
+   "Українська мова 6 клас Заболотний 2023 ч.2" publication cover image
+
+Українська мова 6 клас Заболотний 2023 ч.2
+
+   September 7, 2023
+   "Пізнаємо природу 6 клас Гільберг 2023 ч.2" publication cover image
+
+Пізнаємо природу 6 клас Гільберг 2023 ч.2
+
+   September 7, 2023
+   "Німецька мова 6 клас Сотникова 2023 2-й рік" publication cover image
+
+Німецька мова 6 клас Сотникова 2023 2-й рік
+
+   September 7, 2023
+
+   Issuu converts static files into: digital portfolios, online yearbooks,
+   online catalogs, digital photo albums and more. Sign up and create your
+   flipbook.
+
+   (BUTTON) English
+   Deutsch
+   de
+   Create once. Share everywhere.
+   Issuu Inc.
+     * Company
+          + Company - About us
+          + Company - Careers
+          + Company - Blog
+          + Company - Webinars
+          + Company - Press
+     * Issuu Features
+          + Issuu Features - Fullscreen Sharing
+          + Issuu Features - Social Posts
+          + Issuu Features - Articles
+          + Issuu Features - Embed
+          + Issuu Features - Statistics
+          + Issuu Features - InDesign Integration
+          + Issuu Features - Cloud Storage Integration
+          + Issuu Features - GIFs
+          + Issuu Features - Canva Integration
+          + Issuu Features - Add Links
+          + Issuu Features - Teams
+          + Issuu Features - Video
+          + Issuu Features - Web-ready Fonts
+     * Solutions
+          + Solutions - Designers
+          + Solutions - Content Marketers
+          + Solutions - Social Media Managers
+          + Solutions - Publishers
+          + Solutions - Education
+          + Solutions - Salespeople
+          + Solutions - Use Cases
+     * Industries
+          + Industries - Internal Communications
+          + Industries - Marketing and PR
+          + Industries - Publishing
+          + Industries - Real Estate
+          + Industries - Sports
+          + Industries - Travel
+     * Products & Resources
+          + Products & Resources - Plans
+          + Products & Resources - Partnerships
+          + Products & Resources - Developers
+          + Products & Resources - Digital Sales
+          + Products & Resources - Elite Program
+          + Products & Resources - Publisher Directory
+          + Products & Resources - Redeem Code
+          + Products & Resources - Support
+
+   Explore Issuu Content
      *
-     *
-     *
-     *
-     *
+          + Explore - Arts & Entertainment
+          + Explore - Business
+          + Explore - Education
+          + Explore - Family & Parenting
+          + Explore - Food & Drink
+          + Explore - Health & Fitness
+          + Explore - Hobbies
+          + Explore - Home & Garden
+          + Explore - Pets
+          + Explore - Religion & Spirituality
+          + Explore - Science
+          + Explore - Society
+          + Explore - Sports
+          + Explore - Style & Fashion
+          + Explore - Technology & Computing
+          + Explore - Travel
+          + Explore - Vehicles
 
-   ____________________ (BUTTON)
-     *
-
-Головна
-     * Події
-     * Політика
-     * Економіка
-     * Green Deal
-     * Спорт
-     * Телеком
-     * Медицина
-     * Інвестиції
-
-     * СПЕЦТЕМИ:
-     * Червоний Хрест
-     * Відновлення України
-     * Зерно
-     * Війна
-     * Енергетика
-     * Reform.Energy
-
-   РЕКЛАМА
-   РЕКЛАМА
-   РЕКЛАМА
-
-   UKR.NET- новости со всей Украины
-   РЕКЛАМА
-   [INS: :INS]
-
-     * Пресцентр
-     * Продукти та послуги
-     * Вакансії
-     * Тестовий доступ
-     * Про агентство
-
-     *
-     *
-     *
-     *
-     *
-
-   © 1992-2023, Інтерфакс-Україна. Всі права захищені
-   Вся інформація, розміщена на цьому веб-сайті, призначена тільки для
-   персонального використання і не підлягає подальшому
-   відтворенню і/або поширенню в будь-якій формі, інакше як за письмовим
-   дозволом "Інтерфакс-Україна".
-   Пресрелізи розміщуються на комерційних умовах. Агентство
-   "Інтерфакс-Україна" не несе відповідальності за їх зміст.
-
-   Все материалы представленные на открытой части этого информационного
-   ресурса размещаются с задержкой минимум 15 минут.
-   Сайт содержит не более 20% суточного объема материалов информагентства
-   Интерфакс-Украина.
-   Полный доступ к он-лайновым и офф-лайновым информпродуктам возможен при
-   тестовом и контрактном подключении к информации.
-   Авторское право распространяется на все материалы Интерфакс-Украина.
+   Terms Privacy DMCA Accessibility

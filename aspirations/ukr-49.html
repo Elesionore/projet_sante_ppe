@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <title>Всеукраїнська програма ментального здоров’я «Ти як?»</title>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-W3VWTTD');</script>
+    <!-- End Google Tag Manager -->
+    <link rel="apple-touch-icon" sizes="57x57" href="https://eduhub.in.ua/img/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://eduhub.in.ua/img/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://eduhub.in.ua/img/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://eduhub.in.ua/img/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://eduhub.in.ua/img/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://eduhub.in.ua/img/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://eduhub.in.ua/img/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://eduhub.in.ua/img/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://eduhub.in.ua/img/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://eduhub.in.ua/img/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://eduhub.in.ua/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://eduhub.in.ua/img/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://eduhub.in.ua/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://eduhub.in.ua/img/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="http://eduhub.in.ua/img/favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+        <meta name="description"
+            content="Освітній хаб міста Києва">
+    <meta property="og:title" content="Всеукраїнська програма ментального здоров’я «Ти як?»"/>
+    <meta property="og:url" content="https://eduhub.in.ua"/>
+    <meta property="og:image"
+            content="http://eduhub.in.ua/img/fb-image.png"/>
+    <meta property="og:description"
+            content=""/>
+    <meta property="og:site_name" content="Освітній хаб міста Києва"/>
+ 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.3/tiny-slider.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.scrollbar/0.2.11/jquery.scrollbar.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pikaday/css/pikaday.css">
+    <link rel="stylesheet" href="/css/styles.css?1639730464">
+    <meta name="google-site-verification" content="iQurH5WlxfQGci3pMYO4U7DTbCp-hL9HhStFsKEaVjs" />
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3VWTTD"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="app">
+    <modal-text></modal-text>
+    <notification-component ref="notification"></notification-component>
+    <main-notification :user='"0"'
+                       :auth="0"></main-notification>
+    <vue-confirm-dialog></vue-confirm-dialog>
+        <header class="header" id="header">
+        <div class="left-area">
+                                <a href="/" class="logo">
+                        <img src="https://eduhub.in.ua/img/logo.png" alt="Logo">
+                    </a>
+                            </div>
+        <button class="btn-tr btn-mob-menu" type="button" id="btn-mob-menu">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+        <nav class="new-menu-nav">
+                            <button class="btn-light-tr btn-menu" id="btn-menu">
+                    <span class="menu-icon">
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                    </span>
+                    <span class="menu-name">Меню</span>
+                </button>
+                <div class="menu">
+                    <div class="menu-inner">
+                        <big-main-menu>
+                            <div class="person-menu-block">
+                                                                    <auth-component></auth-component>
+                                                            </div>
+                        </big-main-menu>
+                    </div>
+                </div>
+            
+        </nav>
+    </header>
+    	<main class="main" id="main">
+		<div class="breadcrumbs" id="breadcrumbs">
+	
+</div>				<section class="page-title page-title-sm page-title-bottom-md" id="page-title">
+	<div class="wrap wrap-z">
+		
+
+		<h1>
+			Всеукраїнська програма ментального здоров’я «Ти як?»
+		</h1>
+
+			</div>
+	</section>
+
+		<section class="section blog-section margin-top-negative-md">
+			<div class="wrap">
+								<div class="main-image news-main-image">
+					<img src="https://eduhub.in.ua/storage/3759/photo_2023-03-27_16-20-04.jpg" alt="" class="cover-img">
+				</div>
+								<div class="row-w content blog-content">
+					<div class="col-10-w col-md-w">
+						<p class="MsoNormal">В межах Всеукраїнської програми ментального здоров&rsquo;я &laquo;Ти як?&raquo;, ініційованої першою леді України Оленою Зеленською старувала комунікаційна кампанія.</p>
+<p class="MsoNormal">Мета кампанії &ndash; сприяти формуванню в суспільстві культури піклування про ментальне здоров'я, дати розуміння та показати інструменти, які допоможуть українцям дбати про свій внутрішній стан.</p>
+<p class="MsoNormal">За даними соціологічних досліджень, понад 90% українців мали хоча б один із симптомів тривожного розладу, а 57% перебувають у зоні ризику розвитку ментальних порушень. Українці не мають звички звертатися до фахівця: 31% громадян не вважають свої проблеми достатніми для цього. Зараз це основний бар&rsquo;єр на шляху звернення по психологічну допомогу.</p>
+<p class="MsoNormal">Так само, як здатність до адаптування, функціонування й навіть певного розвитку під час війни, перспективи повоєнного відновлення України значною мірою залежать від рівня емоційної солідарності громадян та культури піклування про ментальне здоров&rsquo;я. Психологічні проблеми наростають непомітно, впливають на всі сфери життя та знижують здатність протистояти викликам.</p>
+<p class="MsoNormal">У межах кампанії створено спеціальну сторінку: <a href="http://howareu.com/">http://howareu.com</a> (howareu_program), де запропоновані контакти, посилання, поради, продукти, техніки та методики, які допоможуть піклуватися про ментальне здоров'я &ndash; своє та людей поруч.</p>
+<p class="MsoNormal">Дізнатися більше інформації про ментальне здоров&rsquo;я можна також на сторінках у соціальних мережах:</p>
+<p class="MsoNormal">Facebook &ndash; <a href="https://www.facebook.com/howareu.program">https://www.facebook.com/howareu.program</a><span style="mso-spacerun: yes;">&nbsp; </span></p>
+<p class="MsoNormal">Instagram &ndash; <a href="https://www.instagram.com/howareu_program">https://www.instagram.com/howareu_program</a></p>
+<p class="MsoNormal">YouTube &ndash; <a href="https://www.youtube.com/@howareu_program">https://www.youtube.com/@howareu_program</a><span style="mso-spacerun: yes;">&nbsp; </span></p>
+<p class="MsoNormal">Twitter &ndash; <a href="https://twitter.com/howareuprogram">https://twitter.com/howareuprogram</a><span style="mso-spacerun: yes;">&nbsp; </span></p>
+<p class="MsoNormal">Telegram &ndash; <a href="https://t.me/howareu_program">https://t.me/howareu_program</a><span style="mso-spacerun: yes;">&nbsp; </span></p>
+<p class="MsoNormal">TikTok &ndash; <a href="https://www.tiktok.com/@howareu_program">https://www.tiktok.com/@howareu_program</a><span style="mso-spacerun: yes;">&nbsp; </span></p>
+<p class="MsoNormal">Viber<span style="mso-spacerun: yes;">&nbsp; </span>&ndash; <a href="https://invite.viber.com/?g2=AQAyHzQp6XJwmVCkkkXeWJVdLF8eAQa8Pzq3NYgcLWJGls3sN3tGibu5P%2BEH0rsb">https://invite.viber.com/?g2=AQAyHzQp6XJwmVCkkkXeWJVdLF8eAQa8Pzq3NYgcLWJGls3sN3tGibu5P%2BEH0rsb</a></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Всеукраїнська програма ментального здоров&rsquo;я &laquo;Ти як?&raquo;, ініційована Оленою Зеленською, має на меті допомогти українцям знайти джерело сили. Джерело внутрішнє, в собі, на рівні усвідомлення й визнання власного психічного стану та хоча б приблизної оцінки ступеня його кризовості. Піклування про ментальне здоров'я має стати звичною відповідальністю кожного. Також необхідно створити систему сервісів і послуг, які зможуть різними засобами та дієвими механізмами підтримати людину, коли вона не справляється самостійно.</p>
+<p class="MsoNormal">Розробку та впровадження Всеукраїнської програми ментального здоров&rsquo;я координує МОЗ України. Всесвітня організація охорони здоров&rsquo;я &ndash; експертний партнер, виконавчий партнер &ndash; громадська організація &laquo;Безбар&rsquo;єрність&raquo;. Майданчиком для розробки та ухвалення рішень є Міжвідомча координаційна рада при Кабінеті Міністрів України. Комунікаційна кампанія реалізується за підтримки Агентства США з міжнародного розвитку (USAID).</p>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		
+	</main>
+    <footer class="footer" id="footer">
+        <div class="footer-top">
+            <a href="/" class="logo composite">
+                <img style="width: 200px" src="https://eduhub.in.ua/img/logo-primary-blue.png" alt="Logo">
+            </a>
+            <nav class="footer-nav">
+                <footer-menu/>
+            </nav>
+        </div>
+        <div class="footer-bottom">
+            <span class="footer-copyright">© Розробник ТОВ "Академія навичок", 2019 р., Всі права захищені.</span>
+            <div class="soc-menu">
+                <span class="soc-name caption">
+                    Ми в соцмережах
+                </span>
+                <ul class="soc-links">
+                    <li>
+                        <a target="_blank" href="https://www.facebook.com/eduhub.in.ua/">
+                            <svg class="icon">
+                                <use xlink:href="/img/svgmap.svg#facebook">
+                            </svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="https://t.me/eduhubinua/">
+                            <svg class="icon">
+                                <use xlink:href="/img/svgmap.svg#telegram">
+                            </svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="https://www.youtube.com/channel/UCT6DBbstBgo5OOJ7dlipIng/">
+                            <svg class="icon">
+                                <use xlink:href="/img/svgmap.svg#youtube">
+                            </svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="https://instagram.com/eduhubinua/">
+                            <svg class="icon">
+                                <use xlink:href="/img/svgmap.svg#instagram">
+                            </svg>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+</div>
+<div class="overflow"></div>
+<script src="/js/main.js?1639730464"></script>
+<script src="/js/app.js?1639730464"></script>
+</body>
+</html>

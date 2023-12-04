@@ -12,7 +12,7 @@ Le résultat : tout fonctionne, quelques liens donnent la réponse 403/404. On 
 Les difficultés a cet étape :  il fallait unifier les chemins des fichiers dans les dossiers, fusionner le code et éviter la synchronisation chaotique. On n’a pas fait « deploy » de notre site, car on veut finir avec les concordances. 
 
 
-25/11/23 (Lise)
+# 25/11/23 (Lise)
 Nous avons à présent l'ensemble des scripts permettant de faire l'aspiration de nos urls, les dumps-text de nos urls et venir compter le nombre d'occurrences de "santé" dans notre texte. Concernant ce dernier, pour le français des problèmes apparaissent. En effet, plutôt que d'avoir un nombre total d'occurrences, dans certains cas plusieurs nombres s'affichent. Par exemple, avec la commande suivante :
 cat "$FICHIER" | grep -P -o "\p{Latin}+" | tr "[:upper:]" "[:lower:]" | tr "É" "é" | sort | uniq -c | grep -P "santé" | grep -P -o "[[:digit:]]+"
 pour l'url numéro 6 dans le tableau, il est affiché "16 1 1". Le total devrait être "18".
@@ -23,7 +23,7 @@ Certains liens du français rencontraient encore des erreurs tels qu'un était e
 4 urls n'affichent aucun encodage, mais ayant vérifié manuellement, ces urls contiennent bien la balise
 "meta charset='utf-8'" dans le head. Elles sont donc bien elles aussi encodées en UTF-8. Nous pourrons donc ajouter dans nos script un "if" qui indique que si encodage est vide on peut y indiquer "utf-8".
 
-27/11/23 (Solomiia)
+# 27/11/23 (Solomiia)
 Je n'ai pas réussi à faire en sorte que le programme compte les occurrences. Cela peut être dû à l'alphabet cyrillique. En revanche, je suis parvenue à ajouter des styles pour embellir les tableaux et mettre en évidence les lignes au survol.
 Voici une description de chaque partie du code :
 
@@ -47,15 +47,20 @@ text-overflow: Affiche une ellipse (...) pour indiquer qu'il y a du contenu masq
 max-width: Limite la largeur maximale des cellules de données du tableau (td) à 300 pixels.
 overflow: Masque tout contenu qui déborde de la cellule.
 
-
-# 29/11/23
-
-02/12/23 (Lise)
+# 02/12/23 (Lise)
 Lors de la séance de cette semaine, nous avons fait la correction du script qui permet de construire nos tableaux.
 Les professeurs nous ont conseillés de faire des scripts séparés pour chaque langue car des problèmes peuvent survenir dans le cas où nous cherchons notre terme dans des écritures différentes.
 De plus, séparer nos scirpts peut permettre d'avoir une meilleure lisibilité. Il nous suffit de reprendre les mêmes scripts entre nous et de les adapter à nos langues. En particulier le mot cible lors du comptage des occurrences, de la création des contextes et des concordanciers.
 
 Concernant les concordanciers du français, le script semble très bien fonctionner. Malgrè cela, dans certains cas minoritaires, le contexte droit ou gauche est accolé à l'occurrence du mot. Quand le mot est cherché seul avec grep, il est trouvé seul mais une fois que nous ajoutons la tabulation, cela ne se fait pas. Nous avons ce cas par exemple dans le fichier "../concordances/fr-9.html". En effet nous trouvons par exemple dans une même case du concordancier "selon Santé Publique France" ou "Le Magazine de la Santé".
+
+# 04/12/23 (Solomiia)
+J'ai fait 5 tentatives pour que l'application compte les occurrences en ukrainien.
+cat "../chemin/fichier.txt" | sort | uniq -c | grep -P "здоровʼя|здоров’я?|здоров'я|здоров'я?|Здоровʼя|Здоров'я" | grep -P -o "[[:digit:]]"| paste -sd+ - | bc
+Celui me donne le résultat dans le terminal, mais pas dans les tables. 
+Grace à Lise j'ai lancé le script pour itrameur de dump-texts et c'est bien. Malhereusement, je suis bloquée avec les occurences et concordances, je vais demander aux professeurs pendant le cours. 
+
+
 
 
 

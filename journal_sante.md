@@ -54,12 +54,13 @@ De plus, séparer nos scirpts peut permettre d'avoir une meilleure lisibilité. 
 
 Concernant les concordanciers du français, le script semble très bien fonctionner. Malgrè cela, dans certains cas minoritaires, le contexte droit ou gauche est accolé à l'occurrence du mot. Quand le mot est cherché seul avec grep, il est trouvé seul mais une fois que nous ajoutons la tabulation, cela ne se fait pas. Nous avons ce cas par exemple dans le fichier "../concordances/fr-9.html". En effet nous trouvons par exemple dans une même case du concordancier "selon Santé Publique France" ou "Le Magazine de la Santé".
 
+Le script pour préparer nos données à iTrameur fonctionne et devrait permettre d'être utiliser par les trois langues.
+
 # 04/12/23 (Solomiia)
 J'ai fait 5 tentatives pour que l'application compte les occurrences en ukrainien.
 cat "../chemin/fichier.txt" | sort | uniq -c | grep -P "здоровʼя|здоров’я?|здоров'я|здоров'я?|Здоровʼя|Здоров'я" | grep -P -o "[[:digit:]]"| paste -sd+ - | bc
 Celui me donne le résultat dans le terminal, mais pas dans les tables. 
 Grace à Lise j'ai lancé le script pour itrameur de dump-texts et c'est bien. Malhereusement, je suis bloquée avec les occurences et concordances, je vais demander aux professeurs pendant le cours. 
-
 
 
 

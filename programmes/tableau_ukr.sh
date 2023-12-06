@@ -22,7 +22,7 @@ lang=$(basename $URLS .txt)
 
 # variable qui peut être utilisée si on souhaite complexifié notre mot cible
 # si on l'utilise, ajouter l'option -P à grep et mettre $CIBLE à la place de notre mot
-CIBLE="santés?"
+CIBLE="(здоровʼя|здоров’я?|здоров'я|здоров'я?|Здоровʼя|Здоров'я)"
 
 #construction du début du fichier html avec les métadonnées : 
 echo "<html>
@@ -100,8 +100,8 @@ do
 		grep -P -i -C 3 $CIBLE ../dumps-text/${lang}-${lineno}.txt > ../contextes/${lang}-${lineno}.txt
 		CONTEXTE="../contextes/${lang}-${lineno}.txt"
 		
-		CONCORDANCES=$(bash ./concordances_ukr.sh ${lang} ${lineno} ${COUNT})
-		CONCORDANCEFILE="../concordances/${lang}-${lineno}.html"
+		#CONCORDANCES=$(bash ./concordances_ukr.sh ${lang} ${lineno} ${COUNT})
+		#CONCORDANCEFILE="../concordances/${lang}-${lineno}.html"
 	fi
 	
 	echo "					<tr>
@@ -113,7 +113,6 @@ do
 						<td><a href="../dumps-text/${lang}-${lineno}.txt">$TEXTFILE</a></td>
 						<td>$COUNT</td>
 						<td><a href="../contextes/${lang}-${lineno}.txt">$CONTEXTE</a></td>
-						<td><a href="../concordances/${lang}-${lineno}.html">$CONCORDANCEFILE</a></td>../
 					</tr>" >> ../tableaux/${lang}.html
 					
 	lineno=$(expr $lineno + 1)

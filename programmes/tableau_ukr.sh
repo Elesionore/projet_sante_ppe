@@ -77,7 +77,7 @@ while read -r URL
 do
 	reponse=$(curl -s -I -L -w "%{http_code}" -o "./aspirations/${langue}-${lineno}.html" $URL)
 	encodage=$(curl -s -I -L -w "%{content_type}" -o /dev/null $URL | grep -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
-    occurence=$(cat "../dumps-text/${langue}-${lineno}.txt" | sort | uniq -c | grep -P "здоровʼя|здоров’я?|здоров'я|здоров'я?|Здоровʼя|Здоров'я" | grep -P -o "[[:digit:]]"| paste -sd+ - | bc)
+    occurrence=$(cat "../dumps-text/${langue}-${lineno}.txt" | sort | uniq -c | grep -P "здоровʼя|здоров’я?|здоров'я|здоров'я?|Здоровʼя|Здоров'я" | grep -P -o "[[:digit:]]"| paste -sd+ - | bc)
 
 	echo "					<tr>
 						<td>$lineno</td>

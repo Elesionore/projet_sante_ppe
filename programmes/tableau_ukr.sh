@@ -100,8 +100,8 @@ do
 		grep -P -i -C 3 $CIBLE ../dumps-text/${lang}-${lineno}.txt > ../contextes/${lang}-${lineno}.txt
 		CONTEXTE="../contextes/${lang}-${lineno}.txt"
 		
-		#CONCORDANCES=$(bash ./concordances_ukr.sh ${lang} ${lineno} ${COUNT})
-		#CONCORDANCEFILE="../concordances/${lang}-${lineno}.html"
+		CONCORDANCES=$(bash ./concordances_ukr.sh ${lang} ${lineno} ${COUNT})
+		CONCORDANCEFILE="../concordances/${lang}-${lineno}.html"
 	fi
 	
 	echo "					<tr>

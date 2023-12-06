@@ -86,7 +86,7 @@ do
 
 	COUNT=0
 	TEXTFILE="NA"
-	if [ $response == "200" ]
+	if [ $response = "200" ]
 	then
 		#création du dump text
 		lynx -dump -nolist ../aspirations/${lang}-${lineno}.html > ../dumps-text/${lang}-${lineno}.txt

@@ -64,9 +64,9 @@ echo "		<div class=\"hero-body\">
 
 while [ $ligne -le $nb_occurrences ]
 do
-	contexteGauche=$(grep -o -i -P "(\w+\W){0,5}(здоровʼя|здоров’я?|здоров'я|здоров'я?|Здоровʼя|Здоров'я)(\W\w+){0,5}" ../contextes/${lang}-${lineno}.txt | sed -e "s/\здоровʼя/\t\1\t/g" -e "s/\здоров’я?/\t\1\t/g" -e "s/\здоров'я/\t\1\t/g" -e "s/\здоров'я?/\t\1\t/g" -e "s/\Здоровʼя/\t\1\t/g" -e "s/\Здоров'я/\t\1\t/g" | cut -f 1 | sed -n "$ligne p")
-	occurrence=$(grep -o -i -P "(\w+\W){0,5}(здоровʼя|здоров’я?|здоров'\я\|здоров'я?|Здоровʼя|Здоров'я)(\W\w+){0,5}" ../contextes/${lang}-${lineno}.txt | sed -e "s/\здоровʼя/\t\1\t/g" -e "s/\здоров’я?/\t\1\t/g" -e "s/\здоров'я/\t\1\t/g" -e "s/\здоров'я?/\t\1\t/g" -e "s/\Здоровʼя/\t\1\t/g" -e "s/\Здоров'я/\t\1\t/g" | cut -f 2 | sed -n "$ligne p")
-	contexteDroit=$(grep -o -i -P "(\w+\W){0,5}(здоровʼя|здоров’я?|здоров'я|здоров'я?|Здоровʼя|Здоров'я)(\W\w+){0,5}" ../contextes/${lang}-${lineno}.txt | sed -e "s/\здоровʼя/\t\1\t/g" -e "s/\здоров’я?/\t\1\t/g" -e "s/\здоров'я/\t\1\t/g" -e "s/\здоров'я?/\t\1\t/g" -e "s/\Здоровʼя/\t\1\t/g" -e "s/\Здоров'я/\t\1\t/g" | cut -f 3 | sed -n "$ligne p")
+	contexteGauche=$(grep -o -i -P "(\w+\W){0,5}(здоровʼя|здоров’я?|здоров'я|здоров'я?|Здоровʼя|Здоров'я)(\W\w+){0,5}" ../contextes/${lang}-${lineno}.txt | sed -e "s/\(здоровʼя\)/\t\1\t/g" -e "s/\здоров’я?/\t\1\t/g" -e "s/\здоров'я/\t\1\t/g" -e "s/\здоров'я?/\t\1\t/g" -e "s/\Здоровʼя/\t\1\t/g" -e "s/\Здоров'я/\t\1\t/g" | cut -f 1 | sed -n "$ligne p")
+	#occurrence=$(grep -o -i -P "(\w+\W){0,5}(здоровʼя|здоров’я?|здоров'\я\|здоров'я?|Здоровʼя|Здоров'я)(\W\w+){0,5}" ../contextes/${lang}-${lineno}.txt | sed -e "s/\здоровʼя/\t\1\t/g" -e "s/\здоров’я?/\t\1\t/g" -e "s/\здоров'я/\t\1\t/g" -e "s/\здоров'я?/\t\1\t/g" -e "s/\Здоровʼя/\t\1\t/g" -e "s/\Здоров'я/\t\1\t/g" | cut -f 2 | sed -n "$ligne p")
+	#contexteDroit=$(grep -o -i -P "(\w+\W){0,5}(здоровʼя|здоров’я?|здоров'я|здоров'я?|Здоровʼя|Здоров'я)(\W\w+){0,5}" ../contextes/${lang}-${lineno}.txt | sed -e "s/\здоровʼя/\t\1\t/g" -e "s/\здоров’я?/\t\1\t/g" -e "s/\здоров'я/\t\1\t/g" -e "s/\здоров'я?/\t\1\t/g" -e "s/\Здоровʼя/\t\1\t/g" -e "s/\Здоров'я/\t\1\t/g" | cut -f 3 | sed -n "$ligne p")
  
 	echo "					<tr>
 								<td>$contexteGauche</td>

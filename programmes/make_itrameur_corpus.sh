@@ -29,7 +29,7 @@ while [ $fichier -le $nb_fichier ]
 do
 	#stocker le contenu texte du fichier et gérer les entités HTML/XML :
 	#si on veut garder les entités :
-	#contenu=$(cat ../${dossier}/${lang}-${fichier}.txt | sed "s/&/&amp/g" | sed "s/</&lt/g" | sed "s/>/&gt/g" | sed "s/\'/&apos/g" | sed "s/\"/&quot/g")
+	#contenu=$(cat ../${dossier}/${lang}-${fichier}.txt | sed "s/&/&amp;/g" | sed "s/</&lt;/g" | sed "s/>/&gt;/g")
 
 	#si on veut supprimer les entités :
 	contenu=$(cat ../${dossier}/${lang}-${fichier}.txt | tr "&" " " | tr "<" " " | tr ">" " " )

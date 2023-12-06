@@ -113,6 +113,7 @@ do
 						<td><a href="../dumps-text/${lang}-${lineno}.txt">$TEXTFILE</a></td>
 						<td>$COUNT</td>
 						<td><a href="../contextes/${lang}-${lineno}.txt">$CONTEXTE</a></td>
+                        <td><a href="../concordances/${lang}-${lineno}.html">$CONCORDANCEFILE</a></td>
 					</tr>" >> ../tableaux/${lang}.html
 					
 	lineno=$(expr $lineno + 1)

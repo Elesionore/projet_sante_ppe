@@ -60,12 +60,11 @@ echo "		<div class=\"hero-body\">
 
 
 # CONCORDANCEFILE="../concordances/${lang}-${lineno}.html"
-TAB=§'\t'
-basetext=$(grep -o -i -P  "(\p{Cyrillic}+\W){0,5}(здоровʼя|здоров’я?|здоров'я|здоров'я?|Здоровʼя|Здоров'я)(\W\p{Cyrillic}+){0,5}" ../contextes/${lang}-${lineno}.txt | sed -e "s/\(здоровʼя\)/\t\1${TAB}/g" -e "s/\(здоров’я?\)/\t\1${TAB}/g" -e "s/\(здоров'я\)/\t\1${TAB}/g" -e "s/\(здоров'я?\)/\t\1${TAB}/g" -e "s/\(Здоровʼя\)/\t\1${TAB}/g" -e "s/\(Здоров'я\)/\t\1${TAB}/g")
+#TAB=§'\t'
+basetext=$(grep -o -i -P  "(\p{Cyrillic}+\W){0,5}(здоровʼя|здоров’я?|здоров'я|здоров'я?|Здоровʼя|Здоров'я)(\W\p{Cyrillic}+){0,5}" ../contextes/${lang}-${lineno}.txt | sed -e "s/\(здоровʼя\)/\t\1\t/g" -e "s/\(здоров’я?\)/\t\1\t/g" -e "s/\(здоров'я\)/\t\1\t/g" -e "s/\(здоров'я?\)/\t\1\t/g" -e "s/\(Здоровʼя\)/\t\1\t/g" -e "s/\(Здоров'я\)/\t\1\t/g")
 
 while [ $ligne -le $nb_occurrences ]
 do
-    
 	contexteGauche=$(echo -e "$basetext" | cut -f 1 | head -n "$ligne" | tail -n 1)
 	occurrence=$(echo -e "$basetext" | cut -f 2 | head -n "$ligne" | tail -n 1)
 	contexteDroit=$(echo -e "$basetext" | cut -f 3 | head -n "$ligne" | tail -n 1)

@@ -62,6 +62,10 @@ cat "../chemin/fichier.txt" | sort | uniq -c | grep -P "здоровʼя|здо�
 Celui me donne le résultat dans le terminal, mais pas dans les tables. 
 Grace à Lise j'ai lancé le script pour itrameur de dump-texts et c'est bien. Malhereusement, je suis bloquée avec les occurences et concordances, je vais demander aux professeurs pendant le cours. 
 
+# 26/12/23 (Lise)
+Changement du style de notre index de Bulma vers Bootstrap.
 
+# 29/12/23
+Ajout de la page analyses_fr.html qui servira à présenter l'analyse textuelle des nos données avec l'outil iTrameur. Cette page sera accessible depuis la barre de menu.
 
 

@@ -61,9 +61,267 @@
 			</div>
 		</nav>
 		
+		
 		<div>
-			<p>Ceci est l'analyse textométrique iTrameur des données du français.</p>
+			<p>Ceci est une présentation de l'analyse textométrique des données du français.</p>
+		</div>
+		
+		
+		<div>
+			<h3>Analyses textométriques sur le dumps-text-fr.txt</h3>
+			<h5>Dénombrement : Trame > Dictionnaire</h5>
+			
+			<p>Si nous prenons les mots les plus fréquents du dictionnaire, sans tenir compte des mots grammaticaux (articles, conjonctions et prépositions), nous obtenons les mots suivants : </p>
+			
+			<table>
+				<tr>
+					<th>Item</th>
+					<th>Fq</th>
+				</tr>
+				<tr>
+					<td>santé</td>
+					<td>1057</td>
+				</tr>
+				<tr>
+					<td>2023</td>
+					<td>601</td>
+				</tr>
+				<tr>
+					<td>Santé</td>
+					<td>452</td>
+				</tr>
+				<tr>
+					<td>France</td>
+					<td>384</td>
+				</tr>
+				<tr>
+					<td>soins</td>
+					<td>222</td>
+				</tr>
+				<tr>
+					<td>Publié</td>
+					<td>217</td>
+				</tr>
+				<tr>
+					<td>être</td>
+					<td>213</td>
+				</tr>
+				<tr>
+					<td>peut</td>
+					<td>187</td>
+				</tr>
+				<tr>
+					<td>Maladies</td>
+					<td>185</td>
+				</tr>
+				<tr>
+					<td>jour</td>
+					<td>172</td>
+				</tr>
+				<tr>
+					<td>patients</td>
+					<td>154</td>
+				</tr>
+				<tr>
+					<td>vie</td>
+					<td>153</td>
+				</tr>
+				<tr>
+					<td>savoir</td>
+					<td>149</td>
+				</tr>
+				<tr>
+					<td>données</td>
+					<td>143</td>
+				</tr>
+				<tr>
+					<td>recherche</td>
+					<td>138</td>
+				</tr>
+			</table>
+			
+			<p>Nous trouvons des notions autour de la santé en France en 2023, la notion de soins et de maladies, de patients, et aussi nous pouvons remarquer un potentiel intérêt pour la recherche.</p>
+			
+			<p>Sur la base des mots relevés ci-dessus, nous allons voir à quel point ils sont présents dans l’ensemble des urls. Pour celà, nous utiliserons l’outil carte de section
+.</p>
+			
+			<h5>Fouille : Section > Carte des sections</h5>
+			
+			<p>Dans la fouille de texte, nous pouvons venir voir où apparaissent certains termes en fonction des sites. Notre délimiteur se trouvant entre chaque dump-text de chaque page web, nous pourrons donc observer si le terme recherché se trouve sur l’ensemble des urls ou seulement quelques unes. </p>
+			
+			<img src="assets/img/fr_section_1.png">
+			<p>Carte des sections de la recherche "recherche"</p>
+			
+			<p>Nous avons voulu, ici, observer à quel point le mot “recherche” est présent dans nos dumps-texts de site. Nous pouvons voir que ce dernier est assez présent dans la moitié des sites. Cependant, nous devons nous méfier de ce résultat car les dumps-text de nos sites contiennent l’ensemble de ce qui est écrit sur le site, y compris la barre de recherche. Afin de s’assurer qu’il ne s’agit pas de la barre de recherche mais de la recherche médicale, nous allons utiliser d’autres fonctions du Trameur, et comparer ces résultats à ceux que nous obtiendrons avec le texte des contextes.</p>
+			
+			<img src="assets/img/fr_section_2.png">
+			<p>Carte des sections de la recherche "soins"</p>
+			
+			<p>Le mot “soins” apparaît dans 50% des sites. Nous pouvons donc penser que la notion de soins et de se soigner est plutôt importante pour les français.</p>
+			
+			<img src="assets/img/fr_section_3.png">
+			<p>Carte des sections de la recherche "patients"</p>
+			
+			<img src="assets/img/fr_section_4.png">
+			<p>Carte des sections de la recherche "hôpital"</p>
+			
+			<p>Il est intéressant de comparer l’apparition du mot “patients” et “hôpital” au sein des sites. Nous observons que lorsque le mot “hôpital” apparaît, le mot “patients” est généralement présent au sein du même site. L’inverse n’est pas le cas.</p>
+			
+			<p>Nous pouvons aussi observer une corrélation entre la présence du terme “soins” et du terme “patients”. Ainsi, nous pouvons penser que ces mots apparaissent ensemble car lorsque l’on fait référence à un patient, cela implique qu’il reçoit des soins médicaux.</p>
+			
+			<h5>Cooccurrence : Coocs > Cooccurrents</h5>
+			
+			<img src="assets/img/fr_cooc_1.png">
+			<img src="assets/img/fr_cooc_2.png">
+			<p>Tableau des cooccurrents du terme “santé” (IndSPmin = 10)</p>
+			
+			<img src="assets/img/fr_cooc_3.png">
+			<p>Diagramme des cooccurrents de “santé”</p>
+			
+			<p>Nous trouvons des cooccurrents avec un indice de spécificité, une fréquence de cooccurrence ou de co-fréquence assez élevée. En effet, nous avons par exemple le cooccurrent “professionnels” qui renvoie aux “professionnels de santé” si nous observons les contextes. D’autres termes que nous pouvons relever qui seraient intéressants sont “mentale”, “territoire”, “publique”, “établissements”, “inégalités”, “Pollution” et “mutuelle”.
+Nous pouvons par exemple vouloir creuser davantage la santé mentale en observant les contextes du mot “mentale” cooccurrent de “santé”.</p>
+			
+			<img src="assets/img/fr_contexte_1.png">
+			<p>Tableau des contextes du mot “mentale” cooccurrent de “santé” (“santé mentale”)</p>
+			
+			<p>La santé mentale semble être une notion importante aux yeux des français car elle apparaît à un total de 74 fois dans l’ensemble de nos sites.</p>
+			
+			<img src="assets/img/fr_contexte_2.png">
+			<p>Tableau des contextes des cooccurrents “santé” et “inégalités”</p>
+			
+			<p>Le contexte de cette cooccurrence met en évidence des inégalités en France au niveau social dans le secteur de la santé. En effet, les termes “inégalités sociales de santé” sont très récurrents.</p>
+			
+			<p>Le terme “Pollution” aurait pu être intéressant dans le cadre d’une apparition proche du terme “santé”. Nous pouvons en effet penser que la pollution est quelque chose qui inquiète les français vis à vis de leur santé. Malgré celà, grâce au tableau des contextes, nous pouvons voir que ce terme n’est pas vraiment sujet à discussion, il semble plutôt faire parti d’un titre de menu, comme visible sur un extrait du tableau ci-dessous :</p>
+			
+			<img src="assets/img/fr_contexte_3.png">
+			<p>Tableau des contextes des cooccurrents “santé” et “Pollution”</p>
 		</div>
 
+		
+		<div>			
+			<h3>Analyses textométriques sur le contextes-fr.txt</h3>
+			<h5>Dénombrement : Trame > Dictionnaire</h5>
+			
+			<p>Voici une partie du dictionnaire des mots présents dans les contextes qui nous semble intéressante : </p>
+			
+			<img src="assets/img/fr_dico_1.png">
+			<p>Extrait du dictionnaire de contextes.txt</p>
+			
+			<p>Voici un tableau du dictionnaire des termes qui nous semblent intéressants à relever : </p>
+			
+			<table>
+				<tr>
+					<th>Item</th>
+					<th>Fq</th>
+				</tr>
+				<tr>
+					<td>santé</td>
+					<td>1057</td>
+				</tr>
+				<tr>
+					<td>Santé</td>
+					<td>452</td>
+				</tr>
+				<tr>
+					<td>France</td>
+					<td>184</td>
+				</tr>
+				<tr>
+					<td>2023</td>
+					<td>164</td>
+				</tr>
+				<tr>
+					<td>soins</td>
+					<td>115</td>
+				</tr>
+				<tr>
+					<td>publique</td>
+					<td>82</td>
+				</tr>
+				<tr>
+					<td>professionnels</td>
+					<td>75</td>
+				</tr>
+				<tr>
+					<td>indicateurs</td>
+					<td>75</td>
+				</tr>
+				<tr>
+					<td>mentale</td>
+					<td>72</td>
+				</tr>
+				<tr>
+					<td>19</td>
+					<td>71</td>
+				</tr>
+				<tr>
+					<td>être</td>
+					<td>68</td>
+				</tr>
+				<tr>
+					<td>Maladies</td>
+					<td>64</td>
+				</tr>
+				<tr>
+					<td>Publié</td>
+					<td>62</td>
+				</tr>
+				<tr>
+					<td>patients</td>
+					<td>57</td>
+				</tr>
+				<tr>
+					<td>réponse</td>
+					<td>55</td>
+				</tr>
+				<tr>
+					<td>recherche</td>
+					<td>54</td>
+				</tr>
+			</table>
+			
+			<p>Nous remarquons dans les mots les plus fréquents dans les contextes du mot “santé”, des termes différents de ceux les plus fréquents dans les dumps-texts. En effet, nous pouvons trouver “indicateurs”, “19”, “réponse”, “territoire” et “système”. Le mot “recherche” est moins présent dans les contextes de “santé”. Nous n’avons pas en revanche “savoir”.</p>
+			
+			<h5>Concordance : Trame > Dictionnaire > Concordance</h5>
+			
+			<p>Le terme “territoire”  est intrigant, il aurait pu montrer des inégalités au sein des territoires. Cependant, en regardant le concordancier, cela ne donne rien d'intéressant, semble être un nom de catégorie de menu “santé sur le territoire français”.</p>
+			
+			<img src="assets/img/fr_concord_1.png">
+			<p>Concordancier de “19” dans le cadre des contextes</p>
+			
+			<p>Nous nous sommes demandé pourquoi un nombre soit à ce point fréquent au sein de nos contextes, au nombre de 71. Pour comprendre ceux à quoi il fait référence, nous avons observé le concordancier de “19” afin d’observer les phrases dans lesquelles il apparaît. Nous pouvons voir ci-dessus qu’il s’agit du nombre “19” de “COVID-9”. Ceci indique donc que dans le domaine de la santé sur internet, encore beaucoup de médias parlent de cette maladie.</p>
+			
+			<img src="assets/img/fr_concord_2.png">
+			<p>Concordancier de “être” dans le cadre des contextes</p>
+				
+			<p>Nous nous sommes aussi intéressées au concordancier de “être” car il peut faire référence à des adjectifs qui décrivent la santé. Comme nous sommes ici sur les contextes du mot santé, le mot “être” peut par exemple décrire comment se sentent les personnes. Nos résultats donnent donc des expressions comme “bien-être physique, mental et social”, nous trouvons aussi “l’acné peut être légère ou sévère”. Il y a aussi des notions comme le consentement, l’AVC, santé globale, médicaments, médecins, “bien-être au travail”, douleures, vertiges, infrastructures de biologie, médecine douce, “être attentif à sa santé”.</p>
+			
+			<h5>Cooccurrence : Coocs > Cooccurrents</h5>
+			
+			<p>Nous allons maintenant nous intéresser aux cooccurrents de certains termes comme “19”, “mentale”,  “France” et “soins”.</p>
+			
+			<img src="assets/img/fr_cooc_4.png">
+			<p>Cooccurrents de “19” dans les contextes de “santé”</p>
+			
+			<p>Nous retrouvons dans les cooccurrents de “19”, des éléments faisant partie du vocabulaire autour de la pandémie du COVID-19 tels que “COVID”, “Coronavirus”, “épidémie”, “confiner”. Le covid-19 semble donc être encore dans les mémoires et les préoccupations des français.</p>
+			
+			<p>Le mot “France” ne donne rien d'intéressant car celà ne fait référence qu’à des titre de menu des sites.</p>
+			
+			<img src="assets/img/fr_cooc_5.png">
+			<p>Diagramme des cooccurrents de “soins” dans les contextes de “santé”</p>
+			
+			<p>Nous retrouvons dans les cooccurrents de “soins” du vocabulaire venant de l’hôpital tels que “ambulatoires”, “palliatifs”, “hospitaliers”, Infections”, “antibiotiques”. Ainsi ce mot apparaît de nombreuses fois dans le contexte de référence aux hôpitaux.</p>
+			
+			<img src="assets/img/fr_cooc_6.png">
+			<p>Diagramme des cooccurrents de “mentale” dans les contextes de “santé”</p>
+			
+			<p>Les cooccurrents de “mentale” avec un indice de spécificité le plus élevé sont “santé” (IndSP = 12), “psychiatrie” (IndSP = 11) et “Stress” (IndSP = 8). Les termes “psychiatrie” et “Stress” sont tout particulièrement notables car ils montrent que dans les sites, les hôpitaux psychiatriques sont sujets à discussion. De plus, le stress semble être un élément important qui préoccupe les français. Voici un exemple de contexte de ce dernier cooccurrent : "DÉCRYPTAGE - Stress et charge mentale nuisent à la santé”.</p>
+			
+			<img src="assets/img/fr_cooc_7.png">
+			<p>Diagramme des cooccurrents de “santé” dans les contextes de “santé”</p>
+			
+			<p>Afin de comparer les résultats des cooccurrents de notre mot entre ceux des dumps-texts et ceux des contextes, voici le diagramme de cooccurrents de “santé”. Le terme “mentale” ressort de nouveau. En comparaison des mots que nous avons pu observer dans les cooccurrents de “santé” des dumps-texts, dans le cas ci-dessous, les termes avec un indice de spécificité supérieur à 10 sont moins nombreux (22 ci-dessus contre 29 pour les dumps-texts). Dans le cas des dumps-texts, les cooccurrents de “santé” touchent aussi des champs lexicaux plus larges tels que le social (“sociales”, “mutuelle”, “système”) ou l’environnement (“Pollution”).</p>			
+		</div>
+		
 	</body>
 </html>

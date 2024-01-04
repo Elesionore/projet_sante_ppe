@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" >
+		<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" ></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>
+        <style>
+        img {
+            max-width: 600px;
+            height: auto;
+        }
+        </style>
+		<title>PPE1 Santé</title>
+	</head>
+
+	
+	<body class="">
+		
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+			<div class="container-fluid">
+				<a class="navbar-brand" href="#">MENU</a>
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDarkDropdown" aria-controls="navbarNavDarkDropdown" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
+
+					<ul class="navbar-nav">
+						<li class="nav-item dropdown">
+							<button class="btn btn-dark dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+								Acceuil
+							</button>
+							<ul class="dropdown-menu dropdown-menu-dark">
+								<li><a class="dropdown-item" href="index.html">Acceuil</a></li>
+							</ul>
+						</li>
+					</ul>
+					
+					<ul class="navbar-nav">
+						<li class="nav-item dropdown">
+							<button class="btn btn-dark dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+								Tableau HTML
+							</button>
+							<ul class="dropdown-menu">
+								<li><a class="dropdown-item" href="tableaux/fr.html">Français</a></li>
+								<li><a class="dropdown-item" href="tableaux/ukr.html">Ukrainien</a></li>
+							</ul>
+						</li>
+					</ul>
+
+					<ul class="navbar-nav">
+						<li class="nav-item dropdown">
+							<button class="btn btn-dark dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+								Préparation iTrameur
+							</button>
+							<ul class="dropdown-menu dropdown-menu-dark">
+								<li><a class="dropdown-item" href="itrameur/contextes-fr.txt">Contextes français</a></li>
+								<li><a class="dropdown-item" href="itrameur/dumps-text-fr.txt">Dumps-text français</a></li>
+								<li><a class="dropdown-item" href="itrameur/contextes-ukr.txt">Contextes ukrainien</a></li>
+								<li><a class="dropdown-item" href="itrameur/dumps-text-ukr.txt">Dumps-text ukrainien</a></li>
+							</ul>
+						</li>
+					</ul>
+					
+					<ul class="navbar-nav">
+						<li class="nav-item dropdown">
+							<button class="btn btn-dark dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+								Analyses des données
+							</button>
+							<ul class="dropdown-menu dropdown-menu-dark">
+								<li><a class="dropdown-item" href="analyse_fr.html">Français</a></li>
+								<li><a class="dropdown-item" href="analyse_ukr.html">Ukrainien</a></li>
+							</ul>
+						</li>
+					</ul>
+
+				</div>
+			</div>
+		</nav>
+
+		<div class="container mt-4">
+        <p><strong>Analyse textométrique des données de l’ukrainien</strong></p>
+
+        <p><strong>Partie 1. Fichier Contextes</strong></p>
+
+        <p><strong>1. Fréquences dans le dictionnaire</strong></p>
+
+        <p>Les mots les plus courants sont « здоров » et « я », qui sont en fait le même mot « здоров’я » (« santé »)
+            et sont séparés par une apostrophe.</p>
+
+        <!-- Image -->
+        <img src="assets/img/ukr_dico_1.png">
+
+        <p>En dehors de ces mots, les mots les plus courants sont :</p>
+
+        <!-- Image -->
+        <img src="assets/img/ukr_dico_2.png">
+
+        <p>A l’aide du recherche et une expression régulière 20[0-9][0-9], on peut regarder quels années sont répétées
+            les plus dans les textes.</p>
+
+        <!-- Image -->
+        <img src="assets/img/ukr_dico_3.png">
+
+        <p>Les plus populaires sont 2023 (évidemment, car il s'agit de l'année en cours) et 2014 (une année de réformes
+            médicales importantes en Ukraine et de la Révolution).</p>
+
+        <p><strong>Points clés de cette section :</strong></p>
+        <ul>
+            <li>Difficulté avec l’apostrophe</li>
+            <li>L'abondance de mots grammaticaux</li>
+            <li>Les mots fréquents sont typiques pour les journaux et articles médicaux</li>
+            <li>Le regex aide a trouver les années mentionnées</li>
+        </ul>
+
+        <p><strong>2. Concordances</strong></p>
+
+        <p>Pour explorer le concordancier, j’ai décidé de choisir un mot « aide » et observer les contextes.</p>
+
+        <!-- Image -->
+        <img src="assets/img/ukr_concord_1.png">
+
+        <p>Je suppose que ça sera intéressant de regarder quels mots sont avant et après « les médecins ».</p>
+
+        <!-- Image -->
+        <img src="assets/img/ukr_concord_2.png">
+
+        <p>Il s’avère que 94 % (j’ai compté) de concordances incluent la précision « médecins ambulanciers ». Donc, un
+            concordancier permet de comprendre comment ce terme est utilisé dans divers contextes.</p>
+
+        <p><strong>Points clés de cette section :</strong></p>
+        <ul>
+            <li>Concordancier est très bon pour voir les contextes</li>
+            <li>Pour les langues synthétiques (comme l’ukrainien), il faut chercher les racines de mots sans les
+                terminaisons pour plus de résultats</li>
+        </ul>
+
+        <p><strong>3. Accroissement Vocabulaire</strong></p>
+
+        <p>Le graphe représenterait la croissance cumulative du nombre de mots distincts en fonction du nombre
+            d'occurrences dans le corpus. Il pourrait donner une idée de la richesse du vocabulaire utilisé dans le
+            corpus et montrer comment de nouveaux mots sont ajoutés à mesure que le corpus se développe.</p>
+
+        <!-- Image -->
+        <img src="assets/img/ukr_courbe.png">
+
+        <p><strong>Points clés de cette section :</strong></p>
+        <ul>
+            <li>Axe X (Nombre d'occurrences dans le corpus) : Il s'agit du nombre de fois que ces mots uniques apparaissent
+                dans le corpus.</li>
+            <li>Axe Y (Nombre de formes) : Il s'agit du nombre total de mots distincts ou de formes lexicales uniques que
+                l'on a rencontrés jusqu'à un certain point dans le corpus.</li>
+        </ul>
+
+        <p><strong>4. Ventilation</strong></p>
+
+        <p>Empiriquement, j'ai constaté que cet outil détecte le nombre de mentions d'un mot particulier dans un fichier
+            distinct et crée un graphe. Prenons, par exemple, la racine du mot santé avant l’apostrophe (« здоров »).</p>
+
+        <!-- Image -->
+        <img src="assets/img/ukr_ventilation_1.png">
+
+        <p> Selon ce graphe, on trouvera que beaucoup d’occurrences du santé apparaissent dans le 11e fichier. Pour
+            vérifier, jetons un coup d’oeuil sur la colonne « occurrences » dans le tableau.</p>
+
+        <!-- Image -->
+        <img src="assets/img/ukr_ventilation_2.png">
+
+        <p> Oui, l’hypothèse est correcte : 117 occurrences, le pic.</p>
+
+        <p><strong>Points clés de cette section :</strong></p>
+        <ul>
+            <li>Cet outil est parfait pour observer les fluctuations dans l'utilisation du mot sélectionné dans l'ensemble
+                des textes.</li>
+            <li>Le corpus peut être divisé incorrectement - sur mon corpus il y a 50 fichiers, mais sur le graphe on voit
+                51. Ça signifie qu’un fichier était coupé en 2 parties.</li>
+        </ul>
+
+        <p><strong>Partie 2. Fichier Dumps-text</strong></p>
+
+        <!-- Similar structure for sections 5, 6, 7, and 8 -->
+
+        <p><strong>5. Dictionnaire</strong></p>
+
+        <p>Par curiosité, j'ai décidé d'analyser les mots du fichier dumps-text. Cela s'est avéré très intéressant, car
+            dans ce cas, le mot n'a pas été coupé avant l'apostrophe, mais il y a deux versions du même mot avec des
+            apostrophes différentes (courbe et droite).</p>
+
+        <!-- Image -->
+        <img src="assets/img/ukr_dico_4.png">
+
+        <p><strong>6. Fouille – Section</strong></p>
+
+        <p>En effectuant une analyse de texte, nous avons la capacité de repérer l'emplacement de certains termes en
+            fonction des fichiers. Comme ça, nous pouvons ainsi déterminer si le terme recherché apparaît sur l'ensemble
+            des URL ou seulement sur quelques-unes. Je recherche la distribution du mot « здоров’я » avec l’apostrophe
+            courbe…</p>
+
+        <!-- Image -->
+        <img src="assets/img/ukr_section_1.png">
+
+        <p>...et avec l’apostrophe droite.</p>
+
+        <!-- Image -->
+        <img src="assets/img/ukr_section_2.png">
+
+        <p>Enfin, pour comparaison, je voudrais chercher «здоров» sur le fichier Contextes.</p>
+
+        <!-- Image -->
+        <img src="assets/img/ukr_section_3.png">
+		
+        <p><strong>7. Cooccurrences</strong></p>
+
+        <!-- Image -->
+        <img src="assets/img/ukr_cooc_1.png">
+
+        <!-- Image -->
+        <img src="assets/img/ukr_cooc_2.png">
+
+        <p><strong>8. Contextes</strong></p>
+
+        <!-- Image -->
+        <img src="assets/img/ukr_contexte_1.png">
+
+        <p><strong>Conclusions</strong></p>
+
+        <p>My concluding content goes here.</p>
+
+    </div>
+		
+	</body>
+</html>

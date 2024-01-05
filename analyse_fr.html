@@ -5,27 +5,97 @@
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" >
 		<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" ></script>
 		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Athiti&family=Domine&display=swap">
+<style>
+    body {
+        background-image: url('https://img.freepik.com/free-vector/clean-medical-background_53876-116875.jpg?w=1380&t=st=1704411495~exp=1704412095~hmac=e075470e5727901625b1334cb120b89369bfbd0f9f22e65be35cee6fe4c3405d');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        font-family: 'Domine', serif;
+    }
+    .navbar-nav {
+            font-family: 'Athiti', sans-serif;
+    }
+
+    .semi-transparent-bg {
+        background-color: rgba(255, 255, 255, 0.7);
+        padding: 5px;
+        display: inline-block;
+        width: 900px;
+    }
+
+    h1, h2 {
+        text-align: center;
+    }
+  
+    h3 {
+        color: #2C8A6E;
+    }
+
+    h4 {
+        background-color: #81F2D0;
+    }
+
+    h5 {
+        font-weight: bold;
+}
+       
+    table {
+        width: 100%;
+        margin-bottom: 1rem;
+        color: #212529;
+    }
+
+    th,
+    td {
+        padding: 0.75rem;
+        vertical-align: top;
+        border-top: 1px solid #dee2e6;
+    }
+
+    th {
+        background-color: #8BEBA8;
+        color: #000;
+    }
+
+    .soustitre {
+        font-weight: bold;
+        text-align: center;  
+ 
+    }
+
+    p {
+        margin-bottom: 1rem;
+    }
+
+    img {
+        display: block;
+        margin: auto;
+        max-width: 600px;
+        height: auto;    
+        margin-bottom: 10px;
+    }
+</style>
 		<title>PPE1 Santé</title>
 	</head>
 
 	
-	<body class="">
+	<body class="semi-transparent-bg">
 		
 		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 			<div class="container-fluid">
-				<a class="navbar-brand" href="#">MENU</a>
-				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDarkDropdown" aria-controls="navbarNavDarkDropdown" aria-expanded="false" aria-label="Toggle navigation">
-				<span class="navbar-toggler-icon"></span>
-				</button>
+				
 				<div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
 
 					<ul class="navbar-nav">
 						<li class="nav-item dropdown">
 							<button class="btn btn-dark dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-								Acceuil
+								Accueil
 							</button>
 							<ul class="dropdown-menu dropdown-menu-dark">
 								<li><a class="dropdown-item" href="index.html">Acceuil</a></li>
+                                <li><a class="dropdown-item" href="present.html">Qui sommes-nous ?</a></li>
 							</ul>
 						</li>
 					</ul>
@@ -35,7 +105,7 @@
 							<button class="btn btn-dark dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
 								Tableau HTML
 							</button>
-							<ul class="dropdown-menu">
+							<ul class="dropdown-menu dropdown-menu-dark">
 								<li><a class="dropdown-item" href="tableaux/fr.html">Français</a></li>
 								<li><a class="dropdown-item" href="tableaux/ukr.html">Ukrainien</a></li>
 							</ul>
@@ -68,19 +138,38 @@
 						</li>
 					</ul>
 
+					<ul class="navbar-nav">
+						<li class="nav-item dropdown">
+							<button class="btn btn-dark dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+								Nuages des mots
+							</button>
+                            <ul class="dropdown-menu dropdown-menu-dark">
+                                <li><a class="dropdown-item" href="nuage_fr.html">Nuage en français</a></li>
+                                <li><a class="dropdown-item" href="nuage_ukr.html">Nuage en ukrainien</a></li>
+                            </ul>
+						</li>
+					</ul>
+
+					<ul class="navbar-nav">
+						<li class="nav-item dropdown">
+							<button class="btn btn-dark dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+								Bilan
+							</button>
+							<ul class="dropdown-menu dropdown-menu-dark">
+								<li><a class="dropdown-item">Résultats</a></li>
+								<li><a class="dropdown-item">Difficultés</a></li>
+								</ul>
+						</li>
+					</ul>
+
 				</div>
 			</div>
 		</nav>
-		
-		
+
 		<div>
-			<p>Ceci est une présentation de l'analyse textométrique des données du français.</p>
-		</div>
-		
-		
-		<div>
-			<h3>Analyses textométriques sur le dumps-text-fr.txt</h3>
-			<h5>Dénombrement : Trame > Dictionnaire</h5>
+            <br/>
+			<h3><strong>Analyses textométriques sur le dumps-text-fr.txt</strong></h3>
+			<h4><strong>Dénombrement : Trame -> Dictionnaire</strong></h4>
 			
 			<p>Si nous prenons les mots les plus fréquents du dictionnaire, sans tenir compte des mots grammaticaux (articles, conjonctions et prépositions), nous obtenons les mots suivants : </p>
 			
@@ -161,20 +250,20 @@
 			<p>Dans la fouille de texte, nous pouvons venir voir où apparaissent certains termes en fonction des sites. Notre délimiteur se trouvant entre chaque dump-text de chaque page web, nous pourrons donc observer si le terme recherché se trouve sur l’ensemble des urls ou seulement quelques unes. </p>
 			
 			<img src="assets/img/fr_section_1.png">
-			<p>Carte des sections de la recherche "recherche"</p>
+			<p class="soustitre">Carte des sections de la recherche "recherche"</p>
 			
 			<p>Nous avons voulu, ici, observer à quel point le mot “recherche” est présent dans nos dumps-texts de site. Nous pouvons voir que ce dernier est assez présent dans la moitié des sites. Cependant, nous devons nous méfier de ce résultat car les dumps-text de nos sites contiennent l’ensemble de ce qui est écrit sur le site, y compris la barre de recherche. Afin de s’assurer qu’il ne s’agit pas de la barre de recherche mais de la recherche médicale, nous allons utiliser d’autres fonctions du Trameur, et comparer ces résultats à ceux que nous obtiendrons avec le texte des contextes.</p>
 			
 			<img src="assets/img/fr_section_2.png">
-			<p>Carte des sections de la recherche "soins"</p>
+			<p class="soustitre">Carte des sections de la recherche "soins"</p>
 			
 			<p>Le mot “soins” apparaît dans 50% des sites. Nous pouvons donc penser que la notion de soins et de se soigner est plutôt importante pour les français.</p>
 			
 			<img src="assets/img/fr_section_3.png">
-			<p>Carte des sections de la recherche "patients"</p>
+			<p class="soustitre">Carte des sections de la recherche "patients"</p>
 			
 			<img src="assets/img/fr_section_4.png">
-			<p>Carte des sections de la recherche "hôpital"</p>
+			<p class="soustitre">Carte des sections de la recherche "hôpital"</p>
 			
 			<p>Il est intéressant de comparer l’apparition du mot “patients” et “hôpital” au sein des sites. Nous observons que lorsque le mot “hôpital” apparaît, le mot “patients” est généralement présent au sein du même site. L’inverse n’est pas le cas.</p>
 			
@@ -184,28 +273,28 @@
 			
 			<img src="assets/img/fr_cooc_1.png">
 			<img src="assets/img/fr_cooc_2.png">
-			<p>Tableau des cooccurrents du terme “santé” (IndSPmin = 10)</p>
+			<p class="soustitre">Tableau des cooccurrents du terme “santé” (IndSPmin = 10)</p>
 			
 			<img src="assets/img/fr_cooc_3.png">
-			<p>Diagramme des cooccurrents de “santé”</p>
+			<p class="soustitre">Diagramme des cooccurrents de “santé”</p>
 			
 			<p>Nous trouvons des cooccurrents avec un indice de spécificité, une fréquence de cooccurrence ou de co-fréquence assez élevée. En effet, nous avons par exemple le cooccurrent “professionnels” qui renvoie aux “professionnels de santé” si nous observons les contextes. D’autres termes que nous pouvons relever qui seraient intéressants sont “mentale”, “territoire”, “publique”, “établissements”, “inégalités”, “Pollution” et “mutuelle”.
 Nous pouvons par exemple vouloir creuser davantage la santé mentale en observant les contextes du mot “mentale” cooccurrent de “santé”.</p>
 			
 			<img src="assets/img/fr_contexte_1.png">
-			<p>Tableau des contextes du mot “mentale” cooccurrent de “santé” (“santé mentale”)</p>
+			<p class="soustitre">Tableau des contextes du mot “mentale” cooccurrent de “santé” (“santé mentale”)</p>
 			
 			<p>La santé mentale semble être une notion importante aux yeux des français car elle apparaît à un total de 74 fois dans l’ensemble de nos sites.</p>
 			
 			<img src="assets/img/fr_contexte_2.png">
-			<p>Tableau des contextes des cooccurrents “santé” et “inégalités”</p>
+			<p class="soustitre">Tableau des contextes des cooccurrents “santé” et “inégalités”</p>
 			
 			<p>Le contexte de cette cooccurrence met en évidence des inégalités en France au niveau social dans le secteur de la santé. En effet, les termes “inégalités sociales de santé” sont très récurrents.</p>
 			
 			<p>Le terme “Pollution” aurait pu être intéressant dans le cadre d’une apparition proche du terme “santé”. Nous pouvons en effet penser que la pollution est quelque chose qui inquiète les français vis à vis de leur santé. Malgré celà, grâce au tableau des contextes, nous pouvons voir que ce terme n’est pas vraiment sujet à discussion, il semble plutôt faire parti d’un titre de menu, comme visible sur un extrait du tableau ci-dessous :</p>
 			
 			<img src="assets/img/fr_contexte_3.png">
-			<p>Tableau des contextes des cooccurrents “santé” et “Pollution”</p>
+			<p class="soustitre">Tableau des contextes des cooccurrents “santé” et “Pollution”</p>
 		</div>
 
 		
@@ -216,7 +305,7 @@ Nous pouvons par exemple vouloir creuser davantage la santé mentale en observan
 			<p>Voici une partie du dictionnaire des mots présents dans les contextes qui nous semble intéressante : </p>
 			
 			<img src="assets/img/fr_dico_1.png">
-			<p>Extrait du dictionnaire de contextes.txt</p>
+			<p class="soustitre">Extrait du dictionnaire de contextes.txt</p>
 			
 			<p>Voici un tableau du dictionnaire des termes qui nous semblent intéressants à relever : </p>
 			
@@ -298,12 +387,12 @@ Nous pouvons par exemple vouloir creuser davantage la santé mentale en observan
 			<p>Le terme “territoire”  est intrigant, il aurait pu montrer des inégalités au sein des territoires. Cependant, en regardant le concordancier, cela ne donne rien d'intéressant, semble être un nom de catégorie de menu “santé sur le territoire français”.</p>
 			
 			<img src="assets/img/fr_concord_1.png">
-			<p>Concordancier de “19” dans le cadre des contextes</p>
+			<p class="soustitre">Concordancier de “19” dans le cadre des contextes</p>
 			
 			<p>Nous nous sommes demandé pourquoi un nombre soit à ce point fréquent au sein de nos contextes, au nombre de 71. Pour comprendre ceux à quoi il fait référence, nous avons observé le concordancier de “19” afin d’observer les phrases dans lesquelles il apparaît. Nous pouvons voir ci-dessus qu’il s’agit du nombre “19” de “COVID-9”. Ceci indique donc que dans le domaine de la santé sur internet, encore beaucoup de médias parlent de cette maladie.</p>
 			
 			<img src="assets/img/fr_concord_2.png">
-			<p>Concordancier de “être” dans le cadre des contextes</p>
+			<p class="soustitre">Concordancier de “être” dans le cadre des contextes</p>
 				
 			<p>Nous nous sommes aussi intéressées au concordancier de “être” car il peut faire référence à des adjectifs qui décrivent la santé. Comme nous sommes ici sur les contextes du mot santé, le mot “être” peut par exemple décrire comment se sentent les personnes. Nos résultats donnent donc des expressions comme “bien-être physique, mental et social”, nous trouvons aussi “l’acné peut être légère ou sévère”. Il y a aussi des notions comme le consentement, l’AVC, santé globale, médicaments, médecins, “bien-être au travail”, douleures, vertiges, infrastructures de biologie, médecine douce, “être attentif à sa santé”.</p>
 			
@@ -312,24 +401,24 @@ Nous pouvons par exemple vouloir creuser davantage la santé mentale en observan
 			<p>Nous allons maintenant nous intéresser aux cooccurrents de certains termes comme “19”, “mentale”,  “France” et “soins”.</p>
 			
 			<img src="assets/img/fr_cooc_4.png">
-			<p>Cooccurrents de “19” dans les contextes de “santé”</p>
+			<p class="soustitre">Cooccurrents de “19” dans les contextes de “santé”</p>
 			
 			<p>Nous retrouvons dans les cooccurrents de “19”, des éléments faisant partie du vocabulaire autour de la pandémie du COVID-19 tels que “COVID”, “Coronavirus”, “épidémie”, “confiner”. Le covid-19 semble donc être encore dans les mémoires et les préoccupations des français.</p>
 			
 			<p>Le mot “France” ne donne rien d'intéressant car celà ne fait référence qu’à des titre de menu des sites.</p>
 			
 			<img src="assets/img/fr_cooc_5.png">
-			<p>Diagramme des cooccurrents de “soins” dans les contextes de “santé”</p>
+			<p class="soustitre">Diagramme des cooccurrents de “soins” dans les contextes de “santé”</p>
 			
 			<p>Nous retrouvons dans les cooccurrents de “soins” du vocabulaire venant de l’hôpital tels que “ambulatoires”, “palliatifs”, “hospitaliers”, Infections”, “antibiotiques”. Ainsi ce mot apparaît de nombreuses fois dans le contexte de référence aux hôpitaux.</p>
 			
 			<img src="assets/img/fr_cooc_6.png">
-			<p>Diagramme des cooccurrents de “mentale” dans les contextes de “santé”</p>
+			<p class="soustitre">Diagramme des cooccurrents de “mentale” dans les contextes de “santé”</p>
 			
 			<p>Les cooccurrents de “mentale” avec un indice de spécificité le plus élevé sont “santé” (IndSP = 12), “psychiatrie” (IndSP = 11) et “Stress” (IndSP = 8). Les termes “psychiatrie” et “Stress” sont tout particulièrement notables car ils montrent que dans les sites, les hôpitaux psychiatriques sont sujets à discussion. De plus, le stress semble être un élément important qui préoccupe les français. Voici un exemple de contexte de ce dernier cooccurrent : "DÉCRYPTAGE - Stress et charge mentale nuisent à la santé”.</p>
 			
 			<img src="assets/img/fr_cooc_7.png">
-			<p>Diagramme des cooccurrents de “santé” dans les contextes de “santé”</p>
+			<p class="soustitre">Diagramme des cooccurrents de “santé” dans les contextes de “santé”</p>
 			
 			<p>Afin de comparer les résultats des cooccurrents de notre mot entre ceux des dumps-texts et ceux des contextes, voici le diagramme de cooccurrents de “santé”. Le terme “mentale” ressort de nouveau. En comparaison des mots que nous avons pu observer dans les cooccurrents de “santé” des dumps-texts, dans le cas ci-dessous, les termes avec un indice de spécificité supérieur à 10 sont moins nombreux (22 ci-dessus contre 29 pour les dumps-texts). Dans le cas des dumps-texts, les cooccurrents de “santé” touchent aussi des champs lexicaux plus larges tels que le social (“sociales”, “mutuelle”, “système”) ou l’environnement (“Pollution”).</p>			
 		</div>

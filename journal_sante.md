@@ -72,3 +72,11 @@ Ajout de la page analyses_fr.html qui servira à présenter l'analyse textuelle 
 Remplissage de la page analyse_fr.html avec les captures d'écrans des résultats iTrameur + l'analyse. Par la suite, ajout d'un style plus adapté à notre thème qui est la santé (thème orienté couleur vert).
 Ajout d'un dossier "assets" qui contient un dossier "img" dans lequel nous pouvons mettre toutes nos captures d'écrans iTrameur. Le nom des images se présente sous la forme par exemple "fr_section_1.png", soit "lang_outil_num.png" .
 
+# 06/01/24
+Nous avons ajouter le design à notre site, fini de remplir les analyses des données avec iTrameur, ajouter des nuages de mots.
+
+Objectifs pour demain :
+- remplir notre présentation
+- remplir la page de conclusion
+- remplir la page des difficultés
+- régler le problème du menu

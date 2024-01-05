@@ -90,20 +90,22 @@
 
         <!-- Image -->
         <img src="assets/img/ukr_dico_1.png">
-
+        </br>
+        </br>
         <p>En dehors de ces mots, les mots les plus courants sont :</p>
 
         <!-- Image -->
         <img src="assets/img/ukr_dico_2.png">
-
+        </br>
+        </br>
         <p>A l’aide du recherche et une expression régulière 20[0-9][0-9], on peut regarder quels années sont répétées
             les plus dans les textes.</p>
 
         <!-- Image -->
         <img src="assets/img/ukr_dico_3.png">
-
-        <p>Les plus populaires sont 2023 (évidemment, car il s'agit de l'année en cours) et 2014 (une année de réformes
-            médicales importantes en Ukraine et de la Révolution).</p>
+        </br>
+        </br>
+        <p>Les plus populaires sont 2023 (évidemment, car il s'agit de l'année en cours) et 2014 (une année de réformes médicales importantes en Ukraine et de la Révolution).</p>
 
         <p><strong>Points clés de cette section :</strong></p>
         <ul>
@@ -119,15 +121,17 @@
 
         <!-- Image -->
         <img src="assets/img/ukr_concord_1.png">
-
+        
+        </br>
+        </br>
         <p>Je suppose que ça sera intéressant de regarder quels mots sont avant et après « les médecins ».</p>
 
         <!-- Image -->
         <img src="assets/img/ukr_concord_2.png">
-
+        </br>
+        </br>
         <p>Il s’avère que 94 % (j’ai compté) de concordances incluent la précision « médecins ambulanciers ». Donc, un
             concordancier permet de comprendre comment ce terme est utilisé dans divers contextes.</p>
-
         <p><strong>Points clés de cette section :</strong></p>
         <ul>
             <li>Concordancier est très bon pour voir les contextes</li>
@@ -159,13 +163,15 @@
 
         <!-- Image -->
         <img src="assets/img/ukr_ventilation_1.png">
-
+        </br>
+        </br>
         <p> Selon ce graphe, on trouvera que beaucoup d’occurrences du santé apparaissent dans le 11e fichier. Pour
             vérifier, jetons un coup d’oeuil sur la colonne « occurrences » dans le tableau.</p>
 
         <!-- Image -->
         <img src="assets/img/ukr_ventilation_2.png">
-
+        </br>
+        </br>
         <p> Oui, l’hypothèse est correcte : 117 occurrences, le pic.</p>
 
         <p><strong>Points clés de cette section :</strong></p>
@@ -188,7 +194,8 @@
 
         <!-- Image -->
         <img src="assets/img/ukr_dico_4.png">
-
+        </br>
+        </br>
         <p><strong>6. Fouille – Section</strong></p>
 
         <p>En effectuant une analyse de texte, nous avons la capacité de repérer l'emplacement de certains termes en
@@ -211,20 +218,51 @@
 		
         <p><strong>7. Cooccurrences</strong></p>
 
+        <p>Le mot santé a beaucoup de cooccurences. Je vois ici les mots comme «охорони»(soins), «психічного»(psychique), «ментального»(mental), «сфері»(domain), «станом»(état), «департамент»(département), «Всесвітній»(mondial).</p>
         <!-- Image -->
         <img src="assets/img/ukr_cooc_1.png">
 
+        <p>>Voilà la liste des mots frequents.</p>
+
+        <img src="assets/img/ukr_cooc_3.png">
+        </br>
+        </br>
+        <p>Pour comprendre quel type du santé est mentionné le plus souvent, il faut chercher les occurrences de «психічне»(psychique), «ментальне»(mental), «фізичне»(physique).</p>
+
+        <p>Les cooccurrences de « psychique » :</p>
+
         <!-- Image -->
         <img src="assets/img/ukr_cooc_2.png">
+        </br>
+        </br>
+        <p>Les cooccurrences de « mental » :</p>
 
-        <p><strong>8. Contextes</strong></p>
+        <img src="assets/img/ukr_cooc_4.png">
 
-        <!-- Image -->
-        <img src="assets/img/ukr_contexte_1.png">
+        <p>Les cooccurrences de « physique » :</p>
 
-        <p><strong>Conclusions</strong></p>
+        <img src="assets/img/ukr_cooc_5.png">
+        </br> 
+        </br>
+        <p>Ces graphiques montrent que les Ukrainiens écrivent et lisent le plus souvent sur la santé psychique et mentale, et ensuite sur la santé physique.</p>
 
-        <p>My concluding content goes here.</p>
+        <p>Les associations de la santé psychique incluent tels mots que « émotionnante », « soutien », « stress », « bien-être »,  « adolescents », « sociale ». La santé mentale est liée aux mots « monde », « panukrainien », « programmes ». Et enfin, la santé physique est utilisée avec les lexemes « état », « sociale », « complète », « psychique ». Les contextes de tous les trois sont plutôt positifs ou neutres.</p>
+
+        <p><strong>CONCLUSIONS</strong></p>
+
+        <p>L'analyse textométrique des données ukrainiennes offre une vision approfondie des tendances linguistiques et des thèmes récurrents. Cependant, plusieurs problèmes notables ont émergé au cours de cette exploration.
+</br>
+</br>
+<strong>Premièrement</strong>, la présence de mots collés sans espaces pose des défis significatifs lors de la tokenisation. Cette particularité complique l'identification et la séparation des mots individuels, impactant potentiellement la précision des analyses ultérieures.
+</br>
+</br>
+<strong>Deuxièmement</strong>, la différence entre les apostrophes, relevée notamment dans le fichier "Dumps-text", se révèle être un aspect crucial. La variabilité des apostrophes, qu'elles soient courbes, droites, ou étranges, ajoute une complexité à l'analyse lexicale et nécessite une approche plus nuancée pour capturer correctement la quantité des mots.
+</br>
+</br>
+En dépit de ces défis, l'exploration des fréquences, des concordances, de l'accroissement vocabulaire, de la ventilation, et des cooccurrences a permis de dégager des tendances importantes. La compréhension des contextes d'utilisation des mots clés, notamment dans le domaine médical, a été enrichissante.
+</br>
+</br>
+Ainsi, bien que ces problèmes linguistiques nécessitent une attention particulière, cette analyse constitue une première étape pour décrypter les spécificités du langage ukrainien dans ce corpus particulier. </p>
 
     </div>
 		

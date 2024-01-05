@@ -4,24 +4,35 @@
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" >
 		<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" ></script>
 		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>
-    <style>
-      body {
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Athiti&family=Domine&display=swap">
+<style>
+    body {
         background-image: url('https://img.freepik.com/free-vector/clean-medical-background_53876-116875.jpg?w=1380&t=st=1704411495~exp=1704412095~hmac=e075470e5727901625b1334cb120b89369bfbd0f9f22e65be35cee6fe4c3405d');
         background-size: cover;
         background-repeat: no-repeat;
-        background-attachment: fixed; 
-      }
-    
-     .semi-transparent-bg {
-        background-color: rgba(255, 255, 255, 0.7); 
-        padding: 5px; 
-        display: inline-block; 
-        width: 950px; 
-      }
-      h1, h2 {
-        text-align: center; 
-      }
-    </style>
+        background-attachment: fixed;
+        font-family: 'Domine', serif;
+    }
+    .navbar-nav {
+            font-family: 'Athiti', sans-serif;
+    }
+
+    .semi-transparent-bg {
+        background-color: rgba(255, 255, 255, 0.7);
+        padding: 5px;
+        display: inline-block;
+        width: 900px;
+    }
+
+    h1, h2 {
+        text-align: center;
+    }
+
+    img {
+        display: block;
+        margin: auto;
+    }
+</style>
 		<title>PPE1 Santé</title>
 	</head>
 
@@ -30,10 +41,7 @@
 		
 		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 			<div class="container-fluid">
-				<a class="navbar-brand" href="#">MENU</a>
-				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDarkDropdown" aria-controls="navbarNavDarkDropdown" aria-expanded="false" aria-label="Toggle navigation">
-				<span class="navbar-toggler-icon"></span>
-				</button>
+				
 				<div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
 
 					<ul class="navbar-nav">
@@ -85,6 +93,30 @@
 						</li>
 					</ul>
 
+					<ul class="navbar-nav">
+						<li class="nav-item dropdown">
+							<button class="btn btn-dark dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+								Nuages des mots
+							</button>
+							<ul class="dropdown-menu dropdown-menu-dark">
+								<li><a class="dropdown-item">Nuage en français</a></li>
+								<li><a class="dropdown-item">Nuage en ukrainien</a></li>
+								</ul>
+						</li>
+					</ul>
+
+					<ul class="navbar-nav">
+						<li class="nav-item dropdown">
+							<button class="btn btn-dark dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+								Bilan
+							</button>
+							<ul class="dropdown-menu dropdown-menu-dark">
+								<li><a class="dropdown-item">Résultats</a></li>
+								<li><a class="dropdown-item">Difficultés</a></li>
+								</ul>
+						</li>
+					</ul>
+
 				</div>
 			</div>
 		</nav>
@@ -92,21 +124,29 @@
 		<br/>
 		<span class="">
 			<h1 class="">Projet encadré</h1>
+             <img src="https://startupsmagazine.co.uk/sites/default/files/2023-01/AdobeStock_247712147prprpr.png" alt="Image description">
 			<p>Le projet s'effectue dans le cadre du cours Programmation et Projet Encadré (PPE1). Le code de ce cours est L7TI005-P. Ce projet est dans la continuité de la formation pluriTAL enseigné sur un ensemble de trois universités qui sont la Sorbonne Nouvelle, l'INALCO et Nanterre Université.</p>
 
-			<h2 class="">Présentation du <b>projet</b> : </h2>
+			<h2 class="">Présentation du projet : </h2>
 			<p>L'objectif de ce projet est de faire aux étudiants un travail de groupe, ce qui demande de savoir s'organiser correctement entre les membres. Ce sont les professseurs Yoann Dupont et Pierre Magistry qui assurent l'encadrement du projet et les notions de cours en programmation bash.</p>
 
-			<h2 class="">Le <b>projet encadré</b> :</h2>
-			<p>Le projet encadré se fait en groupe de trois étudiants. Chaque étudiant se devra de maitrisé au moins une langue différente de celle de ses camarades de groupe. Il etait bénéfique de former un groupe de trois personnes provenant de trois université différentes. Ceci afin que chacun puisse apporter des connaissances qui lui sont propre aux autres.</p>
+			<h2 class="">Le projet encadré :</h2>
+			<p>Le projet encadré se fait en groupe de trois étudiants. Chaque étudiant se devra de maitriser au moins une langue différente de celle de ses camarades de groupe. Il etait bénéfique de former un groupe de trois personnes provenant de trois université différentes. Ceci afin que chacun puisse apporter des connaissances qui lui sont propre aux autres.</p>
 			<p>Dans le cadre du projet, chaque groupe choisi un terme qu'il serait interessant d'étudier dans les trois langues. Les utilisations de ce mot seront ensuite comparées par le biai de l'analyse de contexte dans des sites internets. Pour chaque langue, il est demandé d'analyser une cinquantaine de liens.</p>
 
 			<h2 class="">Comment est-il construit le projet ?</h3>
 			<p>Voici les étapes principales : </p>
 			<ul>
-				<li>Création d'un tableau html à l'aide de scripts bash qui permet de : <u>Parcourir les urls</u> avec la commande curl dans bash ; Retrouver les éléments intéressants tels que <u>le code HTTP</u>, <u>l'encodage de la page</u> ; Fait les <u>aspirations des URLs</u> ; Créé le dump des aspirations ; <u>Trouve les occurrences</u> du mot étudié ; <u>Inscrit les contextes</u> des occurrences dans un fichier texte.</li>
-				<br/>
-				<li>Exploration des données avec iTrameur</li>
+				<li>Créer d'<u>un tableau html</u> à l'aide de scripts bash ;</li>
+                <li>Parcourir <u>les urls</u> avec la commande curl dans bash ;</li>
+                <li>Retrouver les éléments intéressants tels que <u>le code HTTP</u>, <u>l'encodage de la page</u>, <u>la réponse du serveur</u> ;</li>
+                <li>Faire les <u>aspirations des URLs</u> ;</li>
+                <li>Créer <u>le dump</u> des aspirations ;</li>
+                <li>Trouver <u>les occurrences</u> du mot étudié ;</li>
+                <li>Inscrire <u>les contextes</u> des occurrences dans un fichier texte ;</li>
+				<li>Explorer des données avec <u>iTrameur</u> ;</li>
+                <li>Décrire les résultats ;</li>
+                <li>Formuler les conclusions et difficultés.</li>
 			</ul>
 
 		</span>

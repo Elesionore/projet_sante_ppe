@@ -84,14 +84,17 @@ Objectifs pour demain :
 # 06/01/24 (Solomiia & Lise)
 
 Aujourd'hui nous avons ajouter l'ensemble des éléments manquants à notre site. C'est-à-dire :
-- fini de remplir la page de présentation
-- rempli la page des difficultés rencontrées
-- remplis la page de Bilan>Résultats
-- conclue l'ensemble de notre projet
-- améliorer l'organisation de l'accueil
+- finir de remplir la page de présentation ;
+- modifier la page d'accueil ;
+- remplir la page des difficultés rencontrées ;
+- remplir la page de Bilan>Résultats ;
+- conclure l'ensemble de notre projet ;
+- améliorer l'organisation de l'accueil ;
 - améliorer le design
 
 Informations concernant le design : nous avons choisi de mettre un width à 80% de la page car autrement les logos de l'image de background géne à la lecture.
+
+En enfin, nous avons finis. Nous sommes heureuses, c'est comme une victoire pour votre équipe préférée. :)
 
 
 

@@ -148,8 +148,26 @@
 		</nav>
 		
 		<div class="container mt-4">
-			<h3>Les difficultés rencontrées lors de ce projet</h3>
-			<p></p>
+			<h4>Les difficultés rencontrées lors de ce projet</h4>
+			<p>Au cours de notre travail sur ce projet, nous avons dû surmonter plusieurs difficultés, dont la plupart ont été résolues avec succès. Ces problèmes peuvent être regroupés en deux catégories : ceux sur lesquels nous avons une certaine influence et ceux qui échappent à notre contrôle. Parmi ces derniers, deux méritent une mention particulière :</p>
+			<ol>
+				<li>L'instabilité de la réponse du serveur, avec des sites affichant initialement le code 200 pouvant ultérieurement générer une erreur 404. Bien que cela se produise rarement, après l'exécution du script, une vérification minutieuse des données du tableau s'avère nécessaire.</li>
+				<li>L'utilisation de deux types d'apostrophes cyrilliques différentes, créant une confusion dans la collecte des données statistiques. Cette situation divise la quantité d'occurrences en deux colonnes distinctes.</li>
+			</ol>
+			
+			<p>Heureusement, les autres problèmes rencontrés n'étaient pas aussi problématiques :</p>
+			<ul>
+				<li>Les concordanciers de l'ukrainien ont connu des dysfonctionnements pendant un certain temps, mais nous avons finalement obtenu les résultats souhaités, bien qu'avec quelques nuances.</li>
+				<li>Les nuages de mots générés à l'aide d'un programme Python présentaient des images remplies de mots grammaticaux, nécessitant une approche différente.</li>
+			</ul>
+			<br/>
+			<div class="d-flex justify-content-evenly">
+				<img src="assets/img/wrong_wordcloud_ukr.png">
+				<img src="assets/img/wrong_wordcloud_fr.png">
+			</div>
+			<br/>
+			<p>C'est pourquoi nous avons opté pour la création manuelle de nuages de mots sur le site <a href="https://www.wordclouds.com">https://www.wordclouds.com</a>, en y ajoutant les mots fréquents tels que les noms, verbes et adjectifs. Nous avons également intégré une transition à l'aide de Javascript.</p>
+			<p>Malgré ces obstacles, nous avons réussi à mener le projet à terme avec succès ! Nous espérons que vous l'avez trouvé aussi captivant que nous.🍀</p>
 		</div>
 		
 	</body>
